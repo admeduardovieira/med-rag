@@ -35,7 +35,7 @@ for i, (model, acc) in enumerate(zip(df["model"], df["acc_mean"])):
         color=colors[i % len(colors)],
         edgecolor="black",
         alpha=0.8,
-        hatch=hatches[i % len(hatches)],
+        hatch=hatches[i m% len(hatches)],
         zorder=3,
     )
 

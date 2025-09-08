@@ -34,7 +34,7 @@ The following Large Language Models (LLMs) were benchmarked:
 1.  **Clone & Navigate:** `git clone https://github.com/fipu-lab/med-rag.git && cd ai_medicine_deepseek` (or your project root).
 2.  **Environment & Dependencies:** Create a Python virtual environment (e.g., `python3 -m venv venv && source venv/bin/activate`) and install packages: `pip install -r requirements.txt`.
 3.  **Environment Variables:** Create a `.env` file for API keys, database URLs, etc. (see example in previous versions or comments in scripts).
-4.  **Datasets & DBs:** Download datasets (potentially using `python download.py`). Set up databases (e.g., MIMIC-III) and Qdrant for RAG-QA (e.g., via Docker `docker run -p 6333:6333 qdrant/qdrant`) as needed. Ensure paths and credentials are correct.
+4.  **Datasets & DBs:** Download datasets (potentially using `python download.py`). Set up databases (e.g., MIMIC-SQL) and Qdrant for RAG-QA (e.g., via Docker `docker run -p 6333:6333 qdrant/qdrant`) as needed. Ensure paths and credentials are correct.
 
 **Typical Workflow:**
 

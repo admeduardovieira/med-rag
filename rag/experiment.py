@@ -9,6 +9,7 @@ from rag.search import load_correct_answers, search
 experiment_variation = "questions_v2_100"
 input_folder = "dataset/synthetic_patients_v2_100"
 index_folder = "qdrant_db"
+
 models = [
     "llama3.3-70b",
     "deepseek-v3",

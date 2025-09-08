@@ -18,7 +18,7 @@ parser.add_argument(
 parser.add_argument(
     "--llms",
     type=str,
-    default="gpt-4o deepseek-v3 llama3.3-70b",
+    default="gpt-5 deepseek-v3 deepseek-v3.1 llama3.3-70b gpt-4o gpt-5 gpt-oss-20b qwen2p5-vl-32b-instruct mixtral-8x22b-instruct bio-mistral-7b",
     help="Space-separated list of LLM names to include in parsing",
 )
 
@@ -35,14 +35,16 @@ print(f"Processing task: {args.task}")
 if any(
     llm
     not in [
-        "gpt-4o",
+        "gpt-5",
+        "deepseek-v3.1",
         "deepseek-v3",
         "llama3.3-70b",
-        "gpt-4o-mini",
-        "mixtral-8x22b",
-        "gemini-1.5-pro",
-        "qwen-2.5-72b",
-        "claude-3.5",
+        "gpt-4o",
+        "gpt-5",
+        "gpt-oss-20b",
+        "qwen2p5-vl-32b-instruct",
+        "mixtral-8x22b-instruct",
+        "bio-mistral-7b",
     ]
     for llm in args.llms.split()
 ):
