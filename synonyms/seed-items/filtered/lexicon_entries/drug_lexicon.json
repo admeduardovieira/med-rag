@@ -1,0 +1,1498 @@
+[
+  {
+    "canonical": "potassium chloride",
+    "cuis": [
+      "C0032825"
+    ],
+    "surface_forms": [
+      "potassium chloride",
+      "potassium chloride-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "POTASSIUM CHLORIDE",
+          "POTASSIUM CHLORIDE (POWDER)",
+          "POTASSIUM CHLORIDE REPLACEMENT (ONCOLOGY)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "POTASSIUM CHLORIDE",
+      "mimic_count": 193323
+    }
+  },
+  {
+    "canonical": "insulin",
+    "cuis": [
+      "C0021658",
+      "C0021666"
+    ],
+    "surface_forms": [
+      "igf 2 - insulin-like growth factor 2",
+      "igf-ii",
+      "insulin isophane",
+      "insulin-like growth factor 2",
+      "insulin-like growth factor ii",
+      "isophane insulin",
+      "isophane insulin-containing product",
+      "neutral protamine hagedorn insulin",
+      "sm-a",
+      "somatomedin a"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HUMULIN-R INSULIN",
+          "INSULIN",
+          "INSULIN HUMAN REGULAR"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "INSULIN",
+      "mimic_count": 143469
+    }
+  },
+  {
+    "canonical": "furosemide",
+    "cuis": [
+      "C0016860"
+    ],
+    "surface_forms": [
+      "frusemide",
+      "furosemide",
+      "furosemide-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "FUROSEMIDE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "FUROSEMIDE",
+      "mimic_count": 133102
+    }
+  },
+  {
+    "canonical": "ns",
+    "cuis": [
+      "C0001050",
+      "C0003009"
+    ],
+    "surface_forms": [
+      "acetyldigoxin",
+      "acetyldigoxins",
+      "angiotensin 2",
+      "angiotensin ii",
+      "angiotensin ii-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "1/2 NS",
+          "ALUMINUM HYDROXIDE SUSPENSION",
+          "ATOVAQUONE SUSPENSION",
+          "CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE",
+          "CLINDAMYCIN SUSPENSION",
+          "D5 1/2NS",
+          "D5NS",
+          "ESTROGENS CONJUGATED",
+          "HUMULIN-R INSULIN",
+          "IBUPROFEN SUSPENSION",
+          "INSULIN",
+          "INSULIN HUMAN REGULAR",
+          "LANSOPRAZOLE",
+          "LANSOPRAZOLE ORAL DISINTEGRATING TAB",
+          "LANSOPRAZOLE ORAL SOLUTION",
+          "LANSOPRAZOLE ORAL SUSPENSION",
+          "MULTIPLE VITAMINS LIQ.",
+          "MULTIVITAMINS",
+          "MULTIVITAMINS W/MINERALS",
+          "NS",
+          "NS        (GLASS BOTTLE)",
+          "NS (GLASS BOTTLE)",
+          "NS (IRRIGATION BOTTLE)",
+          "NS (MINI BAG PLUS)",
+          "NYSTATIN ORAL SUSPENSION",
+          "ONDANSETRON",
+          "ONDANSETRON ODT",
+          "POTASSIUM CHL 20 MEQ / 1000 ML D5 1/2 NS",
+          "POTASSIUM CHL 20 MEQ / 1000 ML D5NS",
+          "POTASSIUM CHL 20 MEQ / 1000 ML NS",
+          "POTASSIUM CHL 40 MEQ / 1000 ML D5 1/2 NS",
+          "POTASSIUM CHL 40 MEQ / 1000 ML NS",
+          "SULFAMETH/TRIMETHOPRIM SUSPENSION"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "NS",
+      "mimic_count": 129731
+    }
+  },
+  {
+    "canonical": "magnesium sulfate",
+    "cuis": [
+      "C0024480"
+    ],
+    "surface_forms": [
+      "magnesium sulfate",
+      "magnesium sulfate-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "MAGNESIUM SULFATE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "MAGNESIUM SULFATE",
+      "mimic_count": 90401
+    }
+  },
+  {
+    "canonical": "acetaminophen",
+    "cuis": [
+      "C0000970"
+    ],
+    "surface_forms": [
+      "acetaminophen",
+      "acetaminophen-containing product",
+      "paracetamol",
+      "paracetamol-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "ACETAMINOPHEN",
+          "ACETAMINOPHEN (LIQUID)",
+          "ACETAMINOPHEN IV",
+          "ACETAMINOPHEN W/CODEINE",
+          "HYDROCODONE-ACETAMINOPHEN",
+          "OXYCODONE-ACETAMINOPHEN",
+          "OXYCODONE-ACETAMINOPHEN ELIXIR"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "ACETAMINOPHEN",
+      "mimic_count": 78757
+    }
+  },
+  {
+    "canonical": "metoprolol",
+    "cuis": [
+      "C0025859"
+    ],
+    "surface_forms": [
+      "metoprolol",
+      "metoprolol-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "METOPROLOL",
+          "METOPROLOL SUCCINATE XL",
+          "METOPROLOL TARTRATE",
+          "METOPROLOL XL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "METOPROLOL",
+      "mimic_count": 73972
+    }
+  },
+  {
+    "canonical": "5% dextrose",
+    "cuis": [
+      "C0722153",
+      "C1725310"
+    ],
+    "surface_forms": [
+      "isolyte s in 5 % dextrose",
+      "normosol-r in 5 % dextrose"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "5% DEXTROSE",
+          "AMINO ACIDS 4.25% W/ DEXTROSE 5%"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "5% DEXTROSE",
+      "mimic_count": 73829
+    }
+  },
+  {
+    "canonical": "sw",
+    "cuis": [
+      "C0004924",
+      "C0873038"
+    ],
+    "surface_forms": [
+      "beeswax",
+      "beeswax-containing product",
+      "boswellia preparation",
+      "boswellia serrata extract",
+      "indian frankincense extract",
+      "yellow wax"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "SW"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "SW",
+      "mimic_count": 72522
+    }
+  },
+  {
+    "canonical": "morphine sulfate",
+    "cuis": [
+      "C0353588",
+      "C0353589"
+    ],
+    "surface_forms": [
+      "morphine sulfate 5 mg/ml oral suspension",
+      "morphine sulfate 6.67 mg/ml oral suspension",
+      "ms 5 mg/ml oral suspension",
+      "ms 6.67 mg/ml oral suspension"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "MORPHINE SULFATE",
+          "MORPHINE SULFATE (CONCENTRATED ORAL SOLN)",
+          "MORPHINE SULFATE (ORAL SOLN.)",
+          "MORPHINE SULFATE IR"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "MORPHINE SULFATE",
+      "mimic_count": 62116
+    }
+  },
+  {
+    "canonical": "metoprolol tartrate",
+    "cuis": [
+      "C0708591",
+      "C0708592"
+    ],
+    "surface_forms": [
+      "lopressor 100 mg oral tablet",
+      "lopressor 50 mg oral tablet"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "METOPROLOL TARTRATE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "METOPROLOL TARTRATE",
+      "mimic_count": 59799
+    }
+  },
+  {
+    "canonical": "lorazepam",
+    "cuis": [
+      "C0024002"
+    ],
+    "surface_forms": [
+      "lorazepam",
+      "lorazepam-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "LORAZEPAM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "LORAZEPAM",
+      "mimic_count": 55326
+    }
+  },
+  {
+    "canonical": "calcium gluconate",
+    "cuis": [
+      "C0006699"
+    ],
+    "surface_forms": [
+      "calcium gluconate",
+      "calcium gluconate-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "CALCIUM GLUCONATE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "CALCIUM GLUCONATE",
+      "mimic_count": 52077
+    }
+  },
+  {
+    "canonical": "heparin",
+    "cuis": [
+      "C0019134"
+    ],
+    "surface_forms": [
+      "heparin",
+      "heparin-containing product",
+      "unfractionated heparin"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HEPARIN",
+          "HEPARIN CRRT",
+          "HEPARIN FLUSH ",
+          "HEPARIN FLUSH (10 UNITS/ML)",
+          "HEPARIN FLUSH (100 UNITS/ML)",
+          "HEPARIN FLUSH (5000 UNITS/ML)",
+          "HEPARIN FLUSH CRRT (5000 UNITS/ML)",
+          "HEPARIN FLUSH CVL  (100 UNITS/ML)",
+          "HEPARIN FLUSH HICKMAN (100 UNITS/ML)",
+          "HEPARIN FLUSH PICC (100 UNITS/ML)",
+          "HEPARIN LOCK FLUSH",
+          "HEPARIN SODIUM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "HEPARIN",
+      "mimic_count": 52070
+    }
+  },
+  {
+    "canonical": "docusate sodium",
+    "cuis": [
+      "C0543137",
+      "C0691401"
+    ],
+    "surface_forms": [
+      "docusate sodium 5 % otic solution",
+      "docusate sodium 50 mg/ml ear drops",
+      "doss sodium 50 mg oral capsule",
+      "doss sodium 50 mg/ml otic solution"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "DOCUSATE SODIUM",
+          "DOCUSATE SODIUM (LIQUID)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "DOCUSATE SODIUM",
+      "mimic_count": 45694
+    }
+  },
+  {
+    "canonical": "vancomycin",
+    "cuis": [
+      "C0042313"
+    ],
+    "surface_forms": [
+      "vancomycin",
+      "vancomycin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "VANCOMYCIN",
+          "VANCOMYCIN ENEMA",
+          "VANCOMYCIN HCL",
+          "VANCOMYCIN ORAL LIQUID"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "VANCOMYCIN",
+      "mimic_count": 42634
+    }
+  },
+  {
+    "canonical": "bisacodyl",
+    "cuis": [
+      "C0005632"
+    ],
+    "surface_forms": [
+      "bisacodyl",
+      "bisacodyl-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "BISACODYL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "BISACODYL",
+      "mimic_count": 41076
+    }
+  },
+  {
+    "canonical": "warfarin",
+    "cuis": [
+      "C0043031"
+    ],
+    "surface_forms": [
+      "warfarin",
+      "warfarin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "WARFARIN"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "WARFARIN",
+      "mimic_count": 39684
+    }
+  },
+  {
+    "canonical": "heparin sodium",
+    "cuis": [
+      "C0702812",
+      "C0977396"
+    ],
+    "surface_forms": [
+      "heparin sodium"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HEPARIN SODIUM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "HEPARIN SODIUM",
+      "mimic_count": 37699
+    }
+  },
+  {
+    "canonical": "lr",
+    "cuis": [
+      "C0019497",
+      "C0057678"
+    ],
+    "surface_forms": [
+      "diacerein",
+      "diacerein-containing product",
+      "diacetylrhein",
+      "hexylresorcinol",
+      "hexylresorcinol-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "D5LR",
+          "LR",
+          "MILRINONE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "LR",
+      "mimic_count": 35409
+    }
+  },
+  {
+    "canonical": "propofol",
+    "cuis": [
+      "C0033487"
+    ],
+    "surface_forms": [
+      "propofol",
+      "propofol-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "PROPOFOL",
+          "PROPOFOL (GENERIC)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "PROPOFOL",
+      "mimic_count": 34327
+    }
+  },
+  {
+    "canonical": "pantoprazole",
+    "cuis": [
+      "C0081876"
+    ],
+    "surface_forms": [
+      "pantoprazole",
+      "pantoprazole-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "PANTOPRAZOLE",
+          "PANTOPRAZOLE SODIUM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "PANTOPRAZOLE",
+      "mimic_count": 33587
+    }
+  },
+  {
+    "canonical": "senna",
+    "cuis": [
+      "C0723272",
+      "C0724699"
+    ],
+    "surface_forms": [
+      "senna-relief childs",
+      "standardized senna concentrate"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "SENNA"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "SENNA",
+      "mimic_count": 29154
+    }
+  },
+  {
+    "canonical": "aspirin",
+    "cuis": [
+      "C0004057"
+    ],
+    "surface_forms": [
+      "acetylsalicylic acid",
+      "aspirin",
+      "aspirin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "ASPIRIN",
+          "ASPIRIN EC"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "ASPIRIN",
+      "mimic_count": 28421
+    }
+  },
+  {
+    "canonical": "bag",
+    "cuis": [
+      "C1095889",
+      "C2353303"
+    ],
+    "surface_forms": [
+      "cabbage preparation",
+      "carbaglu"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "0.9% SODIUM CHLORIDE (MINI BAG PLUS)",
+          "BAG",
+          "D5W (EXCEL BAG)",
+          "EPIDURAL BAG",
+          "NS (MINI BAG PLUS)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "BAG",
+      "mimic_count": 25745
+    }
+  },
+  {
+    "canonical": "vial",
+    "cuis": [
+      "C3255595"
+    ],
+    "surface_forms": [
+      "haematococcus pluvialis extract"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "VIAL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "VIAL",
+      "mimic_count": 24502
+    }
+  },
+  {
+    "canonical": "ondansetron",
+    "cuis": [
+      "C0061851"
+    ],
+    "surface_forms": [
+      "ondansetron",
+      "ondansetron-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "ONDANSETRON",
+          "ONDANSETRON ODT"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "ONDANSETRON",
+      "mimic_count": 21241
+    }
+  },
+  {
+    "canonical": "levofloxacin",
+    "cuis": [
+      "C0282386"
+    ],
+    "surface_forms": [
+      "levofloxacin",
+      "levofloxacin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "LEVOFLOXACIN"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "LEVOFLOXACIN",
+      "mimic_count": 20890
+    }
+  },
+  {
+    "canonical": "haloperidol",
+    "cuis": [
+      "C0018546"
+    ],
+    "surface_forms": [
+      "haloperidol",
+      "haloperidol-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HALOPERIDOL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "HALOPERIDOL",
+      "mimic_count": 20686
+    }
+  },
+  {
+    "canonical": "ranitidine",
+    "cuis": [
+      "C0034665"
+    ],
+    "surface_forms": [
+      "ranitidine",
+      "ranitidine-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "RANITIDINE",
+          "RANITIDINE (LIQUID)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "RANITIDINE",
+      "mimic_count": 20251
+    }
+  },
+  {
+    "canonical": "prednisone",
+    "cuis": [
+      "C0032952"
+    ],
+    "surface_forms": [
+      "prednisone",
+      "prednisone-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "PREDNISONE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "PREDNISONE",
+      "mimic_count": 18974
+    }
+  },
+  {
+    "canonical": "famotidine",
+    "cuis": [
+      "C0015620"
+    ],
+    "surface_forms": [
+      "famotidine",
+      "famotidine-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "FAMOTIDINE",
+          "FAMOTIDINE (IV)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "FAMOTIDINE",
+      "mimic_count": 18700
+    }
+  },
+  {
+    "canonical": "lisinopril",
+    "cuis": [
+      "C0065374"
+    ],
+    "surface_forms": [
+      "lisinopril",
+      "lisinopril-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "LISINOPRIL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "LISINOPRIL",
+      "mimic_count": 18669
+    }
+  },
+  {
+    "canonical": "sodium bicarbonate",
+    "cuis": [
+      "C0074722"
+    ],
+    "surface_forms": [
+      "baking soda",
+      "sodium acid carbonate",
+      "sodium bicarbonate",
+      "sodium bicarbonate-containing product",
+      "sodium hydrogen carbonate"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "SODIUM BICARBONATE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "SODIUM BICARBONATE",
+      "mimic_count": 18596
+    }
+  },
+  {
+    "canonical": "potassium phosphate",
+    "cuis": [
+      "C0071778"
+    ],
+    "surface_forms": [
+      "potassium phosphate",
+      "potassium phosphate-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "POTASSIUM PHOSPHATE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "POTASSIUM PHOSPHATE",
+      "mimic_count": 17803
+    }
+  },
+  {
+    "canonical": "atorvastatin",
+    "cuis": [
+      "C0286651"
+    ],
+    "surface_forms": [
+      "atorvastatin",
+      "atorvastatin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "ATORVASTATIN"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "ATORVASTATIN",
+      "mimic_count": 17330
+    }
+  },
+  {
+    "canonical": "nitroglycerin",
+    "cuis": [
+      "C0017887"
+    ],
+    "surface_forms": [
+      "glyceryl trinitrate",
+      "glyceryl trinitrate-containing product",
+      "nitroglycerin",
+      "nitroglycerin-containing product",
+      "nitroglycerol"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "NITROGLYCERIN",
+          "NITROGLYCERIN OINT. 2%",
+          "NITROGLYCERIN OINTMENT  2%",
+          "NITROGLYCERIN SL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "NITROGLYCERIN",
+      "mimic_count": 16765
+    }
+  },
+  {
+    "canonical": "hydralazine",
+    "cuis": [
+      "C0020223"
+    ],
+    "surface_forms": [
+      "hydralazine",
+      "hydralazine-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HYDRALAZINE",
+          "HYDRALAZINE HCL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "HYDRALAZINE",
+      "mimic_count": 16565
+    }
+  },
+  {
+    "canonical": "diltiazem",
+    "cuis": [
+      "C0012373"
+    ],
+    "surface_forms": [
+      "diltiazem",
+      "diltiazem-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "DILTIAZEM",
+          "DILTIAZEM EXTENDED-RELEASE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "DILTIAZEM",
+      "mimic_count": 16374
+    }
+  },
+  {
+    "canonical": "metoclopramide",
+    "cuis": [
+      "C0025853"
+    ],
+    "surface_forms": [
+      "metoclopramide",
+      "metoclopramide-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "METOCLOPRAMIDE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "METOCLOPRAMIDE",
+      "mimic_count": 16103
+    }
+  },
+  {
+    "canonical": "amiodarone",
+    "cuis": [
+      "C0002598"
+    ],
+    "surface_forms": [
+      "amiodarone",
+      "amiodarone-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "AMIODARONE",
+          "AMIODARONE HCL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "AMIODARONE",
+      "mimic_count": 15931
+    }
+  },
+  {
+    "canonical": "phenylephrine",
+    "cuis": [
+      "C0031469"
+    ],
+    "surface_forms": [
+      "phenylephrine",
+      "phenylephrine-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "PHENYLEPHRINE",
+          "PHENYLEPHRINE HCL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "PHENYLEPHRINE",
+      "mimic_count": 13847
+    }
+  },
+  {
+    "canonical": "midazolam",
+    "cuis": [
+      "C0026056"
+    ],
+    "surface_forms": [
+      "midazolam",
+      "midazolam-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "MIDAZOLAM",
+          "MIDAZOLAM HCL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "MIDAZOLAM",
+      "mimic_count": 13588
+    }
+  },
+  {
+    "canonical": "syringe",
+    "cuis": [
+      "C0354540",
+      "C0359525"
+    ],
+    "surface_forms": [
+      "calcium chloride 10 % in 10 ml prefilled syringe",
+      "epinephrine 1 mg per 10 ml prefilled syringe"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "SYRINGE",
+          "SYRINGE (0.9% SODIUM CHLORIDE)",
+          "SYRINGE (CHEMO)",
+          "SYRINGE (IV ROOM)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "SYRINGE",
+      "mimic_count": 13383
+    }
+  },
+  {
+    "canonical": "hydromorphone",
+    "cuis": [
+      "C0012306"
+    ],
+    "surface_forms": [
+      "dihydromorphinone",
+      "hydromorphone",
+      "hydromorphone-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HYDROMORPHONE",
+          "HYDROMORPHONE (DILAUDID)",
+          "HYDROMORPHONE P.F.",
+          "HYDROMORPHONE-HP"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "HYDROMORPHONE",
+      "mimic_count": 13298
+    }
+  },
+  {
+    "canonical": "cefazolin",
+    "cuis": [
+      "C0007546"
+    ],
+    "surface_forms": [
+      "cefazolin",
+      "cefazolin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "CEFAZOLIN"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "CEFAZOLIN",
+      "mimic_count": 13260
+    }
+  },
+  {
+    "canonical": "milk of magnesia",
+    "cuis": [
+      "C0712854",
+      "C0712862"
+    ],
+    "surface_forms": [
+      "phillips milk of magnesia 16 % oral suspension",
+      "phillips milk of magnesia 80 mg/ml oral suspension"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "MILK OF MAGNESIA"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "MILK OF MAGNESIA",
+      "mimic_count": 12875
+    }
+  },
+  {
+    "canonical": "norepinephrine",
+    "cuis": [
+      "C0028351"
+    ],
+    "surface_forms": [
+      "noradrenaline",
+      "noradrenaline-containing product",
+      "norepinephrine",
+      "norepinephrine-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "NOREPINEPHRINE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "NOREPINEPHRINE",
+      "mimic_count": 12287
+    }
+  },
+  {
+    "canonical": "tacrolimus",
+    "cuis": [
+      "C0085149"
+    ],
+    "surface_forms": [
+      "tacrolimus",
+      "tacrolimus-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "TACROLIMUS"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "TACROLIMUS",
+      "mimic_count": 12004
+    }
+  },
+  {
+    "canonical": "levothyroxine sodium",
+    "cuis": [
+      "C0707538",
+      "C0707539"
+    ],
+    "surface_forms": [
+      "euthyrox 0.025 mg oral tablet",
+      "euthyrox 25 mcg oral tablet",
+      "levo-t 0.025 mg oral tablet",
+      "levo-t 25 mcg oral tablet"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "LEVOTHYROXINE SODIUM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "LEVOTHYROXINE SODIUM",
+      "mimic_count": 11957
+    }
+  },
+  {
+    "canonical": "captopril",
+    "cuis": [
+      "C0006938"
+    ],
+    "surface_forms": [
+      "captopril",
+      "captopril-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "CAPTOPRIL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "CAPTOPRIL",
+      "mimic_count": 11685
+    }
+  },
+  {
+    "canonical": "glucagon",
+    "cuis": [
+      "C0017687"
+    ],
+    "surface_forms": [
+      "glucagon",
+      "glucagon-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "GLUCAGON"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "GLUCAGON",
+      "mimic_count": 11571
+    }
+  },
+  {
+    "canonical": "lactulose",
+    "cuis": [
+      "C0022957"
+    ],
+    "surface_forms": [
+      "lactulose",
+      "lactulose-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "LACTULOSE",
+          "LACTULOSE ENEMA"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "LACTULOSE",
+      "mimic_count": 11544
+    }
+  },
+  {
+    "canonical": "folic acid",
+    "cuis": [
+      "C0016410"
+    ],
+    "surface_forms": [
+      "fa - folic acid",
+      "folic acid",
+      "folic acid-containing product",
+      "lactobacillus casei factor",
+      "pteroylmonoglutamic acid",
+      "vitamin b>c<"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "FOLIC ACID"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "FOLIC ACID",
+      "mimic_count": 10792
+    }
+  },
+  {
+    "canonical": "dexamethasone",
+    "cuis": [
+      "C0011777"
+    ],
+    "surface_forms": [
+      "dexamethasone",
+      "dexamethasone-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "DEXAMETHASONE",
+          "DEXAMETHASONE SOD PHOSPHATE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "DEXAMETHASONE",
+      "mimic_count": 10713
+    }
+  },
+  {
+    "canonical": "phenytoin sodium",
+    "cuis": [
+      "C0355683",
+      "C0355684"
+    ],
+    "surface_forms": [
+      "dph sodium 25 mg oral capsule",
+      "dph sodium 300 mg oral capsule",
+      "phenytoin sodium 25 mg oral capsule",
+      "phenytoin sodium 300 mg oral capsule"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "PHENYTOIN SODIUM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "PHENYTOIN SODIUM",
+      "mimic_count": 10453
+    }
+  },
+  {
+    "canonical": "diazepam",
+    "cuis": [
+      "C0012010"
+    ],
+    "surface_forms": [
+      "diazepam",
+      "diazepam-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "DIAZEPAM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "DIAZEPAM",
+      "mimic_count": 10385
+    }
+  },
+  {
+    "canonical": "simvastatin",
+    "cuis": [
+      "C0074554"
+    ],
+    "surface_forms": [
+      "simvastatin",
+      "simvastatin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "SIMVASTATIN"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "SIMVASTATIN",
+      "mimic_count": 9604
+    }
+  },
+  {
+    "canonical": "cefepime",
+    "cuis": [
+      "C0055003"
+    ],
+    "surface_forms": [
+      "cefepime",
+      "cefepime-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "CEFEPIME"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "CEFEPIME",
+      "mimic_count": 9475
+    }
+  },
+  {
+    "canonical": "zolpidem tartrate",
+    "cuis": [
+      "C0712699",
+      "C0712713"
+    ],
+    "surface_forms": [
+      "ambien 10 mg oral tablet",
+      "ambien 5 mg oral tablet"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "ZOLPIDEM TARTRATE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "ZOLPIDEM TARTRATE",
+      "mimic_count": 9328
+    }
+  },
+  {
+    "canonical": "ketorolac",
+    "cuis": [
+      "C0073631"
+    ],
+    "surface_forms": [
+      "ketorolac",
+      "ketorolac-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "KETOROLAC"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "KETOROLAC",
+      "mimic_count": 9172
+    }
+  },
+  {
+    "canonical": "levetiracetam",
+    "cuis": [
+      "C0377265"
+    ],
+    "surface_forms": [
+      "levetiracetam",
+      "levetiracetam-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "LEVETIRACETAM",
+          "LEVETIRACETAM SOLUTION"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "LEVETIRACETAM",
+      "mimic_count": 8778
+    }
+  },
+  {
+    "canonical": "ceftriaxone",
+    "cuis": [
+      "C0007561"
+    ],
+    "surface_forms": [
+      "ceftriaxone",
+      "ceftriaxone-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "CEFTRIAXONE"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "CEFTRIAXONE",
+      "mimic_count": 8602
+    }
+  },
+  {
+    "canonical": "metronidazole",
+    "cuis": [
+      "C0025872"
+    ],
+    "surface_forms": [
+      "metronidazole",
+      "metronidazole-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "METRONIDAZOLE",
+          "METRONIDAZOLE (FLAGYL)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "METRONIDAZOLE",
+      "mimic_count": 8305
+    }
+  }
+]

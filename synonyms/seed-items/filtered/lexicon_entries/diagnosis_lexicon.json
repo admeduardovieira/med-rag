@@ -1,0 +1,2739 @@
+[
+  {
+    "canonical": "essential hypertension",
+    "cuis": [
+      "C0085580"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "essential hypertension",
+      "essential hypertension (disorder)",
+      "idiopathic hypertension",
+      "primary hypertension",
+      "systemic primary arterial hypertension"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4019"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Unspecified essential hypertension",
+      "icd9_formatted": "401.9",
+      "mimic_count": 20696
+    }
+  },
+  {
+    "canonical": "ccf - congestive cardiac failure",
+    "cuis": [
+      "C0018802"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "ccf - congestive cardiac failure",
+      "chf - congestive heart failure",
+      "congestive cardiac failure",
+      "congestive heart disease",
+      "congestive heart failure",
+      "congestive heart failure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4280"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Congestive heart failure, unspecified",
+      "icd9_formatted": "428.0",
+      "mimic_count": 13111
+    }
+  },
+  {
+    "canonical": "af - atrial fibrillation",
+    "cuis": [
+      "C0004238"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "af - atrial fibrillation",
+      "atrial fibrillation",
+      "atrial fibrillation (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "42731"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Atrial fibrillation",
+      "icd9_formatted": "427.31",
+      "mimic_count": 12886
+    }
+  },
+  {
+    "canonical": "coronary atherosclerosis of native coronary artery",
+    "cuis": [
+      "C0837134"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "coronary atherosclerosis of native coronary artery"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "41401"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Coronary atherosclerosis of native coronary artery",
+      "icd9_formatted": "414.01",
+      "mimic_count": 12428
+    }
+  },
+  {
+    "canonical": "acute kidney injury",
+    "cuis": [
+      "C0022660"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "acute kidney injury",
+      "acute kidney injury (disorder)",
+      "acute renal failure",
+      "acute renal failure syndrome",
+      "aki - acute kidney injury",
+      "arf - acute renal failure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5849"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Acute kidney failure, unspecified",
+      "icd9_formatted": "584.9",
+      "mimic_count": 9118
+    }
+  },
+  {
+    "canonical": "diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled",
+    "cuis": [
+      "C0375113"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "25000"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",
+      "icd9_formatted": "250.00",
+      "mimic_count": 9057
+    }
+  },
+  {
+    "canonical": "other and unspecified hyperlipidemia",
+    "cuis": [
+      "C0348494"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2724"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other and unspecified hyperlipidemia",
+      "icd9_formatted": "272.4",
+      "mimic_count": 8689
+    }
+  },
+  {
+    "canonical": "acute respiratory failure",
+    "cuis": [
+      "C0264490"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "acute respiratory failure",
+      "acute respiratory failure (disorder)",
+      "arf - acute respiratory failure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "51881"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Acute respiratory failure",
+      "icd9_formatted": "518.81",
+      "mimic_count": 7497
+    }
+  },
+  {
+    "canonical": "urinary tract infection",
+    "cuis": [
+      "C0042029"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "urinary tract infection",
+      "urinary tract infection, site not specified",
+      "urinary tract infectious disease",
+      "urinary tract infectious disease (disorder)",
+      "uti - urinary tract infection"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5990"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Urinary tract infection, site not specified",
+      "icd9_formatted": "599.0",
+      "mimic_count": 6555
+    }
+  },
+  {
+    "canonical": "esophageal reflux",
+    "cuis": [
+      "C0017168"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "esophageal reflux",
+      "gastro-esophageal reflux",
+      "gastro-esophageal reflux disease",
+      "gastroesophageal reflux disease",
+      "gastroesophageal reflux disease (disorder)",
+      "gerd - gastro-esophageal reflux disease",
+      "gor - gastro-esophageal reflux",
+      "gord - gastro-esophageal reflux disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "53081"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Esophageal reflux",
+      "icd9_formatted": "530.81",
+      "mimic_count": 6324
+    }
+  },
+  {
+    "canonical": "hyperlipidemia, group a",
+    "cuis": [
+      "C0678189"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "hyperlipidemia, group a",
+      "hyperlipidemia, group a (disorder)",
+      "pure hypercholesterolemia",
+      "pure hypercholesterolemia (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2720"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Pure hypercholesterolemia",
+      "icd9_formatted": "272.0",
+      "mimic_count": 5930
+    }
+  },
+  {
+    "canonical": "anemia",
+    "cuis": [
+      "C0002871"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "anemia",
+      "anemia (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2859"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Anemia, unspecified",
+      "icd9_formatted": "285.9",
+      "mimic_count": 5405
+    }
+  },
+  {
+    "canonical": "hypothyroid",
+    "cuis": [
+      "C0020676"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "hypothyroid",
+      "hypothyroidism",
+      "hypothyroidism (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2449"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Unspecified acquired hypothyroidism",
+      "icd9_formatted": "244.9",
+      "mimic_count": 4914
+    }
+  },
+  {
+    "canonical": "pneumonia, organism unspecified",
+    "cuis": [
+      "C0339951"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "486"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Pneumonia, organism unspecified",
+      "icd9_formatted": "486",
+      "mimic_count": 4838
+    }
+  },
+  {
+    "canonical": "acute blood loss anemia",
+    "cuis": [
+      "C0154298"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "acute blood loss anemia",
+      "acute post-hemorrhagic anemia",
+      "acute posthemorrhagic anemia",
+      "acute posthemorrhagic anemia (disorder)",
+      "anemia due to acute blood loss"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2851"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Acute posthemorrhagic anemia",
+      "icd9_formatted": "285.1",
+      "mimic_count": 4552
+    }
+  },
+  {
+    "canonical": "acidosis",
+    "cuis": [
+      "C0001122"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "acidosis",
+      "acidosis (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2762"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Acidosis",
+      "icd9_formatted": "276.2",
+      "mimic_count": 4528
+    }
+  },
+  {
+    "canonical": "chronic airway obstruction, not elsewhere classified",
+    "cuis": [
+      "C0302378"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "496"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Chronic airway obstruction, not elsewhere classified",
+      "icd9_formatted": "496",
+      "mimic_count": 4431
+    }
+  },
+  {
+    "canonical": "severe sepsis",
+    "cuis": [
+      "C1719672"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "severe sepsis"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "99592"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Severe sepsis",
+      "icd9_formatted": "995.92",
+      "mimic_count": 3912
+    }
+  },
+  {
+    "canonical": "long-term (current) use of anticoagulants",
+    "cuis": [
+      "C2911178"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "long-term (current) use of anticoagulants"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V5861"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Long-term (current) use of anticoagulants",
+      "icd9_formatted": "V58.61",
+      "mimic_count": 3805
+    }
+  },
+  {
+    "canonical": "unspecified septicemia",
+    "cuis": [
+      "C0036690"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "0389"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Unspecified septicemia",
+      "icd9_formatted": "038.9",
+      "mimic_count": 3725
+    }
+  },
+  {
+    "canonical": "pneumonitis due to inhalation of food or vomitus",
+    "cuis": [
+      "C0260334"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "pneumonitis due to inhalation of food or vomitus"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5070"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Pneumonitis due to inhalation of food or vomitus",
+      "icd9_formatted": "507.0",
+      "mimic_count": 3680
+    }
+  },
+  {
+    "canonical": "chronic kidney disease",
+    "cuis": [
+      "C1561643"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "chronic kidney disease",
+      "chronic kidney disease (disorder)",
+      "chronic renal disease",
+      "ckd - chronic kidney disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5859"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Chronic kidney disease, unspecified",
+      "icd9_formatted": "585.9",
+      "mimic_count": 3435
+    }
+  },
+  {
+    "canonical": "depressive disorder, not elsewhere classified",
+    "cuis": [
+      "C0868892"
+    ],
+    "semtypes": [
+      "Mental or Behavioral Dysfunction"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "311"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Depressive disorder, not elsewhere classified",
+      "icd9_formatted": "311",
+      "mimic_count": 3431
+    }
+  },
+  {
+    "canonical": "hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage i through stage iv, or unspecified",
+    "cuis": [
+      "C0494574"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "40390"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",
+      "icd9_formatted": "403.90",
+      "mimic_count": 3421
+    }
+  },
+  {
+    "canonical": "harmful pattern of use of tobacco",
+    "cuis": [
+      "C0040336"
+    ],
+    "semtypes": [
+      "Mental or Behavioral Dysfunction"
+    ],
+    "surface_forms": [
+      "harmful pattern of use of tobacco",
+      "harmful pattern of use of tobacco (disorder)",
+      "tobacco abuse",
+      "tobacco use disorder"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "3051"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Tobacco use disorder",
+      "icd9_formatted": "305.1",
+      "mimic_count": 3358
+    }
+  },
+  {
+    "canonical": "healed coronary",
+    "cuis": [
+      "C0155668"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "healed coronary",
+      "healed myocardial infarction",
+      "old myocardial infarction",
+      "old myocardial infarction (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "412"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Old myocardial infarction",
+      "icd9_formatted": "412",
+      "mimic_count": 3278
+    }
+  },
+  {
+    "canonical": "thrombocytopenia",
+    "cuis": [
+      "C0040034"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "thrombocytopenia",
+      "thrombocytopenic disorder",
+      "thrombocytopenic disorder (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2875"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Thrombocytopenia, unspecified",
+      "icd9_formatted": "287.5",
+      "mimic_count": 3065
+    }
+  },
+  {
+    "canonical": "aortocoronary bypass status",
+    "cuis": [
+      "C0032811"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "aortocoronary bypass status"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V4581"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Aortocoronary bypass status",
+      "icd9_formatted": "V45.81",
+      "mimic_count": 3056
+    }
+  },
+  {
+    "canonical": "subendocardial infarction, initial episode of care",
+    "cuis": [
+      "C0155657"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "41071"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Subendocardial infarction, initial episode of care",
+      "icd9_formatted": "410.71",
+      "mimic_count": 3055
+    }
+  },
+  {
+    "canonical": "hypo-osmolality and or hyponatremia",
+    "cuis": [
+      "C0020645"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "hypo-osmolality and or hyponatremia",
+      "hypo-osmolality and or hyponatremia (disorder)",
+      "hyposmolality and/or hyponatremia"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2761"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Hyposmolality and/or hyponatremia",
+      "icd9_formatted": "276.1",
+      "mimic_count": 3039
+    }
+  },
+  {
+    "canonical": "mitral valve disease",
+    "cuis": [
+      "C0026265"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "mitral valve disease",
+      "mitral valve disorder",
+      "mitral valve disorder (disorder)",
+      "mitral valve disorders",
+      "mvd - mitral valve disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4240"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Mitral valve disorders",
+      "icd9_formatted": "424.0",
+      "mimic_count": 2924
+    }
+  },
+  {
+    "canonical": "personal history of tobacco use",
+    "cuis": [
+      "C0040335"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "personal history of tobacco use"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V1582"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Personal history of tobacco use",
+      "icd9_formatted": "V15.82",
+      "mimic_count": 2811
+    }
+  },
+  {
+    "canonical": "pleural effusion",
+    "cuis": [
+      "C0032227"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "pleural effusion",
+      "pleural effusion (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5119"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Unspecified pleural effusion",
+      "icd9_formatted": "511.9",
+      "mimic_count": 2734
+    }
+  },
+  {
+    "canonical": "percutaneous transluminal coronary angioplasty status",
+    "cuis": [
+      "C0375852"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "percutaneous transluminal coronary angioplasty status"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V4582"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Percutaneous transluminal coronary angioplasty status",
+      "icd9_formatted": "V45.82",
+      "mimic_count": 2725
+    }
+  },
+  {
+    "canonical": "hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage v or end stage renal disease",
+    "cuis": [
+      "C0348860"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "40391"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",
+      "icd9_formatted": "403.91",
+      "mimic_count": 2630
+    }
+  },
+  {
+    "canonical": "sepsis-associated hypotension",
+    "cuis": [
+      "C0036983"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "sepsis-associated hypotension",
+      "septic shock",
+      "septic shock (disorder)",
+      "septicemic shock"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "78552"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Septic shock",
+      "icd9_formatted": "785.52",
+      "mimic_count": 2586
+    }
+  },
+  {
+    "canonical": "aortic valve disease",
+    "cuis": [
+      "C1260873"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "aortic valve disease",
+      "aortic valve disorder",
+      "aortic valve disorder (disorder)",
+      "aortic valve disorders",
+      "avd - aortic valve disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4241"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Aortic valve disorders",
+      "icd9_formatted": "424.1",
+      "mimic_count": 2550
+    }
+  },
+  {
+    "canonical": "long-term (current) use of insulin",
+    "cuis": [
+      "C1455979"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "long-term (current) use of insulin"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V5867"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Long-term (current) use of insulin",
+      "icd9_formatted": "V58.67",
+      "mimic_count": 2538
+    }
+  },
+  {
+    "canonical": "other specified cardiac dysrhythmias",
+    "cuis": [
+      "C0348626"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "42789"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other specified cardiac dysrhythmias",
+      "icd9_formatted": "427.89",
+      "mimic_count": 2453
+    }
+  },
+  {
+    "canonical": "obstructive sleep apnea",
+    "cuis": [
+      "C0520679"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "obstructive sleep apnea",
+      "obstructive sleep apnea (adult)(pediatric)",
+      "obstructive sleep apnea syndrome",
+      "obstructive sleep apnea syndrome (disorder)",
+      "osa - obstructive sleep apnea"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "32723"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Obstructive sleep apnea (adult)(pediatric)",
+      "icd9_formatted": "327.23",
+      "mimic_count": 2380
+    }
+  },
+  {
+    "canonical": "cardiac complications, not elsewhere classified",
+    "cuis": [
+      "C0549147"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "9971"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Cardiac complications, not elsewhere classified",
+      "icd9_formatted": "997.1",
+      "mimic_count": 2343
+    }
+  },
+  {
+    "canonical": "acute kidney failure with lesion of tubular necrosis",
+    "cuis": [
+      "C2712977"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "acute kidney failure with lesion of tubular necrosis"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5845"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Acute kidney failure with lesion of tubular necrosis",
+      "icd9_formatted": "584.5",
+      "mimic_count": 2287
+    }
+  },
+  {
+    "canonical": "hyperosmolality and or hypernatremia",
+    "cuis": [
+      "C0342580"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "hyperosmolality and or hypernatremia",
+      "hyperosmolality and or hypernatremia (disorder)",
+      "hyperosmolality and/or hypernatremia"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2760"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Hyperosmolality and/or hypernatremia",
+      "icd9_formatted": "276.0",
+      "mimic_count": 2272
+    }
+  },
+  {
+    "canonical": "asthma, unspecified type, unspecified",
+    "cuis": [
+      "C0155886"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "49390"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Asthma, unspecified type, unspecified",
+      "icd9_formatted": "493.90",
+      "mimic_count": 2195
+    }
+  },
+  {
+    "canonical": "hyperkalemia",
+    "cuis": [
+      "C0020461"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "hyperkalemia",
+      "hyperkalemia (disorder)",
+      "hyperkalemic syndrome",
+      "hyperpotassemia",
+      "k excess",
+      "k overload",
+      "potassium excess",
+      "potassium overload",
+      "potassium overload (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2767"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hyperpotassemia",
+      "icd9_formatted": "276.7",
+      "mimic_count": 2167
+    }
+  },
+  {
+    "canonical": "atelectasis",
+    "cuis": [
+      "C0004144"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "atelectasis",
+      "atelectasis (disorder)",
+      "collapse of lung",
+      "pulmonary atelectasis",
+      "pulmonary collapse",
+      "pulmonary collapse with atelectasis"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5180"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Pulmonary collapse",
+      "icd9_formatted": "518.0",
+      "mimic_count": 2165
+    }
+  },
+  {
+    "canonical": "other chronic pulmonary heart diseases",
+    "cuis": [
+      "C0155673"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4168"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other chronic pulmonary heart diseases",
+      "icd9_formatted": "416.8",
+      "mimic_count": 2148
+    }
+  },
+  {
+    "canonical": "other iatrogenic hypotension",
+    "cuis": [
+      "C1260414"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "45829"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other iatrogenic hypotension",
+      "icd9_formatted": "458.29",
+      "mimic_count": 2121
+    }
+  },
+  {
+    "canonical": "gout",
+    "cuis": [
+      "C0018099"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "gout",
+      "gout (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2749"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Gout, unspecified",
+      "icd9_formatted": "274.9",
+      "mimic_count": 2082
+    }
+  },
+  {
+    "canonical": "arterial hypotension",
+    "cuis": [
+      "C0020649"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "arterial hypotension",
+      "hypopiesis",
+      "hypotension",
+      "low blood pressure",
+      "low blood pressure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4589"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hypotension, unspecified",
+      "icd9_formatted": "458.9",
+      "mimic_count": 2051
+    }
+  },
+  {
+    "canonical": "osteoporosis",
+    "cuis": [
+      "C0029456"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "osteoporosis",
+      "osteoporosis (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "73300"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Osteoporosis, unspecified",
+      "icd9_formatted": "733.00",
+      "mimic_count": 1946
+    }
+  },
+  {
+    "canonical": "other convulsions",
+    "cuis": [
+      "C0490011"
+    ],
+    "semtypes": [
+      "Sign or Symptom"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "78039"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other convulsions",
+      "icd9_formatted": "780.39",
+      "mimic_count": 1934
+    }
+  },
+  {
+    "canonical": "chronic renal failure",
+    "cuis": [
+      "C0022661"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "chronic renal failure",
+      "chronic renal failure syndrome",
+      "chronic renal failure syndrome (disorder)",
+      "crf - chronic renal failure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5856"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "End stage renal disease",
+      "icd9_formatted": "585.6",
+      "mimic_count": 1926
+    }
+  },
+  {
+    "canonical": "paroxysmal ventricular tachycardia",
+    "cuis": [
+      "C0030591"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "paroxysmal ventricular tachycardia",
+      "paroxysmal ventricular tachycardia (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4271"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Paroxysmal ventricular tachycardia",
+      "icd9_formatted": "427.1",
+      "mimic_count": 1811
+    }
+  },
+  {
+    "canonical": "other primary cardiomyopathies",
+    "cuis": [
+      "C0340419"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4254"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other primary cardiomyopathies",
+      "icd9_formatted": "425.4",
+      "mimic_count": 1709
+    }
+  },
+  {
+    "canonical": "crescendo angina",
+    "cuis": [
+      "C0002965"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "crescendo angina",
+      "impending infarction",
+      "impending infarction (disorder)",
+      "intermediate coronary syndrome",
+      "unstable angina",
+      "worsening angina"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4111"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Intermediate coronary syndrome",
+      "icd9_formatted": "411.1",
+      "mimic_count": 1663
+    }
+  },
+  {
+    "canonical": "personal history of venous thrombosis and embolism",
+    "cuis": [
+      "C0375800"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "personal history of venous thrombosis and embolism"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V1251"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Personal history of venous thrombosis and embolism",
+      "icd9_formatted": "V12.51",
+      "mimic_count": 1611
+    }
+  },
+  {
+    "canonical": "diabetic polyneuropathy",
+    "cuis": [
+      "C0271680"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "diabetic polyneuropathy",
+      "polyneuropathy due to diabetes mellitus",
+      "polyneuropathy due to diabetes mellitus (disorder)",
+      "polyneuropathy in diabetes"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "3572"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Polyneuropathy in diabetes",
+      "icd9_formatted": "357.2",
+      "mimic_count": 1584
+    }
+  },
+  {
+    "canonical": "anxiety state",
+    "cuis": [
+      "C0700613"
+    ],
+    "semtypes": [
+      "Mental or Behavioral Dysfunction"
+    ],
+    "surface_forms": [
+      "anxiety state",
+      "anxiety state (finding)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "30000"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Anxiety state, unspecified",
+      "icd9_formatted": "300.00",
+      "mimic_count": 1580
+    }
+  },
+  {
+    "canonical": "hemorrhage complicating a procedure",
+    "cuis": [
+      "C0375725"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "hemorrhage complicating a procedure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "99811"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Hemorrhage complicating a procedure",
+      "icd9_formatted": "998.11",
+      "mimic_count": 1535
+    }
+  },
+  {
+    "canonical": "obese",
+    "cuis": [
+      "C0028754"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "obese",
+      "obese (finding)",
+      "obesity",
+      "obesity (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "27800"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Obesity, unspecified",
+      "icd9_formatted": "278.00",
+      "mimic_count": 1511
+    }
+  },
+  {
+    "canonical": "other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",
+    "cuis": [
+      "C0261596"
+    ],
+    "semtypes": [
+      "Injury or Poisoning"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "E8798"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",
+      "icd9_formatted": "E879.8",
+      "mimic_count": 1502
+    }
+  },
+  {
+    "canonical": "coronary atherosclerosis of unspecified type of vessel, native or graft",
+    "cuis": [
+      "C0837133"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "41400"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+      "icd9_formatted": "414.00",
+      "mimic_count": 1494
+    }
+  },
+  {
+    "canonical": "hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (luts)",
+    "cuis": [
+      "C1719538"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "60000"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)",
+      "icd9_formatted": "600.00",
+      "mimic_count": 1490
+    }
+  },
+  {
+    "canonical": "bacteremia",
+    "cuis": [
+      "C0004610"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "bacteremia",
+      "bacteremia (finding)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "7907"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Bacteremia",
+      "icd9_formatted": "790.7",
+      "mimic_count": 1478
+    }
+  },
+  {
+    "canonical": "delirium due to conditions classified elsewhere",
+    "cuis": [
+      "C1456296"
+    ],
+    "semtypes": [
+      "Mental or Behavioral Dysfunction"
+    ],
+    "surface_forms": [
+      "delirium due to conditions classified elsewhere"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2930"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Delirium due to conditions classified elsewhere",
+      "icd9_formatted": "293.0",
+      "mimic_count": 1445
+    }
+  },
+  {
+    "canonical": "intestinal infection due to clostridium difficile",
+    "cuis": [
+      "C0494025"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "intestinal infection due to clostridium difficile"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "00845"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Intestinal infection due to Clostridium difficile",
+      "icd9_formatted": "008.45",
+      "mimic_count": 1444
+    }
+  },
+  {
+    "canonical": "hypokalemia",
+    "cuis": [
+      "C0020621"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "hypokalemia",
+      "hypokalemia (disorder)",
+      "hypokalemic syndrome",
+      "hypopotassemia",
+      "hypopotassemia syndrome",
+      "low serum potassium level"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2768"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hypopotassemia",
+      "icd9_formatted": "276.8",
+      "mimic_count": 1425
+    }
+  },
+  {
+    "canonical": "peripheral angiopathy",
+    "cuis": [
+      "C0085096"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "peripheral angiopathy",
+      "peripheral vascular disease",
+      "peripheral vascular disease (disorder)",
+      "pvd - peripheral vascular disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4439"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Peripheral vascular disease, unspecified",
+      "icd9_formatted": "443.9",
+      "mimic_count": 1401
+    }
+  },
+  {
+    "canonical": "gastrointestinal bleed",
+    "cuis": [
+      "C0017181"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "gastrointestinal bleed",
+      "gastrointestinal bleeding",
+      "gastrointestinal hemorrhage",
+      "gastrointestinal hemorrhage (disorder)",
+      "gi - gastrointestinal bleed",
+      "gi - gastrointestinal hemorrhage",
+      "gi bleeding",
+      "gi hemorrhage",
+      "gih - gastrointestinal hemorrhage",
+      "git - gastrointestinal tract hemorrhage"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5789"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hemorrhage of gastrointestinal tract, unspecified",
+      "icd9_formatted": "578.9",
+      "mimic_count": 1397
+    }
+  },
+  {
+    "canonical": "cardiac pacemaker in situ",
+    "cuis": [
+      "C2240369"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "cardiac pacemaker in situ"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V4501"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Cardiac pacemaker in situ",
+      "icd9_formatted": "V45.01",
+      "mimic_count": 1390
+    }
+  },
+  {
+    "canonical": "dehydration",
+    "cuis": [
+      "C0011175"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "dehydration",
+      "dehydration (disorder)",
+      "pure water depletion syndrome"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "27651"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Dehydration",
+      "icd9_formatted": "276.51",
+      "mimic_count": 1384
+    }
+  },
+  {
+    "canonical": "anemia co-occurrent and due to chronic kidney disease",
+    "cuis": [
+      "C1561828"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "anemia co-occurrent and due to chronic kidney disease",
+      "anemia in chronic kidney disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "28521"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Anemia in chronic kidney disease",
+      "icd9_formatted": "285.21",
+      "mimic_count": 1383
+    }
+  },
+  {
+    "canonical": "hypovolemia",
+    "cuis": [
+      "C0546884"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "hypovolemia",
+      "hypovolemia (finding)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "27652"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Hypovolemia",
+      "icd9_formatted": "276.52",
+      "mimic_count": 1374
+    }
+  },
+  {
+    "canonical": "cerebral hemorrhage",
+    "cuis": [
+      "C2937358"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "cerebral hemorrhage",
+      "cerebral hemorrhage (disorder)",
+      "ich - intracerebral hemorrhage",
+      "intracerebral hemorrhage"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "431"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Intracerebral hemorrhage",
+      "icd9_formatted": "431",
+      "mimic_count": 1367
+    }
+  },
+  {
+    "canonical": "asystole",
+    "cuis": [
+      "C0018790"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "asystole",
+      "asystole (disorder)",
+      "cardiac arrest",
+      "cardiac arrest (disorder)",
+      "cardiac standstill"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "4275"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Cardiac arrest",
+      "icd9_formatted": "427.5",
+      "mimic_count": 1361
+    }
+  },
+  {
+    "canonical": "other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+    "cuis": [
+      "C0261585"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "E8788"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+      "icd9_formatted": "E878.8",
+      "mimic_count": 1350
+    }
+  },
+  {
+    "canonical": "dnar - do not attempt resuscitation",
+    "cuis": [
+      "C0582114"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "dnar - do not attempt resuscitation",
+      "dnr - do not resuscitate",
+      "do not resuscitate",
+      "do not resuscitate status",
+      "not for resuscitation",
+      "not for resuscitation (finding)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V4986"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Do not resuscitate status",
+      "icd9_formatted": "V49.86",
+      "mimic_count": 1327
+    }
+  },
+  {
+    "canonical": "arterial hypoxemia",
+    "cuis": [
+      "C0700292"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "arterial hypoxemia",
+      "hypoxemia",
+      "hypoxemia (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "79902"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hypoxemia",
+      "icd9_formatted": "799.02",
+      "mimic_count": 1298
+    }
+  },
+  {
+    "canonical": "pressure ulcer, lower back",
+    "cuis": [
+      "C1456141"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "pressure ulcer, lower back"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "70703"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Pressure ulcer, lower back",
+      "icd9_formatted": "707.03",
+      "mimic_count": 1289
+    }
+  },
+  {
+    "canonical": "cirrhosis of liver without mention of alcohol",
+    "cuis": [
+      "C0008827"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5715"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Cirrhosis of liver without mention of alcohol",
+      "icd9_formatted": "571.5",
+      "mimic_count": 1287
+    }
+  },
+  {
+    "canonical": "personal history of malignant neoplasm of breast",
+    "cuis": [
+      "C0260421"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "personal history of malignant neoplasm of breast"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V103"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Personal history of malignant neoplasm of breast",
+      "icd9_formatted": "V10.3",
+      "mimic_count": 1277
+    }
+  },
+  {
+    "canonical": "sepsis",
+    "cuis": [
+      "C0243026"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "sepsis",
+      "sepsis (disorder)",
+      "systemic infection"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "99591"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Sepsis",
+      "icd9_formatted": "995.91",
+      "mimic_count": 1271
+    }
+  },
+  {
+    "canonical": "deficiency of macronutrients",
+    "cuis": [
+      "C0033677"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "deficiency of macronutrients",
+      "deficiency of macronutrients (disorder)",
+      "pcm - protein-calorie malnutrition",
+      "pem - protein-energy malnutrition",
+      "protein calorie malnutrition",
+      "protein-calorie malnutrition",
+      "protein-calorie undernutrition",
+      "protein-energy malnutrition"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "2639"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Unspecified protein-calorie malnutrition",
+      "icd9_formatted": "263.9",
+      "mimic_count": 1259
+    }
+  },
+  {
+    "canonical": "chronic diastolic heart failure",
+    "cuis": [
+      "C2711480"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "chronic diastolic heart failure",
+      "chronic diastolic heart failure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "42832"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Chronic diastolic heart failure",
+      "icd9_formatted": "428.32",
+      "mimic_count": 1240
+    }
+  },
+  {
+    "canonical": "hematoma complicating a procedure",
+    "cuis": [
+      "C0375726"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "hematoma complicating a procedure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "99812"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Hematoma complicating a procedure",
+      "icd9_formatted": "998.12",
+      "mimic_count": 1224
+    }
+  },
+  {
+    "canonical": "acute on chronic diastolic heart failure",
+    "cuis": [
+      "C2732749"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "acute on chronic diastolic heart failure",
+      "acute on chronic diastolic heart failure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "42833"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Acute on chronic diastolic heart failure",
+      "icd9_formatted": "428.33",
+      "mimic_count": 1220
+    }
+  },
+  {
+    "canonical": "chronic hepatitis c without mention of hepatic coma",
+    "cuis": [
+      "C0375012"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "07054"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Chronic hepatitis C without mention of hepatic coma",
+      "icd9_formatted": "070.54",
+      "mimic_count": 1218
+    }
+  },
+  {
+    "canonical": "atrial flutter",
+    "cuis": [
+      "C0004239"
+    ],
+    "semtypes": [
+      "Pathologic Function"
+    ],
+    "surface_forms": [
+      "atrial flutter",
+      "atrial flutter (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "42732"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Atrial flutter",
+      "icd9_formatted": "427.32",
+      "mimic_count": 1217
+    }
+  },
+  {
+    "canonical": "personal history of malignant neoplasm of prostate",
+    "cuis": [
+      "C0260429"
+    ],
+    "semtypes": [
+      "Finding"
+    ],
+    "surface_forms": [
+      "personal history of malignant neoplasm of prostate"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "V1046"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Personal history of malignant neoplasm of prostate",
+      "icd9_formatted": "V10.46",
+      "mimic_count": 1207
+    }
+  },
+  {
+    "canonical": "alcoholic cirrhosis",
+    "cuis": [
+      "C0023891"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "alcoholic cirrhosis",
+      "alcoholic cirrhosis (disorder)",
+      "alcoholic cirrhosis of liver",
+      "alcoholic liver cirrhosis"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "5712"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Alcoholic cirrhosis of liver",
+      "icd9_formatted": "571.2",
+      "mimic_count": 1202
+    }
+  },
+  {
+    "canonical": "acute exacerbation of chronic obstructive bronchitis",
+    "cuis": [
+      "C4041147"
+    ],
+    "semtypes": [
+      "Disease or Syndrome"
+    ],
+    "surface_forms": [
+      "acute exacerbation of chronic obstructive bronchitis",
+      "obstructive chronic bronchitis with (acute) exacerbation"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": [
+          "49121"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Obstructive chronic bronchitis with (acute) exacerbation",
+      "icd9_formatted": "491.21",
+      "mimic_count": 1198
+    }
+  }
+]

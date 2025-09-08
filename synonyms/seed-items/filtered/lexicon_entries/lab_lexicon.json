@@ -1,0 +1,1258 @@
+[
+  {
+    "canonical": "glucose",
+    "cuis": ["C0017725", "C0017755"],
+    "surface_forms": [
+      "d-glucose",
+      "dextrose",
+      "glucose",
+      "glucose-6-phosphatase",
+      "glucose-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50809, 50931, 51478]
+      }
+    },
+    "provenance": {
+      "original_label": "Glucose",
+      "mimic_count": 856356
+    }
+  },
+  {
+    "canonical": "hematocrit",
+    "cuis": ["C0018935", "C0366777"],
+    "surface_forms": [
+      "hct - hematocrit",
+      "hematocrit",
+      "hematocrit - pcv",
+      "hematocrit determination",
+      "packed cell volume",
+      "packed cell volume measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50810, 51221]
+      }
+    },
+    "provenance": {
+      "original_label": "Hematocrit",
+      "mimic_count": 693768
+    }
+  },
+  {
+    "canonical": "potassium",
+    "cuis": ["C0032821", "C0071771"],
+    "surface_forms": [
+      "k - potassium",
+      "kalium",
+      "potassium",
+      "potassium metabisulfite",
+      "potassium-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50822, 50971, 51097]
+      }
+    },
+    "provenance": {
+      "original_label": "Potassium",
+      "mimic_count": 669857
+    }
+  },
+  {
+    "canonical": "hemoglobin",
+    "cuis": ["C0007061", "C0015936"],
+    "surface_forms": [
+      "carbon monoxide hemoglobin",
+      "carbonyl hemoglobin",
+      "carboxyhemoglobin",
+      "fetal hemoglobin",
+      "hb alpha>2< gamma>2<",
+      "hb f - hemoglobin f",
+      "hbco - carboxyhemoglobin",
+      "hbf",
+      "hemoglobin f"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50811, 50852, 51222]
+      }
+    },
+    "provenance": {
+      "original_label": "Hemoglobin",
+      "mimic_count": 663706
+    }
+  },
+  {
+    "canonical": "sodium",
+    "cuis": ["C0037473", "C0037511"],
+    "surface_forms": [
+      "e621",
+      "monosodium glutamate",
+      "msg",
+      "na - sodium",
+      "sodium",
+      "sodium hydrogen l-glutamate"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50824, 50983, 51100]
+      }
+    },
+    "provenance": {
+      "original_label": "Sodium",
+      "mimic_count": 641851
+    }
+  },
+  {
+    "canonical": "chloride",
+    "cuis": ["C0007022", "C0020259"],
+    "surface_forms": [
+      "carbon tetrachloride",
+      "hydrochloric acid",
+      "hydrochloric acid-containing product",
+      "hydrogen chloride",
+      "muriatic acid",
+      "perchloromethane"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50806, 50902, 51078]
+      }
+    },
+    "provenance": {
+      "original_label": "Chloride",
+      "mimic_count": 631657
+    }
+  },
+  {
+    "canonical": "creatinine",
+    "cuis": ["C0010294", "C0201976"],
+    "surface_forms": [
+      "creatinine",
+      "creatinine measurement, serum",
+      "serum creatinine"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50912, 51082]
+      }
+    },
+    "provenance": {
+      "original_label": "Creatinine",
+      "mimic_count": 619602
+    }
+  },
+  {
+    "canonical": "bicarbonate",
+    "cuis": ["C0005367", "C0364092"],
+    "surface_forms": ["bicarbonate", "hco3 - bicarbonate"],
+    "db_links": {
+      "labs": {
+        "itemids": [50803, 50882]
+      }
+    },
+    "provenance": {
+      "original_label": "Bicarbonate",
+      "mimic_count": 618595
+    }
+  },
+  {
+    "canonical": "urea nitrogen",
+    "cuis": ["C0365237", "C0365238"],
+    "surface_forms": ["urea nitrogen"],
+    "db_links": {
+      "labs": {
+        "itemids": [51006, 51104]
+      }
+    },
+    "provenance": {
+      "original_label": "Urea Nitrogen",
+      "mimic_count": 617264
+    }
+  },
+  {
+    "canonical": "anion gap",
+    "cuis": ["C0003074", "C0363998"],
+    "surface_forms": ["ag - anion gap", "anion gap", "anion gap, function"],
+    "db_links": {
+      "labs": {
+        "itemids": [50868]
+      }
+    },
+    "provenance": {
+      "original_label": "Anion Gap",
+      "mimic_count": 608339
+    }
+  },
+  {
+    "canonical": "ph",
+    "cuis": ["C0000039", "C0000052"],
+    "surface_forms": [
+      "1,2-dipalmitoylphosphatidylcholine",
+      "1,4-alpha-glucan branching enzyme",
+      "branching enzyme"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [
+          50820, 50856, 50863, 50966, 50967, 50970, 51116, 51143, 51146, 51200,
+          51244, 51256, 51491
+        ]
+      }
+    },
+    "provenance": {
+      "original_label": "pH",
+      "mimic_count": 607775
+    }
+  },
+  {
+    "canonical": "platelet count",
+    "cuis": ["C3842546"],
+    "surface_forms": ["platelet count"],
+    "db_links": {
+      "labs": {
+        "itemids": [51265]
+      }
+    },
+    "provenance": {
+      "original_label": "Platelet Count",
+      "mimic_count": 598950
+    }
+  },
+  {
+    "canonical": "white blood cells",
+    "cuis": ["C0023516", "C5150249"],
+    "surface_forms": [
+      "leukocyte",
+      "wbc - white blood cell",
+      "white blood cell",
+      "white blood cells"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51301]
+      }
+    },
+    "provenance": {
+      "original_label": "White Blood Cells",
+      "mimic_count": 577701
+    }
+  },
+  {
+    "canonical": "mchc",
+    "cuis": ["C0362907", "C0944134"],
+    "surface_forms": ["mchc"],
+    "db_links": {
+      "labs": {
+        "itemids": [51249]
+      }
+    },
+    "provenance": {
+      "original_label": "MCHC",
+      "mimic_count": 573491
+    }
+  },
+  {
+    "canonical": "red blood cells",
+    "cuis": ["C0014792", "C0362907"],
+    "surface_forms": [
+      "erythrocyte",
+      "rbc",
+      "rbc - red blood cell",
+      "red blood cell",
+      "red blood corpuscule"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51127, 51279, 51493]
+      }
+    },
+    "provenance": {
+      "original_label": "Red Blood Cells",
+      "mimic_count": 573358
+    }
+  },
+  {
+    "canonical": "mch",
+    "cuis": ["C0362906", "C0362907"],
+    "surface_forms": ["mch"],
+    "db_links": {
+      "labs": {
+        "itemids": [51248, 51249]
+      }
+    },
+    "provenance": {
+      "original_label": "MCH",
+      "mimic_count": 573354
+    }
+  },
+  {
+    "canonical": "mcv",
+    "cuis": ["C0362908", "C0550847"],
+    "surface_forms": ["mcv"],
+    "db_links": {
+      "labs": {
+        "itemids": [51250]
+      }
+    },
+    "provenance": {
+      "original_label": "MCV",
+      "mimic_count": 573351
+    }
+  },
+  {
+    "canonical": "rdw",
+    "cuis": ["C0362909", "C1114246"],
+    "surface_forms": ["rdw"],
+    "db_links": {
+      "labs": {
+        "itemids": [51277]
+      }
+    },
+    "provenance": {
+      "original_label": "RDW",
+      "mimic_count": 572351
+    }
+  },
+  {
+    "canonical": "magnesium",
+    "cuis": ["C0024467", "C0108127"],
+    "surface_forms": [
+      "calcium magnesium phosphate",
+      "magnesium",
+      "magnesium-containing product",
+      "mg - magnesium"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50960]
+      }
+    },
+    "provenance": {
+      "original_label": "Magnesium",
+      "mimic_count": 559502
+    }
+  },
+  {
+    "canonical": "phosphate",
+    "cuis": ["C0001455", "C0001459"],
+    "surface_forms": [
+      "adenosine diphosphate",
+      "adp",
+      "camp - cyclic adenosine monophosphate",
+      "cyclic adenosine monophosphate",
+      "cyclic amp"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50970]
+      }
+    },
+    "provenance": {
+      "original_label": "Phosphate",
+      "mimic_count": 489974
+    }
+  },
+  {
+    "canonical": "po2",
+    "cuis": ["C0364846", "C0364847"],
+    "surface_forms": ["po2"],
+    "db_links": {
+      "labs": {
+        "itemids": [50821]
+      }
+    },
+    "provenance": {
+      "original_label": "pO2",
+      "mimic_count": 485562
+    }
+  },
+  {
+    "canonical": "base excess",
+    "cuis": ["C0364060", "C0364061"],
+    "surface_forms": ["base excess"],
+    "db_links": {
+      "labs": {
+        "itemids": [50802]
+      }
+    },
+    "provenance": {
+      "original_label": "Base Excess",
+      "mimic_count": 485555
+    }
+  },
+  {
+    "canonical": "pco2",
+    "cuis": ["C0364150", "C0364151"],
+    "surface_forms": ["pco2"],
+    "db_links": {
+      "labs": {
+        "itemids": [50818]
+      }
+    },
+    "provenance": {
+      "original_label": "pCO2",
+      "mimic_count": 485530
+    }
+  },
+  {
+    "canonical": "ptt",
+    "cuis": ["C0365392", "C0368359"],
+    "surface_forms": ["ptt"],
+    "db_links": {
+      "labs": {
+        "itemids": [51275]
+      }
+    },
+    "provenance": {
+      "original_label": "PTT",
+      "mimic_count": 403550
+    }
+  },
+  {
+    "canonical": "pt",
+    "cuis": ["C0000578", "C0000618"],
+    "surface_forms": [
+      "5-hydroxy tryptophan",
+      "5-hydroxytryptophan",
+      "mercaptopurine",
+      "mercaptopurine-containing product",
+      "oxitriptan"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50935, 51274, 51275]
+      }
+    },
+    "provenance": {
+      "original_label": "PT",
+      "mimic_count": 378210
+    }
+  },
+  {
+    "canonical": "free calcium",
+    "cuis": ["C0201579"],
+    "surface_forms": ["intracellular free calcium assay"],
+    "db_links": {
+      "labs": {
+        "itemids": [50808]
+      }
+    },
+    "provenance": {
+      "original_label": "Free Calcium",
+      "mimic_count": 246190
+    }
+  },
+  {
+    "canonical": "lactate",
+    "cuis": ["C0022917", "C0022920"],
+    "surface_forms": [
+      "l-lactate dehydrogenase",
+      "l-lactate dehydrogenase isoenzyme",
+      "l-lactic acid dehydrogenase",
+      "lactate dehydrogenase",
+      "lactate dehydrogenase isoenzyme",
+      "lactic dehydrogenase isoenzyme",
+      "ld - lactate dehydrogenase",
+      "ldh - lactate dehydrogenase",
+      "ldh isoenzyme"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50813, 50954]
+      }
+    },
+    "provenance": {
+      "original_label": "Lactate",
+      "mimic_count": 178014
+    }
+  },
+  {
+    "canonical": "bilirubin, total",
+    "cuis": ["C0201913"],
+    "surface_forms": [
+      "bilirubin, total measurement",
+      "total bilirubin",
+      "total bilirubin level"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50885]
+      }
+    },
+    "provenance": {
+      "original_label": "Bilirubin, Total",
+      "mimic_count": 173845
+    }
+  },
+  {
+    "canonical": "alanine aminotransferase (alt)",
+    "cuis": ["C0428327", "C0523461"],
+    "surface_forms": [
+      "alanine aminotransferase - blood measurement",
+      "alt - blood level",
+      "alt - blood measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50861]
+      }
+    },
+    "provenance": {
+      "original_label": "Alanine Aminotransferase (ALT)",
+      "mimic_count": 148479
+    }
+  },
+  {
+    "canonical": "alkaline phosphatase",
+    "cuis": ["C0002059", "C0301810"],
+    "surface_forms": [
+      "alkaline phosphatase",
+      "alkaline phosphatase isoenzyme",
+      "alkaline phosphomonoesterase",
+      "alp - alkaline phosphatase",
+      "ap - alkaline phosphatase",
+      "glycerophosphatase"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50863]
+      }
+    },
+    "provenance": {
+      "original_label": "Alkaline Phosphatase",
+      "mimic_count": 146257
+    }
+  },
+  {
+    "canonical": "oxygen saturation",
+    "cuis": ["C0364851", "C0364852"],
+    "surface_forms": ["oxygen saturation"],
+    "db_links": {
+      "labs": {
+        "itemids": [50817]
+      }
+    },
+    "provenance": {
+      "original_label": "Oxygen Saturation",
+      "mimic_count": 138307
+    }
+  },
+  {
+    "canonical": "lymphocytes",
+    "cuis": ["C0004561", "C0024264"],
+    "surface_forms": [
+      "b cell",
+      "b lymphocyte",
+      "b-cell",
+      "lymphocyte",
+      "lymphocytic cell"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51116, 51143, 51244]
+      }
+    },
+    "provenance": {
+      "original_label": "Lymphocytes",
+      "mimic_count": 116279
+    }
+  },
+  {
+    "canonical": "monocytes",
+    "cuis": ["C0026473", "C0229656"],
+    "surface_forms": ["monocyte", "promonocyte"],
+    "db_links": {
+      "labs": {
+        "itemids": [51120, 51254]
+      }
+    },
+    "provenance": {
+      "original_label": "Monocytes",
+      "mimic_count": 116083
+    }
+  },
+  {
+    "canonical": "eosinophils",
+    "cuis": ["C0014467", "C0362900"],
+    "surface_forms": ["eosinophil", "eosinophil, segmented"],
+    "db_links": {
+      "labs": {
+        "itemids": [51200]
+      }
+    },
+    "provenance": {
+      "original_label": "Eosinophils",
+      "mimic_count": 111608
+    }
+  },
+  {
+    "canonical": "basophils",
+    "cuis": ["C0004827", "C0362892"],
+    "surface_forms": ["basophils"],
+    "db_links": {
+      "labs": {
+        "itemids": [51146]
+      }
+    },
+    "provenance": {
+      "original_label": "Basophils",
+      "mimic_count": 109802
+    }
+  },
+  {
+    "canonical": "neutrophils",
+    "cuis": ["C0027950", "C0229640"],
+    "surface_forms": [
+      "pmn - polymorphonuclear leukocyte",
+      "pmn cell",
+      "segmented neutrophil"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51256]
+      }
+    },
+    "provenance": {
+      "original_label": "Neutrophils",
+      "mimic_count": 109476
+    }
+  },
+  {
+    "canonical": "albumin",
+    "cuis": ["C0001924", "C0002287"],
+    "surface_forms": ["alpha-lactalbumin", "minor lactalbumin"],
+    "db_links": {
+      "labs": {
+        "itemids": [50862]
+      }
+    },
+    "provenance": {
+      "original_label": "Albumin",
+      "mimic_count": 99002
+    }
+  },
+  {
+    "canonical": "specific gravity",
+    "cuis": ["C0037786", "C0201802"],
+    "surface_forms": [
+      "finding of specific gravity",
+      "sg - specific gravity",
+      "specific gravity",
+      "specific gravity - finding",
+      "specific gravity measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51498]
+      }
+    },
+    "provenance": {
+      "original_label": "Specific Gravity",
+      "mimic_count": 82057
+    }
+  },
+  {
+    "canonical": "protein",
+    "cuis": ["C0002210", "C0003591"],
+    "surface_forms": [
+      "alpha fetoprotein",
+      "alpha-1-fetoprotein",
+      "alpha-fetoglobulin",
+      "alpha-fetoprotein",
+      "apolipoprotein",
+      "fetuin",
+      "lipoprotein apolipoprotein"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50976, 51102, 51492]
+      }
+    },
+    "provenance": {
+      "original_label": "Protein",
+      "mimic_count": 72628
+    }
+  },
+  {
+    "canonical": "oxygen",
+    "cuis": ["C0015357", "C0023837"],
+    "surface_forms": [
+      "carotene oxidase",
+      "ecmo - extracorporeal membrane oxygenation",
+      "extracorporeal membrane oxygenation",
+      "extracorporeal membrane oxygenation [ecmo]",
+      "lipoxidase",
+      "lipoxygenase"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50816, 50817]
+      }
+    },
+    "provenance": {
+      "original_label": "Oxygen",
+      "mimic_count": 71165
+    }
+  },
+  {
+    "canonical": "urobilinogen",
+    "cuis": ["C0042052", "C0365251"],
+    "surface_forms": [
+      "ubg - urobilinogen",
+      "urob - urobilinogen",
+      "urobilinogen"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51514]
+      }
+    },
+    "provenance": {
+      "original_label": "Urobilinogen",
+      "mimic_count": 68039
+    }
+  },
+  {
+    "canonical": "ketone",
+    "cuis": ["C0022634", "C0025708"],
+    "surface_forms": [
+      "2-hexanone",
+      "butyl methyl ketone",
+      "ketone",
+      "ketone-containing product",
+      "methyl butyl ketone",
+      "methyl n-butyl ketone"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51484]
+      }
+    },
+    "provenance": {
+      "original_label": "Ketone",
+      "mimic_count": 67843
+    }
+  },
+  {
+    "canonical": "troponin t",
+    "cuis": ["C0077404", "C0484850"],
+    "surface_forms": ["tropomyosin-binding troponin subunit", "troponin t"],
+    "db_links": {
+      "labs": {
+        "itemids": [51003]
+      }
+    },
+    "provenance": {
+      "original_label": "Troponin T",
+      "mimic_count": 66383
+    }
+  },
+  {
+    "canonical": "bilirubin",
+    "cuis": ["C0005437", "C0006678"],
+    "surface_forms": [
+      "bilirubin",
+      "calcium bilirubinate",
+      "conjugated and unconjugated bilirubin"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50883, 50884, 50885, 51464]
+      }
+    },
+    "provenance": {
+      "original_label": "Bilirubin",
+      "mimic_count": 65907
+    }
+  },
+  {
+    "canonical": "wbc",
+    "cuis": ["C0023516", "C0362934"],
+    "surface_forms": [
+      "leukocyte",
+      "wbc - white blood cell",
+      "white blood cell",
+      "white blood cells"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51128, 51301, 51516]
+      }
+    },
+    "provenance": {
+      "original_label": "WBC",
+      "mimic_count": 61280
+    }
+  },
+  {
+    "canonical": "rbc",
+    "cuis": ["C0014792", "C0362905"],
+    "surface_forms": [
+      "erythrocyte",
+      "rbc",
+      "rbc - red blood cell",
+      "red blood cell",
+      "red blood corpuscule"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51127, 51279, 51493]
+      }
+    },
+    "provenance": {
+      "original_label": "RBC",
+      "mimic_count": 60879
+    }
+  },
+  {
+    "canonical": "epithelial cells",
+    "cuis": ["C0014597", "C0221910"],
+    "surface_forms": [
+      "epithelial cell",
+      "epithelial cells",
+      "squamous cell",
+      "squamous epithelial cell"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51476]
+      }
+    },
+    "provenance": {
+      "original_label": "Epithelial Cells",
+      "mimic_count": 59805
+    }
+  },
+  {
+    "canonical": "bands",
+    "cuis": ["C0550491", "C0550492"],
+    "surface_forms": ["bands"],
+    "db_links": {
+      "labs": {
+        "itemids": [51144]
+      }
+    },
+    "provenance": {
+      "original_label": "Bands",
+      "mimic_count": 57034
+    }
+  },
+  {
+    "canonical": "lipase",
+    "cuis": ["C0023764", "C0023816"],
+    "surface_forms": [
+      "clearing factor lipase",
+      "diacylglycerol lipase",
+      "diglyceride lipase",
+      "lipase",
+      "lipoprotein lipase",
+      "lpl - lipoprotein lipase",
+      "triacylglycerol lipase",
+      "triacylglycerol lipase-containing product",
+      "tributyrase",
+      "triglyceride lipase"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50956]
+      }
+    },
+    "provenance": {
+      "original_label": "Lipase",
+      "mimic_count": 51163
+    }
+  },
+  {
+    "canonical": "amylase",
+    "cuis": ["C0002712", "C0065478"],
+    "surface_forms": ["amylase", "amylase-containing product", "macroamylase"],
+    "db_links": {
+      "labs": {
+        "itemids": [50867]
+      }
+    },
+    "provenance": {
+      "original_label": "Amylase",
+      "mimic_count": 49246
+    }
+  },
+  {
+    "canonical": "vancomycin",
+    "cuis": ["C0042313", "C0362613"],
+    "surface_forms": ["vancomycin", "vancomycin-containing product"],
+    "db_links": {
+      "labs": {
+        "itemids": [51009]
+      }
+    },
+    "provenance": {
+      "original_label": "Vancomycin",
+      "mimic_count": 47876
+    }
+  },
+  {
+    "canonical": "atypical lymphocytes",
+    "cuis": ["C0221277", "C4511888"],
+    "surface_forms": ["atypical lymphocyte", "atypical lymphocytes"],
+    "db_links": {
+      "labs": {
+        "itemids": [51143]
+      }
+    },
+    "provenance": {
+      "original_label": "Atypical Lymphocytes",
+      "mimic_count": 45857
+    }
+  },
+  {
+    "canonical": "metamyelocytes",
+    "cuis": ["C0229635", "C0229638"],
+    "surface_forms": ["metamyelocyte", "neutrophilic metamyelocyte"],
+    "db_links": {
+      "labs": {
+        "itemids": [51251]
+      }
+    },
+    "provenance": {
+      "original_label": "Metamyelocytes",
+      "mimic_count": 45302
+    }
+  },
+  {
+    "canonical": "myelocytes",
+    "cuis": ["C0033416", "C0229635"],
+    "surface_forms": ["metamyelocyte", "progranulocyte", "promyelocyte"],
+    "db_links": {
+      "labs": {
+        "itemids": [51251, 51255]
+      }
+    },
+    "provenance": {
+      "original_label": "Myelocytes",
+      "mimic_count": 45236
+    }
+  },
+  {
+    "canonical": "bilirubin, direct",
+    "cuis": ["C0201916"],
+    "surface_forms": [
+      "bilirubin, conjugated measurement",
+      "bilirubin, direct measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50883]
+      }
+    },
+    "provenance": {
+      "original_label": "Bilirubin, Direct",
+      "mimic_count": 35868
+    }
+  },
+  {
+    "canonical": "phenytoin",
+    "cuis": ["C0025381", "C0031507"],
+    "surface_forms": [
+      "diphenylhydantoin",
+      "dph",
+      "mephenytoin",
+      "mephenytoin-containing product",
+      "methoin",
+      "methylphenylethylhydantoin",
+      "phenytoin",
+      "phenytoin-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50967]
+      }
+    },
+    "provenance": {
+      "original_label": "Phenytoin",
+      "mimic_count": 19868
+    }
+  },
+  {
+    "canonical": "thyroid stimulating hormone",
+    "cuis": ["C0023979", "C0034844"],
+    "surface_forms": [
+      "lats",
+      "lats - long-acting thyroid stimulator",
+      "long-acting thyroid stimulator",
+      "thyrotropin receptor"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50993]
+      }
+    },
+    "provenance": {
+      "original_label": "Thyroid Stimulating Hormone",
+      "mimic_count": 14764
+    }
+  },
+  {
+    "canonical": "triglycerides",
+    "cuis": ["C5890122", "C5890123"],
+    "surface_forms": ["triglycerides"],
+    "db_links": {
+      "labs": {
+        "itemids": [51000]
+      }
+    },
+    "provenance": {
+      "original_label": "Triglycerides",
+      "mimic_count": 13524
+    }
+  },
+  {
+    "canonical": "hyaline casts",
+    "cuis": ["C0333121", "C0368025"],
+    "surface_forms": ["hyaline cast", "protein cast"],
+    "db_links": {
+      "labs": {
+        "itemids": [51482]
+      }
+    },
+    "provenance": {
+      "original_label": "Hyaline Casts",
+      "mimic_count": 12341
+    }
+  },
+  {
+    "canonical": "cortisol",
+    "cuis": ["C0010139", "C0020268"],
+    "surface_forms": [
+      "11-deoxy, 17-hydroxycorticosterone",
+      "11-deoxycortisol",
+      "17,21-hydroxyprogesterone",
+      "compound s",
+      "cortexolone",
+      "cortisol",
+      "cortodoxone",
+      "hydrocortisone",
+      "hydrocortisone-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50909]
+      }
+    },
+    "provenance": {
+      "original_label": "Cortisol",
+      "mimic_count": 12302
+    }
+  },
+  {
+    "canonical": "blood",
+    "cuis": ["C0005767", "C0005770"],
+    "surface_forms": ["blood"],
+    "db_links": {
+      "labs": {
+        "itemids": [50803, 50806, 50822, 50824, 51279, 51301, 51466]
+      }
+    },
+    "provenance": {
+      "original_label": "Blood",
+      "mimic_count": 12063
+    }
+  },
+  {
+    "canonical": "o2 flow",
+    "cuis": ["C0365296", "C4071641"],
+    "surface_forms": ["o2 flow"],
+    "db_links": {
+      "labs": {
+        "itemids": [50815]
+      }
+    },
+    "provenance": {
+      "original_label": "O2 Flow",
+      "mimic_count": 11934
+    }
+  },
+  {
+    "canonical": "uric acid",
+    "cuis": ["C4305788"],
+    "surface_forms": ["uric acid"],
+    "db_links": {
+      "labs": {
+        "itemids": [51007]
+      }
+    },
+    "provenance": {
+      "original_label": "Uric Acid",
+      "mimic_count": 11387
+    }
+  },
+  {
+    "canonical": "iron",
+    "cuis": ["C0006462", "C0014406"],
+    "surface_forms": [
+      "buspirone",
+      "buspirone-containing product",
+      "environment",
+      "environments"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50952, 50953]
+      }
+    },
+    "provenance": {
+      "original_label": "Iron",
+      "mimic_count": 11277
+    }
+  },
+  {
+    "canonical": "transferrin",
+    "cuis": ["C0005151", "C0040679"],
+    "surface_forms": [
+      "beta-2 transferrin",
+      "iron binding protein",
+      "siderophilin",
+      "transferrin"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50998]
+      }
+    },
+    "provenance": {
+      "original_label": "Transferrin",
+      "mimic_count": 10902
+    }
+  },
+  {
+    "canonical": "ferritin",
+    "cuis": ["C0015879", "C0364411"],
+    "surface_forms": ["ferritin"],
+    "db_links": {
+      "labs": {
+        "itemids": [50924]
+      }
+    },
+    "provenance": {
+      "original_label": "Ferritin",
+      "mimic_count": 10697
+    }
+  },
+  {
+    "canonical": "polys",
+    "cuis": ["C0023786", "C0026703"],
+    "surface_forms": [
+      "alpha-l-iduronidase deficiency",
+      "l-iduronidase deficiency",
+      "mps - mucopolysaccharidosis",
+      "mps i",
+      "mpsi - mucopolysaccharidosis type i",
+      "mucopolysaccharidosis",
+      "mucopolysaccharidosis type i",
+      "mucopolysaccharidosis, mps-i"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51125]
+      }
+    },
+    "provenance": {
+      "original_label": "Polys",
+      "mimic_count": 10491
+    }
+  },
+  {
+    "canonical": "haptoglobin",
+    "cuis": ["C0018595", "C0062119"],
+    "surface_forms": ["haptoglobin", "hp - haptoglobin"],
+    "db_links": {
+      "labs": {
+        "itemids": [50935]
+      }
+    },
+    "provenance": {
+      "original_label": "Haptoglobin",
+      "mimic_count": 9351
+    }
+  },
+  {
+    "canonical": "granulocyte count",
+    "cuis": ["C0857490", "C1306872"],
+    "surface_forms": [
+      "granulocyte count",
+      "granulocyte count below reference range",
+      "granulopenia"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51218]
+      }
+    },
+    "provenance": {
+      "original_label": "Granulocyte Count",
+      "mimic_count": 9126
+    }
+  },
+  {
+    "canonical": "% hemoglobin a1c",
+    "cuis": ["C2733523", "C2919483"],
+    "surface_forms": [
+      "hemoglobin a1c above reference range",
+      "high hemoglobin a1c level",
+      "ordinal level of hemoglobin a1c"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50852]
+      }
+    },
+    "provenance": {
+      "original_label": "% Hemoglobin A1c",
+      "mimic_count": 7143
+    }
+  },
+  {
+    "canonical": "acetaminophen",
+    "cuis": ["C0000970", "C0365531"],
+    "surface_forms": [
+      "acetaminophen",
+      "acetaminophen-containing product",
+      "paracetamol",
+      "paracetamol-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50856]
+      }
+    },
+    "provenance": {
+      "original_label": "Acetaminophen",
+      "mimic_count": 6816
+    }
+  },
+  {
+    "canonical": "ethanol",
+    "cuis": ["C0001962", "C0001963"],
+    "surface_forms": [
+      "ethanol",
+      "ethanol-containing product",
+      "ethyl alcohol",
+      "etoh - ethanol",
+      "methanol",
+      "methyl alcohol",
+      "wood alcohol",
+      "wood naphtha"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50922]
+      }
+    },
+    "provenance": {
+      "original_label": "Ethanol",
+      "mimic_count": 6746
+    }
+  }
+]

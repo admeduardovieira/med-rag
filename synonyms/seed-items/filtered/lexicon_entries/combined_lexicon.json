@@ -1,0 +1,5849 @@
+[
+  {
+    "canonical": "essential hypertension",
+    "cuis": ["C0085580"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "essential hypertension",
+      "essential hypertension (disorder)",
+      "idiopathic hypertension",
+      "primary hypertension",
+      "systemic primary arterial hypertension"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4019"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Unspecified essential hypertension",
+      "icd9_formatted": "401.9",
+      "mimic_count": 20696
+    }
+  },
+  {
+    "canonical": "ccf - congestive cardiac failure",
+    "cuis": ["C0018802"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "ccf - congestive cardiac failure",
+      "chf - congestive heart failure",
+      "congestive cardiac failure",
+      "congestive heart disease",
+      "congestive heart failure",
+      "congestive heart failure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4280"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Congestive heart failure, unspecified",
+      "icd9_formatted": "428.0",
+      "mimic_count": 13111
+    }
+  },
+  {
+    "canonical": "af - atrial fibrillation",
+    "cuis": ["C0004238"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "af - atrial fibrillation",
+      "atrial fibrillation",
+      "atrial fibrillation (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["42731"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Atrial fibrillation",
+      "icd9_formatted": "427.31",
+      "mimic_count": 12886
+    }
+  },
+  {
+    "canonical": "coronary atherosclerosis of native coronary artery",
+    "cuis": ["C0837134"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["coronary atherosclerosis of native coronary artery"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["41401"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Coronary atherosclerosis of native coronary artery",
+      "icd9_formatted": "414.01",
+      "mimic_count": 12428
+    }
+  },
+  {
+    "canonical": "acute kidney injury",
+    "cuis": ["C0022660"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "acute kidney injury",
+      "acute kidney injury (disorder)",
+      "acute renal failure",
+      "acute renal failure syndrome",
+      "aki - acute kidney injury",
+      "arf - acute renal failure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5849"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Acute kidney failure, unspecified",
+      "icd9_formatted": "584.9",
+      "mimic_count": 9118
+    }
+  },
+  {
+    "canonical": "diabetes mellitus without mention of complication, type ii or unspecified type, not stated as uncontrolled",
+    "cuis": ["C0375113"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["25000"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",
+      "icd9_formatted": "250.00",
+      "mimic_count": 9057
+    }
+  },
+  {
+    "canonical": "other and unspecified hyperlipidemia",
+    "cuis": ["C0348494"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2724"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other and unspecified hyperlipidemia",
+      "icd9_formatted": "272.4",
+      "mimic_count": 8689
+    }
+  },
+  {
+    "canonical": "acute respiratory failure",
+    "cuis": ["C0264490"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "acute respiratory failure",
+      "acute respiratory failure (disorder)",
+      "arf - acute respiratory failure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["51881"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Acute respiratory failure",
+      "icd9_formatted": "518.81",
+      "mimic_count": 7497
+    }
+  },
+  {
+    "canonical": "urinary tract infection",
+    "cuis": ["C0042029"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "urinary tract infection",
+      "urinary tract infection, site not specified",
+      "urinary tract infectious disease",
+      "urinary tract infectious disease (disorder)",
+      "uti - urinary tract infection"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5990"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Urinary tract infection, site not specified",
+      "icd9_formatted": "599.0",
+      "mimic_count": 6555
+    }
+  },
+  {
+    "canonical": "esophageal reflux",
+    "cuis": ["C0017168"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "esophageal reflux",
+      "gastro-esophageal reflux",
+      "gastro-esophageal reflux disease",
+      "gastroesophageal reflux disease",
+      "gastroesophageal reflux disease (disorder)",
+      "gerd - gastro-esophageal reflux disease",
+      "gor - gastro-esophageal reflux",
+      "gord - gastro-esophageal reflux disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["53081"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Esophageal reflux",
+      "icd9_formatted": "530.81",
+      "mimic_count": 6324
+    }
+  },
+  {
+    "canonical": "hyperlipidemia, group a",
+    "cuis": ["C0678189"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "hyperlipidemia, group a",
+      "hyperlipidemia, group a (disorder)",
+      "pure hypercholesterolemia",
+      "pure hypercholesterolemia (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2720"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Pure hypercholesterolemia",
+      "icd9_formatted": "272.0",
+      "mimic_count": 5930
+    }
+  },
+  {
+    "canonical": "anemia",
+    "cuis": ["C0002871"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["anemia", "anemia (disorder)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2859"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Anemia, unspecified",
+      "icd9_formatted": "285.9",
+      "mimic_count": 5405
+    }
+  },
+  {
+    "canonical": "hypothyroid",
+    "cuis": ["C0020676"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "hypothyroid",
+      "hypothyroidism",
+      "hypothyroidism (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2449"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Unspecified acquired hypothyroidism",
+      "icd9_formatted": "244.9",
+      "mimic_count": 4914
+    }
+  },
+  {
+    "canonical": "pneumonia, organism unspecified",
+    "cuis": ["C0339951"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["486"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Pneumonia, organism unspecified",
+      "icd9_formatted": "486",
+      "mimic_count": 4838
+    }
+  },
+  {
+    "canonical": "acute blood loss anemia",
+    "cuis": ["C0154298"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "acute blood loss anemia",
+      "acute post-hemorrhagic anemia",
+      "acute posthemorrhagic anemia",
+      "acute posthemorrhagic anemia (disorder)",
+      "anemia due to acute blood loss"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2851"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Acute posthemorrhagic anemia",
+      "icd9_formatted": "285.1",
+      "mimic_count": 4552
+    }
+  },
+  {
+    "canonical": "acidosis",
+    "cuis": ["C0001122"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": ["acidosis", "acidosis (disorder)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2762"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Acidosis",
+      "icd9_formatted": "276.2",
+      "mimic_count": 4528
+    }
+  },
+  {
+    "canonical": "chronic airway obstruction, not elsewhere classified",
+    "cuis": ["C0302378"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["496"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Chronic airway obstruction, not elsewhere classified",
+      "icd9_formatted": "496",
+      "mimic_count": 4431
+    }
+  },
+  {
+    "canonical": "severe sepsis",
+    "cuis": ["C1719672"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["severe sepsis"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["99592"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Severe sepsis",
+      "icd9_formatted": "995.92",
+      "mimic_count": 3912
+    }
+  },
+  {
+    "canonical": "long-term (current) use of anticoagulants",
+    "cuis": ["C2911178"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["long-term (current) use of anticoagulants"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V5861"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Long-term (current) use of anticoagulants",
+      "icd9_formatted": "V58.61",
+      "mimic_count": 3805
+    }
+  },
+  {
+    "canonical": "unspecified septicemia",
+    "cuis": ["C0036690"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["0389"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Unspecified septicemia",
+      "icd9_formatted": "038.9",
+      "mimic_count": 3725
+    }
+  },
+  {
+    "canonical": "pneumonitis due to inhalation of food or vomitus",
+    "cuis": ["C0260334"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["pneumonitis due to inhalation of food or vomitus"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5070"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Pneumonitis due to inhalation of food or vomitus",
+      "icd9_formatted": "507.0",
+      "mimic_count": 3680
+    }
+  },
+  {
+    "canonical": "chronic kidney disease",
+    "cuis": ["C1561643"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "chronic kidney disease",
+      "chronic kidney disease (disorder)",
+      "chronic renal disease",
+      "ckd - chronic kidney disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5859"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Chronic kidney disease, unspecified",
+      "icd9_formatted": "585.9",
+      "mimic_count": 3435
+    }
+  },
+  {
+    "canonical": "depressive disorder, not elsewhere classified",
+    "cuis": ["C0868892"],
+    "semtypes": ["Mental or Behavioral Dysfunction"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["311"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Depressive disorder, not elsewhere classified",
+      "icd9_formatted": "311",
+      "mimic_count": 3431
+    }
+  },
+  {
+    "canonical": "hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage i through stage iv, or unspecified",
+    "cuis": ["C0494574"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["40390"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",
+      "icd9_formatted": "403.90",
+      "mimic_count": 3421
+    }
+  },
+  {
+    "canonical": "harmful pattern of use of tobacco",
+    "cuis": ["C0040336"],
+    "semtypes": ["Mental or Behavioral Dysfunction"],
+    "surface_forms": [
+      "harmful pattern of use of tobacco",
+      "harmful pattern of use of tobacco (disorder)",
+      "tobacco abuse",
+      "tobacco use disorder"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["3051"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Tobacco use disorder",
+      "icd9_formatted": "305.1",
+      "mimic_count": 3358
+    }
+  },
+  {
+    "canonical": "healed coronary",
+    "cuis": ["C0155668"],
+    "semtypes": ["Finding"],
+    "surface_forms": [
+      "healed coronary",
+      "healed myocardial infarction",
+      "old myocardial infarction",
+      "old myocardial infarction (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["412"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Old myocardial infarction",
+      "icd9_formatted": "412",
+      "mimic_count": 3278
+    }
+  },
+  {
+    "canonical": "thrombocytopenia",
+    "cuis": ["C0040034"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "thrombocytopenia",
+      "thrombocytopenic disorder",
+      "thrombocytopenic disorder (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2875"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Thrombocytopenia, unspecified",
+      "icd9_formatted": "287.5",
+      "mimic_count": 3065
+    }
+  },
+  {
+    "canonical": "aortocoronary bypass status",
+    "cuis": ["C0032811"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["aortocoronary bypass status"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V4581"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Aortocoronary bypass status",
+      "icd9_formatted": "V45.81",
+      "mimic_count": 3056
+    }
+  },
+  {
+    "canonical": "subendocardial infarction, initial episode of care",
+    "cuis": ["C0155657"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["41071"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Subendocardial infarction, initial episode of care",
+      "icd9_formatted": "410.71",
+      "mimic_count": 3055
+    }
+  },
+  {
+    "canonical": "hypo-osmolality and or hyponatremia",
+    "cuis": ["C0020645"],
+    "semtypes": ["Finding"],
+    "surface_forms": [
+      "hypo-osmolality and or hyponatremia",
+      "hypo-osmolality and or hyponatremia (disorder)",
+      "hyposmolality and/or hyponatremia"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2761"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Hyposmolality and/or hyponatremia",
+      "icd9_formatted": "276.1",
+      "mimic_count": 3039
+    }
+  },
+  {
+    "canonical": "mitral valve disease",
+    "cuis": ["C0026265"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "mitral valve disease",
+      "mitral valve disorder",
+      "mitral valve disorder (disorder)",
+      "mitral valve disorders",
+      "mvd - mitral valve disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4240"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Mitral valve disorders",
+      "icd9_formatted": "424.0",
+      "mimic_count": 2924
+    }
+  },
+  {
+    "canonical": "personal history of tobacco use",
+    "cuis": ["C0040335"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["personal history of tobacco use"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V1582"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Personal history of tobacco use",
+      "icd9_formatted": "V15.82",
+      "mimic_count": 2811
+    }
+  },
+  {
+    "canonical": "pleural effusion",
+    "cuis": ["C0032227"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": ["pleural effusion", "pleural effusion (disorder)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5119"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Unspecified pleural effusion",
+      "icd9_formatted": "511.9",
+      "mimic_count": 2734
+    }
+  },
+  {
+    "canonical": "percutaneous transluminal coronary angioplasty status",
+    "cuis": ["C0375852"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["percutaneous transluminal coronary angioplasty status"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V4582"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Percutaneous transluminal coronary angioplasty status",
+      "icd9_formatted": "V45.82",
+      "mimic_count": 2725
+    }
+  },
+  {
+    "canonical": "hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage v or end stage renal disease",
+    "cuis": ["C0348860"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["40391"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",
+      "icd9_formatted": "403.91",
+      "mimic_count": 2630
+    }
+  },
+  {
+    "canonical": "sepsis-associated hypotension",
+    "cuis": ["C0036983"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": [
+      "sepsis-associated hypotension",
+      "septic shock",
+      "septic shock (disorder)",
+      "septicemic shock"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["78552"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Septic shock",
+      "icd9_formatted": "785.52",
+      "mimic_count": 2586
+    }
+  },
+  {
+    "canonical": "aortic valve disease",
+    "cuis": ["C1260873"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "aortic valve disease",
+      "aortic valve disorder",
+      "aortic valve disorder (disorder)",
+      "aortic valve disorders",
+      "avd - aortic valve disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4241"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Aortic valve disorders",
+      "icd9_formatted": "424.1",
+      "mimic_count": 2550
+    }
+  },
+  {
+    "canonical": "long-term (current) use of insulin",
+    "cuis": ["C1455979"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["long-term (current) use of insulin"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V5867"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Long-term (current) use of insulin",
+      "icd9_formatted": "V58.67",
+      "mimic_count": 2538
+    }
+  },
+  {
+    "canonical": "other specified cardiac dysrhythmias",
+    "cuis": ["C0348626"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["42789"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other specified cardiac dysrhythmias",
+      "icd9_formatted": "427.89",
+      "mimic_count": 2453
+    }
+  },
+  {
+    "canonical": "obstructive sleep apnea",
+    "cuis": ["C0520679"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "obstructive sleep apnea",
+      "obstructive sleep apnea (adult)(pediatric)",
+      "obstructive sleep apnea syndrome",
+      "obstructive sleep apnea syndrome (disorder)",
+      "osa - obstructive sleep apnea"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["32723"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Obstructive sleep apnea (adult)(pediatric)",
+      "icd9_formatted": "327.23",
+      "mimic_count": 2380
+    }
+  },
+  {
+    "canonical": "cardiac complications, not elsewhere classified",
+    "cuis": ["C0549147"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["9971"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Cardiac complications, not elsewhere classified",
+      "icd9_formatted": "997.1",
+      "mimic_count": 2343
+    }
+  },
+  {
+    "canonical": "acute kidney failure with lesion of tubular necrosis",
+    "cuis": ["C2712977"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["acute kidney failure with lesion of tubular necrosis"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5845"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Acute kidney failure with lesion of tubular necrosis",
+      "icd9_formatted": "584.5",
+      "mimic_count": 2287
+    }
+  },
+  {
+    "canonical": "hyperosmolality and or hypernatremia",
+    "cuis": ["C0342580"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "hyperosmolality and or hypernatremia",
+      "hyperosmolality and or hypernatremia (disorder)",
+      "hyperosmolality and/or hypernatremia"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2760"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Hyperosmolality and/or hypernatremia",
+      "icd9_formatted": "276.0",
+      "mimic_count": 2272
+    }
+  },
+  {
+    "canonical": "asthma, unspecified type, unspecified",
+    "cuis": ["C0155886"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["49390"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Asthma, unspecified type, unspecified",
+      "icd9_formatted": "493.90",
+      "mimic_count": 2195
+    }
+  },
+  {
+    "canonical": "hyperkalemia",
+    "cuis": ["C0020461"],
+    "semtypes": ["Finding"],
+    "surface_forms": [
+      "hyperkalemia",
+      "hyperkalemia (disorder)",
+      "hyperkalemic syndrome",
+      "hyperpotassemia",
+      "k excess",
+      "k overload",
+      "potassium excess",
+      "potassium overload",
+      "potassium overload (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2767"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hyperpotassemia",
+      "icd9_formatted": "276.7",
+      "mimic_count": 2167
+    }
+  },
+  {
+    "canonical": "atelectasis",
+    "cuis": ["C0004144"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": [
+      "atelectasis",
+      "atelectasis (disorder)",
+      "collapse of lung",
+      "pulmonary atelectasis",
+      "pulmonary collapse",
+      "pulmonary collapse with atelectasis"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5180"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Pulmonary collapse",
+      "icd9_formatted": "518.0",
+      "mimic_count": 2165
+    }
+  },
+  {
+    "canonical": "other chronic pulmonary heart diseases",
+    "cuis": ["C0155673"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4168"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other chronic pulmonary heart diseases",
+      "icd9_formatted": "416.8",
+      "mimic_count": 2148
+    }
+  },
+  {
+    "canonical": "other iatrogenic hypotension",
+    "cuis": ["C1260414"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["45829"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other iatrogenic hypotension",
+      "icd9_formatted": "458.29",
+      "mimic_count": 2121
+    }
+  },
+  {
+    "canonical": "gout",
+    "cuis": ["C0018099"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["gout", "gout (disorder)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2749"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Gout, unspecified",
+      "icd9_formatted": "274.9",
+      "mimic_count": 2082
+    }
+  },
+  {
+    "canonical": "arterial hypotension",
+    "cuis": ["C0020649"],
+    "semtypes": ["Finding"],
+    "surface_forms": [
+      "arterial hypotension",
+      "hypopiesis",
+      "hypotension",
+      "low blood pressure",
+      "low blood pressure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4589"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hypotension, unspecified",
+      "icd9_formatted": "458.9",
+      "mimic_count": 2051
+    }
+  },
+  {
+    "canonical": "osteoporosis",
+    "cuis": ["C0029456"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["osteoporosis", "osteoporosis (disorder)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["73300"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Osteoporosis, unspecified",
+      "icd9_formatted": "733.00",
+      "mimic_count": 1946
+    }
+  },
+  {
+    "canonical": "other convulsions",
+    "cuis": ["C0490011"],
+    "semtypes": ["Sign or Symptom"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["78039"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other convulsions",
+      "icd9_formatted": "780.39",
+      "mimic_count": 1934
+    }
+  },
+  {
+    "canonical": "chronic renal failure",
+    "cuis": ["C0022661"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "chronic renal failure",
+      "chronic renal failure syndrome",
+      "chronic renal failure syndrome (disorder)",
+      "crf - chronic renal failure"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5856"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "End stage renal disease",
+      "icd9_formatted": "585.6",
+      "mimic_count": 1926
+    }
+  },
+  {
+    "canonical": "paroxysmal ventricular tachycardia",
+    "cuis": ["C0030591"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "paroxysmal ventricular tachycardia",
+      "paroxysmal ventricular tachycardia (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4271"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Paroxysmal ventricular tachycardia",
+      "icd9_formatted": "427.1",
+      "mimic_count": 1811
+    }
+  },
+  {
+    "canonical": "other primary cardiomyopathies",
+    "cuis": ["C0340419"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4254"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other primary cardiomyopathies",
+      "icd9_formatted": "425.4",
+      "mimic_count": 1709
+    }
+  },
+  {
+    "canonical": "crescendo angina",
+    "cuis": ["C0002965"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "crescendo angina",
+      "impending infarction",
+      "impending infarction (disorder)",
+      "intermediate coronary syndrome",
+      "unstable angina",
+      "worsening angina"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4111"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Intermediate coronary syndrome",
+      "icd9_formatted": "411.1",
+      "mimic_count": 1663
+    }
+  },
+  {
+    "canonical": "personal history of venous thrombosis and embolism",
+    "cuis": ["C0375800"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["personal history of venous thrombosis and embolism"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V1251"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Personal history of venous thrombosis and embolism",
+      "icd9_formatted": "V12.51",
+      "mimic_count": 1611
+    }
+  },
+  {
+    "canonical": "diabetic polyneuropathy",
+    "cuis": ["C0271680"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "diabetic polyneuropathy",
+      "polyneuropathy due to diabetes mellitus",
+      "polyneuropathy due to diabetes mellitus (disorder)",
+      "polyneuropathy in diabetes"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["3572"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Polyneuropathy in diabetes",
+      "icd9_formatted": "357.2",
+      "mimic_count": 1584
+    }
+  },
+  {
+    "canonical": "anxiety state",
+    "cuis": ["C0700613"],
+    "semtypes": ["Mental or Behavioral Dysfunction"],
+    "surface_forms": ["anxiety state", "anxiety state (finding)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["30000"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Anxiety state, unspecified",
+      "icd9_formatted": "300.00",
+      "mimic_count": 1580
+    }
+  },
+  {
+    "canonical": "hemorrhage complicating a procedure",
+    "cuis": ["C0375725"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": ["hemorrhage complicating a procedure"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["99811"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Hemorrhage complicating a procedure",
+      "icd9_formatted": "998.11",
+      "mimic_count": 1535
+    }
+  },
+  {
+    "canonical": "obese",
+    "cuis": ["C0028754"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "obese",
+      "obese (finding)",
+      "obesity",
+      "obesity (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["27800"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Obesity, unspecified",
+      "icd9_formatted": "278.00",
+      "mimic_count": 1511
+    }
+  },
+  {
+    "canonical": "other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",
+    "cuis": ["C0261596"],
+    "semtypes": ["Injury or Poisoning"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["E8798"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",
+      "icd9_formatted": "E879.8",
+      "mimic_count": 1502
+    }
+  },
+  {
+    "canonical": "coronary atherosclerosis of unspecified type of vessel, native or graft",
+    "cuis": ["C0837133"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["41400"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Coronary atherosclerosis of unspecified type of vessel, native or graft",
+      "icd9_formatted": "414.00",
+      "mimic_count": 1494
+    }
+  },
+  {
+    "canonical": "hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (luts)",
+    "cuis": ["C1719538"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["60000"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS)",
+      "icd9_formatted": "600.00",
+      "mimic_count": 1490
+    }
+  },
+  {
+    "canonical": "bacteremia",
+    "cuis": ["C0004610"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["bacteremia", "bacteremia (finding)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["7907"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Bacteremia",
+      "icd9_formatted": "790.7",
+      "mimic_count": 1478
+    }
+  },
+  {
+    "canonical": "delirium due to conditions classified elsewhere",
+    "cuis": ["C1456296"],
+    "semtypes": ["Mental or Behavioral Dysfunction"],
+    "surface_forms": ["delirium due to conditions classified elsewhere"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2930"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Delirium due to conditions classified elsewhere",
+      "icd9_formatted": "293.0",
+      "mimic_count": 1445
+    }
+  },
+  {
+    "canonical": "intestinal infection due to clostridium difficile",
+    "cuis": ["C0494025"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["intestinal infection due to clostridium difficile"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["00845"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Intestinal infection due to Clostridium difficile",
+      "icd9_formatted": "008.45",
+      "mimic_count": 1444
+    }
+  },
+  {
+    "canonical": "hypokalemia",
+    "cuis": ["C0020621"],
+    "semtypes": ["Finding"],
+    "surface_forms": [
+      "hypokalemia",
+      "hypokalemia (disorder)",
+      "hypokalemic syndrome",
+      "hypopotassemia",
+      "hypopotassemia syndrome",
+      "low serum potassium level"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2768"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hypopotassemia",
+      "icd9_formatted": "276.8",
+      "mimic_count": 1425
+    }
+  },
+  {
+    "canonical": "peripheral angiopathy",
+    "cuis": ["C0085096"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "peripheral angiopathy",
+      "peripheral vascular disease",
+      "peripheral vascular disease (disorder)",
+      "pvd - peripheral vascular disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4439"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Peripheral vascular disease, unspecified",
+      "icd9_formatted": "443.9",
+      "mimic_count": 1401
+    }
+  },
+  {
+    "canonical": "gastrointestinal bleed",
+    "cuis": ["C0017181"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": [
+      "gastrointestinal bleed",
+      "gastrointestinal bleeding",
+      "gastrointestinal hemorrhage",
+      "gastrointestinal hemorrhage (disorder)",
+      "gi - gastrointestinal bleed",
+      "gi - gastrointestinal hemorrhage",
+      "gi bleeding",
+      "gi hemorrhage",
+      "gih - gastrointestinal hemorrhage",
+      "git - gastrointestinal tract hemorrhage"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5789"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hemorrhage of gastrointestinal tract, unspecified",
+      "icd9_formatted": "578.9",
+      "mimic_count": 1397
+    }
+  },
+  {
+    "canonical": "cardiac pacemaker in situ",
+    "cuis": ["C2240369"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["cardiac pacemaker in situ"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V4501"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Cardiac pacemaker in situ",
+      "icd9_formatted": "V45.01",
+      "mimic_count": 1390
+    }
+  },
+  {
+    "canonical": "dehydration",
+    "cuis": ["C0011175"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "dehydration",
+      "dehydration (disorder)",
+      "pure water depletion syndrome"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["27651"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Dehydration",
+      "icd9_formatted": "276.51",
+      "mimic_count": 1384
+    }
+  },
+  {
+    "canonical": "anemia co-occurrent and due to chronic kidney disease",
+    "cuis": ["C1561828"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "anemia co-occurrent and due to chronic kidney disease",
+      "anemia in chronic kidney disease"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["28521"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Anemia in chronic kidney disease",
+      "icd9_formatted": "285.21",
+      "mimic_count": 1383
+    }
+  },
+  {
+    "canonical": "hypovolemia",
+    "cuis": ["C0546884"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["hypovolemia", "hypovolemia (finding)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["27652"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Hypovolemia",
+      "icd9_formatted": "276.52",
+      "mimic_count": 1374
+    }
+  },
+  {
+    "canonical": "cerebral hemorrhage",
+    "cuis": ["C2937358"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": [
+      "cerebral hemorrhage",
+      "cerebral hemorrhage (disorder)",
+      "ich - intracerebral hemorrhage",
+      "intracerebral hemorrhage"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["431"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Intracerebral hemorrhage",
+      "icd9_formatted": "431",
+      "mimic_count": 1367
+    }
+  },
+  {
+    "canonical": "asystole",
+    "cuis": ["C0018790"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "asystole",
+      "asystole (disorder)",
+      "cardiac arrest",
+      "cardiac arrest (disorder)",
+      "cardiac standstill"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["4275"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Cardiac arrest",
+      "icd9_formatted": "427.5",
+      "mimic_count": 1361
+    }
+  },
+  {
+    "canonical": "other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+    "cuis": ["C0261585"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["E8788"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",
+      "icd9_formatted": "E878.8",
+      "mimic_count": 1350
+    }
+  },
+  {
+    "canonical": "dnar - do not attempt resuscitation",
+    "cuis": ["C0582114"],
+    "semtypes": ["Finding"],
+    "surface_forms": [
+      "dnar - do not attempt resuscitation",
+      "dnr - do not resuscitate",
+      "do not resuscitate",
+      "do not resuscitate status",
+      "not for resuscitation",
+      "not for resuscitation (finding)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V4986"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Do not resuscitate status",
+      "icd9_formatted": "V49.86",
+      "mimic_count": 1327
+    }
+  },
+  {
+    "canonical": "arterial hypoxemia",
+    "cuis": ["C0700292"],
+    "semtypes": ["Finding"],
+    "surface_forms": [
+      "arterial hypoxemia",
+      "hypoxemia",
+      "hypoxemia (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["79902"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hypoxemia",
+      "icd9_formatted": "799.02",
+      "mimic_count": 1298
+    }
+  },
+  {
+    "canonical": "pressure ulcer, lower back",
+    "cuis": ["C1456141"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["pressure ulcer, lower back"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["70703"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Pressure ulcer, lower back",
+      "icd9_formatted": "707.03",
+      "mimic_count": 1289
+    }
+  },
+  {
+    "canonical": "cirrhosis of liver without mention of alcohol",
+    "cuis": ["C0008827"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5715"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Cirrhosis of liver without mention of alcohol",
+      "icd9_formatted": "571.5",
+      "mimic_count": 1287
+    }
+  },
+  {
+    "canonical": "personal history of malignant neoplasm of breast",
+    "cuis": ["C0260421"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["personal history of malignant neoplasm of breast"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V103"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Personal history of malignant neoplasm of breast",
+      "icd9_formatted": "V10.3",
+      "mimic_count": 1277
+    }
+  },
+  {
+    "canonical": "sepsis",
+    "cuis": ["C0243026"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": ["sepsis", "sepsis (disorder)", "systemic infection"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["99591"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Sepsis",
+      "icd9_formatted": "995.91",
+      "mimic_count": 1271
+    }
+  },
+  {
+    "canonical": "deficiency of macronutrients",
+    "cuis": ["C0033677"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": [
+      "deficiency of macronutrients",
+      "deficiency of macronutrients (disorder)",
+      "pcm - protein-calorie malnutrition",
+      "pem - protein-energy malnutrition",
+      "protein calorie malnutrition",
+      "protein-calorie malnutrition",
+      "protein-calorie undernutrition",
+      "protein-energy malnutrition"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["2639"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Unspecified protein-calorie malnutrition",
+      "icd9_formatted": "263.9",
+      "mimic_count": 1259
+    }
+  },
+  {
+    "canonical": "chronic diastolic heart failure",
+    "cuis": ["C2711480"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "chronic diastolic heart failure",
+      "chronic diastolic heart failure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["42832"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Chronic diastolic heart failure",
+      "icd9_formatted": "428.32",
+      "mimic_count": 1240
+    }
+  },
+  {
+    "canonical": "hematoma complicating a procedure",
+    "cuis": ["C0375726"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": ["hematoma complicating a procedure"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["99812"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Hematoma complicating a procedure",
+      "icd9_formatted": "998.12",
+      "mimic_count": 1224
+    }
+  },
+  {
+    "canonical": "acute on chronic diastolic heart failure",
+    "cuis": ["C2732749"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "acute on chronic diastolic heart failure",
+      "acute on chronic diastolic heart failure (disorder)"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["42833"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Acute on chronic diastolic heart failure",
+      "icd9_formatted": "428.33",
+      "mimic_count": 1220
+    }
+  },
+  {
+    "canonical": "chronic hepatitis c without mention of hepatic coma",
+    "cuis": ["C0375012"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["07054"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Chronic hepatitis C without mention of hepatic coma",
+      "icd9_formatted": "070.54",
+      "mimic_count": 1218
+    }
+  },
+  {
+    "canonical": "atrial flutter",
+    "cuis": ["C0004239"],
+    "semtypes": ["Pathologic Function"],
+    "surface_forms": ["atrial flutter", "atrial flutter (disorder)"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["42732"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Atrial flutter",
+      "icd9_formatted": "427.32",
+      "mimic_count": 1217
+    }
+  },
+  {
+    "canonical": "personal history of malignant neoplasm of prostate",
+    "cuis": ["C0260429"],
+    "semtypes": ["Finding"],
+    "surface_forms": ["personal history of malignant neoplasm of prostate"],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["V1046"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Personal history of malignant neoplasm of prostate",
+      "icd9_formatted": "V10.46",
+      "mimic_count": 1207
+    }
+  },
+  {
+    "canonical": "alcoholic cirrhosis",
+    "cuis": ["C0023891"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "alcoholic cirrhosis",
+      "alcoholic cirrhosis (disorder)",
+      "alcoholic cirrhosis of liver",
+      "alcoholic liver cirrhosis"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["5712"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Alcoholic cirrhosis of liver",
+      "icd9_formatted": "571.2",
+      "mimic_count": 1202
+    }
+  },
+  {
+    "canonical": "acute exacerbation of chronic obstructive bronchitis",
+    "cuis": ["C4041147"],
+    "semtypes": ["Disease or Syndrome"],
+    "surface_forms": [
+      "acute exacerbation of chronic obstructive bronchitis",
+      "obstructive chronic bronchitis with (acute) exacerbation"
+    ],
+    "db_links": {
+      "diagnoses": {
+        "icd9_exact": ["49121"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Obstructive chronic bronchitis with (acute) exacerbation",
+      "icd9_formatted": "491.21",
+      "mimic_count": 1198
+    }
+  },
+  {
+    "canonical": "venous catheterization, not elsewhere classified",
+    "cuis": ["C0162203"],
+    "semtypes": ["Health Care Activity"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3893"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Venous catheterization, not elsewhere classified",
+      "icd9_formatted": 38.93,
+      "mimic_count": 13133
+    }
+  },
+  {
+    "canonical": "endotracheal intubation",
+    "cuis": ["C0021932"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "endotracheal intubation",
+      "insertion of endotracheal tube",
+      "insertion of endotracheal tube (procedure)",
+      "intubation of trachea",
+      "tracheal intubation"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9604"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Insertion of endotracheal tube",
+      "icd9_formatted": 96.04,
+      "mimic_count": 9882
+    }
+  },
+  {
+    "canonical": "enteral infusion of concentrated nutritional substances",
+    "cuis": ["C0014329"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "enteral infusion of concentrated nutritional substances"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["966"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Enteral infusion of concentrated nutritional substances",
+      "icd9_formatted": 96.6,
+      "mimic_count": 9241
+    }
+  },
+  {
+    "canonical": "continuous invasive mechanical ventilation for less than 96 consecutive hours",
+    "cuis": ["C2349744"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9671"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Continuous invasive mechanical ventilation for less than 96 consecutive hours",
+      "icd9_formatted": 96.71,
+      "mimic_count": 8904
+    }
+  },
+  {
+    "canonical": "packed blood cell transfusion",
+    "cuis": ["C0178192"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "packed blood cell transfusion",
+      "packed blood cell transfusion (procedure)",
+      "transfusion of packed cells"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9904"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Transfusion of packed cells",
+      "icd9_formatted": 99.04,
+      "mimic_count": 7199
+    }
+  },
+  {
+    "canonical": "extracorporeal circulation auxiliary to open heart surgery",
+    "cuis": ["C0015355"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "extracorporeal circulation auxiliary to open heart surgery"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3961"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Extracorporeal circulation auxiliary to open heart surgery",
+      "icd9_formatted": 39.61,
+      "mimic_count": 6809
+    }
+  },
+  {
+    "canonical": "continuous invasive mechanical ventilation for 96 consecutive hours or more",
+    "cuis": ["C2349745"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9672"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Continuous invasive mechanical ventilation for 96 consecutive hours or more",
+      "icd9_formatted": 96.72,
+      "mimic_count": 5930
+    }
+  },
+  {
+    "canonical": "coronary angiography using two catheters",
+    "cuis": ["C0202861"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "coronary angiography using two catheters",
+      "coronary angiography using two catheters (procedure)",
+      "coronary arteriography using two catheters"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8856"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Coronary arteriography using two catheters",
+      "icd9_formatted": 88.56,
+      "mimic_count": 5140
+    }
+  },
+  {
+    "canonical": "arterial cannula insertion",
+    "cuis": ["C0007431"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "arterial cannula insertion",
+      "arterial cannula insertion (procedure)",
+      "arterial cannulation",
+      "arterial catheter insertion",
+      "arterial catheterization",
+      "arterial line insertion",
+      "cannulation of artery",
+      "catheterization of artery",
+      "insertion of catheter into artery",
+      "insertion of catheter into artery (procedure)",
+      "intra-arterial cannulation"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3891"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Arterial catheterization",
+      "icd9_formatted": 38.91,
+      "mimic_count": 4609
+    }
+  },
+  {
+    "canonical": "bypass internal mammary-coronary artery, single",
+    "cuis": ["C0021781"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "bypass internal mammary-coronary artery, single",
+      "single internal mammary-coronary artery bypass",
+      "single internal mammary-coronary artery bypass (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3615"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Single internal mammary-coronary artery bypass",
+      "icd9_formatted": 36.15,
+      "mimic_count": 4398
+    }
+  },
+  {
+    "canonical": "administration of total parenteral nutrition",
+    "cuis": ["C0030548"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "administration of total parenteral nutrition",
+      "administration of total parenteral nutrition (procedure)",
+      "hyperalimentation",
+      "parenteral hyperalimentation",
+      "parenteral infusion of concentrated nutritional substances",
+      "superalimentation",
+      "suralimentation",
+      "total parenteral nutrition",
+      "total parenteral nutrition (regime/therapy)",
+      "total parenteral nutrition administration"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9915"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Parenteral infusion of concentrated nutritional substances",
+      "icd9_formatted": 99.15,
+      "mimic_count": 4233
+    }
+  },
+  {
+    "canonical": "cardiac echo",
+    "cuis": ["C0013516"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "cardiac echo",
+      "cardiac us scan",
+      "diagnostic ultrasound of heart",
+      "echocardiogram",
+      "echocardiographic procedure",
+      "echocardiography",
+      "echocardiography (procedure)",
+      "ultrasonography of heart",
+      "ultrasound of heart",
+      "us heart scan",
+      "us scan of heart"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8872"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Diagnostic ultrasound of heart",
+      "icd9_formatted": 88.72,
+      "mimic_count": 3352
+    }
+  },
+  {
+    "canonical": "cardiac catheterization, left heart",
+    "cuis": ["C0189897"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "cardiac catheterization, left heart",
+      "catheterization of left heart",
+      "catheterization of left heart (procedure)",
+      "left heart cardiac catheterization"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3722"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Left heart cardiac catheterization",
+      "icd9_formatted": 37.22,
+      "mimic_count": 3209
+    }
+  },
+  {
+    "canonical": "extracorporeal hemodialysis",
+    "cuis": ["C0019004"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "extracorporeal hemodialysis",
+      "hd - hemodialysis",
+      "hemodialysis",
+      "hemodialysis (procedure)",
+      "hemodialysis procedure"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3995"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hemodialysis",
+      "icd9_formatted": 39.95,
+      "mimic_count": 3207
+    }
+  },
+  {
+    "canonical": "non-invasive mechanical ventilation",
+    "cuis": ["C2349740"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["non-invasive mechanical ventilation"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9390"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Non-invasive mechanical ventilation",
+      "icd9_formatted": 93.9,
+      "mimic_count": 2720
+    }
+  },
+  {
+    "canonical": "closed [endoscopic] biopsy of bronchus",
+    "cuis": ["C0176511"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": ["closed [endoscopic] biopsy of bronchus"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3324"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Closed [endoscopic] biopsy of bronchus",
+      "icd9_formatted": 33.24,
+      "mimic_count": 2676
+    }
+  },
+  {
+    "canonical": "cardiac catheterization, combined right and left heart",
+    "cuis": ["C0189898"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "cardiac catheterization, combined right and left heart",
+      "catheterization of both left and right heart",
+      "catheterization of both left and right heart (procedure)",
+      "combined right and left heart cardiac catheterization"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3723"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Combined right and left heart cardiac catheterization",
+      "icd9_formatted": 37.23,
+      "mimic_count": 2669
+    }
+  },
+  {
+    "canonical": "other endoscopy of small intestine",
+    "cuis": ["C0029611"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["4513"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other endoscopy of small intestine",
+      "icd9_formatted": 45.13,
+      "mimic_count": 2614
+    }
+  },
+  {
+    "canonical": "angiocardiography of left heart",
+    "cuis": ["C0202857"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "angiocardiography of left heart",
+      "angiocardiography of left heart (procedure)",
+      "angiocardiography of left heart structures",
+      "selective left atrial injection for angiography",
+      "selective left ventricular injection for angiography"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8853"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Angiocardiography of left heart structures",
+      "icd9_formatted": 88.53,
+      "mimic_count": 2105
+    }
+  },
+  {
+    "canonical": "incision of lung",
+    "cuis": ["C0189471"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "incision of lung",
+      "incision of lung (procedure)",
+      "pneumonotomy"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["331"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Incision of lung",
+      "icd9_formatted": 33.1,
+      "mimic_count": 2077
+    }
+  },
+  {
+    "canonical": "transfusion of other serum",
+    "cuis": ["C0040694"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9907"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Transfusion of other serum",
+      "icd9_formatted": 99.07,
+      "mimic_count": 2020
+    }
+  },
+  {
+    "canonical": "(aorto)coronary bypass of two coronary arteries",
+    "cuis": ["C0190228"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "(aorto)coronary bypass of two coronary arteries",
+      "aortocoronary bypass of two coronary arteries",
+      "aortocoronary bypass of two coronary arteries (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3612"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "(Aorto)coronary bypass of two coronary arteries",
+      "icd9_formatted": 36.12,
+      "mimic_count": 1903
+    }
+  },
+  {
+    "canonical": "temporary tracheostomy",
+    "cuis": ["C0039492"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "temporary tracheostomy",
+      "temporary tracheostomy (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["311"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Temporary tracheostomy",
+      "icd9_formatted": 31.1,
+      "mimic_count": 1772
+    }
+  },
+  {
+    "canonical": "injection or infusion of platelet inhibitor",
+    "cuis": ["C0795785"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["injection or infusion of platelet inhibitor"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9920"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Injection or infusion of platelet inhibitor",
+      "icd9_formatted": 99.2,
+      "mimic_count": 1696
+    }
+  },
+  {
+    "canonical": "chest aspiration",
+    "cuis": ["C0189477"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "chest aspiration",
+      "pleural aspiration",
+      "pleural cavity tap",
+      "pleural tap",
+      "pleurocentesis",
+      "thoracentesis",
+      "thoracentesis (procedure)",
+      "thoracic paracentesis",
+      "thoracocentesis"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3491"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Thoracentesis",
+      "icd9_formatted": 34.91,
+      "mimic_count": 1613
+    }
+  },
+  {
+    "canonical": "insertion of intercostal catheter for drainage",
+    "cuis": ["C0371436"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["insertion of intercostal catheter for drainage"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3404"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Insertion of intercostal catheter for drainage",
+      "icd9_formatted": 34.04,
+      "mimic_count": 1571
+    }
+  },
+  {
+    "canonical": "lymphatic operations",
+    "cuis": ["C0600057"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "lymphatic operations",
+      "lymphatic system surgical procedure",
+      "operation on lymphatic structure",
+      "operation on lymphatic structure (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["40"]
+      }
+    },
+    "provenance": {
+      "sources": ["SNOMEDCT_US.FN", "SNOMEDCT_US.PT", "SNOMEDCT_US.SY"],
+      "original_title": "Procedure on single vessel",
+      "icd9_formatted": 40.0,
+      "mimic_count": 1558
+    }
+  },
+  {
+    "canonical": "peg - percutaneous endoscopic gastrostomy",
+    "cuis": ["C0176751"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "peg - percutaneous endoscopic gastrostomy",
+      "percutaneous [endoscopic] gastrostomy [peg]",
+      "percutaneous endoscopic gastrostomy",
+      "percutaneous endoscopic insertion of gastrostomy tube"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["4311"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Percutaneous [endoscopic] gastrostomy [PEG]",
+      "icd9_formatted": 43.11,
+      "mimic_count": 1532
+    }
+  },
+  {
+    "canonical": "venous catheterization for renal dialysis",
+    "cuis": ["C0191126"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "venous catheterization for renal dialysis",
+      "venous catheterization for renal dialysis (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3895"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Venous catheterization for renal dialysis",
+      "icd9_formatted": 38.95,
+      "mimic_count": 1526
+    }
+  },
+  {
+    "canonical": "central venous catheter placement with guidance",
+    "cuis": ["C2921047"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["central venous catheter placement with guidance"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3897"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Central venous catheter placement with guidance",
+      "icd9_formatted": 38.97,
+      "mimic_count": 1483
+    }
+  },
+  {
+    "canonical": "paracentesis abdominis",
+    "cuis": ["C5779699"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "paracentesis abdominis",
+      "percutaneous abdominal drainage",
+      "percutaneous drainage of ascites",
+      "percutaneous drainage of ascites (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["5491"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Percutaneous abdominal drainage",
+      "icd9_formatted": 54.91,
+      "mimic_count": 1448
+    }
+  },
+  {
+    "canonical": "angiography of cerebral arteries",
+    "cuis": ["C0007767"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "angiography of cerebral arteries",
+      "angiography of cerebral arteries (procedure)",
+      "angiography of intracranial vessels",
+      "arteriography of cerebral arteries",
+      "arteriography of intracranial vessels",
+      "cerebral arteriogram",
+      "cerebral arteriography"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8841"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Arteriography of cerebral arteries",
+      "icd9_formatted": 88.41,
+      "mimic_count": 1343
+    }
+  },
+  {
+    "canonical": "fallopian tube operation",
+    "cuis": ["C0195463"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "fallopian tube operation",
+      "operation on fallopian tube",
+      "operation on fallopian tube (procedure)",
+      "tubal operations - fallopian"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["66"]
+      }
+    },
+    "provenance": {
+      "sources": ["SNOMEDCT_US.FN", "SNOMEDCT_US.PT", "SNOMEDCT_US.SY"],
+      "original_title": "Excision of lingual thyroid",
+      "icd9_formatted": 66.0,
+      "mimic_count": 1260
+    }
+  },
+  {
+    "canonical": "intravenous blood transfusion of platelets",
+    "cuis": ["C0086818"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "intravenous blood transfusion of platelets",
+      "intravenous blood transfusion of platelets (procedure)",
+      "platelet transfusion",
+      "platelet transfusion (procedure)",
+      "transfusion of platelets",
+      "transfusion of thrombocytes"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9905"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Transfusion of platelets",
+      "icd9_formatted": 99.05,
+      "mimic_count": 1233
+    }
+  },
+  {
+    "canonical": "insertion of coronary artery stent",
+    "cuis": ["C0521232"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "insertion of coronary artery stent",
+      "insertion of non-drug-eluting coronary artery stent(s)",
+      "placement of stent in coronary artery",
+      "placement of stent in coronary artery (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3606"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Insertion of non-drug-eluting coronary artery stent(s)",
+      "icd9_formatted": 36.06,
+      "mimic_count": 1210
+    }
+  },
+  {
+    "canonical": "insertion of drug-eluting coronary artery stent(s)",
+    "cuis": ["C1135452"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["insertion of drug-eluting coronary artery stent(s)"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3607"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Insertion of drug-eluting coronary artery stent(s)",
+      "icd9_formatted": 36.07,
+      "mimic_count": 1137
+    }
+  },
+  {
+    "canonical": "pulmonary artery wedge monitoring",
+    "cuis": ["C0204916"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "pulmonary artery wedge monitoring",
+      "pulmonary artery wedge pressure monitoring",
+      "pulmonary artery wedge pressure monitoring (regime/therapy)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8964"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Pulmonary artery wedge monitoring",
+      "icd9_formatted": 89.64,
+      "mimic_count": 1077
+    }
+  },
+  {
+    "canonical": "fiber-optic bronchoscopy",
+    "cuis": ["C0189391"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "fiber-optic bronchoscopy",
+      "fiberoptic bronchoscopy",
+      "fiberoptic bronchoscopy (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3322"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Fiber-optic bronchoscopy",
+      "icd9_formatted": 33.22,
+      "mimic_count": 1043
+    }
+  },
+  {
+    "canonical": "other bronchoscopy",
+    "cuis": ["C0029526"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3323"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other bronchoscopy",
+      "icd9_formatted": 33.23,
+      "mimic_count": 1023
+    }
+  },
+  {
+    "canonical": "implant of pulsation balloon",
+    "cuis": ["C0176599"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["implant of pulsation balloon"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3761"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Implant of pulsation balloon",
+      "icd9_formatted": 37.61,
+      "mimic_count": 1010
+    }
+  },
+  {
+    "canonical": "infusion of vasopressor agent",
+    "cuis": ["C0175624"],
+    "semtypes": ["Health Care Activity"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["17"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Infusion of vasopressor agent",
+      "icd9_formatted": 17.0,
+      "mimic_count": 830
+    }
+  },
+  {
+    "canonical": "other electric countershock of heart",
+    "cuis": ["C0029605"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9962"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other electric countershock of heart",
+      "icd9_formatted": 99.62,
+      "mimic_count": 778
+    }
+  },
+  {
+    "canonical": "interruption of the vena cava",
+    "cuis": ["C0191172"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["interruption of the vena cava"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["387"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Interruption of the vena cava",
+      "icd9_formatted": 38.7,
+      "mimic_count": 757
+    }
+  },
+  {
+    "canonical": "closure of skin and subcutaneous tissue of other sites",
+    "cuis": ["C0994533"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8659"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Closure of skin and subcutaneous tissue of other sites",
+      "icd9_formatted": 86.59,
+      "mimic_count": 691
+    }
+  },
+  {
+    "canonical": "angioplasty of other non-coronary vessel(s)",
+    "cuis": ["C1456093"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3950"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Angioplasty of other non-coronary vessel(s)",
+      "icd9_formatted": 39.5,
+      "mimic_count": 686
+    }
+  },
+  {
+    "canonical": "injection or infusion of thrombolytic agent",
+    "cuis": ["C0795784"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["injection or infusion of thrombolytic agent"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9910"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Injection or infusion of thrombolytic agent",
+      "icd9_formatted": 99.1,
+      "mimic_count": 680
+    }
+  },
+  {
+    "canonical": "arteriography of other intra-abdominal arteries",
+    "cuis": ["C0177782"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8847"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Arteriography of other intra-abdominal arteries",
+      "icd9_formatted": 88.47,
+      "mimic_count": 678
+    }
+  },
+  {
+    "canonical": "other operations on extraocular muscles and tendons",
+    "cuis": ["C0176289"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["159"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other operations on extraocular muscles and tendons",
+      "icd9_formatted": 15.9,
+      "mimic_count": 630
+    }
+  },
+  {
+    "canonical": "cardiopulmonary resuscitation",
+    "cuis": ["C0007203"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "cardiopulmonary resuscitation",
+      "cardiopulmonary resuscitation (procedure)",
+      "cardiopulmonary resuscitation, not otherwise specified",
+      "cpr - cardiopulmonary resuscitation"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9960"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Cardiopulmonary resuscitation, not otherwise specified",
+      "icd9_formatted": 99.6,
+      "mimic_count": 628
+    }
+  },
+  {
+    "canonical": "endoscopic control of gastric or duodenal bleeding",
+    "cuis": ["C0176770"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["endoscopic control of gastric or duodenal bleeding"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["4443"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Endoscopic control of gastric or duodenal bleeding",
+      "icd9_formatted": 44.43,
+      "mimic_count": 605
+    }
+  },
+  {
+    "canonical": "esophagogastroduodenoscopy [egd] with closed biopsy",
+    "cuis": ["C0176784"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": ["esophagogastroduodenoscopy [egd] with closed biopsy"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["4516"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Esophagogastroduodenoscopy [EGD] with closed biopsy",
+      "icd9_formatted": 45.16,
+      "mimic_count": 585
+    }
+  },
+  {
+    "canonical": "other intubation of respiratory tract",
+    "cuis": ["C0178095"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9605"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other intubation of respiratory tract",
+      "icd9_formatted": 96.05,
+      "mimic_count": 582
+    }
+  },
+  {
+    "canonical": "arteriography of femoral and other lower extremity arteries",
+    "cuis": ["C0177783"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8848"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Arteriography of femoral and other lower extremity arteries",
+      "icd9_formatted": 88.48,
+      "mimic_count": 578
+    }
+  },
+  {
+    "canonical": "cardiac catheterization, right heart",
+    "cuis": ["C0189896"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "cardiac catheterization, right heart",
+      "catheterization of right heart",
+      "catheterization of right heart (procedure)",
+      "introduction of catheter into right heart",
+      "right heart cardiac catheterization",
+      "right heart catheterization"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3721"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Right heart cardiac catheterization",
+      "icd9_formatted": 37.21,
+      "mimic_count": 564
+    }
+  },
+  {
+    "canonical": "angiocardiography of right heart",
+    "cuis": ["C0202856"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "angiocardiography of right heart",
+      "angiocardiography of right heart (procedure)",
+      "angiocardiography of right heart structures",
+      "selective right atrial injection for angiography",
+      "selective right ventricular injection for angiography"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["8852"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Angiocardiography of right heart structures",
+      "icd9_formatted": 88.52,
+      "mimic_count": 531
+    }
+  },
+  {
+    "canonical": "injection or infusion of cancer chemotherapeutic substance",
+    "cuis": ["C0178200"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "injection or infusion of cancer chemotherapeutic substance"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9925"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Injection or infusion of cancer chemotherapeutic substance",
+      "icd9_formatted": 99.25,
+      "mimic_count": 510
+    }
+  },
+  {
+    "canonical": "intracapsular extraction of lens",
+    "cuis": ["C0197717"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "intracapsular extraction of lens",
+      "intracapsular extraction of lens (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["131"]
+      }
+    },
+    "provenance": {
+      "sources": ["SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Incision of cerebral meninges",
+      "icd9_formatted": 13.1,
+      "mimic_count": 484
+    }
+  },
+  {
+    "canonical": "endoscopic insertion of stent (tube) into bile duct",
+    "cuis": ["C0176924"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "endoscopic insertion of stent (tube) into bile duct",
+      "endoscopic insertion of stent into bile duct",
+      "endoscopic insertion of stent into bile duct (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["5187"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Endoscopic insertion of stent (tube) into bile duct",
+      "icd9_formatted": 51.87,
+      "mimic_count": 478
+    }
+  },
+  {
+    "canonical": "injection or infusion of other therapeutic or prophylactic substance",
+    "cuis": ["C0178197"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["9929"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Injection or infusion of other therapeutic or prophylactic substance",
+      "icd9_formatted": 99.29,
+      "mimic_count": 473
+    }
+  },
+  {
+    "canonical": "insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s)",
+    "cuis": ["C2712582"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3990"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s)",
+      "icd9_formatted": 39.9,
+      "mimic_count": 463
+    }
+  },
+  {
+    "canonical": "cholecystectomy",
+    "cuis": ["C0008320"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "cholecystectomy",
+      "cholecystectomy (procedure)",
+      "excision of gallbladder",
+      "gallbladder excision",
+      "removal of gallbladder"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["5122"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Cholecystectomy",
+      "icd9_formatted": 51.22,
+      "mimic_count": 449
+    }
+  },
+  {
+    "canonical": "initial implantation of cardiac dual-chamber device",
+    "cuis": ["C0189848"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "initial implantation of cardiac dual-chamber device",
+      "initial insertion of cardiac dual-chamber device",
+      "initial insertion of cardiac pacemaker dual-chamber device",
+      "initial insertion of dual-chamber device"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3783"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Initial insertion of dual-chamber device",
+      "icd9_formatted": 37.83,
+      "mimic_count": 449
+    }
+  },
+  {
+    "canonical": "initial insertion of transvenous leads [electrodes] into atrium and ventricle",
+    "cuis": ["C0189824"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3772"]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Initial insertion of transvenous leads [electrodes] into atrium and ventricle",
+      "icd9_formatted": 37.72,
+      "mimic_count": 448
+    }
+  },
+  {
+    "canonical": "other enterostomy",
+    "cuis": ["C0029612"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["4639"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other enterostomy",
+      "icd9_formatted": 46.39,
+      "mimic_count": 447
+    }
+  },
+  {
+    "canonical": "insertion of two vascular stents",
+    "cuis": ["C0399857"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["46"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Insertion of two vascular stents",
+      "icd9_formatted": 46.0,
+      "mimic_count": 425
+    }
+  },
+  {
+    "canonical": "cardiac electrophysiologic stimulation and recording study",
+    "cuis": ["C0199551"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [
+      "cardiac electrophysiologic stimulation and recording study",
+      "catheter based invasive electrophysiologic testing"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3726"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Catheter based invasive electrophysiologic testing",
+      "icd9_formatted": 37.26,
+      "mimic_count": 412
+    }
+  },
+  {
+    "canonical": "pericardiocentesis",
+    "cuis": ["C0191234"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": ["pericardiocentesis", "pericardiocentesis (procedure)"],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["370"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT", "SNOMEDCT_US.FN", "SNOMEDCT_US.PT"],
+      "original_title": "Pericardiocentesis",
+      "icd9_formatted": 37.0,
+      "mimic_count": 410
+    }
+  },
+  {
+    "canonical": "lens operations",
+    "cuis": ["C0197672"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [
+      "lens operations",
+      "operation on lens",
+      "operation on lens (procedure)",
+      "operative procedure on ocular lens"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["13"]
+      }
+    },
+    "provenance": {
+      "sources": ["SNOMEDCT_US.FN", "SNOMEDCT_US.PT", "SNOMEDCT_US.SY"],
+      "original_title": "Injection or infusion of nesiritide",
+      "icd9_formatted": 13.0,
+      "mimic_count": 402
+    }
+  },
+  {
+    "canonical": "other endovascular procedures on other vessels",
+    "cuis": ["C2712581"],
+    "semtypes": ["Therapeutic or Preventive Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3979"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Other endovascular procedures on other vessels",
+      "icd9_formatted": 39.79,
+      "mimic_count": 384
+    }
+  },
+  {
+    "canonical": "laryngoscopy and other tracheoscopy",
+    "cuis": ["C0023073"],
+    "semtypes": ["Diagnostic Procedure"],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": ["3142"]
+      }
+    },
+    "provenance": {
+      "sources": ["ICD9CM.PT"],
+      "original_title": "Laryngoscopy and other tracheoscopy",
+      "icd9_formatted": 31.42,
+      "mimic_count": 359
+    }
+  },
+  {
+    "canonical": "potassium chloride",
+    "cuis": ["C0032825"],
+    "surface_forms": [
+      "potassium chloride",
+      "potassium chloride-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "POTASSIUM CHLORIDE",
+          "POTASSIUM CHLORIDE (POWDER)",
+          "POTASSIUM CHLORIDE REPLACEMENT (ONCOLOGY)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "POTASSIUM CHLORIDE",
+      "mimic_count": 193323
+    }
+  },
+  {
+    "canonical": "insulin",
+    "cuis": ["C0021658", "C0021666"],
+    "surface_forms": [
+      "igf 2 - insulin-like growth factor 2",
+      "igf-ii",
+      "insulin isophane",
+      "insulin-like growth factor 2",
+      "insulin-like growth factor ii",
+      "isophane insulin",
+      "isophane insulin-containing product",
+      "neutral protamine hagedorn insulin",
+      "sm-a",
+      "somatomedin a"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HUMULIN-R INSULIN",
+          "INSULIN",
+          "INSULIN HUMAN REGULAR"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "INSULIN",
+      "mimic_count": 143469
+    }
+  },
+  {
+    "canonical": "furosemide",
+    "cuis": ["C0016860"],
+    "surface_forms": [
+      "frusemide",
+      "furosemide",
+      "furosemide-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["FUROSEMIDE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "FUROSEMIDE",
+      "mimic_count": 133102
+    }
+  },
+  {
+    "canonical": "ns",
+    "cuis": ["C0001050", "C0003009"],
+    "surface_forms": [
+      "acetyldigoxin",
+      "acetyldigoxins",
+      "angiotensin 2",
+      "angiotensin ii",
+      "angiotensin ii-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "1/2 NS",
+          "ALUMINUM HYDROXIDE SUSPENSION",
+          "ATOVAQUONE SUSPENSION",
+          "CHLORHEXIDINE GLUCONATE 0.12% ORAL RINSE",
+          "CLINDAMYCIN SUSPENSION",
+          "D5 1/2NS",
+          "D5NS",
+          "ESTROGENS CONJUGATED",
+          "HUMULIN-R INSULIN",
+          "IBUPROFEN SUSPENSION",
+          "INSULIN",
+          "INSULIN HUMAN REGULAR",
+          "LANSOPRAZOLE",
+          "LANSOPRAZOLE ORAL DISINTEGRATING TAB",
+          "LANSOPRAZOLE ORAL SOLUTION",
+          "LANSOPRAZOLE ORAL SUSPENSION",
+          "MULTIPLE VITAMINS LIQ.",
+          "MULTIVITAMINS",
+          "MULTIVITAMINS W/MINERALS",
+          "NS",
+          "NS        (GLASS BOTTLE)",
+          "NS (GLASS BOTTLE)",
+          "NS (IRRIGATION BOTTLE)",
+          "NS (MINI BAG PLUS)",
+          "NYSTATIN ORAL SUSPENSION",
+          "ONDANSETRON",
+          "ONDANSETRON ODT",
+          "POTASSIUM CHL 20 MEQ / 1000 ML D5 1/2 NS",
+          "POTASSIUM CHL 20 MEQ / 1000 ML D5NS",
+          "POTASSIUM CHL 20 MEQ / 1000 ML NS",
+          "POTASSIUM CHL 40 MEQ / 1000 ML D5 1/2 NS",
+          "POTASSIUM CHL 40 MEQ / 1000 ML NS",
+          "SULFAMETH/TRIMETHOPRIM SUSPENSION"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "NS",
+      "mimic_count": 129731
+    }
+  },
+  {
+    "canonical": "magnesium sulfate",
+    "cuis": ["C0024480"],
+    "surface_forms": [
+      "magnesium sulfate",
+      "magnesium sulfate-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["MAGNESIUM SULFATE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "MAGNESIUM SULFATE",
+      "mimic_count": 90401
+    }
+  },
+  {
+    "canonical": "acetaminophen",
+    "cuis": ["C0000970"],
+    "surface_forms": [
+      "acetaminophen",
+      "acetaminophen-containing product",
+      "paracetamol",
+      "paracetamol-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "ACETAMINOPHEN",
+          "ACETAMINOPHEN (LIQUID)",
+          "ACETAMINOPHEN IV",
+          "ACETAMINOPHEN W/CODEINE",
+          "HYDROCODONE-ACETAMINOPHEN",
+          "OXYCODONE-ACETAMINOPHEN",
+          "OXYCODONE-ACETAMINOPHEN ELIXIR"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "ACETAMINOPHEN",
+      "mimic_count": 78757
+    }
+  },
+  {
+    "canonical": "metoprolol",
+    "cuis": ["C0025859"],
+    "surface_forms": ["metoprolol", "metoprolol-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "METOPROLOL",
+          "METOPROLOL SUCCINATE XL",
+          "METOPROLOL TARTRATE",
+          "METOPROLOL XL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "METOPROLOL",
+      "mimic_count": 73972
+    }
+  },
+  {
+    "canonical": "5% dextrose",
+    "cuis": ["C0722153", "C1725310"],
+    "surface_forms": [
+      "isolyte s in 5 % dextrose",
+      "normosol-r in 5 % dextrose"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["5% DEXTROSE", "AMINO ACIDS 4.25% W/ DEXTROSE 5%"]
+      }
+    },
+    "provenance": {
+      "original_drug": "5% DEXTROSE",
+      "mimic_count": 73829
+    }
+  },
+  {
+    "canonical": "sw",
+    "cuis": ["C0004924", "C0873038"],
+    "surface_forms": [
+      "beeswax",
+      "beeswax-containing product",
+      "boswellia preparation",
+      "boswellia serrata extract",
+      "indian frankincense extract",
+      "yellow wax"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["SW"]
+      }
+    },
+    "provenance": {
+      "original_drug": "SW",
+      "mimic_count": 72522
+    }
+  },
+  {
+    "canonical": "morphine sulfate",
+    "cuis": ["C0353588", "C0353589"],
+    "surface_forms": [
+      "morphine sulfate 5 mg/ml oral suspension",
+      "morphine sulfate 6.67 mg/ml oral suspension",
+      "ms 5 mg/ml oral suspension",
+      "ms 6.67 mg/ml oral suspension"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "MORPHINE SULFATE",
+          "MORPHINE SULFATE (CONCENTRATED ORAL SOLN)",
+          "MORPHINE SULFATE (ORAL SOLN.)",
+          "MORPHINE SULFATE IR"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "MORPHINE SULFATE",
+      "mimic_count": 62116
+    }
+  },
+  {
+    "canonical": "metoprolol tartrate",
+    "cuis": ["C0708591", "C0708592"],
+    "surface_forms": [
+      "lopressor 100 mg oral tablet",
+      "lopressor 50 mg oral tablet"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["METOPROLOL TARTRATE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "METOPROLOL TARTRATE",
+      "mimic_count": 59799
+    }
+  },
+  {
+    "canonical": "lorazepam",
+    "cuis": ["C0024002"],
+    "surface_forms": ["lorazepam", "lorazepam-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["LORAZEPAM"]
+      }
+    },
+    "provenance": {
+      "original_drug": "LORAZEPAM",
+      "mimic_count": 55326
+    }
+  },
+  {
+    "canonical": "calcium gluconate",
+    "cuis": ["C0006699"],
+    "surface_forms": [
+      "calcium gluconate",
+      "calcium gluconate-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["CALCIUM GLUCONATE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "CALCIUM GLUCONATE",
+      "mimic_count": 52077
+    }
+  },
+  {
+    "canonical": "heparin",
+    "cuis": ["C0019134"],
+    "surface_forms": [
+      "heparin",
+      "heparin-containing product",
+      "unfractionated heparin"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HEPARIN",
+          "HEPARIN CRRT",
+          "HEPARIN FLUSH ",
+          "HEPARIN FLUSH (10 UNITS/ML)",
+          "HEPARIN FLUSH (100 UNITS/ML)",
+          "HEPARIN FLUSH (5000 UNITS/ML)",
+          "HEPARIN FLUSH CRRT (5000 UNITS/ML)",
+          "HEPARIN FLUSH CVL  (100 UNITS/ML)",
+          "HEPARIN FLUSH HICKMAN (100 UNITS/ML)",
+          "HEPARIN FLUSH PICC (100 UNITS/ML)",
+          "HEPARIN LOCK FLUSH",
+          "HEPARIN SODIUM"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "HEPARIN",
+      "mimic_count": 52070
+    }
+  },
+  {
+    "canonical": "docusate sodium",
+    "cuis": ["C0543137", "C0691401"],
+    "surface_forms": [
+      "docusate sodium 5 % otic solution",
+      "docusate sodium 50 mg/ml ear drops",
+      "doss sodium 50 mg oral capsule",
+      "doss sodium 50 mg/ml otic solution"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["DOCUSATE SODIUM", "DOCUSATE SODIUM (LIQUID)"]
+      }
+    },
+    "provenance": {
+      "original_drug": "DOCUSATE SODIUM",
+      "mimic_count": 45694
+    }
+  },
+  {
+    "canonical": "vancomycin",
+    "cuis": ["C0042313"],
+    "surface_forms": ["vancomycin", "vancomycin-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "VANCOMYCIN",
+          "VANCOMYCIN ENEMA",
+          "VANCOMYCIN HCL",
+          "VANCOMYCIN ORAL LIQUID"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "VANCOMYCIN",
+      "mimic_count": 42634
+    }
+  },
+  {
+    "canonical": "bisacodyl",
+    "cuis": ["C0005632"],
+    "surface_forms": ["bisacodyl", "bisacodyl-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["BISACODYL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "BISACODYL",
+      "mimic_count": 41076
+    }
+  },
+  {
+    "canonical": "warfarin",
+    "cuis": ["C0043031"],
+    "surface_forms": ["warfarin", "warfarin-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["WARFARIN"]
+      }
+    },
+    "provenance": {
+      "original_drug": "WARFARIN",
+      "mimic_count": 39684
+    }
+  },
+  {
+    "canonical": "heparin sodium",
+    "cuis": ["C0702812", "C0977396"],
+    "surface_forms": ["heparin sodium"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["HEPARIN SODIUM"]
+      }
+    },
+    "provenance": {
+      "original_drug": "HEPARIN SODIUM",
+      "mimic_count": 37699
+    }
+  },
+  {
+    "canonical": "lr",
+    "cuis": ["C0019497", "C0057678"],
+    "surface_forms": [
+      "diacerein",
+      "diacerein-containing product",
+      "diacetylrhein",
+      "hexylresorcinol",
+      "hexylresorcinol-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["D5LR", "LR", "MILRINONE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "LR",
+      "mimic_count": 35409
+    }
+  },
+  {
+    "canonical": "propofol",
+    "cuis": ["C0033487"],
+    "surface_forms": ["propofol", "propofol-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["PROPOFOL", "PROPOFOL (GENERIC)"]
+      }
+    },
+    "provenance": {
+      "original_drug": "PROPOFOL",
+      "mimic_count": 34327
+    }
+  },
+  {
+    "canonical": "pantoprazole",
+    "cuis": ["C0081876"],
+    "surface_forms": ["pantoprazole", "pantoprazole-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["PANTOPRAZOLE", "PANTOPRAZOLE SODIUM"]
+      }
+    },
+    "provenance": {
+      "original_drug": "PANTOPRAZOLE",
+      "mimic_count": 33587
+    }
+  },
+  {
+    "canonical": "senna",
+    "cuis": ["C0723272", "C0724699"],
+    "surface_forms": ["senna-relief childs", "standardized senna concentrate"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["SENNA"]
+      }
+    },
+    "provenance": {
+      "original_drug": "SENNA",
+      "mimic_count": 29154
+    }
+  },
+  {
+    "canonical": "aspirin",
+    "cuis": ["C0004057"],
+    "surface_forms": [
+      "acetylsalicylic acid",
+      "aspirin",
+      "aspirin-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["ASPIRIN", "ASPIRIN EC"]
+      }
+    },
+    "provenance": {
+      "original_drug": "ASPIRIN",
+      "mimic_count": 28421
+    }
+  },
+  {
+    "canonical": "bag",
+    "cuis": ["C1095889", "C2353303"],
+    "surface_forms": ["cabbage preparation", "carbaglu"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "0.9% SODIUM CHLORIDE (MINI BAG PLUS)",
+          "BAG",
+          "D5W (EXCEL BAG)",
+          "EPIDURAL BAG",
+          "NS (MINI BAG PLUS)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "BAG",
+      "mimic_count": 25745
+    }
+  },
+  {
+    "canonical": "vial",
+    "cuis": ["C3255595"],
+    "surface_forms": ["haematococcus pluvialis extract"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["VIAL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "VIAL",
+      "mimic_count": 24502
+    }
+  },
+  {
+    "canonical": "ondansetron",
+    "cuis": ["C0061851"],
+    "surface_forms": ["ondansetron", "ondansetron-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["ONDANSETRON", "ONDANSETRON ODT"]
+      }
+    },
+    "provenance": {
+      "original_drug": "ONDANSETRON",
+      "mimic_count": 21241
+    }
+  },
+  {
+    "canonical": "levofloxacin",
+    "cuis": ["C0282386"],
+    "surface_forms": ["levofloxacin", "levofloxacin-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["LEVOFLOXACIN"]
+      }
+    },
+    "provenance": {
+      "original_drug": "LEVOFLOXACIN",
+      "mimic_count": 20890
+    }
+  },
+  {
+    "canonical": "haloperidol",
+    "cuis": ["C0018546"],
+    "surface_forms": ["haloperidol", "haloperidol-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["HALOPERIDOL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "HALOPERIDOL",
+      "mimic_count": 20686
+    }
+  },
+  {
+    "canonical": "ranitidine",
+    "cuis": ["C0034665"],
+    "surface_forms": ["ranitidine", "ranitidine-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["RANITIDINE", "RANITIDINE (LIQUID)"]
+      }
+    },
+    "provenance": {
+      "original_drug": "RANITIDINE",
+      "mimic_count": 20251
+    }
+  },
+  {
+    "canonical": "prednisone",
+    "cuis": ["C0032952"],
+    "surface_forms": ["prednisone", "prednisone-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["PREDNISONE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "PREDNISONE",
+      "mimic_count": 18974
+    }
+  },
+  {
+    "canonical": "famotidine",
+    "cuis": ["C0015620"],
+    "surface_forms": ["famotidine", "famotidine-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["FAMOTIDINE", "FAMOTIDINE (IV)"]
+      }
+    },
+    "provenance": {
+      "original_drug": "FAMOTIDINE",
+      "mimic_count": 18700
+    }
+  },
+  {
+    "canonical": "lisinopril",
+    "cuis": ["C0065374"],
+    "surface_forms": ["lisinopril", "lisinopril-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["LISINOPRIL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "LISINOPRIL",
+      "mimic_count": 18669
+    }
+  },
+  {
+    "canonical": "sodium bicarbonate",
+    "cuis": ["C0074722"],
+    "surface_forms": [
+      "baking soda",
+      "sodium acid carbonate",
+      "sodium bicarbonate",
+      "sodium bicarbonate-containing product",
+      "sodium hydrogen carbonate"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["SODIUM BICARBONATE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "SODIUM BICARBONATE",
+      "mimic_count": 18596
+    }
+  },
+  {
+    "canonical": "potassium phosphate",
+    "cuis": ["C0071778"],
+    "surface_forms": [
+      "potassium phosphate",
+      "potassium phosphate-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["POTASSIUM PHOSPHATE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "POTASSIUM PHOSPHATE",
+      "mimic_count": 17803
+    }
+  },
+  {
+    "canonical": "atorvastatin",
+    "cuis": ["C0286651"],
+    "surface_forms": ["atorvastatin", "atorvastatin-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["ATORVASTATIN"]
+      }
+    },
+    "provenance": {
+      "original_drug": "ATORVASTATIN",
+      "mimic_count": 17330
+    }
+  },
+  {
+    "canonical": "nitroglycerin",
+    "cuis": ["C0017887"],
+    "surface_forms": [
+      "glyceryl trinitrate",
+      "glyceryl trinitrate-containing product",
+      "nitroglycerin",
+      "nitroglycerin-containing product",
+      "nitroglycerol"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "NITROGLYCERIN",
+          "NITROGLYCERIN OINT. 2%",
+          "NITROGLYCERIN OINTMENT  2%",
+          "NITROGLYCERIN SL"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "NITROGLYCERIN",
+      "mimic_count": 16765
+    }
+  },
+  {
+    "canonical": "hydralazine",
+    "cuis": ["C0020223"],
+    "surface_forms": ["hydralazine", "hydralazine-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["HYDRALAZINE", "HYDRALAZINE HCL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "HYDRALAZINE",
+      "mimic_count": 16565
+    }
+  },
+  {
+    "canonical": "diltiazem",
+    "cuis": ["C0012373"],
+    "surface_forms": ["diltiazem", "diltiazem-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["DILTIAZEM", "DILTIAZEM EXTENDED-RELEASE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "DILTIAZEM",
+      "mimic_count": 16374
+    }
+  },
+  {
+    "canonical": "metoclopramide",
+    "cuis": ["C0025853"],
+    "surface_forms": ["metoclopramide", "metoclopramide-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["METOCLOPRAMIDE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "METOCLOPRAMIDE",
+      "mimic_count": 16103
+    }
+  },
+  {
+    "canonical": "amiodarone",
+    "cuis": ["C0002598"],
+    "surface_forms": ["amiodarone", "amiodarone-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["AMIODARONE", "AMIODARONE HCL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "AMIODARONE",
+      "mimic_count": 15931
+    }
+  },
+  {
+    "canonical": "phenylephrine",
+    "cuis": ["C0031469"],
+    "surface_forms": ["phenylephrine", "phenylephrine-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["PHENYLEPHRINE", "PHENYLEPHRINE HCL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "PHENYLEPHRINE",
+      "mimic_count": 13847
+    }
+  },
+  {
+    "canonical": "midazolam",
+    "cuis": ["C0026056"],
+    "surface_forms": ["midazolam", "midazolam-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["MIDAZOLAM", "MIDAZOLAM HCL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "MIDAZOLAM",
+      "mimic_count": 13588
+    }
+  },
+  {
+    "canonical": "syringe",
+    "cuis": ["C0354540", "C0359525"],
+    "surface_forms": [
+      "calcium chloride 10 % in 10 ml prefilled syringe",
+      "epinephrine 1 mg per 10 ml prefilled syringe"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "SYRINGE",
+          "SYRINGE (0.9% SODIUM CHLORIDE)",
+          "SYRINGE (CHEMO)",
+          "SYRINGE (IV ROOM)"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "SYRINGE",
+      "mimic_count": 13383
+    }
+  },
+  {
+    "canonical": "hydromorphone",
+    "cuis": ["C0012306"],
+    "surface_forms": [
+      "dihydromorphinone",
+      "hydromorphone",
+      "hydromorphone-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": [
+          "HYDROMORPHONE",
+          "HYDROMORPHONE (DILAUDID)",
+          "HYDROMORPHONE P.F.",
+          "HYDROMORPHONE-HP"
+        ]
+      }
+    },
+    "provenance": {
+      "original_drug": "HYDROMORPHONE",
+      "mimic_count": 13298
+    }
+  },
+  {
+    "canonical": "cefazolin",
+    "cuis": ["C0007546"],
+    "surface_forms": ["cefazolin", "cefazolin-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["CEFAZOLIN"]
+      }
+    },
+    "provenance": {
+      "original_drug": "CEFAZOLIN",
+      "mimic_count": 13260
+    }
+  },
+  {
+    "canonical": "milk of magnesia",
+    "cuis": ["C0712854", "C0712862"],
+    "surface_forms": [
+      "phillips milk of magnesia 16 % oral suspension",
+      "phillips milk of magnesia 80 mg/ml oral suspension"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["MILK OF MAGNESIA"]
+      }
+    },
+    "provenance": {
+      "original_drug": "MILK OF MAGNESIA",
+      "mimic_count": 12875
+    }
+  },
+  {
+    "canonical": "norepinephrine",
+    "cuis": ["C0028351"],
+    "surface_forms": [
+      "noradrenaline",
+      "noradrenaline-containing product",
+      "norepinephrine",
+      "norepinephrine-containing product"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["NOREPINEPHRINE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "NOREPINEPHRINE",
+      "mimic_count": 12287
+    }
+  },
+  {
+    "canonical": "tacrolimus",
+    "cuis": ["C0085149"],
+    "surface_forms": ["tacrolimus", "tacrolimus-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["TACROLIMUS"]
+      }
+    },
+    "provenance": {
+      "original_drug": "TACROLIMUS",
+      "mimic_count": 12004
+    }
+  },
+  {
+    "canonical": "levothyroxine sodium",
+    "cuis": ["C0707538", "C0707539"],
+    "surface_forms": [
+      "euthyrox 0.025 mg oral tablet",
+      "euthyrox 25 mcg oral tablet",
+      "levo-t 0.025 mg oral tablet",
+      "levo-t 25 mcg oral tablet"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["LEVOTHYROXINE SODIUM"]
+      }
+    },
+    "provenance": {
+      "original_drug": "LEVOTHYROXINE SODIUM",
+      "mimic_count": 11957
+    }
+  },
+  {
+    "canonical": "captopril",
+    "cuis": ["C0006938"],
+    "surface_forms": ["captopril", "captopril-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["CAPTOPRIL"]
+      }
+    },
+    "provenance": {
+      "original_drug": "CAPTOPRIL",
+      "mimic_count": 11685
+    }
+  },
+  {
+    "canonical": "glucagon",
+    "cuis": ["C0017687"],
+    "surface_forms": ["glucagon", "glucagon-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["GLUCAGON"]
+      }
+    },
+    "provenance": {
+      "original_drug": "GLUCAGON",
+      "mimic_count": 11571
+    }
+  },
+  {
+    "canonical": "lactulose",
+    "cuis": ["C0022957"],
+    "surface_forms": ["lactulose", "lactulose-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["LACTULOSE", "LACTULOSE ENEMA"]
+      }
+    },
+    "provenance": {
+      "original_drug": "LACTULOSE",
+      "mimic_count": 11544
+    }
+  },
+  {
+    "canonical": "folic acid",
+    "cuis": ["C0016410"],
+    "surface_forms": [
+      "fa - folic acid",
+      "folic acid",
+      "folic acid-containing product",
+      "lactobacillus casei factor",
+      "pteroylmonoglutamic acid",
+      "vitamin b>c<"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["FOLIC ACID"]
+      }
+    },
+    "provenance": {
+      "original_drug": "FOLIC ACID",
+      "mimic_count": 10792
+    }
+  },
+  {
+    "canonical": "dexamethasone",
+    "cuis": ["C0011777"],
+    "surface_forms": ["dexamethasone", "dexamethasone-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["DEXAMETHASONE", "DEXAMETHASONE SOD PHOSPHATE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "DEXAMETHASONE",
+      "mimic_count": 10713
+    }
+  },
+  {
+    "canonical": "phenytoin sodium",
+    "cuis": ["C0355683", "C0355684"],
+    "surface_forms": [
+      "dph sodium 25 mg oral capsule",
+      "dph sodium 300 mg oral capsule",
+      "phenytoin sodium 25 mg oral capsule",
+      "phenytoin sodium 300 mg oral capsule"
+    ],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["PHENYTOIN SODIUM"]
+      }
+    },
+    "provenance": {
+      "original_drug": "PHENYTOIN SODIUM",
+      "mimic_count": 10453
+    }
+  },
+  {
+    "canonical": "diazepam",
+    "cuis": ["C0012010"],
+    "surface_forms": ["diazepam", "diazepam-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["DIAZEPAM"]
+      }
+    },
+    "provenance": {
+      "original_drug": "DIAZEPAM",
+      "mimic_count": 10385
+    }
+  },
+  {
+    "canonical": "simvastatin",
+    "cuis": ["C0074554"],
+    "surface_forms": ["simvastatin", "simvastatin-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["SIMVASTATIN"]
+      }
+    },
+    "provenance": {
+      "original_drug": "SIMVASTATIN",
+      "mimic_count": 9604
+    }
+  },
+  {
+    "canonical": "cefepime",
+    "cuis": ["C0055003"],
+    "surface_forms": ["cefepime", "cefepime-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["CEFEPIME"]
+      }
+    },
+    "provenance": {
+      "original_drug": "CEFEPIME",
+      "mimic_count": 9475
+    }
+  },
+  {
+    "canonical": "zolpidem tartrate",
+    "cuis": ["C0712699", "C0712713"],
+    "surface_forms": ["ambien 10 mg oral tablet", "ambien 5 mg oral tablet"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["ZOLPIDEM TARTRATE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "ZOLPIDEM TARTRATE",
+      "mimic_count": 9328
+    }
+  },
+  {
+    "canonical": "ketorolac",
+    "cuis": ["C0073631"],
+    "surface_forms": ["ketorolac", "ketorolac-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["KETOROLAC"]
+      }
+    },
+    "provenance": {
+      "original_drug": "KETOROLAC",
+      "mimic_count": 9172
+    }
+  },
+  {
+    "canonical": "levetiracetam",
+    "cuis": ["C0377265"],
+    "surface_forms": ["levetiracetam", "levetiracetam-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["LEVETIRACETAM", "LEVETIRACETAM SOLUTION"]
+      }
+    },
+    "provenance": {
+      "original_drug": "LEVETIRACETAM",
+      "mimic_count": 8778
+    }
+  },
+  {
+    "canonical": "ceftriaxone",
+    "cuis": ["C0007561"],
+    "surface_forms": ["ceftriaxone", "ceftriaxone-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["CEFTRIAXONE"]
+      }
+    },
+    "provenance": {
+      "original_drug": "CEFTRIAXONE",
+      "mimic_count": 8602
+    }
+  },
+  {
+    "canonical": "metronidazole",
+    "cuis": ["C0025872"],
+    "surface_forms": ["metronidazole", "metronidazole-containing product"],
+    "db_links": {
+      "drugs": {
+        "drug_strings": ["METRONIDAZOLE", "METRONIDAZOLE (FLAGYL)"]
+      }
+    },
+    "provenance": {
+      "original_drug": "METRONIDAZOLE",
+      "mimic_count": 8305
+    }
+  },
+  {
+    "canonical": "glucose",
+    "cuis": ["C0017725", "C0017755"],
+    "surface_forms": [
+      "d-glucose",
+      "dextrose",
+      "glucose",
+      "glucose-6-phosphatase",
+      "glucose-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50809, 50931, 51478]
+      }
+    },
+    "provenance": {
+      "original_label": "Glucose",
+      "mimic_count": 856356
+    }
+  },
+  {
+    "canonical": "hematocrit",
+    "cuis": ["C0018935", "C0366777"],
+    "surface_forms": [
+      "hct - hematocrit",
+      "hematocrit",
+      "hematocrit - pcv",
+      "hematocrit determination",
+      "packed cell volume",
+      "packed cell volume measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50810, 51221]
+      }
+    },
+    "provenance": {
+      "original_label": "Hematocrit",
+      "mimic_count": 693768
+    }
+  },
+  {
+    "canonical": "potassium",
+    "cuis": ["C0032821", "C0071771"],
+    "surface_forms": [
+      "k - potassium",
+      "kalium",
+      "potassium",
+      "potassium metabisulfite",
+      "potassium-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50822, 50971, 51097]
+      }
+    },
+    "provenance": {
+      "original_label": "Potassium",
+      "mimic_count": 669857
+    }
+  },
+  {
+    "canonical": "hemoglobin",
+    "cuis": ["C0007061", "C0015936"],
+    "surface_forms": [
+      "carbon monoxide hemoglobin",
+      "carbonyl hemoglobin",
+      "carboxyhemoglobin",
+      "fetal hemoglobin",
+      "hb alpha>2< gamma>2<",
+      "hb f - hemoglobin f",
+      "hbco - carboxyhemoglobin",
+      "hbf",
+      "hemoglobin f"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50811, 50852, 51222]
+      }
+    },
+    "provenance": {
+      "original_label": "Hemoglobin",
+      "mimic_count": 663706
+    }
+  },
+  {
+    "canonical": "sodium",
+    "cuis": ["C0037473", "C0037511"],
+    "surface_forms": [
+      "e621",
+      "monosodium glutamate",
+      "msg",
+      "na - sodium",
+      "sodium",
+      "sodium hydrogen l-glutamate"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50824, 50983, 51100]
+      }
+    },
+    "provenance": {
+      "original_label": "Sodium",
+      "mimic_count": 641851
+    }
+  },
+  {
+    "canonical": "chloride",
+    "cuis": ["C0007022", "C0020259"],
+    "surface_forms": [
+      "carbon tetrachloride",
+      "hydrochloric acid",
+      "hydrochloric acid-containing product",
+      "hydrogen chloride",
+      "muriatic acid",
+      "perchloromethane"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50806, 50902, 51078]
+      }
+    },
+    "provenance": {
+      "original_label": "Chloride",
+      "mimic_count": 631657
+    }
+  },
+  {
+    "canonical": "creatinine",
+    "cuis": ["C0010294", "C0201976"],
+    "surface_forms": [
+      "creatinine",
+      "creatinine measurement, serum",
+      "serum creatinine"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50912, 51082]
+      }
+    },
+    "provenance": {
+      "original_label": "Creatinine",
+      "mimic_count": 619602
+    }
+  },
+  {
+    "canonical": "bicarbonate",
+    "cuis": ["C0005367", "C0364092"],
+    "surface_forms": ["bicarbonate", "hco3 - bicarbonate"],
+    "db_links": {
+      "labs": {
+        "itemids": [50803, 50882]
+      }
+    },
+    "provenance": {
+      "original_label": "Bicarbonate",
+      "mimic_count": 618595
+    }
+  },
+  {
+    "canonical": "urea nitrogen",
+    "cuis": ["C0365237", "C0365238"],
+    "surface_forms": ["urea nitrogen"],
+    "db_links": {
+      "labs": {
+        "itemids": [51006, 51104]
+      }
+    },
+    "provenance": {
+      "original_label": "Urea Nitrogen",
+      "mimic_count": 617264
+    }
+  },
+  {
+    "canonical": "anion gap",
+    "cuis": ["C0003074", "C0363998"],
+    "surface_forms": ["ag - anion gap", "anion gap", "anion gap, function"],
+    "db_links": {
+      "labs": {
+        "itemids": [50868]
+      }
+    },
+    "provenance": {
+      "original_label": "Anion Gap",
+      "mimic_count": 608339
+    }
+  },
+  {
+    "canonical": "ph",
+    "cuis": ["C0000039", "C0000052"],
+    "surface_forms": [
+      "1,2-dipalmitoylphosphatidylcholine",
+      "1,4-alpha-glucan branching enzyme",
+      "branching enzyme"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [
+          50820, 50856, 50863, 50966, 50967, 50970, 51116, 51143, 51146, 51200,
+          51244, 51256, 51491
+        ]
+      }
+    },
+    "provenance": {
+      "original_label": "pH",
+      "mimic_count": 607775
+    }
+  },
+  {
+    "canonical": "platelet count",
+    "cuis": ["C3842546"],
+    "surface_forms": ["platelet count"],
+    "db_links": {
+      "labs": {
+        "itemids": [51265]
+      }
+    },
+    "provenance": {
+      "original_label": "Platelet Count",
+      "mimic_count": 598950
+    }
+  },
+  {
+    "canonical": "white blood cells",
+    "cuis": ["C0023516", "C5150249"],
+    "surface_forms": [
+      "leukocyte",
+      "wbc - white blood cell",
+      "white blood cell",
+      "white blood cells"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51301]
+      }
+    },
+    "provenance": {
+      "original_label": "White Blood Cells",
+      "mimic_count": 577701
+    }
+  },
+  {
+    "canonical": "mchc",
+    "cuis": ["C0362907", "C0944134"],
+    "surface_forms": ["mchc"],
+    "db_links": {
+      "labs": {
+        "itemids": [51249]
+      }
+    },
+    "provenance": {
+      "original_label": "MCHC",
+      "mimic_count": 573491
+    }
+  },
+  {
+    "canonical": "red blood cells",
+    "cuis": ["C0014792", "C0362907"],
+    "surface_forms": [
+      "erythrocyte",
+      "rbc",
+      "rbc - red blood cell",
+      "red blood cell",
+      "red blood corpuscule"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51127, 51279, 51493]
+      }
+    },
+    "provenance": {
+      "original_label": "Red Blood Cells",
+      "mimic_count": 573358
+    }
+  },
+  {
+    "canonical": "mch",
+    "cuis": ["C0362906", "C0362907"],
+    "surface_forms": ["mch"],
+    "db_links": {
+      "labs": {
+        "itemids": [51248, 51249]
+      }
+    },
+    "provenance": {
+      "original_label": "MCH",
+      "mimic_count": 573354
+    }
+  },
+  {
+    "canonical": "mcv",
+    "cuis": ["C0362908", "C0550847"],
+    "surface_forms": ["mcv"],
+    "db_links": {
+      "labs": {
+        "itemids": [51250]
+      }
+    },
+    "provenance": {
+      "original_label": "MCV",
+      "mimic_count": 573351
+    }
+  },
+  {
+    "canonical": "rdw",
+    "cuis": ["C0362909", "C1114246"],
+    "surface_forms": ["rdw"],
+    "db_links": {
+      "labs": {
+        "itemids": [51277]
+      }
+    },
+    "provenance": {
+      "original_label": "RDW",
+      "mimic_count": 572351
+    }
+  },
+  {
+    "canonical": "magnesium",
+    "cuis": ["C0024467", "C0108127"],
+    "surface_forms": [
+      "calcium magnesium phosphate",
+      "magnesium",
+      "magnesium-containing product",
+      "mg - magnesium"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50960]
+      }
+    },
+    "provenance": {
+      "original_label": "Magnesium",
+      "mimic_count": 559502
+    }
+  },
+  {
+    "canonical": "phosphate",
+    "cuis": ["C0001455", "C0001459"],
+    "surface_forms": [
+      "adenosine diphosphate",
+      "adp",
+      "camp - cyclic adenosine monophosphate",
+      "cyclic adenosine monophosphate",
+      "cyclic amp"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50970]
+      }
+    },
+    "provenance": {
+      "original_label": "Phosphate",
+      "mimic_count": 489974
+    }
+  },
+  {
+    "canonical": "po2",
+    "cuis": ["C0364846", "C0364847"],
+    "surface_forms": ["po2"],
+    "db_links": {
+      "labs": {
+        "itemids": [50821]
+      }
+    },
+    "provenance": {
+      "original_label": "pO2",
+      "mimic_count": 485562
+    }
+  },
+  {
+    "canonical": "base excess",
+    "cuis": ["C0364060", "C0364061"],
+    "surface_forms": ["base excess"],
+    "db_links": {
+      "labs": {
+        "itemids": [50802]
+      }
+    },
+    "provenance": {
+      "original_label": "Base Excess",
+      "mimic_count": 485555
+    }
+  },
+  {
+    "canonical": "pco2",
+    "cuis": ["C0364150", "C0364151"],
+    "surface_forms": ["pco2"],
+    "db_links": {
+      "labs": {
+        "itemids": [50818]
+      }
+    },
+    "provenance": {
+      "original_label": "pCO2",
+      "mimic_count": 485530
+    }
+  },
+  {
+    "canonical": "ptt",
+    "cuis": ["C0365392", "C0368359"],
+    "surface_forms": ["ptt"],
+    "db_links": {
+      "labs": {
+        "itemids": [51275]
+      }
+    },
+    "provenance": {
+      "original_label": "PTT",
+      "mimic_count": 403550
+    }
+  },
+  {
+    "canonical": "pt",
+    "cuis": ["C0000578", "C0000618"],
+    "surface_forms": [
+      "5-hydroxy tryptophan",
+      "5-hydroxytryptophan",
+      "mercaptopurine",
+      "mercaptopurine-containing product",
+      "oxitriptan"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50935, 51274, 51275]
+      }
+    },
+    "provenance": {
+      "original_label": "PT",
+      "mimic_count": 378210
+    }
+  },
+  {
+    "canonical": "free calcium",
+    "cuis": ["C0201579"],
+    "surface_forms": ["intracellular free calcium assay"],
+    "db_links": {
+      "labs": {
+        "itemids": [50808]
+      }
+    },
+    "provenance": {
+      "original_label": "Free Calcium",
+      "mimic_count": 246190
+    }
+  },
+  {
+    "canonical": "lactate",
+    "cuis": ["C0022917", "C0022920"],
+    "surface_forms": [
+      "l-lactate dehydrogenase",
+      "l-lactate dehydrogenase isoenzyme",
+      "l-lactic acid dehydrogenase",
+      "lactate dehydrogenase",
+      "lactate dehydrogenase isoenzyme",
+      "lactic dehydrogenase isoenzyme",
+      "ld - lactate dehydrogenase",
+      "ldh - lactate dehydrogenase",
+      "ldh isoenzyme"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50813, 50954]
+      }
+    },
+    "provenance": {
+      "original_label": "Lactate",
+      "mimic_count": 178014
+    }
+  },
+  {
+    "canonical": "bilirubin, total",
+    "cuis": ["C0201913"],
+    "surface_forms": [
+      "bilirubin, total measurement",
+      "total bilirubin",
+      "total bilirubin level"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50885]
+      }
+    },
+    "provenance": {
+      "original_label": "Bilirubin, Total",
+      "mimic_count": 173845
+    }
+  },
+  {
+    "canonical": "alanine aminotransferase (alt)",
+    "cuis": ["C0428327", "C0523461"],
+    "surface_forms": [
+      "alanine aminotransferase - blood measurement",
+      "alt - blood level",
+      "alt - blood measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50861]
+      }
+    },
+    "provenance": {
+      "original_label": "Alanine Aminotransferase (ALT)",
+      "mimic_count": 148479
+    }
+  },
+  {
+    "canonical": "alkaline phosphatase",
+    "cuis": ["C0002059", "C0301810"],
+    "surface_forms": [
+      "alkaline phosphatase",
+      "alkaline phosphatase isoenzyme",
+      "alkaline phosphomonoesterase",
+      "alp - alkaline phosphatase",
+      "ap - alkaline phosphatase",
+      "glycerophosphatase"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50863]
+      }
+    },
+    "provenance": {
+      "original_label": "Alkaline Phosphatase",
+      "mimic_count": 146257
+    }
+  },
+  {
+    "canonical": "oxygen saturation",
+    "cuis": ["C0364851", "C0364852"],
+    "surface_forms": ["oxygen saturation"],
+    "db_links": {
+      "labs": {
+        "itemids": [50817]
+      }
+    },
+    "provenance": {
+      "original_label": "Oxygen Saturation",
+      "mimic_count": 138307
+    }
+  },
+  {
+    "canonical": "lymphocytes",
+    "cuis": ["C0004561", "C0024264"],
+    "surface_forms": [
+      "b cell",
+      "b lymphocyte",
+      "b-cell",
+      "lymphocyte",
+      "lymphocytic cell"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51116, 51143, 51244]
+      }
+    },
+    "provenance": {
+      "original_label": "Lymphocytes",
+      "mimic_count": 116279
+    }
+  },
+  {
+    "canonical": "monocytes",
+    "cuis": ["C0026473", "C0229656"],
+    "surface_forms": ["monocyte", "promonocyte"],
+    "db_links": {
+      "labs": {
+        "itemids": [51120, 51254]
+      }
+    },
+    "provenance": {
+      "original_label": "Monocytes",
+      "mimic_count": 116083
+    }
+  },
+  {
+    "canonical": "eosinophils",
+    "cuis": ["C0014467", "C0362900"],
+    "surface_forms": ["eosinophil", "eosinophil, segmented"],
+    "db_links": {
+      "labs": {
+        "itemids": [51200]
+      }
+    },
+    "provenance": {
+      "original_label": "Eosinophils",
+      "mimic_count": 111608
+    }
+  },
+  {
+    "canonical": "basophils",
+    "cuis": ["C0004827", "C0362892"],
+    "surface_forms": ["basophils"],
+    "db_links": {
+      "labs": {
+        "itemids": [51146]
+      }
+    },
+    "provenance": {
+      "original_label": "Basophils",
+      "mimic_count": 109802
+    }
+  },
+  {
+    "canonical": "neutrophils",
+    "cuis": ["C0027950", "C0229640"],
+    "surface_forms": [
+      "pmn - polymorphonuclear leukocyte",
+      "pmn cell",
+      "segmented neutrophil"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51256]
+      }
+    },
+    "provenance": {
+      "original_label": "Neutrophils",
+      "mimic_count": 109476
+    }
+  },
+  {
+    "canonical": "albumin",
+    "cuis": ["C0001924", "C0002287"],
+    "surface_forms": ["alpha-lactalbumin", "minor lactalbumin"],
+    "db_links": {
+      "labs": {
+        "itemids": [50862]
+      }
+    },
+    "provenance": {
+      "original_label": "Albumin",
+      "mimic_count": 99002
+    }
+  },
+  {
+    "canonical": "specific gravity",
+    "cuis": ["C0037786", "C0201802"],
+    "surface_forms": [
+      "finding of specific gravity",
+      "sg - specific gravity",
+      "specific gravity",
+      "specific gravity - finding",
+      "specific gravity measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51498]
+      }
+    },
+    "provenance": {
+      "original_label": "Specific Gravity",
+      "mimic_count": 82057
+    }
+  },
+  {
+    "canonical": "protein",
+    "cuis": ["C0002210", "C0003591"],
+    "surface_forms": [
+      "alpha fetoprotein",
+      "alpha-1-fetoprotein",
+      "alpha-fetoglobulin",
+      "alpha-fetoprotein",
+      "apolipoprotein",
+      "fetuin",
+      "lipoprotein apolipoprotein"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50976, 51102, 51492]
+      }
+    },
+    "provenance": {
+      "original_label": "Protein",
+      "mimic_count": 72628
+    }
+  },
+  {
+    "canonical": "oxygen",
+    "cuis": ["C0015357", "C0023837"],
+    "surface_forms": [
+      "carotene oxidase",
+      "ecmo - extracorporeal membrane oxygenation",
+      "extracorporeal membrane oxygenation",
+      "extracorporeal membrane oxygenation [ecmo]",
+      "lipoxidase",
+      "lipoxygenase"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50816, 50817]
+      }
+    },
+    "provenance": {
+      "original_label": "Oxygen",
+      "mimic_count": 71165
+    }
+  },
+  {
+    "canonical": "urobilinogen",
+    "cuis": ["C0042052", "C0365251"],
+    "surface_forms": [
+      "ubg - urobilinogen",
+      "urob - urobilinogen",
+      "urobilinogen"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51514]
+      }
+    },
+    "provenance": {
+      "original_label": "Urobilinogen",
+      "mimic_count": 68039
+    }
+  },
+  {
+    "canonical": "ketone",
+    "cuis": ["C0022634", "C0025708"],
+    "surface_forms": [
+      "2-hexanone",
+      "butyl methyl ketone",
+      "ketone",
+      "ketone-containing product",
+      "methyl butyl ketone",
+      "methyl n-butyl ketone"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51484]
+      }
+    },
+    "provenance": {
+      "original_label": "Ketone",
+      "mimic_count": 67843
+    }
+  },
+  {
+    "canonical": "troponin t",
+    "cuis": ["C0077404", "C0484850"],
+    "surface_forms": ["tropomyosin-binding troponin subunit", "troponin t"],
+    "db_links": {
+      "labs": {
+        "itemids": [51003]
+      }
+    },
+    "provenance": {
+      "original_label": "Troponin T",
+      "mimic_count": 66383
+    }
+  },
+  {
+    "canonical": "bilirubin",
+    "cuis": ["C0005437", "C0006678"],
+    "surface_forms": [
+      "bilirubin",
+      "calcium bilirubinate",
+      "conjugated and unconjugated bilirubin"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50883, 50884, 50885, 51464]
+      }
+    },
+    "provenance": {
+      "original_label": "Bilirubin",
+      "mimic_count": 65907
+    }
+  },
+  {
+    "canonical": "wbc",
+    "cuis": ["C0023516", "C0362934"],
+    "surface_forms": [
+      "leukocyte",
+      "wbc - white blood cell",
+      "white blood cell",
+      "white blood cells"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51128, 51301, 51516]
+      }
+    },
+    "provenance": {
+      "original_label": "WBC",
+      "mimic_count": 61280
+    }
+  },
+  {
+    "canonical": "rbc",
+    "cuis": ["C0014792", "C0362905"],
+    "surface_forms": [
+      "erythrocyte",
+      "rbc",
+      "rbc - red blood cell",
+      "red blood cell",
+      "red blood corpuscule"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51127, 51279, 51493]
+      }
+    },
+    "provenance": {
+      "original_label": "RBC",
+      "mimic_count": 60879
+    }
+  },
+  {
+    "canonical": "epithelial cells",
+    "cuis": ["C0014597", "C0221910"],
+    "surface_forms": [
+      "epithelial cell",
+      "epithelial cells",
+      "squamous cell",
+      "squamous epithelial cell"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51476]
+      }
+    },
+    "provenance": {
+      "original_label": "Epithelial Cells",
+      "mimic_count": 59805
+    }
+  },
+  {
+    "canonical": "bands",
+    "cuis": ["C0550491", "C0550492"],
+    "surface_forms": ["bands"],
+    "db_links": {
+      "labs": {
+        "itemids": [51144]
+      }
+    },
+    "provenance": {
+      "original_label": "Bands",
+      "mimic_count": 57034
+    }
+  },
+  {
+    "canonical": "lipase",
+    "cuis": ["C0023764", "C0023816"],
+    "surface_forms": [
+      "clearing factor lipase",
+      "diacylglycerol lipase",
+      "diglyceride lipase",
+      "lipase",
+      "lipoprotein lipase",
+      "lpl - lipoprotein lipase",
+      "triacylglycerol lipase",
+      "triacylglycerol lipase-containing product",
+      "tributyrase",
+      "triglyceride lipase"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50956]
+      }
+    },
+    "provenance": {
+      "original_label": "Lipase",
+      "mimic_count": 51163
+    }
+  },
+  {
+    "canonical": "amylase",
+    "cuis": ["C0002712", "C0065478"],
+    "surface_forms": ["amylase", "amylase-containing product", "macroamylase"],
+    "db_links": {
+      "labs": {
+        "itemids": [50867]
+      }
+    },
+    "provenance": {
+      "original_label": "Amylase",
+      "mimic_count": 49246
+    }
+  },
+  {
+    "canonical": "vancomycin",
+    "cuis": ["C0042313", "C0362613"],
+    "surface_forms": ["vancomycin", "vancomycin-containing product"],
+    "db_links": {
+      "labs": {
+        "itemids": [51009]
+      }
+    },
+    "provenance": {
+      "original_label": "Vancomycin",
+      "mimic_count": 47876
+    }
+  },
+  {
+    "canonical": "atypical lymphocytes",
+    "cuis": ["C0221277", "C4511888"],
+    "surface_forms": ["atypical lymphocyte", "atypical lymphocytes"],
+    "db_links": {
+      "labs": {
+        "itemids": [51143]
+      }
+    },
+    "provenance": {
+      "original_label": "Atypical Lymphocytes",
+      "mimic_count": 45857
+    }
+  },
+  {
+    "canonical": "metamyelocytes",
+    "cuis": ["C0229635", "C0229638"],
+    "surface_forms": ["metamyelocyte", "neutrophilic metamyelocyte"],
+    "db_links": {
+      "labs": {
+        "itemids": [51251]
+      }
+    },
+    "provenance": {
+      "original_label": "Metamyelocytes",
+      "mimic_count": 45302
+    }
+  },
+  {
+    "canonical": "myelocytes",
+    "cuis": ["C0033416", "C0229635"],
+    "surface_forms": ["metamyelocyte", "progranulocyte", "promyelocyte"],
+    "db_links": {
+      "labs": {
+        "itemids": [51251, 51255]
+      }
+    },
+    "provenance": {
+      "original_label": "Myelocytes",
+      "mimic_count": 45236
+    }
+  },
+  {
+    "canonical": "bilirubin, direct",
+    "cuis": ["C0201916"],
+    "surface_forms": [
+      "bilirubin, conjugated measurement",
+      "bilirubin, direct measurement"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50883]
+      }
+    },
+    "provenance": {
+      "original_label": "Bilirubin, Direct",
+      "mimic_count": 35868
+    }
+  },
+  {
+    "canonical": "phenytoin",
+    "cuis": ["C0025381", "C0031507"],
+    "surface_forms": [
+      "diphenylhydantoin",
+      "dph",
+      "mephenytoin",
+      "mephenytoin-containing product",
+      "methoin",
+      "methylphenylethylhydantoin",
+      "phenytoin",
+      "phenytoin-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50967]
+      }
+    },
+    "provenance": {
+      "original_label": "Phenytoin",
+      "mimic_count": 19868
+    }
+  },
+  {
+    "canonical": "thyroid stimulating hormone",
+    "cuis": ["C0023979", "C0034844"],
+    "surface_forms": [
+      "lats",
+      "lats - long-acting thyroid stimulator",
+      "long-acting thyroid stimulator",
+      "thyrotropin receptor"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50993]
+      }
+    },
+    "provenance": {
+      "original_label": "Thyroid Stimulating Hormone",
+      "mimic_count": 14764
+    }
+  },
+  {
+    "canonical": "triglycerides",
+    "cuis": ["C5890122", "C5890123"],
+    "surface_forms": ["triglycerides"],
+    "db_links": {
+      "labs": {
+        "itemids": [51000]
+      }
+    },
+    "provenance": {
+      "original_label": "Triglycerides",
+      "mimic_count": 13524
+    }
+  },
+  {
+    "canonical": "hyaline casts",
+    "cuis": ["C0333121", "C0368025"],
+    "surface_forms": ["hyaline cast", "protein cast"],
+    "db_links": {
+      "labs": {
+        "itemids": [51482]
+      }
+    },
+    "provenance": {
+      "original_label": "Hyaline Casts",
+      "mimic_count": 12341
+    }
+  },
+  {
+    "canonical": "cortisol",
+    "cuis": ["C0010139", "C0020268"],
+    "surface_forms": [
+      "11-deoxy, 17-hydroxycorticosterone",
+      "11-deoxycortisol",
+      "17,21-hydroxyprogesterone",
+      "compound s",
+      "cortexolone",
+      "cortisol",
+      "cortodoxone",
+      "hydrocortisone",
+      "hydrocortisone-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50909]
+      }
+    },
+    "provenance": {
+      "original_label": "Cortisol",
+      "mimic_count": 12302
+    }
+  },
+  {
+    "canonical": "blood",
+    "cuis": ["C0005767", "C0005770"],
+    "surface_forms": ["blood"],
+    "db_links": {
+      "labs": {
+        "itemids": [50803, 50806, 50822, 50824, 51279, 51301, 51466]
+      }
+    },
+    "provenance": {
+      "original_label": "Blood",
+      "mimic_count": 12063
+    }
+  },
+  {
+    "canonical": "o2 flow",
+    "cuis": ["C0365296", "C4071641"],
+    "surface_forms": ["o2 flow"],
+    "db_links": {
+      "labs": {
+        "itemids": [50815]
+      }
+    },
+    "provenance": {
+      "original_label": "O2 Flow",
+      "mimic_count": 11934
+    }
+  },
+  {
+    "canonical": "uric acid",
+    "cuis": ["C4305788"],
+    "surface_forms": ["uric acid"],
+    "db_links": {
+      "labs": {
+        "itemids": [51007]
+      }
+    },
+    "provenance": {
+      "original_label": "Uric Acid",
+      "mimic_count": 11387
+    }
+  },
+  {
+    "canonical": "iron",
+    "cuis": ["C0006462", "C0014406"],
+    "surface_forms": [
+      "buspirone",
+      "buspirone-containing product",
+      "environment",
+      "environments"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50952, 50953]
+      }
+    },
+    "provenance": {
+      "original_label": "Iron",
+      "mimic_count": 11277
+    }
+  },
+  {
+    "canonical": "transferrin",
+    "cuis": ["C0005151", "C0040679"],
+    "surface_forms": [
+      "beta-2 transferrin",
+      "iron binding protein",
+      "siderophilin",
+      "transferrin"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50998]
+      }
+    },
+    "provenance": {
+      "original_label": "Transferrin",
+      "mimic_count": 10902
+    }
+  },
+  {
+    "canonical": "ferritin",
+    "cuis": ["C0015879", "C0364411"],
+    "surface_forms": ["ferritin"],
+    "db_links": {
+      "labs": {
+        "itemids": [50924]
+      }
+    },
+    "provenance": {
+      "original_label": "Ferritin",
+      "mimic_count": 10697
+    }
+  },
+  {
+    "canonical": "polys",
+    "cuis": ["C0023786", "C0026703"],
+    "surface_forms": [
+      "alpha-l-iduronidase deficiency",
+      "l-iduronidase deficiency",
+      "mps - mucopolysaccharidosis",
+      "mps i",
+      "mpsi - mucopolysaccharidosis type i",
+      "mucopolysaccharidosis",
+      "mucopolysaccharidosis type i",
+      "mucopolysaccharidosis, mps-i"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51125]
+      }
+    },
+    "provenance": {
+      "original_label": "Polys",
+      "mimic_count": 10491
+    }
+  },
+  {
+    "canonical": "haptoglobin",
+    "cuis": ["C0018595", "C0062119"],
+    "surface_forms": ["haptoglobin", "hp - haptoglobin"],
+    "db_links": {
+      "labs": {
+        "itemids": [50935]
+      }
+    },
+    "provenance": {
+      "original_label": "Haptoglobin",
+      "mimic_count": 9351
+    }
+  },
+  {
+    "canonical": "granulocyte count",
+    "cuis": ["C0857490", "C1306872"],
+    "surface_forms": [
+      "granulocyte count",
+      "granulocyte count below reference range",
+      "granulopenia"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [51218]
+      }
+    },
+    "provenance": {
+      "original_label": "Granulocyte Count",
+      "mimic_count": 9126
+    }
+  },
+  {
+    "canonical": "% hemoglobin a1c",
+    "cuis": ["C2733523", "C2919483"],
+    "surface_forms": [
+      "hemoglobin a1c above reference range",
+      "high hemoglobin a1c level",
+      "ordinal level of hemoglobin a1c"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50852]
+      }
+    },
+    "provenance": {
+      "original_label": "% Hemoglobin A1c",
+      "mimic_count": 7143
+    }
+  },
+  {
+    "canonical": "acetaminophen",
+    "cuis": ["C0000970", "C0365531"],
+    "surface_forms": [
+      "acetaminophen",
+      "acetaminophen-containing product",
+      "paracetamol",
+      "paracetamol-containing product"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50856]
+      }
+    },
+    "provenance": {
+      "original_label": "Acetaminophen",
+      "mimic_count": 6816
+    }
+  },
+  {
+    "canonical": "ethanol",
+    "cuis": ["C0001962", "C0001963"],
+    "surface_forms": [
+      "ethanol",
+      "ethanol-containing product",
+      "ethyl alcohol",
+      "etoh - ethanol",
+      "methanol",
+      "methyl alcohol",
+      "wood alcohol",
+      "wood naphtha"
+    ],
+    "db_links": {
+      "labs": {
+        "itemids": [50922]
+      }
+    },
+    "provenance": {
+      "original_label": "Ethanol",
+      "mimic_count": 6746
+    }
+  }
+]

@@ -1,0 +1,2069 @@
+[
+  {
+    "canonical": "venous catheterization, not elsewhere classified",
+    "cuis": [
+      "C0162203"
+    ],
+    "semtypes": [
+      "Health Care Activity"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3893"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Venous catheterization, not elsewhere classified",
+      "icd9_formatted": 38.93,
+      "mimic_count": 13133
+    }
+  },
+  {
+    "canonical": "endotracheal intubation",
+    "cuis": [
+      "C0021932"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "endotracheal intubation",
+      "insertion of endotracheal tube",
+      "insertion of endotracheal tube (procedure)",
+      "intubation of trachea",
+      "tracheal intubation"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9604"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Insertion of endotracheal tube",
+      "icd9_formatted": 96.04,
+      "mimic_count": 9882
+    }
+  },
+  {
+    "canonical": "enteral infusion of concentrated nutritional substances",
+    "cuis": [
+      "C0014329"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "enteral infusion of concentrated nutritional substances"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "966"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Enteral infusion of concentrated nutritional substances",
+      "icd9_formatted": 96.6,
+      "mimic_count": 9241
+    }
+  },
+  {
+    "canonical": "continuous invasive mechanical ventilation for less than 96 consecutive hours",
+    "cuis": [
+      "C2349744"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9671"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Continuous invasive mechanical ventilation for less than 96 consecutive hours",
+      "icd9_formatted": 96.71,
+      "mimic_count": 8904
+    }
+  },
+  {
+    "canonical": "packed blood cell transfusion",
+    "cuis": [
+      "C0178192"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "packed blood cell transfusion",
+      "packed blood cell transfusion (procedure)",
+      "transfusion of packed cells"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9904"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Transfusion of packed cells",
+      "icd9_formatted": 99.04,
+      "mimic_count": 7199
+    }
+  },
+  {
+    "canonical": "extracorporeal circulation auxiliary to open heart surgery",
+    "cuis": [
+      "C0015355"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "extracorporeal circulation auxiliary to open heart surgery"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3961"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Extracorporeal circulation auxiliary to open heart surgery",
+      "icd9_formatted": 39.61,
+      "mimic_count": 6809
+    }
+  },
+  {
+    "canonical": "continuous invasive mechanical ventilation for 96 consecutive hours or more",
+    "cuis": [
+      "C2349745"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9672"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Continuous invasive mechanical ventilation for 96 consecutive hours or more",
+      "icd9_formatted": 96.72,
+      "mimic_count": 5930
+    }
+  },
+  {
+    "canonical": "coronary angiography using two catheters",
+    "cuis": [
+      "C0202861"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "coronary angiography using two catheters",
+      "coronary angiography using two catheters (procedure)",
+      "coronary arteriography using two catheters"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8856"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Coronary arteriography using two catheters",
+      "icd9_formatted": 88.56,
+      "mimic_count": 5140
+    }
+  },
+  {
+    "canonical": "arterial cannula insertion",
+    "cuis": [
+      "C0007431"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "arterial cannula insertion",
+      "arterial cannula insertion (procedure)",
+      "arterial cannulation",
+      "arterial catheter insertion",
+      "arterial catheterization",
+      "arterial line insertion",
+      "cannulation of artery",
+      "catheterization of artery",
+      "insertion of catheter into artery",
+      "insertion of catheter into artery (procedure)",
+      "intra-arterial cannulation"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3891"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Arterial catheterization",
+      "icd9_formatted": 38.91,
+      "mimic_count": 4609
+    }
+  },
+  {
+    "canonical": "bypass internal mammary-coronary artery, single",
+    "cuis": [
+      "C0021781"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "bypass internal mammary-coronary artery, single",
+      "single internal mammary-coronary artery bypass",
+      "single internal mammary-coronary artery bypass (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3615"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Single internal mammary-coronary artery bypass",
+      "icd9_formatted": 36.15,
+      "mimic_count": 4398
+    }
+  },
+  {
+    "canonical": "administration of total parenteral nutrition",
+    "cuis": [
+      "C0030548"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "administration of total parenteral nutrition",
+      "administration of total parenteral nutrition (procedure)",
+      "hyperalimentation",
+      "parenteral hyperalimentation",
+      "parenteral infusion of concentrated nutritional substances",
+      "superalimentation",
+      "suralimentation",
+      "total parenteral nutrition",
+      "total parenteral nutrition (regime/therapy)",
+      "total parenteral nutrition administration"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9915"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Parenteral infusion of concentrated nutritional substances",
+      "icd9_formatted": 99.15,
+      "mimic_count": 4233
+    }
+  },
+  {
+    "canonical": "cardiac echo",
+    "cuis": [
+      "C0013516"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "cardiac echo",
+      "cardiac us scan",
+      "diagnostic ultrasound of heart",
+      "echocardiogram",
+      "echocardiographic procedure",
+      "echocardiography",
+      "echocardiography (procedure)",
+      "ultrasonography of heart",
+      "ultrasound of heart",
+      "us heart scan",
+      "us scan of heart"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8872"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Diagnostic ultrasound of heart",
+      "icd9_formatted": 88.72,
+      "mimic_count": 3352
+    }
+  },
+  {
+    "canonical": "cardiac catheterization, left heart",
+    "cuis": [
+      "C0189897"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "cardiac catheterization, left heart",
+      "catheterization of left heart",
+      "catheterization of left heart (procedure)",
+      "left heart cardiac catheterization"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3722"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Left heart cardiac catheterization",
+      "icd9_formatted": 37.22,
+      "mimic_count": 3209
+    }
+  },
+  {
+    "canonical": "extracorporeal hemodialysis",
+    "cuis": [
+      "C0019004"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "extracorporeal hemodialysis",
+      "hd - hemodialysis",
+      "hemodialysis",
+      "hemodialysis (procedure)",
+      "hemodialysis procedure"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3995"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Hemodialysis",
+      "icd9_formatted": 39.95,
+      "mimic_count": 3207
+    }
+  },
+  {
+    "canonical": "non-invasive mechanical ventilation",
+    "cuis": [
+      "C2349740"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "non-invasive mechanical ventilation"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9390"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Non-invasive mechanical ventilation",
+      "icd9_formatted": 93.9,
+      "mimic_count": 2720
+    }
+  },
+  {
+    "canonical": "closed [endoscopic] biopsy of bronchus",
+    "cuis": [
+      "C0176511"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "closed [endoscopic] biopsy of bronchus"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3324"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Closed [endoscopic] biopsy of bronchus",
+      "icd9_formatted": 33.24,
+      "mimic_count": 2676
+    }
+  },
+  {
+    "canonical": "cardiac catheterization, combined right and left heart",
+    "cuis": [
+      "C0189898"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "cardiac catheterization, combined right and left heart",
+      "catheterization of both left and right heart",
+      "catheterization of both left and right heart (procedure)",
+      "combined right and left heart cardiac catheterization"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3723"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Combined right and left heart cardiac catheterization",
+      "icd9_formatted": 37.23,
+      "mimic_count": 2669
+    }
+  },
+  {
+    "canonical": "other endoscopy of small intestine",
+    "cuis": [
+      "C0029611"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "4513"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other endoscopy of small intestine",
+      "icd9_formatted": 45.13,
+      "mimic_count": 2614
+    }
+  },
+  {
+    "canonical": "angiocardiography of left heart",
+    "cuis": [
+      "C0202857"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "angiocardiography of left heart",
+      "angiocardiography of left heart (procedure)",
+      "angiocardiography of left heart structures",
+      "selective left atrial injection for angiography",
+      "selective left ventricular injection for angiography"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8853"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Angiocardiography of left heart structures",
+      "icd9_formatted": 88.53,
+      "mimic_count": 2105
+    }
+  },
+  {
+    "canonical": "incision of lung",
+    "cuis": [
+      "C0189471"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "incision of lung",
+      "incision of lung (procedure)",
+      "pneumonotomy"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "331"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Incision of lung",
+      "icd9_formatted": 33.1,
+      "mimic_count": 2077
+    }
+  },
+  {
+    "canonical": "transfusion of other serum",
+    "cuis": [
+      "C0040694"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9907"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Transfusion of other serum",
+      "icd9_formatted": 99.07,
+      "mimic_count": 2020
+    }
+  },
+  {
+    "canonical": "(aorto)coronary bypass of two coronary arteries",
+    "cuis": [
+      "C0190228"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "(aorto)coronary bypass of two coronary arteries",
+      "aortocoronary bypass of two coronary arteries",
+      "aortocoronary bypass of two coronary arteries (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3612"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "(Aorto)coronary bypass of two coronary arteries",
+      "icd9_formatted": 36.12,
+      "mimic_count": 1903
+    }
+  },
+  {
+    "canonical": "temporary tracheostomy",
+    "cuis": [
+      "C0039492"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "temporary tracheostomy",
+      "temporary tracheostomy (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "311"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Temporary tracheostomy",
+      "icd9_formatted": 31.1,
+      "mimic_count": 1772
+    }
+  },
+  {
+    "canonical": "injection or infusion of platelet inhibitor",
+    "cuis": [
+      "C0795785"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "injection or infusion of platelet inhibitor"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9920"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Injection or infusion of platelet inhibitor",
+      "icd9_formatted": 99.2,
+      "mimic_count": 1696
+    }
+  },
+  {
+    "canonical": "chest aspiration",
+    "cuis": [
+      "C0189477"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "chest aspiration",
+      "pleural aspiration",
+      "pleural cavity tap",
+      "pleural tap",
+      "pleurocentesis",
+      "thoracentesis",
+      "thoracentesis (procedure)",
+      "thoracic paracentesis",
+      "thoracocentesis"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3491"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Thoracentesis",
+      "icd9_formatted": 34.91,
+      "mimic_count": 1613
+    }
+  },
+  {
+    "canonical": "insertion of intercostal catheter for drainage",
+    "cuis": [
+      "C0371436"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "insertion of intercostal catheter for drainage"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3404"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Insertion of intercostal catheter for drainage",
+      "icd9_formatted": 34.04,
+      "mimic_count": 1571
+    }
+  },
+  {
+    "canonical": "lymphatic operations",
+    "cuis": [
+      "C0600057"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "lymphatic operations",
+      "lymphatic system surgical procedure",
+      "operation on lymphatic structure",
+      "operation on lymphatic structure (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "40"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Procedure on single vessel",
+      "icd9_formatted": 40.0,
+      "mimic_count": 1558
+    }
+  },
+  {
+    "canonical": "peg - percutaneous endoscopic gastrostomy",
+    "cuis": [
+      "C0176751"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "peg - percutaneous endoscopic gastrostomy",
+      "percutaneous [endoscopic] gastrostomy [peg]",
+      "percutaneous endoscopic gastrostomy",
+      "percutaneous endoscopic insertion of gastrostomy tube"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "4311"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Percutaneous [endoscopic] gastrostomy [PEG]",
+      "icd9_formatted": 43.11,
+      "mimic_count": 1532
+    }
+  },
+  {
+    "canonical": "venous catheterization for renal dialysis",
+    "cuis": [
+      "C0191126"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "venous catheterization for renal dialysis",
+      "venous catheterization for renal dialysis (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3895"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Venous catheterization for renal dialysis",
+      "icd9_formatted": 38.95,
+      "mimic_count": 1526
+    }
+  },
+  {
+    "canonical": "central venous catheter placement with guidance",
+    "cuis": [
+      "C2921047"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "central venous catheter placement with guidance"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3897"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Central venous catheter placement with guidance",
+      "icd9_formatted": 38.97,
+      "mimic_count": 1483
+    }
+  },
+  {
+    "canonical": "paracentesis abdominis",
+    "cuis": [
+      "C5779699"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "paracentesis abdominis",
+      "percutaneous abdominal drainage",
+      "percutaneous drainage of ascites",
+      "percutaneous drainage of ascites (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "5491"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Percutaneous abdominal drainage",
+      "icd9_formatted": 54.91,
+      "mimic_count": 1448
+    }
+  },
+  {
+    "canonical": "angiography of cerebral arteries",
+    "cuis": [
+      "C0007767"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "angiography of cerebral arteries",
+      "angiography of cerebral arteries (procedure)",
+      "angiography of intracranial vessels",
+      "arteriography of cerebral arteries",
+      "arteriography of intracranial vessels",
+      "cerebral arteriogram",
+      "cerebral arteriography"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8841"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Arteriography of cerebral arteries",
+      "icd9_formatted": 88.41,
+      "mimic_count": 1343
+    }
+  },
+  {
+    "canonical": "fallopian tube operation",
+    "cuis": [
+      "C0195463"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "fallopian tube operation",
+      "operation on fallopian tube",
+      "operation on fallopian tube (procedure)",
+      "tubal operations - fallopian"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "66"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Excision of lingual thyroid",
+      "icd9_formatted": 66.0,
+      "mimic_count": 1260
+    }
+  },
+  {
+    "canonical": "intravenous blood transfusion of platelets",
+    "cuis": [
+      "C0086818"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "intravenous blood transfusion of platelets",
+      "intravenous blood transfusion of platelets (procedure)",
+      "platelet transfusion",
+      "platelet transfusion (procedure)",
+      "transfusion of platelets",
+      "transfusion of thrombocytes"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9905"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Transfusion of platelets",
+      "icd9_formatted": 99.05,
+      "mimic_count": 1233
+    }
+  },
+  {
+    "canonical": "insertion of coronary artery stent",
+    "cuis": [
+      "C0521232"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "insertion of coronary artery stent",
+      "insertion of non-drug-eluting coronary artery stent(s)",
+      "placement of stent in coronary artery",
+      "placement of stent in coronary artery (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3606"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Insertion of non-drug-eluting coronary artery stent(s)",
+      "icd9_formatted": 36.06,
+      "mimic_count": 1210
+    }
+  },
+  {
+    "canonical": "insertion of drug-eluting coronary artery stent(s)",
+    "cuis": [
+      "C1135452"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "insertion of drug-eluting coronary artery stent(s)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3607"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Insertion of drug-eluting coronary artery stent(s)",
+      "icd9_formatted": 36.07,
+      "mimic_count": 1137
+    }
+  },
+  {
+    "canonical": "pulmonary artery wedge monitoring",
+    "cuis": [
+      "C0204916"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "pulmonary artery wedge monitoring",
+      "pulmonary artery wedge pressure monitoring",
+      "pulmonary artery wedge pressure monitoring (regime/therapy)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8964"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Pulmonary artery wedge monitoring",
+      "icd9_formatted": 89.64,
+      "mimic_count": 1077
+    }
+  },
+  {
+    "canonical": "fiber-optic bronchoscopy",
+    "cuis": [
+      "C0189391"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "fiber-optic bronchoscopy",
+      "fiberoptic bronchoscopy",
+      "fiberoptic bronchoscopy (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3322"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Fiber-optic bronchoscopy",
+      "icd9_formatted": 33.22,
+      "mimic_count": 1043
+    }
+  },
+  {
+    "canonical": "other bronchoscopy",
+    "cuis": [
+      "C0029526"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3323"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other bronchoscopy",
+      "icd9_formatted": 33.23,
+      "mimic_count": 1023
+    }
+  },
+  {
+    "canonical": "implant of pulsation balloon",
+    "cuis": [
+      "C0176599"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "implant of pulsation balloon"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3761"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Implant of pulsation balloon",
+      "icd9_formatted": 37.61,
+      "mimic_count": 1010
+    }
+  },
+  {
+    "canonical": "infusion of vasopressor agent",
+    "cuis": [
+      "C0175624"
+    ],
+    "semtypes": [
+      "Health Care Activity"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "17"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Infusion of vasopressor agent",
+      "icd9_formatted": 17.0,
+      "mimic_count": 830
+    }
+  },
+  {
+    "canonical": "other electric countershock of heart",
+    "cuis": [
+      "C0029605"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9962"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other electric countershock of heart",
+      "icd9_formatted": 99.62,
+      "mimic_count": 778
+    }
+  },
+  {
+    "canonical": "interruption of the vena cava",
+    "cuis": [
+      "C0191172"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "interruption of the vena cava"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "387"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Interruption of the vena cava",
+      "icd9_formatted": 38.7,
+      "mimic_count": 757
+    }
+  },
+  {
+    "canonical": "closure of skin and subcutaneous tissue of other sites",
+    "cuis": [
+      "C0994533"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8659"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Closure of skin and subcutaneous tissue of other sites",
+      "icd9_formatted": 86.59,
+      "mimic_count": 691
+    }
+  },
+  {
+    "canonical": "angioplasty of other non-coronary vessel(s)",
+    "cuis": [
+      "C1456093"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3950"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Angioplasty of other non-coronary vessel(s)",
+      "icd9_formatted": 39.5,
+      "mimic_count": 686
+    }
+  },
+  {
+    "canonical": "injection or infusion of thrombolytic agent",
+    "cuis": [
+      "C0795784"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "injection or infusion of thrombolytic agent"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9910"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Injection or infusion of thrombolytic agent",
+      "icd9_formatted": 99.1,
+      "mimic_count": 680
+    }
+  },
+  {
+    "canonical": "arteriography of other intra-abdominal arteries",
+    "cuis": [
+      "C0177782"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8847"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Arteriography of other intra-abdominal arteries",
+      "icd9_formatted": 88.47,
+      "mimic_count": 678
+    }
+  },
+  {
+    "canonical": "other operations on extraocular muscles and tendons",
+    "cuis": [
+      "C0176289"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "159"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other operations on extraocular muscles and tendons",
+      "icd9_formatted": 15.9,
+      "mimic_count": 630
+    }
+  },
+  {
+    "canonical": "cardiopulmonary resuscitation",
+    "cuis": [
+      "C0007203"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "cardiopulmonary resuscitation",
+      "cardiopulmonary resuscitation (procedure)",
+      "cardiopulmonary resuscitation, not otherwise specified",
+      "cpr - cardiopulmonary resuscitation"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9960"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Cardiopulmonary resuscitation, not otherwise specified",
+      "icd9_formatted": 99.6,
+      "mimic_count": 628
+    }
+  },
+  {
+    "canonical": "endoscopic control of gastric or duodenal bleeding",
+    "cuis": [
+      "C0176770"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "endoscopic control of gastric or duodenal bleeding"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "4443"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Endoscopic control of gastric or duodenal bleeding",
+      "icd9_formatted": 44.43,
+      "mimic_count": 605
+    }
+  },
+  {
+    "canonical": "esophagogastroduodenoscopy [egd] with closed biopsy",
+    "cuis": [
+      "C0176784"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "esophagogastroduodenoscopy [egd] with closed biopsy"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "4516"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Esophagogastroduodenoscopy [EGD] with closed biopsy",
+      "icd9_formatted": 45.16,
+      "mimic_count": 585
+    }
+  },
+  {
+    "canonical": "other intubation of respiratory tract",
+    "cuis": [
+      "C0178095"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9605"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other intubation of respiratory tract",
+      "icd9_formatted": 96.05,
+      "mimic_count": 582
+    }
+  },
+  {
+    "canonical": "arteriography of femoral and other lower extremity arteries",
+    "cuis": [
+      "C0177783"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8848"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Arteriography of femoral and other lower extremity arteries",
+      "icd9_formatted": 88.48,
+      "mimic_count": 578
+    }
+  },
+  {
+    "canonical": "cardiac catheterization, right heart",
+    "cuis": [
+      "C0189896"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "cardiac catheterization, right heart",
+      "catheterization of right heart",
+      "catheterization of right heart (procedure)",
+      "introduction of catheter into right heart",
+      "right heart cardiac catheterization",
+      "right heart catheterization"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3721"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Right heart cardiac catheterization",
+      "icd9_formatted": 37.21,
+      "mimic_count": 564
+    }
+  },
+  {
+    "canonical": "angiocardiography of right heart",
+    "cuis": [
+      "C0202856"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "angiocardiography of right heart",
+      "angiocardiography of right heart (procedure)",
+      "angiocardiography of right heart structures",
+      "selective right atrial injection for angiography",
+      "selective right ventricular injection for angiography"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "8852"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Angiocardiography of right heart structures",
+      "icd9_formatted": 88.52,
+      "mimic_count": 531
+    }
+  },
+  {
+    "canonical": "injection or infusion of cancer chemotherapeutic substance",
+    "cuis": [
+      "C0178200"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "injection or infusion of cancer chemotherapeutic substance"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9925"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Injection or infusion of cancer chemotherapeutic substance",
+      "icd9_formatted": 99.25,
+      "mimic_count": 510
+    }
+  },
+  {
+    "canonical": "intracapsular extraction of lens",
+    "cuis": [
+      "C0197717"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "intracapsular extraction of lens",
+      "intracapsular extraction of lens (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "131"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Incision of cerebral meninges",
+      "icd9_formatted": 13.1,
+      "mimic_count": 484
+    }
+  },
+  {
+    "canonical": "endoscopic insertion of stent (tube) into bile duct",
+    "cuis": [
+      "C0176924"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "endoscopic insertion of stent (tube) into bile duct",
+      "endoscopic insertion of stent into bile duct",
+      "endoscopic insertion of stent into bile duct (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "5187"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Endoscopic insertion of stent (tube) into bile duct",
+      "icd9_formatted": 51.87,
+      "mimic_count": 478
+    }
+  },
+  {
+    "canonical": "injection or infusion of other therapeutic or prophylactic substance",
+    "cuis": [
+      "C0178197"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "9929"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Injection or infusion of other therapeutic or prophylactic substance",
+      "icd9_formatted": 99.29,
+      "mimic_count": 473
+    }
+  },
+  {
+    "canonical": "insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s)",
+    "cuis": [
+      "C2712582"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3990"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s)",
+      "icd9_formatted": 39.9,
+      "mimic_count": 463
+    }
+  },
+  {
+    "canonical": "cholecystectomy",
+    "cuis": [
+      "C0008320"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "cholecystectomy",
+      "cholecystectomy (procedure)",
+      "excision of gallbladder",
+      "gallbladder excision",
+      "removal of gallbladder"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "5122"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Cholecystectomy",
+      "icd9_formatted": 51.22,
+      "mimic_count": 449
+    }
+  },
+  {
+    "canonical": "initial implantation of cardiac dual-chamber device",
+    "cuis": [
+      "C0189848"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "initial implantation of cardiac dual-chamber device",
+      "initial insertion of cardiac dual-chamber device",
+      "initial insertion of cardiac pacemaker dual-chamber device",
+      "initial insertion of dual-chamber device"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3783"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Initial insertion of dual-chamber device",
+      "icd9_formatted": 37.83,
+      "mimic_count": 449
+    }
+  },
+  {
+    "canonical": "initial insertion of transvenous leads [electrodes] into atrium and ventricle",
+    "cuis": [
+      "C0189824"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3772"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Initial insertion of transvenous leads [electrodes] into atrium and ventricle",
+      "icd9_formatted": 37.72,
+      "mimic_count": 448
+    }
+  },
+  {
+    "canonical": "other enterostomy",
+    "cuis": [
+      "C0029612"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "4639"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other enterostomy",
+      "icd9_formatted": 46.39,
+      "mimic_count": 447
+    }
+  },
+  {
+    "canonical": "insertion of two vascular stents",
+    "cuis": [
+      "C0399857"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "46"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Insertion of two vascular stents",
+      "icd9_formatted": 46.0,
+      "mimic_count": 425
+    }
+  },
+  {
+    "canonical": "cardiac electrophysiologic stimulation and recording study",
+    "cuis": [
+      "C0199551"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [
+      "cardiac electrophysiologic stimulation and recording study",
+      "catheter based invasive electrophysiologic testing"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3726"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Catheter based invasive electrophysiologic testing",
+      "icd9_formatted": 37.26,
+      "mimic_count": 412
+    }
+  },
+  {
+    "canonical": "pericardiocentesis",
+    "cuis": [
+      "C0191234"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "pericardiocentesis",
+      "pericardiocentesis (procedure)"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "370"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT",
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT"
+      ],
+      "original_title": "Pericardiocentesis",
+      "icd9_formatted": 37.0,
+      "mimic_count": 410
+    }
+  },
+  {
+    "canonical": "lens operations",
+    "cuis": [
+      "C0197672"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [
+      "lens operations",
+      "operation on lens",
+      "operation on lens (procedure)",
+      "operative procedure on ocular lens"
+    ],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "13"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "SNOMEDCT_US.FN",
+        "SNOMEDCT_US.PT",
+        "SNOMEDCT_US.SY"
+      ],
+      "original_title": "Injection or infusion of nesiritide",
+      "icd9_formatted": 13.0,
+      "mimic_count": 402
+    }
+  },
+  {
+    "canonical": "other endovascular procedures on other vessels",
+    "cuis": [
+      "C2712581"
+    ],
+    "semtypes": [
+      "Therapeutic or Preventive Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3979"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Other endovascular procedures on other vessels",
+      "icd9_formatted": 39.79,
+      "mimic_count": 384
+    }
+  },
+  {
+    "canonical": "laryngoscopy and other tracheoscopy",
+    "cuis": [
+      "C0023073"
+    ],
+    "semtypes": [
+      "Diagnostic Procedure"
+    ],
+    "surface_forms": [],
+    "db_links": {
+      "procedures": {
+        "icd9_exact": [
+          "3142"
+        ]
+      }
+    },
+    "provenance": {
+      "sources": [
+        "ICD9CM.PT"
+      ],
+      "original_title": "Laryngoscopy and other tracheoscopy",
+      "icd9_formatted": 31.42,
+      "mimic_count": 359
+    }
+  }
+]
