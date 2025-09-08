@@ -116,7 +116,7 @@ models = {
         ),
     ),
     "gpt-5": sn(
-        model="gpt-5",
+        model="gpt-5-chat-latest",
         meta=sn(
             price_in=1.25,
             price_out=10.00,
@@ -221,9 +221,9 @@ async def ai_query(
             if section not in exclude_system_sections
         )
 
-        # Add minimal reasoning instruction for reasoning models
+        # Add instruction to avoid chain-of-thought / thinking outputs
         if model in ["gpt-5", "gpt-oss-20b", "deepseek-v3.1"]:
-            system += "\n\n**IMPORTANT**: Use minimal reasoning. Focus directly on generating the SQL query without extensive explanation."
+            system += "\n\n**IMPORTANT**: Do not include chain-of-thought or any hidden 'thinking'. Output only the final SQL query."
 
     model_spec = models.get(model)
 
@@ -277,13 +277,18 @@ async def ai_query(
         # Note: GPT-5 doesn't support reasoning effort control yet
     elif model == "gpt-oss-20b":
         params["temperature"] = 0
+        # Hide reasoning per Groq docs for GPT-OSS models
+        # https://console.groq.com/docs/reasoning
+        params["include_reasoning"] = False
+        # Keep reasoning effort minimal if used internally
         params["reasoning_effort"] = "low"
-        # Increase max_tokens for GPT-OSS-20B to account for reasoning tokens
-        params["max_tokens"] = max_tokens * 2
+        # Do not boost max_tokens for reasoning
+        params["max_tokens"] = max_tokens
     elif model == "deepseek-v3.1":
         params["temperature"] = 0
-        # DeepSeek-v3.1 also generates extensive reasoning, increase max_tokens
-        params["max_tokens"] = max_tokens * 3  # Triple for DeepSeek-v3.1
+        # Keep token budget tight and rely on prompt to avoid CoT
+        params["max_tokens"] = max_tokens
+        params["response_format"] = {"type": "text"}
     else:
         params["temperature"] = 0
 

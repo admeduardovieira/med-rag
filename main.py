@@ -206,7 +206,7 @@ continue_from = None
 # continue_from = "879e430064f5011919b19ba70a193bc9"
 
 # models_filter = ["deepseek-r1"]
-models_filter = None
+models_filter = ["gpt-5", "gpt-oss-20b", "deepseek-v3.1"]
 
 exclude_info = "-".join(exclude_prompts) if len(exclude_prompts) else "none"
 experiment_name = f"batch_size={batch_size}&n={batch_size * batch_limit}&exclude={exclude_info}&take={take}"
