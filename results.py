@@ -40,7 +40,6 @@ if any(
         "deepseek-v3",
         "llama3.3-70b",
         "gpt-4o",
-        "gpt-5",
         "gpt-oss-20b",
         "qwen2p5-vl-32b-instruct",
         "mixtral-8x22b-instruct",
@@ -61,7 +60,14 @@ if args.task != "main":
         for f in os.listdir(os.path.join("output", args.task))
     ]
 else:
-    log_files = [os.path.join("output", f) for f in os.listdir("output")]
+    # Recursively find all .log files in output directory and subdirectories
+    log_files = []
+    for root, dirs, files in os.walk("output"):
+        # Skip "old" directories
+        dirs[:] = [d for d in dirs if d != "old"]
+        for file in files:
+            if file.endswith(".log"):
+                log_files.append(os.path.join(root, file))
 
 
 def parse_content(file_content):

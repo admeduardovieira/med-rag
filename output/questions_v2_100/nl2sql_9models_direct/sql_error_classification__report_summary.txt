@@ -1,0 +1,89 @@
+=== CORRECTED SQL Error Classification Report ===
+
+Total Queries: 9000
+Failed Queries: 4216
+Successfully Classified: 4216
+Overall Accuracy: 53.16%
+
+ACTUAL Model Performance (from Excel):
+  gpt-4o: 67.4% accuracy (674/1000)
+  gpt-5: 66.7% accuracy (667/1000)
+  deepseek-v3.1: 62.4% accuracy (624/1000)
+  deepseek-v3: 61.5% accuracy (615/1000)
+  llama3.3-70b: 55.9% accuracy (559/1000)
+  mixtral-8x22b-instruct: 53.7% accuracy (537/1000)
+  qwen2p5-vl-32b-instruct: 52.4% accuracy (524/1000)
+  gpt-oss-20b: 46.6% accuracy (466/1000)
+  bio-mistral-7b: 11.8% accuracy (118/1000)
+
+Error Category Distribution (from classified queries):
+  STRING_MISMATCH: 3601 (40.5%)
+  JOIN_CONDITION_MISINTERPRETATION: 2036 (22.9%)
+  SCHEMA_MISMATCH: 1708 (19.2%)
+  JOIN_ERRORS: 1249 (14.1%)
+  INCORRECT_AGGREGATION: 291 (3.3%)
+
+Error Distribution by Model:
+
+  bio-mistral-7b (accuracy: 11.8%):
+    STRING_MISMATCH: 698
+    SCHEMA_MISMATCH: 476
+    JOIN_CONDITION_MISINTERPRETATION: 346
+    JOIN_ERRORS: 341
+    INCORRECT_AGGREGATION: 71
+
+  deepseek-v3 (accuracy: 61.5%):
+    STRING_MISMATCH: 337
+    JOIN_CONDITION_MISINTERPRETATION: 215
+    SCHEMA_MISMATCH: 115
+    JOIN_ERRORS: 74
+    INCORRECT_AGGREGATION: 27
+
+  deepseek-v3.1 (accuracy: 62.4%):
+    STRING_MISMATCH: 331
+    JOIN_CONDITION_MISINTERPRETATION: 202
+    SCHEMA_MISMATCH: 123
+    JOIN_ERRORS: 79
+    INCORRECT_AGGREGATION: 35
+
+  gpt-4o (accuracy: 67.4%):
+    STRING_MISMATCH: 279
+    JOIN_CONDITION_MISINTERPRETATION: 173
+    SCHEMA_MISMATCH: 102
+    JOIN_ERRORS: 69
+    INCORRECT_AGGREGATION: 27
+
+  gpt-5 (accuracy: 66.7%):
+    STRING_MISMATCH: 296
+    JOIN_CONDITION_MISINTERPRETATION: 162
+    SCHEMA_MISMATCH: 122
+    JOIN_ERRORS: 94
+    INCORRECT_AGGREGATION: 26
+
+  gpt-oss-20b (accuracy: 46.6%):
+    STRING_MISMATCH: 475
+    JOIN_CONDITION_MISINTERPRETATION: 241
+    SCHEMA_MISMATCH: 220
+    JOIN_ERRORS: 173
+    INCORRECT_AGGREGATION: 31
+
+  llama3.3-70b (accuracy: 55.9%):
+    STRING_MISMATCH: 385
+    JOIN_CONDITION_MISINTERPRETATION: 243
+    SCHEMA_MISMATCH: 167
+    JOIN_ERRORS: 131
+    INCORRECT_AGGREGATION: 26
+
+  mixtral-8x22b-instruct (accuracy: 53.7%):
+    STRING_MISMATCH: 388
+    JOIN_CONDITION_MISINTERPRETATION: 233
+    SCHEMA_MISMATCH: 195
+    JOIN_ERRORS: 138
+    INCORRECT_AGGREGATION: 17
+
+  qwen2p5-vl-32b-instruct (accuracy: 52.4%):
+    STRING_MISMATCH: 412
+    JOIN_CONDITION_MISINTERPRETATION: 221
+    SCHEMA_MISMATCH: 188
+    JOIN_ERRORS: 150
+    INCORRECT_AGGREGATION: 31
