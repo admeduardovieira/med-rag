@@ -33,6 +33,45 @@ def connect_to_umls_db(db_path: str) -> sqlite3.Connection:
         raise
 
 
+def format_icd9_code(icd9_code: str) -> str:
+    """
+    Format ICD-9 code with proper decimal placement for diagnosis codes.
+
+    ICD-9 diagnosis code format:
+    - Regular codes: 3 chars: XXX, 4 chars: XXX.X, 5 chars: XXX.XX
+    - E-codes: 4 chars: EXXX, 5 chars: EXXX.X
+    - V-codes: 3 chars: VXX, 4 chars: VXX.X, 5 chars: VXX.XX
+
+    Args:
+        icd9_code: Raw ICD-9 code (integer as string)
+
+    Returns:
+        Properly formatted ICD-9 code with decimal
+    """
+    icd9_code = icd9_code.strip()
+
+    # Handle E-codes (External cause codes)
+    if icd9_code.startswith("E"):
+        if len(icd9_code) == 4:
+            return icd9_code  # EXXX (no decimal)
+        elif len(icd9_code) == 5:
+            return f"{icd9_code[:4]}.{icd9_code[4:]}"  # EXXX.X
+        else:
+            return icd9_code
+
+    # Handle V-codes and regular diagnosis codes
+    else:
+        if len(icd9_code) == 3:
+            return icd9_code  # XXX or VXX (no decimal)
+        elif len(icd9_code) == 4:
+            return f"{icd9_code[:3]}.{icd9_code[3:]}"  # XXX.X or VXX.X
+        elif len(icd9_code) == 5:
+            return f"{icd9_code[:3]}.{icd9_code[3:]}"  # XXX.XX or VXX.XX
+        else:
+            # For unusual lengths, return as-is
+            return icd9_code
+
+
 def query_cui_for_icd9(conn: sqlite3.Connection, icd9_code: str) -> list:
     """
     Query UMLS database for CUI given an ICD-9 code.
@@ -44,22 +83,30 @@ def query_cui_for_icd9(conn: sqlite3.Connection, icd9_code: str) -> list:
     Returns:
         List of CUIs found for the given ICD-9 code
     """
+    # Format the ICD-9 code with proper decimal placement
+    formatted_code = format_icd9_code(icd9_code)
+
     query = """
     SELECT DISTINCT CUI
     FROM MRCONSO
     WHERE SAB = 'ICD9CM'
       AND SUPPRESS = 'N'
-      AND REPLACE(CODE, '.', '') = REPLACE(?, '.', '');
+      AND CODE = ?;
     """
 
     try:
         cursor = conn.cursor()
-        cursor.execute(query, (icd9_code,))
+        cursor.execute(query, (formatted_code,))
         results = cursor.fetchall()
         cuis = [row[0] for row in results]
+        logger.debug(
+            f"Formatted {icd9_code} → {formatted_code}, found {len(cuis)} CUIs"
+        )
         return cuis
     except sqlite3.Error as e:
-        logger.error(f"Error querying database for ICD-9 code {icd9_code}: {e}")
+        logger.error(
+            f"Error querying database for ICD-9 code {icd9_code} (formatted: {formatted_code}): {e}"
+        )
         return []
 
 
@@ -110,6 +157,7 @@ def process_diagnoses_file(input_file: str, output_file: str, umls_db_path: str)
     # Initialize lists to store results
     cui_mappings = []
     mapping_status = []
+    formatted_codes = []
 
     # Process each ICD-9 code
     logger.info("Starting ICD-9 to CUI mapping process...")
@@ -118,7 +166,13 @@ def process_diagnoses_file(input_file: str, output_file: str, umls_db_path: str)
         long_title = row["LONG_TITLE"]
         count = row["n"]
 
-        logger.debug(f"Processing {idx+1}/{len(df)}: {icd9_code} - {long_title}")
+        # Format the code for display
+        formatted_code = format_icd9_code(icd9_code)
+        formatted_codes.append(formatted_code)
+
+        logger.debug(
+            f"Processing {idx+1}/{len(df)}: {icd9_code} → {formatted_code} - {long_title}"
+        )
 
         # Query for CUIs
         cuis = query_cui_for_icd9(conn, icd9_code)
@@ -139,6 +193,7 @@ def process_diagnoses_file(input_file: str, output_file: str, umls_db_path: str)
     conn.close()
 
     # Add CUI mapping to dataframe
+    df["ICD9_FORMATTED"] = formatted_codes
     df["CUI"] = cui_mappings
     df["MAPPING_STATUS"] = mapping_status
 
@@ -167,7 +222,9 @@ def main():
     # Define file paths
     script_dir = Path(__file__).parent
     input_file = script_dir / "filtered" / "top-diagnoses_limit100.csv"
-    output_file = script_dir / "filtered" / "top-diagnoses_limit100_with_cui.csv"
+    output_file = (
+        script_dir / "filtered" / "top-diagnoses_limit100_with_cui_corrected.csv"
+    )
     umls_db_path = script_dir.parent.parent / "db" / "umls.db"
 
     # Verify input files exist

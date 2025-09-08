@@ -1,0 +1,101 @@
+ICD9_CODE,LONG_TITLE,n,ICD9_FORMATTED,CUI,MAPPING_STATUS
+4019,Unspecified essential hypertension,20696,401.9,C0085580,MAPPED
+4280,"Congestive heart failure, unspecified",13111,428.0,C0018802,MAPPED
+42731,Atrial fibrillation,12886,427.31,C0004238,MAPPED
+41401,Coronary atherosclerosis of native coronary artery,12428,414.01,C0837134,MAPPED
+5849,"Acute kidney failure, unspecified",9118,584.9,C0022660,MAPPED
+25000,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",9057,250.00,C0375113,MAPPED
+2724,Other and unspecified hyperlipidemia,8689,272.4,C0348494,MAPPED
+51881,Acute respiratory failure,7497,518.81,C0264490,MAPPED
+5990,"Urinary tract infection, site not specified",6555,599.0,C0042029,MAPPED
+53081,Esophageal reflux,6324,530.81,C0017168,MAPPED
+2720,Pure hypercholesterolemia,5930,272.0,C0678189,MAPPED
+V053,Need for prophylactic vaccination and inoculation against viral hepatitis,5779,V05.3,C0476555,MAPPED
+V290,Observation for suspected infectious condition,5519,V29.0,C0375833,MAPPED
+2859,"Anemia, unspecified",5405,285.9,C0002871,MAPPED
+2449,Unspecified acquired hypothyroidism,4914,244.9,C0020676,MAPPED
+486,"Pneumonia, organism unspecified",4838,486,C0339951,MAPPED
+2851,Acute posthemorrhagic anemia,4552,285.1,C0154298,MAPPED
+2762,Acidosis,4528,276.2,C0001122,MAPPED
+496,"Chronic airway obstruction, not elsewhere classified",4431,496,C0302378,MAPPED
+99592,Severe sepsis,3912,995.92,C1719672,MAPPED
+V5861,Long-term (current) use of anticoagulants,3805,V58.61,C2911178,MAPPED
+0389,Unspecified septicemia,3725,038.9,C0036690,MAPPED
+5070,Pneumonitis due to inhalation of food or vomitus,3680,507.0,C0260334,MAPPED
+V3000,"Single liveborn, born in hospital, delivered without mention of cesarean section",3566,V30.00,C0260602,MAPPED
+5859,"Chronic kidney disease, unspecified",3435,585.9,C1561643,MAPPED
+311,"Depressive disorder, not elsewhere classified",3431,311,C0868892,MAPPED
+40390,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",3421,403.90,C0494574,MAPPED
+3051,Tobacco use disorder,3358,305.1,C0040336,MAPPED
+412,Old myocardial infarction,3278,412,C0155668,MAPPED
+2875,"Thrombocytopenia, unspecified",3065,287.5,C0040034,MAPPED
+V4581,Aortocoronary bypass status,3056,V45.81,C0032811,MAPPED
+41071,"Subendocardial infarction, initial episode of care",3055,410.71,C0155657,MAPPED
+2761,Hyposmolality and/or hyponatremia,3039,276.1,C0020645,MAPPED
+4240,Mitral valve disorders,2924,424.0,C0026265,MAPPED
+V1582,Personal history of tobacco use,2811,V15.82,C0040335,MAPPED
+V3001,"Single liveborn, born in hospital, delivered by cesarean section",2758,V30.01,C0260603,MAPPED
+5119,Unspecified pleural effusion,2734,511.9,C0032227,MAPPED
+V4582,Percutaneous transluminal coronary angioplasty status,2725,V45.82,C0375852,MAPPED
+40391,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",2630,403.91,C0348860,MAPPED
+78552,Septic shock,2586,785.52,C0036983,MAPPED
+4241,Aortic valve disorders,2550,424.1,C1260873,MAPPED
+V5867,Long-term (current) use of insulin,2538,V58.67,C1455979,MAPPED
+42789,Other specified cardiac dysrhythmias,2453,427.89,C0348626,MAPPED
+32723,Obstructive sleep apnea (adult)(pediatric),2380,327.23,C0520679,MAPPED
+9971,"Cardiac complications, not elsewhere classified",2343,997.1,C0549147,MAPPED
+5845,Acute kidney failure with lesion of tubular necrosis,2287,584.5,C2712977,MAPPED
+2760,Hyperosmolality and/or hypernatremia,2272,276.0,C0342580,MAPPED
+7742,Neonatal jaundice associated with preterm delivery,2264,774.2,C0158971,MAPPED
+49390,"Asthma, unspecified type, unspecified",2195,493.90,C0155886,MAPPED
+2767,Hyperpotassemia,2167,276.7,C0020461,MAPPED
+5180,Pulmonary collapse,2165,518.0,C0004144,MAPPED
+4168,Other chronic pulmonary heart diseases,2148,416.8,C0155673,MAPPED
+45829,Other iatrogenic hypotension,2121,458.29,C1260414,MAPPED
+2749,"Gout, unspecified",2082,274.9,C0018099,MAPPED
+4589,"Hypotension, unspecified",2051,458.9,C0020649,MAPPED
+V502,Routine or ritual circumcision,2016,V50.2,C1971613,MAPPED
+73300,"Osteoporosis, unspecified",1946,733.00,C0029456,MAPPED
+78039,Other convulsions,1934,780.39,C0490011,MAPPED
+5856,End stage renal disease,1926,585.6,C0022661,MAPPED
+4271,Paroxysmal ventricular tachycardia,1811,427.1,C0030591,MAPPED
+4254,Other primary cardiomyopathies,1709,425.4,C0340419,MAPPED
+4111,Intermediate coronary syndrome,1663,411.1,C0002965,MAPPED
+V1251,Personal history of venous thrombosis and embolism,1611,V12.51,C0375800,MAPPED
+3572,Polyneuropathy in diabetes,1584,357.2,C0271680,MAPPED
+30000,"Anxiety state, unspecified",1580,300.00,C0700613,MAPPED
+99811,Hemorrhage complicating a procedure,1535,998.11,C0375725,MAPPED
+27800,"Obesity, unspecified",1511,278.00,C0028754,MAPPED
+E8798,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",1502,E87.98,NOT_FOUND,NOT_FOUND
+41400,"Coronary atherosclerosis of unspecified type of vessel, native or graft",1494,414.00,C0837133,MAPPED
+60000,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),1490,600.00,C1719538,MAPPED
+7907,Bacteremia,1478,790.7,C0004610,MAPPED
+2930,Delirium due to conditions classified elsewhere,1445,293.0,C1456296,MAPPED
+00845,Intestinal infection due to Clostridium difficile,1444,008.45,C0494025,MAPPED
+2768,Hypopotassemia,1425,276.8,C0020621,MAPPED
+4439,"Peripheral vascular disease, unspecified",1401,443.9,C0085096,MAPPED
+5789,"Hemorrhage of gastrointestinal tract, unspecified",1397,578.9,C0017181,MAPPED
+V4501,Cardiac pacemaker in situ,1390,V45.01,C2240369,MAPPED
+27651,Dehydration,1384,276.51,C0011175,MAPPED
+28521,Anemia in chronic kidney disease,1383,285.21,C1561828,MAPPED
+27652,Hypovolemia,1374,276.52,C0546884,MAPPED
+431,Intracerebral hemorrhage,1367,431,C2937358,MAPPED
+4275,Cardiac arrest,1361,427.5,C0018790,MAPPED
+E8788,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",1350,E87.88,NOT_FOUND,NOT_FOUND
+V4986,Do not resuscitate status,1327,V49.86,C0582114,MAPPED
+769,Respiratory distress syndrome in newborn,1314,769,C0035220,MAPPED
+79902,Hypoxemia,1298,799.02,C0700292,MAPPED
+70703,"Pressure ulcer, lower back",1289,707.03,C1456141,MAPPED
+5715,Cirrhosis of liver without mention of alcohol,1287,571.5,C0008827,MAPPED
+V103,Personal history of malignant neoplasm of breast,1277,V10.3,C0260421,MAPPED
+99591,Sepsis,1271,995.91,C0243026,MAPPED
+2639,Unspecified protein-calorie malnutrition,1259,263.9,C0033677,MAPPED
+42832,Chronic diastolic heart failure,1240,428.32,C2711480,MAPPED
+99812,Hematoma complicating a procedure,1224,998.12,C0375726,MAPPED
+42833,Acute on chronic diastolic heart failure,1220,428.33,C2732749,MAPPED
+07054,Chronic hepatitis C without mention of hepatic coma,1218,070.54,C0375012,MAPPED
+42732,Atrial flutter,1217,427.32,C0004239,MAPPED
+E8782,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",1211,E87.82,NOT_FOUND,NOT_FOUND
+V1046,Personal history of malignant neoplasm of prostate,1207,V10.46,C0260429,MAPPED
+5712,Alcoholic cirrhosis of liver,1202,571.2,C0023891,MAPPED
+49121,Obstructive chronic bronchitis with (acute) exacerbation,1198,491.21,C4041147,MAPPED
