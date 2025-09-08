@@ -1,0 +1,276 @@
+ICD9_CODE,ICD9_FORMATTED,LONG_TITLE,n,CUI,SYNONYM,SOURCE,TERM_TYPE
+3893,38.93,"Venous catheterization, not elsewhere classified",13133,C0162203,"Venous catheterization, not elsewhere classified",ICD9CM,PT
+9604,96.04,Insertion of endotracheal tube,9882,C0021932,Intubation of trachea,SNOMEDCT_US,SY
+9604,96.04,Insertion of endotracheal tube,9882,C0021932,Endotracheal intubation,SNOMEDCT_US,SY
+9604,96.04,Insertion of endotracheal tube,9882,C0021932,Tracheal intubation,SNOMEDCT_US,SY
+9604,96.04,Insertion of endotracheal tube,9882,C0021932,Insertion of endotracheal tube,ICD9CM,PT
+9604,96.04,Insertion of endotracheal tube,9882,C0021932,Insertion of endotracheal tube,SNOMEDCT_US,PT
+9604,96.04,Insertion of endotracheal tube,9882,C0021932,Insertion of endotracheal tube (procedure),SNOMEDCT_US,FN
+966,96.6,Enteral infusion of concentrated nutritional substances,9241,C0014329,Enteral infusion of concentrated nutritional substances,ICD9CM,PT
+9671,96.71,Continuous invasive mechanical ventilation for less than 96 consecutive hours,8904,C2349744,Continuous invasive mechanical ventilation for less than 96 consecutive hours,ICD9CM,PT
+9904,99.04,Transfusion of packed cells,7199,C0178192,Packed blood cell transfusion,SNOMEDCT_US,PT
+9904,99.04,Transfusion of packed cells,7199,C0178192,Transfusion of packed cells,ICD9CM,PT
+9904,99.04,Transfusion of packed cells,7199,C0178192,Packed blood cell transfusion (procedure),SNOMEDCT_US,FN
+3961,39.61,Extracorporeal circulation auxiliary to open heart surgery,6809,C0015355,Extracorporeal circulation auxiliary to open heart surgery,ICD9CM,PT
+9672,96.72,Continuous invasive mechanical ventilation for 96 consecutive hours or more,5930,C2349745,Continuous invasive mechanical ventilation for 96 consecutive hours or more,ICD9CM,PT
+9955,99.55,Prophylactic administration of vaccine against other diseases,5813,C0033467,Prophylactic administration of vaccine against other diseases,ICD9CM,PT
+8856,88.56,Coronary arteriography using two catheters,5140,C0202861,Coronary angiography using two catheters,SNOMEDCT_US,PT
+8856,88.56,Coronary arteriography using two catheters,5140,C0202861,Coronary arteriography using two catheters,ICD9CM,PT
+8856,88.56,Coronary arteriography using two catheters,5140,C0202861,Coronary arteriography using two catheters,SNOMEDCT_US,SY
+8856,88.56,Coronary arteriography using two catheters,5140,C0202861,Coronary angiography using two catheters (procedure),SNOMEDCT_US,FN
+3891,38.91,Arterial catheterization,4609,C0007431,Arterial catheterization,SNOMEDCT_US,SY
+3891,38.91,Arterial catheterization,4609,C0007431,Arterial catheterization,ICD9CM,PT
+3891,38.91,Arterial catheterization,4609,C0007431,Catheterization of artery,SNOMEDCT_US,SY
+3891,38.91,Arterial catheterization,4609,C0007431,Cannulation of artery,SNOMEDCT_US,SY
+3891,38.91,Arterial catheterization,4609,C0007431,Insertion of catheter into artery,SNOMEDCT_US,PT
+3891,38.91,Arterial catheterization,4609,C0007431,Arterial cannula insertion,SNOMEDCT_US,PT
+3891,38.91,Arterial catheterization,4609,C0007431,Intra-arterial cannulation,SNOMEDCT_US,SY
+3891,38.91,Arterial catheterization,4609,C0007431,Arterial catheter insertion,SNOMEDCT_US,SY
+3891,38.91,Arterial catheterization,4609,C0007431,Arterial line insertion,SNOMEDCT_US,SY
+3891,38.91,Arterial catheterization,4609,C0007431,Arterial cannulation,SNOMEDCT_US,SY
+3891,38.91,Arterial catheterization,4609,C0007431,Arterial cannula insertion (procedure),SNOMEDCT_US,FN
+3891,38.91,Arterial catheterization,4609,C0007431,Insertion of catheter into artery (procedure),SNOMEDCT_US,FN
+3615,36.15,Single internal mammary-coronary artery bypass,4398,C0021781,"Anastomosis of internal mammary artery to coronary artery, single vessel",SNOMEDCT_US,SY
+3615,36.15,Single internal mammary-coronary artery bypass,4398,C0021781,Single internal mammary-coronary artery bypass,ICD9CM,PT
+3615,36.15,Single internal mammary-coronary artery bypass,4398,C0021781,Single internal mammary-coronary artery bypass,SNOMEDCT_US,PT
+3615,36.15,Single internal mammary-coronary artery bypass,4398,C0021781,"Bypass internal mammary-coronary artery, single",SNOMEDCT_US,SY
+3615,36.15,Single internal mammary-coronary artery bypass,4398,C0021781,"Cardiac revascularization with bypass anastomosis of internal mammary to coronary artery, single vessel",SNOMEDCT_US,SY
+3615,36.15,Single internal mammary-coronary artery bypass,4398,C0021781,Single internal mammary-coronary artery bypass (procedure),SNOMEDCT_US,FN
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Total parenteral nutrition,SNOMEDCT_US,PT
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Parenteral hyperalimentation,SNOMEDCT_US,SY
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Parenteral infusion of concentrated nutritional substances,ICD9CM,PT
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Hyperalimentation,SNOMEDCT_US,SY
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Administration of total parenteral nutrition,SNOMEDCT_US,PT
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Total parenteral nutrition administration,SNOMEDCT_US,SY
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Administration of total parenteral nutrition (procedure),SNOMEDCT_US,FN
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Total parenteral nutrition (regime/therapy),SNOMEDCT_US,FN
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Superalimentation,SNOMEDCT_US,SY
+9915,99.15,Parenteral infusion of concentrated nutritional substances,4233,C0030548,Suralimentation,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Echocardiography,SNOMEDCT_US,PT
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Diagnostic ultrasound of heart,ICD9CM,PT
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Echocardiographic procedure,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Ultrasonography of heart,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Cardiac echo,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Cardiac US scan,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Echocardiogram,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,US scan of heart,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,US heart scan,SNOMEDCT_US,SY
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Echocardiography (procedure),SNOMEDCT_US,FN
+8872,88.72,Diagnostic ultrasound of heart,3352,C0013516,Ultrasound of heart,SNOMEDCT_US,SY
+3722,37.22,Left heart cardiac catheterization,3209,C0189897,Catheterization of left heart,SNOMEDCT_US,PT
+3722,37.22,Left heart cardiac catheterization,3209,C0189897,"Cardiac catheterization, left heart",SNOMEDCT_US,SY
+3722,37.22,Left heart cardiac catheterization,3209,C0189897,Left heart cardiac catheterization,ICD9CM,PT
+3722,37.22,Left heart cardiac catheterization,3209,C0189897,Catheterization of left heart (procedure),SNOMEDCT_US,FN
+3995,39.95,Hemodialysis,3207,C0019004,Hemodialysis,SNOMEDCT_US,PT
+3995,39.95,Hemodialysis,3207,C0019004,Hemodialysis,ICD9CM,PT
+3995,39.95,Hemodialysis,3207,C0019004,Extracorporeal hemodialysis,SNOMEDCT_US,SY
+3995,39.95,Hemodialysis,3207,C0019004,HD - Hemodialysis,SNOMEDCT_US,SY
+3995,39.95,Hemodialysis,3207,C0019004,Hemodialysis (procedure),SNOMEDCT_US,FN
+3995,39.95,Hemodialysis,3207,C0019004,Hemodialysis procedure,SNOMEDCT_US,SY
+9390,93.9,Non-invasive mechanical ventilation,2720,C2349740,Non-invasive mechanical ventilation,ICD9CM,PT
+3324,33.24,Closed [endoscopic] biopsy of bronchus,2676,C0176511,Closed [endoscopic] biopsy of bronchus,ICD9CM,PT
+3723,37.23,Combined right and left heart cardiac catheterization,2669,C0189898,Catheterization of both left and right heart,SNOMEDCT_US,PT
+3723,37.23,Combined right and left heart cardiac catheterization,2669,C0189898,"Cardiac catheterization, combined right and left heart",SNOMEDCT_US,SY
+3723,37.23,Combined right and left heart cardiac catheterization,2669,C0189898,Combined right and left heart cardiac catheterization,ICD9CM,PT
+3723,37.23,Combined right and left heart cardiac catheterization,2669,C0189898,Catheterization of both left and right heart (procedure),SNOMEDCT_US,FN
+4513,45.13,Other endoscopy of small intestine,2614,C0029611,Other endoscopy of small intestine,ICD9CM,PT
+9983,99.83,Other phototherapy,2400,C0029708,Other phototherapy,ICD9CM,PT
+640,64.0,Circumcision,2123,C0008819,Circumcision,ICD9CM,PT
+640,64.0,Circumcision,2123,C0008819,Circumcision,SNOMEDCT_US,PT
+640,64.0,Circumcision,2123,C0008819,Prepucectomy,SNOMEDCT_US,SY
+640,64.0,Circumcision,2123,C0008819,Circumcision (procedure),SNOMEDCT_US,FN
+8853,88.53,Angiocardiography of left heart structures,2105,C0202857,Angiocardiography of left heart,SNOMEDCT_US,PT
+8853,88.53,Angiocardiography of left heart structures,2105,C0202857,Selective left ventricular injection for angiography,SNOMEDCT_US,SY
+8853,88.53,Angiocardiography of left heart structures,2105,C0202857,Selective left atrial injection for angiography,SNOMEDCT_US,SY
+8853,88.53,Angiocardiography of left heart structures,2105,C0202857,Angiocardiography of left heart structures,ICD9CM,PT
+8853,88.53,Angiocardiography of left heart structures,2105,C0202857,Angiocardiography of left heart (procedure),SNOMEDCT_US,FN
+331,33.1,Incision of lung,2077,C0189471,Incision of lung,ICD9CM,PT
+331,33.1,Incision of lung,2077,C0189471,Incision of lung,SNOMEDCT_US,PT
+331,33.1,Incision of lung,2077,C0189471,Pneumonotomy,SNOMEDCT_US,SY
+331,33.1,Incision of lung,2077,C0189471,Incision of lung (procedure),SNOMEDCT_US,FN
+9907,99.07,Transfusion of other serum,2020,C0040694,Transfusion of other serum,ICD9CM,PT
+3612,36.12,(Aorto)coronary bypass of two coronary arteries,1903,C0190228,Aortocoronary bypass of two coronary arteries,SNOMEDCT_US,PT
+3612,36.12,(Aorto)coronary bypass of two coronary arteries,1903,C0190228,Cardiac revascularization with bypass aortocoronary anastomosis of two coronary vessels,SNOMEDCT_US,SY
+3612,36.12,(Aorto)coronary bypass of two coronary arteries,1903,C0190228,Aortocoronary bypass of two coronary arteries (procedure),SNOMEDCT_US,FN
+3612,36.12,(Aorto)coronary bypass of two coronary arteries,1903,C0190228,(Aorto)coronary bypass of two coronary arteries,ICD9CM,PT
+311,31.1,Temporary tracheostomy,1772,C0039492,Temporary tracheostomy,ICD9CM,PT
+311,31.1,Temporary tracheostomy,1772,C0039492,Temporary tracheostomy,SNOMEDCT_US,PT
+311,31.1,Temporary tracheostomy,1772,C0039492,Temporary tracheostomy (procedure),SNOMEDCT_US,FN
+9920,99.2,Injection or infusion of platelet inhibitor,1696,C0795785,Injection or infusion of platelet inhibitor,ICD9CM,PT
+3491,34.91,Thoracentesis,1613,C0189477,Thoracentesis,SNOMEDCT_US,PT
+3491,34.91,Thoracentesis,1613,C0189477,Thoracentesis,ICD9CM,PT
+3491,34.91,Thoracentesis,1613,C0189477,Pleurocentesis,SNOMEDCT_US,SY
+3491,34.91,Thoracentesis,1613,C0189477,Chest aspiration,SNOMEDCT_US,SY
+3491,34.91,Thoracentesis,1613,C0189477,Pleural aspiration,SNOMEDCT_US,SY
+3491,34.91,Thoracentesis,1613,C0189477,Thoracic paracentesis,SNOMEDCT_US,SY
+3491,34.91,Thoracentesis,1613,C0189477,Pleural tap,SNOMEDCT_US,SY
+3491,34.91,Thoracentesis,1613,C0189477,Thoracocentesis,SNOMEDCT_US,SY
+3491,34.91,Thoracentesis,1613,C0189477,Pleural cavity tap,SNOMEDCT_US,SY
+3491,34.91,Thoracentesis,1613,C0189477,Thoracentesis (procedure),SNOMEDCT_US,FN
+3404,34.04,Insertion of intercostal catheter for drainage,1571,C0371436,Insertion of intercostal catheter for drainage,ICD9CM,PT
+40,40.0,Procedure on single vessel,1558,C0600057,Operation on lymphatic structure,SNOMEDCT_US,PT
+40,40.0,Procedure on single vessel,1558,C0600057,Lymphatic operations,SNOMEDCT_US,SY
+40,40.0,Procedure on single vessel,1558,C0600057,Operation on lymphatic structure (procedure),SNOMEDCT_US,FN
+40,40.0,Procedure on single vessel,1558,C0600057,Lymphatic system surgical procedure,SNOMEDCT_US,SY
+4311,43.11,Percutaneous [endoscopic] gastrostomy [PEG],1532,C0176751,Percutaneous endoscopic gastrostomy,SNOMEDCT_US,PT
+4311,43.11,Percutaneous [endoscopic] gastrostomy [PEG],1532,C0176751,PEG - Percutaneous endoscopic gastrostomy,SNOMEDCT_US,SY
+4311,43.11,Percutaneous [endoscopic] gastrostomy [PEG],1532,C0176751,Percutaneous [endoscopic] gastrostomy [PEG],ICD9CM,PT
+4311,43.11,Percutaneous [endoscopic] gastrostomy [PEG],1532,C0176751,Percutaneous endoscopic insertion of gastrostomy tube (procedure),SNOMEDCT_US,FN
+4311,43.11,Percutaneous [endoscopic] gastrostomy [PEG],1532,C0176751,Percutaneous endoscopic insertion of gastrostomy tube,SNOMEDCT_US,SY
+3895,38.95,Venous catheterization for renal dialysis,1526,C0191126,Venous catheterization for renal dialysis,ICD9CM,PT
+3895,38.95,Venous catheterization for renal dialysis,1526,C0191126,Venous catheterization for renal dialysis,SNOMEDCT_US,PT
+3895,38.95,Venous catheterization for renal dialysis,1526,C0191126,Venous catheterization for renal dialysis (procedure),SNOMEDCT_US,FN
+3613,36.13,(Aorto)coronary bypass of three coronary arteries,1503,C0190232,Aortocoronary bypass of three coronary arteries,SNOMEDCT_US,PT
+3613,36.13,(Aorto)coronary bypass of three coronary arteries,1503,C0190232,Cardiac revascularization with bypass aortocoronary anastomosis of three coronary vessels,SNOMEDCT_US,SY
+3613,36.13,(Aorto)coronary bypass of three coronary arteries,1503,C0190232,Aortocoronary bypass of three coronary arteries (procedure),SNOMEDCT_US,FN
+3613,36.13,(Aorto)coronary bypass of three coronary arteries,1503,C0190232,(Aorto)coronary bypass of three coronary arteries,ICD9CM,PT
+3897,38.97,Central venous catheter placement with guidance,1483,C2921047,Central venous catheter placement with guidance,ICD9CM,PT
+5491,54.91,Percutaneous abdominal drainage,1448,C5779699,Percutaneous drainage of ascites,SNOMEDCT_US,PT
+5491,54.91,Percutaneous abdominal drainage,1448,C5779699,Percutaneous abdominal drainage,ICD9CM,PT
+5491,54.91,Percutaneous abdominal drainage,1448,C5779699,Paracentesis abdominis,SNOMEDCT_US,SY
+5491,54.91,Percutaneous abdominal drainage,1448,C5779699,Percutaneous drainage of ascites (procedure),SNOMEDCT_US,FN
+3521,35.21,Open and other replacement of aortic valve with tissue graft,1418,C3161351,Open and other replacement of aortic valve with tissue graft,ICD9CM,PT
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Arteriography of cerebral arteries,ICD9CM,PT
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Arteriography of cerebral arteries,SNOMEDCT_US,SY
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Angiography of intracranial vessels,SNOMEDCT_US,SY
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Cerebral arteriogram,SNOMEDCT_US,SY
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Cerebral arteriography,SNOMEDCT_US,SY
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Arteriography of intracranial vessels,SNOMEDCT_US,SY
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Angiography of cerebral arteries (procedure),SNOMEDCT_US,FN
+8841,88.41,Arteriography of cerebral arteries,1343,C0007767,Angiography of cerebral arteries,SNOMEDCT_US,PT
+66,66.0,Excision of lingual thyroid,1260,C0195463,Operation on fallopian tube,SNOMEDCT_US,PT
+66,66.0,Excision of lingual thyroid,1260,C0195463,Fallopian tube operation,SNOMEDCT_US,SY
+66,66.0,Excision of lingual thyroid,1260,C0195463,Tubal operations - fallopian,SNOMEDCT_US,SY
+66,66.0,Excision of lingual thyroid,1260,C0195463,Operation on fallopian tube (procedure),SNOMEDCT_US,FN
+9905,99.05,Transfusion of platelets,1233,C0086818,Platelet transfusion,SNOMEDCT_US,PT
+9905,99.05,Transfusion of platelets,1233,C0086818,Transfusion of platelets,ICD9CM,PT
+9905,99.05,Transfusion of platelets,1233,C0086818,Transfusion of thrombocytes,SNOMEDCT_US,SY
+9905,99.05,Transfusion of platelets,1233,C0086818,Intravenous blood transfusion of platelets,SNOMEDCT_US,PT
+9905,99.05,Transfusion of platelets,1233,C0086818,Intravenous blood transfusion of platelets (procedure),SNOMEDCT_US,FN
+9905,99.05,Transfusion of platelets,1233,C0086818,Platelet transfusion (procedure),SNOMEDCT_US,FN
+3606,36.06,Insertion of non-drug-eluting coronary artery stent(s),1210,C0521232,Placement of stent in coronary artery,SNOMEDCT_US,PT
+3606,36.06,Insertion of non-drug-eluting coronary artery stent(s),1210,C0521232,Insertion of coronary artery stent,SNOMEDCT_US,SY
+3606,36.06,Insertion of non-drug-eluting coronary artery stent(s),1210,C0521232,Insertion of non-drug-eluting coronary artery stent(s),ICD9CM,PT
+3606,36.06,Insertion of non-drug-eluting coronary artery stent(s),1210,C0521232,Placement of stent in coronary artery (procedure),SNOMEDCT_US,FN
+3607,36.07,Insertion of drug-eluting coronary artery stent(s),1137,C1135452,Insertion of drug-eluting coronary artery stent(s),ICD9CM,PT
+8964,89.64,Pulmonary artery wedge monitoring,1077,C0204916,Pulmonary artery wedge pressure monitoring,SNOMEDCT_US,PT
+8964,89.64,Pulmonary artery wedge monitoring,1077,C0204916,Pulmonary artery wedge monitoring,ICD9CM,PT
+8964,89.64,Pulmonary artery wedge monitoring,1077,C0204916,Pulmonary artery wedge pressure monitoring (regime/therapy),SNOMEDCT_US,FN
+3322,33.22,Fiber-optic bronchoscopy,1043,C0189391,Fiberoptic bronchoscopy,SNOMEDCT_US,PT
+3322,33.22,Fiber-optic bronchoscopy,1043,C0189391,Fiberoptic bronchoscopy (procedure),SNOMEDCT_US,FN
+3322,33.22,Fiber-optic bronchoscopy,1043,C0189391,Fiber-optic bronchoscopy,ICD9CM,PT
+3323,33.23,Other bronchoscopy,1023,C0029526,Other bronchoscopy,ICD9CM,PT
+3761,37.61,Implant of pulsation balloon,1010,C0176599,Implant of pulsation balloon,ICD9CM,PT
+3611,36.11,(Aorto)coronary bypass of one coronary artery,949,C0190224,Aortocoronary bypass of one coronary artery,SNOMEDCT_US,PT
+3611,36.11,(Aorto)coronary bypass of one coronary artery,949,C0190224,Cardiac revascularization with bypass aortocoronary anastomosis of one coronary vessel,SNOMEDCT_US,SY
+3611,36.11,(Aorto)coronary bypass of one coronary artery,949,C0190224,Aortocoronary bypass of one coronary artery (procedure),SNOMEDCT_US,FN
+3611,36.11,(Aorto)coronary bypass of one coronary artery,949,C0190224,(Aorto)coronary bypass of one coronary artery,ICD9CM,PT
+17,17.0,Infusion of vasopressor agent,830,C0175624,Other miscellaneous procedures,ICD9CM,PT
+8855,88.55,Coronary arteriography using a single catheter,827,C0202860,Coronary angiography using single catheter,SNOMEDCT_US,PT
+8855,88.55,Coronary arteriography using a single catheter,827,C0202860,Coronary arteriography using a single catheter,ICD9CM,PT
+8855,88.55,Coronary arteriography using a single catheter,827,C0202860,Coronary arteriography using single catheter,SNOMEDCT_US,SY
+8855,88.55,Coronary arteriography using a single catheter,827,C0202860,Coronary angiography using single catheter (procedure),SNOMEDCT_US,FN
+9962,99.62,Other electric countershock of heart,778,C0029605,Other electric countershock of heart,ICD9CM,PT
+4523,45.23,Colonoscopy,765,C0009378,Colonoscopy,SNOMEDCT_US,PT
+4523,45.23,Colonoscopy,765,C0009378,Colonoscopy,ICD9CM,PT
+4523,45.23,Colonoscopy,765,C0009378,Endoscopy of colon,SNOMEDCT_US,SY
+4523,45.23,Colonoscopy,765,C0009378,Endoscopic examination of colon,SNOMEDCT_US,SY
+4523,45.23,Colonoscopy,765,C0009378,Colonoscopy (procedure),SNOMEDCT_US,FN
+387,38.7,Interruption of the vena cava,757,C0191172,Interruption of the vena cava,ICD9CM,PT
+8842,88.42,Aortography,751,C0003515,Aortography,SNOMEDCT_US,SY
+8842,88.42,Aortography,751,C0003515,Aortography,ICD9CM,PT
+8842,88.42,Aortography,751,C0003515,Arteriography of aorta,SNOMEDCT_US,SY
+8842,88.42,Aortography,751,C0003515,Angiography of aorta (procedure),SNOMEDCT_US,FN
+8842,88.42,Aortography,751,C0003515,Angiography of aorta,SNOMEDCT_US,PT
+8659,86.59,Closure of skin and subcutaneous tissue of other sites,691,C0994533,Closure of skin and subcutaneous tissue of other sites,ICD9CM,PT
+3950,39.5,Angioplasty of other non-coronary vessel(s),686,C1456093,Angioplasty of other non-coronary vessel(s),ICD9CM,PT
+5459,54.59,Other lysis of peritoneal adhesions,684,C0375996,Other lysis of peritoneal adhesions,ICD9CM,PT
+9910,99.1,Injection or infusion of thrombolytic agent,680,C0795784,Injection or infusion of thrombolytic agent,ICD9CM,PT
+8847,88.47,Arteriography of other intra-abdominal arteries,678,C0177782,Arteriography of other intra-abdominal arteries,ICD9CM,PT
+159,15.9,Other operations on extraocular muscles and tendons,630,C0176289,Other operations on extraocular muscles and tendons,ICD9CM,PT
+9960,99.6,"Cardiopulmonary resuscitation, not otherwise specified",628,C0007203,Cardiopulmonary resuscitation,SNOMEDCT_US,PT
+9960,99.6,"Cardiopulmonary resuscitation, not otherwise specified",628,C0007203,CPR - Cardiopulmonary resuscitation,SNOMEDCT_US,SY
+9960,99.6,"Cardiopulmonary resuscitation, not otherwise specified",628,C0007203,"Cardiopulmonary resuscitation, not otherwise specified",ICD9CM,PT
+9960,99.6,"Cardiopulmonary resuscitation, not otherwise specified",628,C0007203,Cardiopulmonary resuscitation (procedure),SNOMEDCT_US,FN
+4443,44.43,Endoscopic control of gastric or duodenal bleeding,605,C0176770,Endoscopic control of gastric or duodenal bleeding,ICD9CM,PT
+4516,45.16,Esophagogastroduodenoscopy [EGD] with closed biopsy,585,C0176784,Esophagogastroduodenoscopy [EGD] with closed biopsy,ICD9CM,PT
+9605,96.05,Other intubation of respiratory tract,582,C0178095,Other intubation of respiratory tract,ICD9CM,PT
+8848,88.48,Arteriography of femoral and other lower extremity arteries,578,C0177783,Arteriography of femoral and other lower extremity arteries,ICD9CM,PT
+3721,37.21,Right heart cardiac catheterization,564,C0189896,Catheterization of right heart,SNOMEDCT_US,PT
+3721,37.21,Right heart cardiac catheterization,564,C0189896,Right heart catheterization,SNOMEDCT_US,SY
+3721,37.21,Right heart cardiac catheterization,564,C0189896,"Cardiac catheterization, right heart",SNOMEDCT_US,SY
+3721,37.21,Right heart cardiac catheterization,564,C0189896,Right heart cardiac catheterization,ICD9CM,PT
+3721,37.21,Right heart cardiac catheterization,564,C0189896,Introduction of catheter into right heart,SNOMEDCT_US,SY
+3721,37.21,Right heart cardiac catheterization,564,C0189896,Catheterization of right heart (procedure),SNOMEDCT_US,FN
+9607,96.07,Insertion of other (naso-)gastric tube,556,C0178097,Insertion of other (naso-)gastric tube,ICD9CM,PT
+8622,86.22,"Excisional debridement of wound, infection, or burn",544,C0177697,"Excisional debridement of wound, infection, or burn",ICD9CM,PT
+8852,88.52,Angiocardiography of right heart structures,531,C0202856,Angiocardiography of right heart,SNOMEDCT_US,PT
+8852,88.52,Angiocardiography of right heart structures,531,C0202856,Selective right ventricular injection for angiography,SNOMEDCT_US,SY
+8852,88.52,Angiocardiography of right heart structures,531,C0202856,Selective right atrial injection for angiography,SNOMEDCT_US,SY
+8852,88.52,Angiocardiography of right heart structures,531,C0202856,Angiocardiography of right heart structures,ICD9CM,PT
+8852,88.52,Angiocardiography of right heart structures,531,C0202856,Angiocardiography of right heart (procedure),SNOMEDCT_US,FN
+3845,38.45,"Resection of vessel with replacement, thoracic vessels",521,C0176642,"Resection of vessel with replacement, thoracic vessels",ICD9CM,PT
+9925,99.25,Injection or infusion of cancer chemotherapeutic substance,510,C0178200,Injection or infusion of cancer chemotherapeutic substance,ICD9CM,PT
+3522,35.22,Open and other replacement of aortic valve,510,C3161352,Open and other replacement of aortic valve,ICD9CM,PT
+131,13.1,Incision of cerebral meninges,484,C0197717,Intracapsular extraction of lens,SNOMEDCT_US,PT
+131,13.1,Incision of cerebral meninges,484,C0197717,Intracapsular extraction of lens (procedure),SNOMEDCT_US,FN
+5187,51.87,Endoscopic insertion of stent (tube) into bile duct,478,C0176924,Endoscopic insertion of stent into bile duct,SNOMEDCT_US,PT
+5187,51.87,Endoscopic insertion of stent (tube) into bile duct,478,C0176924,Endoscopic insertion of stent (tube) into bile duct,ICD9CM,PT
+5187,51.87,Endoscopic insertion of stent (tube) into bile duct,478,C0176924,Endoscopic insertion of stent into bile duct (procedure),SNOMEDCT_US,FN
+9929,99.29,Injection or infusion of other therapeutic or prophylactic substance,473,C0178197,Injection or infusion of other therapeutic or prophylactic substance,ICD9CM,PT
+3990,39.9,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),463,C2712582,Insertion of non-drug-eluting peripheral (non-coronary) vessel stent(s),ICD9CM,PT
+22,22.0,Intravascular imaging of intrathoracic vessels,459,C0396200,Operation on accessory sinus,SNOMEDCT_US,PT
+22,22.0,Intravascular imaging of intrathoracic vessels,459,C0396200,Operation on nasal sinus,SNOMEDCT_US,SY
+22,22.0,Intravascular imaging of intrathoracic vessels,459,C0396200,Operation on accessory sinus (procedure),SNOMEDCT_US,FN
+3778,37.78,Insertion of temporary transvenous pacemaker system,457,C0176611,Insertion of temporary transvenous pacemaker system,ICD9CM,PT
+5122,51.22,Cholecystectomy,449,C0008320,Cholecystectomy (procedure),SNOMEDCT_US,FN
+5122,51.22,Cholecystectomy,449,C0008320,Cholecystectomy,SNOMEDCT_US,PT
+5122,51.22,Cholecystectomy,449,C0008320,Cholecystectomy,ICD9CM,PT
+5122,51.22,Cholecystectomy,449,C0008320,Removal of gallbladder,SNOMEDCT_US,SY
+5122,51.22,Cholecystectomy,449,C0008320,Excision of gallbladder,SNOMEDCT_US,SY
+5122,51.22,Cholecystectomy,449,C0008320,Gallbladder excision,SNOMEDCT_US,SY
+3783,37.83,Initial insertion of dual-chamber device,449,C0189848,Initial implantation of cardiac dual-chamber device,SNOMEDCT_US,PT
+3783,37.83,Initial insertion of dual-chamber device,449,C0189848,Initial insertion of dual-chamber device,ICD9CM,PT
+3783,37.83,Initial insertion of dual-chamber device,449,C0189848,Initial insertion of cardiac dual-chamber device,SNOMEDCT_US,SY
+3783,37.83,Initial insertion of dual-chamber device,449,C0189848,Initial insertion of cardiac pacemaker dual-chamber device,SNOMEDCT_US,SY
+3783,37.83,Initial insertion of dual-chamber device,449,C0189848,Initial implantation of cardiac dual-chamber device (procedure),SNOMEDCT_US,FN
+3772,37.72,Initial insertion of transvenous leads [electrodes] into atrium and ventricle,448,C0189824,Initial implantation of electrode into cardiac atrium and ventricle,SNOMEDCT_US,PT
+3772,37.72,Initial insertion of transvenous leads [electrodes] into atrium and ventricle,448,C0189824,Initial insertion of transvenous lead electrodes into atrium and ventricle,SNOMEDCT_US,SY
+3772,37.72,Initial insertion of transvenous leads [electrodes] into atrium and ventricle,448,C0189824,Initial insertion of transvenous leads [electrodes] into atrium and ventricle,ICD9CM,PT
+3772,37.72,Initial insertion of transvenous leads [electrodes] into atrium and ventricle,448,C0189824,Initial implantation of electrode into cardiac atrium and ventricle (procedure),SNOMEDCT_US,FN
+4639,46.39,Other enterostomy,447,C0029612,Other enterostomy,ICD9CM,PT
+5185,51.85,Endoscopic sphincterotomy and papillotomy,439,C4317048,Endoscopic sphincterotomy and papillotomy,ICD9CM,PT
+3734,37.34,"Excision or destruction of other lesion or tissue of heart, endovascular approach",428,C2921041,"Excision or destruction of other lesion or tissue of heart, endovascular approach",ICD9CM,PT
+3614,36.14,(Aorto)coronary bypass of four or more coronary arteries,425,C0190236,Aortocoronary bypass of four or more coronary arteries,SNOMEDCT_US,PT
+3614,36.14,(Aorto)coronary bypass of four or more coronary arteries,425,C0190236,Cardiac revascularization with bypass aortocoronary anastomosis of four coronary vessels,SNOMEDCT_US,SY
+3614,36.14,(Aorto)coronary bypass of four or more coronary arteries,425,C0190236,Aortocoronary bypass of four or more coronary arteries (procedure),SNOMEDCT_US,FN
+3614,36.14,(Aorto)coronary bypass of four or more coronary arteries,425,C0190236,(Aorto)coronary bypass of four or more coronary arteries,ICD9CM,PT
+46,46.0,Insertion of two vascular stents,425,C0399857,Other operations on intestines,ICD9CM,PT
+3726,37.26,Catheter based invasive electrophysiologic testing,412,C0199551,Cardiac electrophysiologic stimulation and recording study,SNOMEDCT_US,PT
+3726,37.26,Catheter based invasive electrophysiologic testing,412,C0199551,Cardiac electrophysiologic stimulation and recording study (procedure),SNOMEDCT_US,FN
+3726,37.26,Catheter based invasive electrophysiologic testing,412,C0199551,Catheter based invasive electrophysiologic testing,ICD9CM,PT
+3512,35.12,Open heart valvuloplasty of mitral valve without replacement,410,C0190150,Open heart valvuloplasty of mitral valve without replacement,ICD9CM,PT
+3512,35.12,Open heart valvuloplasty of mitral valve without replacement,410,C0190150,Open heart valvuloplasty of mitral valve without replacement,SNOMEDCT_US,PT
+3512,35.12,Open heart valvuloplasty of mitral valve without replacement,410,C0190150,Open heart valvuloplasty of mitral valve without replacement (procedure),SNOMEDCT_US,FN
+370,37.0,Pericardiocentesis,410,C0191234,Pericardiocentesis,SNOMEDCT_US,PT
+370,37.0,Pericardiocentesis,410,C0191234,Pericardiocentesis,ICD9CM,PT
+370,37.0,Pericardiocentesis,410,C0191234,Pericardiocentesis (procedure),SNOMEDCT_US,FN
+4562,45.62,Other partial resection of small intestine,408,C0176804,Other partial resection of small intestine,ICD9CM,PT
+13,13.0,Injection or infusion of nesiritide,402,C0197672,Operation on lens,SNOMEDCT_US,PT
+13,13.0,Injection or infusion of nesiritide,402,C0197672,Lens operations,SNOMEDCT_US,SY
+13,13.0,Injection or infusion of nesiritide,402,C0197672,Operative procedure on ocular lens,SNOMEDCT_US,SY
+13,13.0,Injection or infusion of nesiritide,402,C0197672,Operation on lens (procedure),SNOMEDCT_US,FN
+3892,38.92,Umbilical vein catheterization,398,C0191118,Catheterization of umbilical vein,SNOMEDCT_US,PT
+3892,38.92,Umbilical vein catheterization,398,C0191118,Umbilical vein catheterization,ICD9CM,PT
+3892,38.92,Umbilical vein catheterization,398,C0191118,Catheterization of umbilical vein (procedure),SNOMEDCT_US,FN
+390,39.0,Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances,388,C0190388,Systemic to pulmonary arterial shunt,SNOMEDCT_US,PT
+390,39.0,Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances,388,C0190388,Systemic to pulmonary artery shunt,ICD9CM,PT
+390,39.0,Insertion of catheter into spinal canal for infusion of therapeutic or palliative substances,388,C0190388,Systemic to pulmonary arterial shunt (morphologic abnormality),SNOMEDCT_US,FN
+3979,39.79,Other endovascular procedures on other vessels,384,C2712581,Other endovascular procedures on other vessels,ICD9CM,PT
+3972,39.72,Endovascular (total) embolization or occlusion of head and neck vessels,383,C2712579,Endovascular (total) embolization or occlusion of head and neck vessels,ICD9CM,PT
+3321,33.21,Bronchoscopy through artificial stoma,372,C0176510,Bronchoscopy through artificial stoma,ICD9CM,PT
+9961,99.61,Atrial cardioversion,361,C0199550,Atrial cardioversion,ICD9CM,PT
+9961,99.61,Atrial cardioversion,361,C0199550,Atrial cardioversion,SNOMEDCT_US,PT
+9961,99.61,Atrial cardioversion,361,C0199550,Atrial cardioversion (procedure),SNOMEDCT_US,FN
+3929,39.29,Other (peripheral) vascular shunt or bypass,359,C0029480,Other (peripheral) vascular shunt or bypass,ICD9CM,PT
+3142,31.42,Laryngoscopy and other tracheoscopy,359,C0023073,Laryngoscopy and other tracheoscopy,ICD9CM,PT

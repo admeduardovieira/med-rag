@@ -1,0 +1,328 @@
+ICD9_CODE,ICD9_FORMATTED,LONG_TITLE,n,CUI,SYNONYM,SOURCE,TERM_TYPE
+4019,401.9,Unspecified essential hypertension,20696,C0085580,Essential hypertension,SNOMEDCT_US,PT
+4019,401.9,Unspecified essential hypertension,20696,C0085580,Unspecified essential hypertension,ICD9CM,PT
+4019,401.9,Unspecified essential hypertension,20696,C0085580,Primary hypertension,SNOMEDCT_US,SY
+4019,401.9,Unspecified essential hypertension,20696,C0085580,Systemic primary arterial hypertension,SNOMEDCT_US,SY
+4019,401.9,Unspecified essential hypertension,20696,C0085580,Idiopathic hypertension,SNOMEDCT_US,SY
+4019,401.9,Unspecified essential hypertension,20696,C0085580,Essential hypertension (disorder),SNOMEDCT_US,FN
+4280,428.0,"Congestive heart failure, unspecified",13111,C0018802,Congestive heart failure,SNOMEDCT_US,PT
+4280,428.0,"Congestive heart failure, unspecified",13111,C0018802,Congestive cardiac failure,SNOMEDCT_US,SY
+4280,428.0,"Congestive heart failure, unspecified",13111,C0018802,Congestive heart disease,SNOMEDCT_US,SY
+4280,428.0,"Congestive heart failure, unspecified",13111,C0018802,CCF - Congestive cardiac failure,SNOMEDCT_US,SY
+4280,428.0,"Congestive heart failure, unspecified",13111,C0018802,CHF - Congestive heart failure,SNOMEDCT_US,SY
+4280,428.0,"Congestive heart failure, unspecified",13111,C0018802,"Congestive heart failure, unspecified",ICD9CM,PT
+4280,428.0,"Congestive heart failure, unspecified",13111,C0018802,Congestive heart failure (disorder),SNOMEDCT_US,FN
+42731,427.31,Atrial fibrillation,12886,C0004238,Atrial fibrillation,ICD9CM,PT
+42731,427.31,Atrial fibrillation,12886,C0004238,Atrial fibrillation,SNOMEDCT_US,PT
+42731,427.31,Atrial fibrillation,12886,C0004238,AF - Atrial fibrillation,SNOMEDCT_US,SY
+42731,427.31,Atrial fibrillation,12886,C0004238,Atrial fibrillation (disorder),SNOMEDCT_US,FN
+41401,414.01,Coronary atherosclerosis of native coronary artery,12428,C0837134,Coronary atherosclerosis of native coronary artery,ICD9CM,PT
+5849,584.9,"Acute kidney failure, unspecified",9118,C0022660,Acute renal failure,SNOMEDCT_US,SY
+5849,584.9,"Acute kidney failure, unspecified",9118,C0022660,Acute renal failure syndrome,SNOMEDCT_US,SY
+5849,584.9,"Acute kidney failure, unspecified",9118,C0022660,ARF - Acute renal failure,SNOMEDCT_US,SY
+5849,584.9,"Acute kidney failure, unspecified",9118,C0022660,Acute kidney injury (disorder),SNOMEDCT_US,FN
+5849,584.9,"Acute kidney failure, unspecified",9118,C0022660,AKI - acute kidney injury,SNOMEDCT_US,SY
+5849,584.9,"Acute kidney failure, unspecified",9118,C0022660,Acute kidney injury,SNOMEDCT_US,PT
+5849,584.9,"Acute kidney failure, unspecified",9118,C0022660,"Acute kidney failure, unspecified",ICD9CM,PT
+25000,250.00,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",9057,C0375113,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled",ICD9CM,PT
+2724,272.4,Other and unspecified hyperlipidemia,8689,C0348494,Other and unspecified hyperlipidemia,ICD9CM,PT
+51881,518.81,Acute respiratory failure,7497,C0264490,Acute respiratory failure,SNOMEDCT_US,PT
+51881,518.81,Acute respiratory failure,7497,C0264490,Acute respiratory failure,ICD9CM,PT
+51881,518.81,Acute respiratory failure,7497,C0264490,ARF - Acute respiratory failure,SNOMEDCT_US,SY
+51881,518.81,Acute respiratory failure,7497,C0264490,Acute respiratory failure (disorder),SNOMEDCT_US,FN
+5990,599.0,"Urinary tract infection, site not specified",6555,C0042029,Urinary tract infection,SNOMEDCT_US,SY
+5990,599.0,"Urinary tract infection, site not specified",6555,C0042029,"Urinary tract infection, site not specified",ICD9CM,PT
+5990,599.0,"Urinary tract infection, site not specified",6555,C0042029,Urinary tract infectious disease,SNOMEDCT_US,PT
+5990,599.0,"Urinary tract infection, site not specified",6555,C0042029,UTI - Urinary tract infection,SNOMEDCT_US,SY
+5990,599.0,"Urinary tract infection, site not specified",6555,C0042029,Urinary tract infectious disease (disorder),SNOMEDCT_US,FN
+53081,530.81,Esophageal reflux,6324,C0017168,Gastroesophageal reflux disease,SNOMEDCT_US,PT
+53081,530.81,Esophageal reflux,6324,C0017168,Esophageal reflux,ICD9CM,PT
+53081,530.81,Esophageal reflux,6324,C0017168,GORD - Gastro-esophageal reflux disease,SNOMEDCT_US,SY
+53081,530.81,Esophageal reflux,6324,C0017168,GERD - Gastro-esophageal reflux disease,SNOMEDCT_US,SY
+53081,530.81,Esophageal reflux,6324,C0017168,GOR - Gastro-esophageal reflux,SNOMEDCT_US,SY
+53081,530.81,Esophageal reflux,6324,C0017168,Gastroesophageal reflux disease (disorder),SNOMEDCT_US,FN
+53081,530.81,Esophageal reflux,6324,C0017168,Gastro-esophageal reflux disease,SNOMEDCT_US,SY
+53081,530.81,Esophageal reflux,6324,C0017168,Gastro-esophageal reflux,SNOMEDCT_US,SY
+2720,272.0,Pure hypercholesterolemia,5930,C0678189,"Hyperlipidemia, group A",SNOMEDCT_US,PT
+2720,272.0,Pure hypercholesterolemia,5930,C0678189,Pure hypercholesterolemia,ICD9CM,PT
+2720,272.0,Pure hypercholesterolemia,5930,C0678189,Pure hypercholesterolemia,SNOMEDCT_US,PT
+2720,272.0,Pure hypercholesterolemia,5930,C0678189,"Hyperlipidemia, group A (disorder)",SNOMEDCT_US,FN
+2720,272.0,Pure hypercholesterolemia,5930,C0678189,Pure hypercholesterolemia (disorder),SNOMEDCT_US,FN
+V053,V05.3,Need for prophylactic vaccination and inoculation against viral hepatitis,5779,C0476555,Need for prophylactic vaccination and inoculation against viral hepatitis,ICD9CM,PT
+V290,V29.0,Observation for suspected infectious condition,5519,C0375833,Observation for suspected infectious condition,ICD9CM,PT
+2859,285.9,"Anemia, unspecified",5405,C0002871,Anemia,SNOMEDCT_US,PT
+2859,285.9,"Anemia, unspecified",5405,C0002871,"Anemia, unspecified",ICD9CM,PT
+2859,285.9,"Anemia, unspecified",5405,C0002871,Anemia (disorder),SNOMEDCT_US,FN
+2449,244.9,Unspecified acquired hypothyroidism,4914,C0020676,Hypothyroidism,SNOMEDCT_US,PT
+2449,244.9,Unspecified acquired hypothyroidism,4914,C0020676,Hypothyroid,SNOMEDCT_US,SY
+2449,244.9,Unspecified acquired hypothyroidism,4914,C0020676,Hypothyroidism (disorder),SNOMEDCT_US,FN
+2449,244.9,Unspecified acquired hypothyroidism,4914,C0020676,Unspecified acquired hypothyroidism,ICD9CM,PT
+486,486,"Pneumonia, organism unspecified",4838,C0339951,"Pneumonia, organism unspecified",ICD9CM,PT
+2851,285.1,Acute posthemorrhagic anemia,4552,C0154298,Acute posthemorrhagic anemia,ICD9CM,PT
+2851,285.1,Acute posthemorrhagic anemia,4552,C0154298,Acute posthemorrhagic anemia,SNOMEDCT_US,PT
+2851,285.1,Acute posthemorrhagic anemia,4552,C0154298,Acute blood loss anemia,SNOMEDCT_US,SY
+2851,285.1,Acute posthemorrhagic anemia,4552,C0154298,Anemia due to acute blood loss,SNOMEDCT_US,SY
+2851,285.1,Acute posthemorrhagic anemia,4552,C0154298,Acute posthemorrhagic anemia (disorder),SNOMEDCT_US,FN
+2851,285.1,Acute posthemorrhagic anemia,4552,C0154298,Acute post-hemorrhagic anemia,SNOMEDCT_US,SY
+2762,276.2,Acidosis,4528,C0001122,Acidosis,SNOMEDCT_US,PT
+2762,276.2,Acidosis,4528,C0001122,Acidosis,ICD9CM,PT
+2762,276.2,Acidosis,4528,C0001122,Acidosis (disorder),SNOMEDCT_US,FN
+496,496,"Chronic airway obstruction, not elsewhere classified",4431,C0302378,"Chronic airway obstruction, not elsewhere classified",ICD9CM,PT
+99592,995.92,Severe sepsis,3912,C1719672,Severe sepsis,ICD9CM,PT
+V5861,V58.61,Long-term (current) use of anticoagulants,3805,C2911178,Long-term (current) use of anticoagulants,ICD9CM,PT
+0389,038.9,Unspecified septicemia,3725,C0036690,Unspecified septicemia,ICD9CM,PT
+5070,507.0,Pneumonitis due to inhalation of food or vomitus,3680,C0260334,Pneumonitis due to inhalation of food or vomitus,ICD9CM,PT
+V3000,V30.00,"Single liveborn, born in hospital, delivered without mention of cesarean section",3566,C0260602,"Single liveborn, born in hospital, delivered without mention of cesarean section",ICD9CM,PT
+5859,585.9,"Chronic kidney disease, unspecified",3435,C1561643,Chronic kidney disease,SNOMEDCT_US,PT
+5859,585.9,"Chronic kidney disease, unspecified",3435,C1561643,Chronic kidney disease (disorder),SNOMEDCT_US,FN
+5859,585.9,"Chronic kidney disease, unspecified",3435,C1561643,Chronic renal disease,SNOMEDCT_US,SY
+5859,585.9,"Chronic kidney disease, unspecified",3435,C1561643,CKD - chronic kidney disease,SNOMEDCT_US,SY
+5859,585.9,"Chronic kidney disease, unspecified",3435,C1561643,"Chronic kidney disease, unspecified",ICD9CM,PT
+311,311,"Depressive disorder, not elsewhere classified",3431,C0868892,"Depressive disorder, not elsewhere classified",ICD9CM,PT
+40390,403.90,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",3421,C0494574,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage I through stage IV, or unspecified",ICD9CM,PT
+3051,305.1,Tobacco use disorder,3358,C0040336,Tobacco use disorder,ICD9CM,PT
+3051,305.1,Tobacco use disorder,3358,C0040336,Tobacco abuse,SNOMEDCT_US,SY
+3051,305.1,Tobacco use disorder,3358,C0040336,Harmful pattern of use of tobacco (disorder),SNOMEDCT_US,FN
+3051,305.1,Tobacco use disorder,3358,C0040336,Harmful pattern of use of tobacco,SNOMEDCT_US,PT
+412,412,Old myocardial infarction,3278,C0155668,Old myocardial infarction,SNOMEDCT_US,PT
+412,412,Old myocardial infarction,3278,C0155668,Old myocardial infarction,ICD9CM,PT
+412,412,Old myocardial infarction,3278,C0155668,Healed myocardial infarction,SNOMEDCT_US,SY
+412,412,Old myocardial infarction,3278,C0155668,Healed coronary,SNOMEDCT_US,SY
+412,412,Old myocardial infarction,3278,C0155668,Old myocardial infarction (disorder),SNOMEDCT_US,FN
+2875,287.5,"Thrombocytopenia, unspecified",3065,C0040034,Thrombocytopenia,SNOMEDCT_US,SY
+2875,287.5,"Thrombocytopenia, unspecified",3065,C0040034,"Thrombocytopenia, unspecified",ICD9CM,PT
+2875,287.5,"Thrombocytopenia, unspecified",3065,C0040034,Thrombocytopenic disorder,SNOMEDCT_US,PT
+2875,287.5,"Thrombocytopenia, unspecified",3065,C0040034,Thrombocytopenic disorder (disorder),SNOMEDCT_US,FN
+V4581,V45.81,Aortocoronary bypass status,3056,C0032811,Aortocoronary bypass status,ICD9CM,PT
+41071,410.71,"Subendocardial infarction, initial episode of care",3055,C0155657,"Subendocardial infarction, initial episode of care",ICD9CM,PT
+2761,276.1,Hyposmolality and/or hyponatremia,3039,C0020645,Hyposmolality and/or hyponatremia,ICD9CM,PT
+2761,276.1,Hyposmolality and/or hyponatremia,3039,C0020645,Hypo-osmolality and or hyponatremia,SNOMEDCT_US,PT
+2761,276.1,Hyposmolality and/or hyponatremia,3039,C0020645,Hypo-osmolality and or hyponatremia (disorder),SNOMEDCT_US,FN
+4240,424.0,Mitral valve disorders,2924,C0026265,Mitral valve disease,SNOMEDCT_US,SY
+4240,424.0,Mitral valve disorders,2924,C0026265,Mitral valve disorder,SNOMEDCT_US,PT
+4240,424.0,Mitral valve disorders,2924,C0026265,Mitral valve disorders,ICD9CM,PT
+4240,424.0,Mitral valve disorders,2924,C0026265,MVD - Mitral valve disease,SNOMEDCT_US,SY
+4240,424.0,Mitral valve disorders,2924,C0026265,Mitral valve disorder (disorder),SNOMEDCT_US,FN
+V1582,V15.82,Personal history of tobacco use,2811,C0040335,Personal history of tobacco use,ICD9CM,PT
+V3001,V30.01,"Single liveborn, born in hospital, delivered by cesarean section",2758,C0260603,"Single liveborn, born in hospital, delivered by cesarean section",ICD9CM,PT
+5119,511.9,Unspecified pleural effusion,2734,C0032227,Pleural effusion (disorder),SNOMEDCT_US,FN
+5119,511.9,Unspecified pleural effusion,2734,C0032227,Pleural effusion,SNOMEDCT_US,PT
+5119,511.9,Unspecified pleural effusion,2734,C0032227,Unspecified pleural effusion,ICD9CM,PT
+V4582,V45.82,Percutaneous transluminal coronary angioplasty status,2725,C0375852,Percutaneous transluminal coronary angioplasty status,ICD9CM,PT
+40391,403.91,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",2630,C0348860,"Hypertensive chronic kidney disease, unspecified, with chronic kidney disease stage V or end stage renal disease",ICD9CM,PT
+78552,785.52,Septic shock,2586,C0036983,Septic shock,ICD9CM,PT
+78552,785.52,Septic shock,2586,C0036983,Septic shock,SNOMEDCT_US,PT
+78552,785.52,Septic shock,2586,C0036983,Sepsis-associated hypotension,SNOMEDCT_US,SY
+78552,785.52,Septic shock,2586,C0036983,Septicemic shock,SNOMEDCT_US,SY
+78552,785.52,Septic shock,2586,C0036983,Septic shock (disorder),SNOMEDCT_US,FN
+4241,424.1,Aortic valve disorders,2550,C1260873,Aortic valve disorder,SNOMEDCT_US,PT
+4241,424.1,Aortic valve disorders,2550,C1260873,Aortic valve disorders,ICD9CM,PT
+4241,424.1,Aortic valve disorders,2550,C1260873,Aortic valve disease,SNOMEDCT_US,SY
+4241,424.1,Aortic valve disorders,2550,C1260873,AVD - Aortic valve disease,SNOMEDCT_US,SY
+4241,424.1,Aortic valve disorders,2550,C1260873,Aortic valve disorder (disorder),SNOMEDCT_US,FN
+V5867,V58.67,Long-term (current) use of insulin,2538,C1455979,Long-term (current) use of insulin,ICD9CM,PT
+42789,427.89,Other specified cardiac dysrhythmias,2453,C0348626,Other specified cardiac dysrhythmias,ICD9CM,PT
+32723,327.23,Obstructive sleep apnea (adult)(pediatric),2380,C0520679,Obstructive sleep apnea,SNOMEDCT_US,SY
+32723,327.23,Obstructive sleep apnea (adult)(pediatric),2380,C0520679,Obstructive sleep apnea syndrome,SNOMEDCT_US,PT
+32723,327.23,Obstructive sleep apnea (adult)(pediatric),2380,C0520679,OSA - Obstructive sleep apnea,SNOMEDCT_US,SY
+32723,327.23,Obstructive sleep apnea (adult)(pediatric),2380,C0520679,Obstructive sleep apnea syndrome (disorder),SNOMEDCT_US,FN
+32723,327.23,Obstructive sleep apnea (adult)(pediatric),2380,C0520679,Obstructive sleep apnea (adult)(pediatric),ICD9CM,PT
+9971,997.1,"Cardiac complications, not elsewhere classified",2343,C0549147,"Cardiac complications, not elsewhere classified",ICD9CM,PT
+5845,584.5,Acute kidney failure with lesion of tubular necrosis,2287,C2712977,Acute kidney failure with lesion of tubular necrosis,ICD9CM,PT
+2760,276.0,Hyperosmolality and/or hypernatremia,2272,C0342580,Hyperosmolality and or hypernatremia,SNOMEDCT_US,PT
+2760,276.0,Hyperosmolality and/or hypernatremia,2272,C0342580,Hyperosmolality and/or hypernatremia,ICD9CM,PT
+2760,276.0,Hyperosmolality and/or hypernatremia,2272,C0342580,Hyperosmolality and or hypernatremia (disorder),SNOMEDCT_US,FN
+7742,774.2,Neonatal jaundice associated with preterm delivery,2264,C0158971,Neonatal jaundice after preterm delivery,SNOMEDCT_US,PT
+7742,774.2,Neonatal jaundice associated with preterm delivery,2264,C0158971,Neonatal jaundice associated with preterm delivery,ICD9CM,PT
+7742,774.2,Neonatal jaundice associated with preterm delivery,2264,C0158971,Neonatal jaundice associated with preterm delivery,SNOMEDCT_US,SY
+7742,774.2,Neonatal jaundice associated with preterm delivery,2264,C0158971,Hyperbilirubinemia of prematurity,SNOMEDCT_US,SY
+7742,774.2,Neonatal jaundice associated with preterm delivery,2264,C0158971,Preterm delivery-associated jaundice,SNOMEDCT_US,SY
+7742,774.2,Neonatal jaundice associated with preterm delivery,2264,C0158971,Neonatal jaundice associated with preterm delivery (finding),SNOMEDCT_US,FN
+49390,493.90,"Asthma, unspecified type, unspecified",2195,C0155886,"Asthma, unspecified type, unspecified",ICD9CM,PT
+2767,276.7,Hyperpotassemia,2167,C0020461,Hyperkalemia,SNOMEDCT_US,PT
+2767,276.7,Hyperpotassemia,2167,C0020461,Hyperpotassemia,SNOMEDCT_US,SY
+2767,276.7,Hyperpotassemia,2167,C0020461,Hyperpotassemia,ICD9CM,PT
+2767,276.7,Hyperpotassemia,2167,C0020461,K excess,SNOMEDCT_US,SY
+2767,276.7,Hyperpotassemia,2167,C0020461,Potassium excess,SNOMEDCT_US,SY
+2767,276.7,Hyperpotassemia,2167,C0020461,Hyperkalemic syndrome,SNOMEDCT_US,SY
+2767,276.7,Hyperpotassemia,2167,C0020461,K overload,SNOMEDCT_US,SY
+2767,276.7,Hyperpotassemia,2167,C0020461,Potassium overload,SNOMEDCT_US,PT
+2767,276.7,Hyperpotassemia,2167,C0020461,Hyperkalemia (disorder),SNOMEDCT_US,FN
+2767,276.7,Hyperpotassemia,2167,C0020461,Potassium overload (disorder),SNOMEDCT_US,FN
+5180,518.0,Pulmonary collapse,2165,C0004144,Atelectasis,SNOMEDCT_US,PT
+5180,518.0,Pulmonary collapse,2165,C0004144,Pulmonary collapse,ICD9CM,PT
+5180,518.0,Pulmonary collapse,2165,C0004144,Pulmonary collapse,SNOMEDCT_US,SY
+5180,518.0,Pulmonary collapse,2165,C0004144,Collapse of lung,SNOMEDCT_US,SY
+5180,518.0,Pulmonary collapse,2165,C0004144,Pulmonary atelectasis,SNOMEDCT_US,SY
+5180,518.0,Pulmonary collapse,2165,C0004144,Pulmonary collapse with atelectasis,SNOMEDCT_US,SY
+5180,518.0,Pulmonary collapse,2165,C0004144,Atelectasis (disorder),SNOMEDCT_US,FN
+4168,416.8,Other chronic pulmonary heart diseases,2148,C0155673,Other chronic pulmonary heart diseases,ICD9CM,PT
+45829,458.29,Other iatrogenic hypotension,2121,C1260414,Other iatrogenic hypotension,ICD9CM,PT
+2749,274.9,"Gout, unspecified",2082,C0018099,Gout,SNOMEDCT_US,PT
+2749,274.9,"Gout, unspecified",2082,C0018099,"Gout, unspecified",ICD9CM,PT
+2749,274.9,"Gout, unspecified",2082,C0018099,Gout (disorder),SNOMEDCT_US,FN
+4589,458.9,"Hypotension, unspecified",2051,C0020649,Hypotension,SNOMEDCT_US,SY
+4589,458.9,"Hypotension, unspecified",2051,C0020649,Low blood pressure,SNOMEDCT_US,PT
+4589,458.9,"Hypotension, unspecified",2051,C0020649,Arterial hypotension,SNOMEDCT_US,SY
+4589,458.9,"Hypotension, unspecified",2051,C0020649,Hypopiesis,SNOMEDCT_US,SY
+4589,458.9,"Hypotension, unspecified",2051,C0020649,"Hypotension, unspecified",ICD9CM,PT
+4589,458.9,"Hypotension, unspecified",2051,C0020649,Low blood pressure (disorder),SNOMEDCT_US,FN
+V502,V50.2,Routine or ritual circumcision,2016,C1971613,Routine or ritual circumcision,ICD9CM,PT
+73300,733.00,"Osteoporosis, unspecified",1946,C0029456,Osteoporosis,SNOMEDCT_US,PT
+73300,733.00,"Osteoporosis, unspecified",1946,C0029456,"Osteoporosis, unspecified",ICD9CM,PT
+73300,733.00,"Osteoporosis, unspecified",1946,C0029456,Osteoporosis (disorder),SNOMEDCT_US,FN
+78039,780.39,Other convulsions,1934,C0490011,Other convulsions,ICD9CM,PT
+5856,585.6,End stage renal disease,1926,C0022661,Chronic renal failure,SNOMEDCT_US,PT
+5856,585.6,End stage renal disease,1926,C0022661,End stage kidney disease,SNOMEDCT_US,SY
+5856,585.6,End stage renal disease,1926,C0022661,End stage renal disease,ICD9CM,PT
+5856,585.6,End stage renal disease,1926,C0022661,End-stage renal disease,SNOMEDCT_US,PT
+5856,585.6,End stage renal disease,1926,C0022661,Chronic renal failure syndrome,SNOMEDCT_US,SY
+5856,585.6,End stage renal disease,1926,C0022661,CRF - Chronic renal failure,SNOMEDCT_US,SY
+5856,585.6,End stage renal disease,1926,C0022661,ESCRF - End stage chronic renal failure,SNOMEDCT_US,SY
+5856,585.6,End stage renal disease,1926,C0022661,ESRD - End stage renal disease,SNOMEDCT_US,SY
+5856,585.6,End stage renal disease,1926,C0022661,ESRF - End stage renal failure,SNOMEDCT_US,SY
+5856,585.6,End stage renal disease,1926,C0022661,Chronic renal failure syndrome (disorder),SNOMEDCT_US,FN
+5856,585.6,End stage renal disease,1926,C0022661,End-stage renal disease (disorder),SNOMEDCT_US,FN
+5856,585.6,End stage renal disease,1926,C0022661,End stage chronic renal failure,SNOMEDCT_US,SY
+4271,427.1,Paroxysmal ventricular tachycardia,1811,C0030591,Paroxysmal ventricular tachycardia,ICD9CM,PT
+4271,427.1,Paroxysmal ventricular tachycardia,1811,C0030591,Paroxysmal ventricular tachycardia,SNOMEDCT_US,PT
+4271,427.1,Paroxysmal ventricular tachycardia,1811,C0030591,Paroxysmal ventricular tachycardia (disorder),SNOMEDCT_US,FN
+4254,425.4,Other primary cardiomyopathies,1709,C0340419,Other primary cardiomyopathies,ICD9CM,PT
+4111,411.1,Intermediate coronary syndrome,1663,C0002965,Unstable angina,SNOMEDCT_US,SY
+4111,411.1,Intermediate coronary syndrome,1663,C0002965,Intermediate coronary syndrome,ICD9CM,PT
+4111,411.1,Intermediate coronary syndrome,1663,C0002965,Intermediate coronary syndrome,SNOMEDCT_US,SY
+4111,411.1,Intermediate coronary syndrome,1663,C0002965,Crescendo angina,SNOMEDCT_US,SY
+4111,411.1,Intermediate coronary syndrome,1663,C0002965,Impending infarction,SNOMEDCT_US,PT
+4111,411.1,Intermediate coronary syndrome,1663,C0002965,Worsening angina,SNOMEDCT_US,SY
+4111,411.1,Intermediate coronary syndrome,1663,C0002965,Impending infarction (disorder),SNOMEDCT_US,FN
+V1251,V12.51,Personal history of venous thrombosis and embolism,1611,C0375800,Personal history of venous thrombosis and embolism,ICD9CM,PT
+3572,357.2,Polyneuropathy in diabetes,1584,C0271680,Diabetic polyneuropathy,SNOMEDCT_US,SY
+3572,357.2,Polyneuropathy in diabetes,1584,C0271680,Polyneuropathy in diabetes,ICD9CM,PT
+3572,357.2,Polyneuropathy in diabetes,1584,C0271680,Polyneuropathy due to diabetes mellitus,SNOMEDCT_US,PT
+3572,357.2,Polyneuropathy in diabetes,1584,C0271680,Polyneuropathy due to diabetes mellitus (disorder),SNOMEDCT_US,FN
+30000,300.00,"Anxiety state, unspecified",1580,C0700613,Anxiety state,SNOMEDCT_US,PT
+30000,300.00,"Anxiety state, unspecified",1580,C0700613,"Anxiety state, unspecified",ICD9CM,PT
+30000,300.00,"Anxiety state, unspecified",1580,C0700613,Anxiety state (finding),SNOMEDCT_US,FN
+99811,998.11,Hemorrhage complicating a procedure,1535,C0375725,Hemorrhage complicating a procedure,ICD9CM,PT
+27800,278.00,"Obesity, unspecified",1511,C0028754,Obesity,SNOMEDCT_US,PT
+27800,278.00,"Obesity, unspecified",1511,C0028754,Obese,SNOMEDCT_US,PT
+27800,278.00,"Obesity, unspecified",1511,C0028754,"Obesity, unspecified",ICD9CM,PT
+27800,278.00,"Obesity, unspecified",1511,C0028754,Obesity (disorder),SNOMEDCT_US,FN
+27800,278.00,"Obesity, unspecified",1511,C0028754,Obese (finding),SNOMEDCT_US,FN
+E8798,E879.8,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",1502,C0261596,"Other specified procedures as the cause of abnormal reaction of patient, or of later complication, without mention of misadventure at time of procedure",ICD9CM,PT
+41400,414.00,"Coronary atherosclerosis of unspecified type of vessel, native or graft",1494,C0837133,"Coronary atherosclerosis of unspecified type of vessel, native or graft",ICD9CM,PT
+60000,600.00,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),1490,C1719538,Hypertrophy (benign) of prostate without urinary obstruction and other lower urinary tract symptom (LUTS),ICD9CM,PT
+7907,790.7,Bacteremia,1478,C0004610,Bacteremia,ICD9CM,PT
+7907,790.7,Bacteremia,1478,C0004610,Bacteremia,SNOMEDCT_US,PT
+7907,790.7,Bacteremia,1478,C0004610,Bacteremia (finding),SNOMEDCT_US,FN
+2930,293.0,Delirium due to conditions classified elsewhere,1445,C1456296,Delirium due to conditions classified elsewhere,ICD9CM,PT
+00845,008.45,Intestinal infection due to Clostridium difficile,1444,C0494025,Intestinal infection due to Clostridium difficile,ICD9CM,PT
+2768,276.8,Hypopotassemia,1425,C0020621,Hypokalemia,SNOMEDCT_US,PT
+2768,276.8,Hypopotassemia,1425,C0020621,Hypopotassemia,SNOMEDCT_US,SY
+2768,276.8,Hypopotassemia,1425,C0020621,Hypopotassemia,ICD9CM,PT
+2768,276.8,Hypopotassemia,1425,C0020621,Hypokalemic syndrome,SNOMEDCT_US,SY
+2768,276.8,Hypopotassemia,1425,C0020621,Hypopotassemia syndrome,SNOMEDCT_US,SY
+2768,276.8,Hypopotassemia,1425,C0020621,Low serum potassium level,SNOMEDCT_US,SY
+2768,276.8,Hypopotassemia,1425,C0020621,Hypokalemia (disorder),SNOMEDCT_US,FN
+4439,443.9,"Peripheral vascular disease, unspecified",1401,C0085096,Peripheral vascular disease,SNOMEDCT_US,PT
+4439,443.9,"Peripheral vascular disease, unspecified",1401,C0085096,Peripheral angiopathy,SNOMEDCT_US,SY
+4439,443.9,"Peripheral vascular disease, unspecified",1401,C0085096,PVD - peripheral vascular disease,SNOMEDCT_US,SY
+4439,443.9,"Peripheral vascular disease, unspecified",1401,C0085096,"Peripheral vascular disease, unspecified",ICD9CM,PT
+4439,443.9,"Peripheral vascular disease, unspecified",1401,C0085096,Peripheral vascular disease (disorder),SNOMEDCT_US,FN
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,Gastrointestinal hemorrhage,SNOMEDCT_US,PT
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,GI bleeding,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,GI hemorrhage,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,GI - Gastrointestinal bleed,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,GI - Gastrointestinal hemorrhage,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,GIT - Gastrointestinal tract hemorrhage,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,Gastrointestinal bleeding,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,Gastrointestinal bleed,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,GIH - Gastrointestinal hemorrhage,SNOMEDCT_US,SY
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,"Hemorrhage of gastrointestinal tract, unspecified",ICD9CM,PT
+5789,578.9,"Hemorrhage of gastrointestinal tract, unspecified",1397,C0017181,Gastrointestinal hemorrhage (disorder),SNOMEDCT_US,FN
+V4501,V45.01,Cardiac pacemaker in situ,1390,C2240369,Cardiac pacemaker in situ,ICD9CM,PT
+27651,276.51,Dehydration,1384,C0011175,Dehydration,SNOMEDCT_US,PT
+27651,276.51,Dehydration,1384,C0011175,Dehydration,ICD9CM,PT
+27651,276.51,Dehydration,1384,C0011175,Pure water depletion syndrome,SNOMEDCT_US,SY
+27651,276.51,Dehydration,1384,C0011175,Dehydration (disorder),SNOMEDCT_US,FN
+28521,285.21,Anemia in chronic kidney disease,1383,C1561828,Anemia in chronic kidney disease,ICD9CM,PT
+28521,285.21,Anemia in chronic kidney disease,1383,C1561828,Anemia in chronic kidney disease,SNOMEDCT_US,PT
+28521,285.21,Anemia in chronic kidney disease,1383,C1561828,Anemia co-occurrent and due to chronic kidney disease (disorder),SNOMEDCT_US,FN
+28521,285.21,Anemia in chronic kidney disease,1383,C1561828,Anemia co-occurrent and due to chronic kidney disease,SNOMEDCT_US,SY
+27652,276.52,Hypovolemia,1374,C0546884,Hypovolemia,SNOMEDCT_US,PT
+27652,276.52,Hypovolemia,1374,C0546884,Hypovolemia,ICD9CM,PT
+27652,276.52,Hypovolemia,1374,C0546884,Hypovolemia (finding),SNOMEDCT_US,FN
+27652,276.52,Hypovolemia,1374,C0546884,"Volume depletion, unspecified",ICD9CM,PT
+431,431,Intracerebral hemorrhage,1367,C2937358,Cerebral hemorrhage,SNOMEDCT_US,PT
+431,431,Intracerebral hemorrhage,1367,C2937358,Intracerebral hemorrhage,ICD9CM,PT
+431,431,Intracerebral hemorrhage,1367,C2937358,Intracerebral hemorrhage,SNOMEDCT_US,SY
+431,431,Intracerebral hemorrhage,1367,C2937358,ICH - intracerebral hemorrhage,SNOMEDCT_US,SY
+431,431,Intracerebral hemorrhage,1367,C2937358,Cerebral hemorrhage (disorder),SNOMEDCT_US,FN
+4275,427.5,Cardiac arrest,1361,C0018790,Cardiac arrest,ICD9CM,PT
+4275,427.5,Cardiac arrest,1361,C0018790,Cardiac arrest,SNOMEDCT_US,PT
+4275,427.5,Cardiac arrest,1361,C0018790,Asystole,SNOMEDCT_US,PT
+4275,427.5,Cardiac arrest,1361,C0018790,Cardiac standstill,SNOMEDCT_US,SY
+4275,427.5,Cardiac arrest,1361,C0018790,Cardiac arrest (disorder),SNOMEDCT_US,FN
+4275,427.5,Cardiac arrest,1361,C0018790,Asystole (disorder),SNOMEDCT_US,FN
+E8788,E878.8,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",1350,C0261585,"Other specified surgical operations and procedures causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",ICD9CM,PT
+V4986,V49.86,Do not resuscitate status,1327,C0582114,Do not resuscitate status,ICD9CM,PT
+V4986,V49.86,Do not resuscitate status,1327,C0582114,Do not resuscitate status,SNOMEDCT_US,SY
+V4986,V49.86,Do not resuscitate status,1327,C0582114,Not for resuscitation,SNOMEDCT_US,PT
+V4986,V49.86,Do not resuscitate status,1327,C0582114,Do not resuscitate,SNOMEDCT_US,SY
+V4986,V49.86,Do not resuscitate status,1327,C0582114,Not for resuscitation (finding),SNOMEDCT_US,FN
+V4986,V49.86,Do not resuscitate status,1327,C0582114,DNAR - do not attempt resuscitation,SNOMEDCT_US,SY
+V4986,V49.86,Do not resuscitate status,1327,C0582114,DNR - do not resuscitate,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Respiratory distress syndrome in newborn,ICD9CM,PT
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Respiratory distress syndrome in the newborn,SNOMEDCT_US,PT
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Respiratory distress syndrome of newborn,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Idiopathic respiratory distress syndrome of newborn,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Neonatal respiratory distress syndrome,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Idiopathic respiratory distress syndrome,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Congenital alveolar dysplasia,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Cardiorespiratory distress syndrome of newborn,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Wet lung disease of newborn,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Pulmonary hypoperfusion syndrome of newborn,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,IRDS - Idiopathic respiratory distress syndrome,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Respiratory distress syndrome in neonate,SNOMEDCT_US,SY
+769,769,Respiratory distress syndrome in newborn,1314,C0035220,Respiratory distress syndrome in the newborn (disorder),SNOMEDCT_US,FN
+79902,799.02,Hypoxemia,1298,C0700292,Hypoxemia,SNOMEDCT_US,PT
+79902,799.02,Hypoxemia,1298,C0700292,Hypoxemia,ICD9CM,PT
+79902,799.02,Hypoxemia,1298,C0700292,Arterial hypoxemia,SNOMEDCT_US,SY
+79902,799.02,Hypoxemia,1298,C0700292,Hypoxemia (disorder),SNOMEDCT_US,FN
+70703,707.03,"Pressure ulcer, lower back",1289,C1456141,"Pressure ulcer, lower back",ICD9CM,PT
+5715,571.5,Cirrhosis of liver without mention of alcohol,1287,C0008827,Cirrhosis of liver without mention of alcohol,ICD9CM,PT
+V103,V10.3,Personal history of malignant neoplasm of breast,1277,C0260421,Personal history of malignant neoplasm of breast,ICD9CM,PT
+99591,995.91,Sepsis,1271,C0243026,Sepsis,ICD9CM,PT
+99591,995.91,Sepsis,1271,C0243026,Sepsis,SNOMEDCT_US,PT
+99591,995.91,Sepsis,1271,C0243026,Systemic infection,SNOMEDCT_US,SY
+99591,995.91,Sepsis,1271,C0243026,Sepsis (disorder),SNOMEDCT_US,FN
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,Protein-energy malnutrition,SNOMEDCT_US,SY
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,Protein-calorie malnutrition,SNOMEDCT_US,SY
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,Protein calorie malnutrition,SNOMEDCT_US,SY
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,Unspecified protein-calorie malnutrition,ICD9CM,PT
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,Protein-calorie undernutrition,SNOMEDCT_US,SY
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,Deficiency of macronutrients,SNOMEDCT_US,PT
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,PCM - Protein-calorie malnutrition,SNOMEDCT_US,SY
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,PEM - Protein-energy malnutrition,SNOMEDCT_US,SY
+2639,263.9,Unspecified protein-calorie malnutrition,1259,C0033677,Deficiency of macronutrients (disorder),SNOMEDCT_US,FN
+42832,428.32,Chronic diastolic heart failure,1240,C2711480,Chronic diastolic heart failure,SNOMEDCT_US,PT
+42832,428.32,Chronic diastolic heart failure,1240,C2711480,Chronic diastolic heart failure,ICD9CM,PT
+42832,428.32,Chronic diastolic heart failure,1240,C2711480,Chronic diastolic heart failure (disorder),SNOMEDCT_US,FN
+99812,998.12,Hematoma complicating a procedure,1224,C0375726,Hematoma complicating a procedure,ICD9CM,PT
+42833,428.33,Acute on chronic diastolic heart failure,1220,C2732749,Acute on chronic diastolic heart failure,SNOMEDCT_US,PT
+42833,428.33,Acute on chronic diastolic heart failure,1220,C2732749,Acute on chronic diastolic heart failure,ICD9CM,PT
+42833,428.33,Acute on chronic diastolic heart failure,1220,C2732749,Acute on chronic diastolic heart failure (disorder),SNOMEDCT_US,FN
+07054,070.54,Chronic hepatitis C without mention of hepatic coma,1218,C0375012,Chronic hepatitis C without mention of hepatic coma,ICD9CM,PT
+42732,427.32,Atrial flutter,1217,C0004239,Atrial flutter,ICD9CM,PT
+42732,427.32,Atrial flutter,1217,C0004239,Atrial flutter,SNOMEDCT_US,PT
+42732,427.32,Atrial flutter,1217,C0004239,Atrial flutter (disorder),SNOMEDCT_US,FN
+E8782,E878.2,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",1211,C0261580,"Surgical operation with anastomosis, bypass, or graft, with natural or artificial tissues used as implant causing abnormal patient reaction, or later complication, without mention of misadventure at time of operation",ICD9CM,PT
+V1046,V10.46,Personal history of malignant neoplasm of prostate,1207,C0260429,Personal history of malignant neoplasm of prostate,ICD9CM,PT
+5712,571.2,Alcoholic cirrhosis of liver,1202,C0023891,Alcoholic liver cirrhosis,SNOMEDCT_US,SY
+5712,571.2,Alcoholic cirrhosis of liver,1202,C0023891,Alcoholic cirrhosis of liver,ICD9CM,PT
+5712,571.2,Alcoholic cirrhosis of liver,1202,C0023891,Alcoholic cirrhosis of liver,SNOMEDCT_US,SY
+5712,571.2,Alcoholic cirrhosis of liver,1202,C0023891,Alcoholic cirrhosis,SNOMEDCT_US,PT
+5712,571.2,Alcoholic cirrhosis of liver,1202,C0023891,Alcoholic cirrhosis (disorder),SNOMEDCT_US,FN
+49121,491.21,Obstructive chronic bronchitis with (acute) exacerbation,1198,C4041147,Acute exacerbation of chronic obstructive bronchitis,SNOMEDCT_US,PT
+49121,491.21,Obstructive chronic bronchitis with (acute) exacerbation,1198,C4041147,Obstructive chronic bronchitis with (acute) exacerbation,ICD9CM,PT
+49121,491.21,Obstructive chronic bronchitis with (acute) exacerbation,1198,C4041147,Acute exacerbation of chronic obstructive bronchitis (disorder),SNOMEDCT_US,FN
