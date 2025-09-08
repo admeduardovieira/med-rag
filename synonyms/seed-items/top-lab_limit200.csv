@@ -1,0 +1,201 @@
+LABEL,n
+Glucose,856356
+Hematocrit,693768
+Potassium,669857
+Hemoglobin,663706
+Sodium,641851
+Chloride,631657
+Creatinine,619602
+Bicarbonate,618595
+Urea Nitrogen,617264
+Anion Gap,608339
+pH,607775
+Platelet Count,598950
+White Blood Cells,577701
+MCHC,573491
+Red Blood Cells,573358
+MCH,573354
+MCV,573351
+RDW,572351
+Magnesium,559502
+Phosphate,489974
+pO2,485562
+Base Excess,485555
+Calculated Total CO2,485547
+pCO2,485530
+"Calcium, Total",484694
+PTT,403550
+PT,378210
+Free Calcium,246190
+"Potassium, Whole Blood",187006
+Lactate,178014
+"Bilirubin, Total",173845
+Alanine Aminotransferase (ALT),148479
+Asparate Aminotransferase (AST),148395
+Alkaline Phosphatase,146257
+Oxygen Saturation,138307
+Lymphocytes,116279
+Monocytes,116083
+Eosinophils,111608
+Basophils,109802
+Neutrophils,109476
+Creatine Kinase (CK),101644
+Albumin,99002
+"Creatine Kinase, MB Isoenzyme",89361
+"Hematocrit, Calculated",86675
+Specific Gravity,82057
+Lactate Dehydrogenase (LD),80083
+Protein,72628
+Oxygen,71165
+"Sodium, Whole Blood",69025
+Urobilinogen,68039
+Ketone,67843
+Troponin T,66383
+Bilirubin,65907
+WBC,61280
+RBC,60879
+Epithelial Cells,59805
+Bands,57034
+Lipase,51163
+Amylase,49246
+Vancomycin,47876
+"Chloride, Whole Blood",46037
+Atypical Lymphocytes,45857
+Metamyelocytes,45302
+Myelocytes,45236
+"Fibrinogen, Functional",43686
+"Bilirubin, Direct",35868
+"Bilirubin, Indirect",35165
+"Creatinine, Urine",22879
+"Sodium, Urine",21883
+CK-MB Index,21234
+Phenytoin,19868
+"Osmolality, Measured",17690
+"Osmolality, Urine",16191
+Alveolar-arterial Gradient,15877
+Thyroid Stimulating Hormone,14764
+Nucleated Red Cells,14441
+Triglycerides,13524
+Hyaline Casts,12341
+Cortisol,12302
+Blood,12063
+O2 Flow,11934
+"Urea Nitrogen, Urine",11416
+Uric Acid,11387
+Iron,11277
+tacroFK,11130
+Transferrin,10902
+"Iron Binding Capacity, Total",10863
+Ferritin,10697
+Polys,10491
+"Potassium, Urine",10002
+Haptoglobin,9351
+Granulocyte Count,9126
+Troponin I,8913
+"Chloride, Urine",8834
+"Calculated Bicarbonate, Whole Blood",8434
+"Cholesterol, Total",7222
+% Hemoglobin A1c,7143
+"Reticulocyte Count, Automated",7127
+Acetaminophen,6816
+Ethanol,6746
+"Cholesterol, HDL",6715
+Cholesterol Ratio (Total/HDL),6668
+Vitamin B12,6574
+Digoxin,6449
+Salicylate,6385
+"Cholesterol, LDL, Calculated",6328
+Gentamicin,5897
+Granular Casts,5758
+Folate,4981
+NTproBNP,4857
+Fibrin Degradation Products,4820
+Cyclosporin,4809
+D-Dimer,4356
+"Protein, Total",4174
+Monos,3888
+Macrophage,3733
+Lymphs,3696
+"WBC, CSF",3695
+"Thyroxine (T4), Free",3688
+Sedimentation Rate,3669
+Transitional Epithelial Cells,3650
+"RBC, CSF",3647
+C-Reactive Protein,3515
+"Total Protein, Urine",3476
+"Total Protein, CSF",3378
+"Glucose, CSF",3280
+Ammonia,3165
+Protein/Creatinine Ratio,2896
+"WBC, Ascites",2500
+"RBC, Ascites",2438
+Thyroxine (T4),2216
+Blasts,2181
+Valproic Acid,2145
+"WBC, Pleural",2138
+"Total Protein, Pleural",2057
+"Lactate Dehydrogenase, Pleural",2033
+"RBC, Pleural",1999
+Methemoglobin,1972
+Carboxyhemoglobin,1942
+Promyelocytes,1846
+Globulin,1843
+"Glucose, Pleural",1835
+"Reticulocyte Count, Manual",1794
+Parathyroid Hormone,1697
+Immunoglobulin G,1564
+Triiodothyronine (T3),1554
+Renal Epithelial Cells,1508
+Phenobarbital,1493
+Mesothelial Cell,1489
+"Total Protein, Ascites",1407
+Gamma Glutamyltransferase,1359
+Other Cells,1342
+"WBC, Other Fluid",1325
+Mesothelial Cells,1259
+Immunoglobulin A,1257
+Macrophages,1245
+Tobramycin,1238
+"Albumin, Ascites",1183
+"RBC, Other Fluid",1176
+Immunoglobulin M,1151
+Rapamycin,1098
+Other,1098
+"Lactate Dehydrogenase, Ascites",1010
+"Albumin, Pleural",962
+"Glucose, Ascites",941
+"Amylase, Ascites",893
+"Phosphate, Urine",884
+"Phenytoin, Free",863
+C4,851
+Alpha-Fetoprotein,840
+C3,810
+"Phenytoin, Percent Free",803
+Carcinoembyronic Antigen (CEA),700
+"Calcium, Urine",694
+Urine Volume,677
+"CD3 Cells, Percent",670
+"Amylase, Body Fluid",669
+Lithium,661
+"CD4 Cells, Percent",658
+"Bilirubin, Total, Ascites",654
+"Amylase, Pleural",627
+"Bicarbonate, Urine",619
+"Lymphocytes, Percent",603
+Absolute Lymphocyte Count,603
+"Prot. Electrophoresis, Urine",600
+WBC Count,598
+"CD8 Cells, Percent",570
+Absolute CD4 Count,569
+"Cholesterol, LDL, Measured",543
+Hepatitis A Virus Antibody,542
+Prostate Specific Antigen,506
+Other Cell,504
+Absolute CD3 Count,500
+CD4/CD8 Ratio,482
+Absolute CD8 Count,482
+"Albumin, Urine",480
+Rheumatoid Factor,476
+Thrombin,471
+Carbamazepine,469
+"Albumin/Creatinine, Urine",453

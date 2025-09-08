@@ -11,7 +11,7 @@ parser = argparse.ArgumentParser(description="Obtain results")
 parser.add_argument(
     "--task",
     type=str,
-    default="main",
+    default="questions_v2_100",
     help="Name of task to process",
 )
 
@@ -55,10 +55,20 @@ print(f"Including LLMs: {args.llms}")
 included_llms = args.llms.split()
 
 if args.task != "main":
-    log_files = [
-        os.path.join("output", args.task, f)
-        for f in os.listdir(os.path.join("output", args.task))
-    ]
+    # Special-case: for questions_v2_100, only read the single requested log file
+    if args.task == "questions_v2_100":
+        specific_log = os.path.join(
+            "output",
+            "questions_v2_100",
+            "nl2sql_9models_direct",
+            "output_batch_size=5&n=1000&exclude=none&take=2.log",
+        )
+        log_files = [specific_log] if os.path.isfile(specific_log) else []
+    else:
+        log_files = [
+            os.path.join("output", args.task, f)
+            for f in os.listdir(os.path.join("output", args.task))
+        ]
 else:
     # Recursively find all .log files in output directory and subdirectories
     log_files = []
@@ -371,6 +381,8 @@ if __name__ == "__main__":
                 ]
             )
         )
+
+        result_df["acc_mean"] = result_df["acc_mean"].round(3)
 
         print(result_df)
 

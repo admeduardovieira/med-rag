@@ -13,10 +13,10 @@ from logging_setup import setup_logging, get_logger
 
 
 TOP_COUNTS: Dict[str, int] = {
-    "top-diagnoses.csv": 50,
-    "top-lab.csv": 25,
-    "top-drugs.csv": 15,
-    "top-procedures.csv": 10,
+    "top-diagnoses_limit200.csv": 100,
+    "top-lab_limit200.csv": 100,
+    "top-drugs_limit200.csv": 100,
+    "top-procedures_limit200.csv": 100,
 }
 
 
