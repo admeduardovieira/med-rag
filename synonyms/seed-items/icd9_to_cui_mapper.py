@@ -33,9 +33,9 @@ def connect_to_umls_db(db_path: str) -> sqlite3.Connection:
         raise
 
 
-def format_icd9_code(icd9_code: str) -> str:
+def format_icd9_diagnosis_code(icd9_code: str) -> str:
     """
-    Format ICD-9 code with proper decimal placement for diagnosis codes.
+    Format ICD-9 diagnosis code with proper decimal placement.
 
     ICD-9 diagnosis code format:
     - Regular codes: 3 chars: XXX, 4 chars: XXX.X, 5 chars: XXX.XX
@@ -43,10 +43,10 @@ def format_icd9_code(icd9_code: str) -> str:
     - V-codes: 3 chars: VXX, 4 chars: VXX.X, 5 chars: VXX.XX
 
     Args:
-        icd9_code: Raw ICD-9 code (integer as string)
+        icd9_code: Raw ICD-9 diagnosis code (integer as string)
 
     Returns:
-        Properly formatted ICD-9 code with decimal
+        Properly formatted ICD-9 diagnosis code with decimal
     """
     icd9_code = icd9_code.strip()
 
@@ -72,19 +72,57 @@ def format_icd9_code(icd9_code: str) -> str:
             return icd9_code
 
 
-def query_cui_for_icd9(conn: sqlite3.Connection, icd9_code: str) -> list:
+def format_icd9_procedure_code(icd9_code: str) -> str:
+    """
+    Format ICD-9 procedure code with proper decimal placement.
+
+    ICD-9 procedure code format:
+    - 2 chars: XX (no decimal)
+    - 3 chars: XX.X (e.g., 966 → 96.6)
+    - 4 chars: XX.XX (e.g., 3893 → 38.93)
+
+    Args:
+        icd9_code: Raw ICD-9 procedure code (integer as string)
+
+    Returns:
+        Properly formatted ICD-9 procedure code with decimal
+    """
+    icd9_code = icd9_code.strip()
+
+    if len(icd9_code) == 2:
+        return icd9_code  # XX (no decimal)
+    elif len(icd9_code) == 3:
+        return f"{icd9_code[:2]}.{icd9_code[2:]}"  # XX.X
+    elif len(icd9_code) == 4:
+        return f"{icd9_code[:2]}.{icd9_code[2:]}"  # XX.XX
+    else:
+        # For unusual lengths, return as-is
+        return icd9_code
+
+
+def query_cui_for_icd9(
+    conn: sqlite3.Connection, icd9_code: str, code_type: str = "diagnosis"
+) -> list:
     """
     Query UMLS database for CUI given an ICD-9 code.
 
     Args:
         conn: SQLite connection to UMLS database
         icd9_code: ICD-9 code to search for
+        code_type: Either "diagnosis" or "procedure"
 
     Returns:
         List of CUIs found for the given ICD-9 code
     """
-    # Format the ICD-9 code with proper decimal placement
-    formatted_code = format_icd9_code(icd9_code)
+    # Format the ICD-9 code with proper decimal placement based on type
+    if code_type == "diagnosis":
+        formatted_code = format_icd9_diagnosis_code(icd9_code)
+    elif code_type == "procedure":
+        formatted_code = format_icd9_procedure_code(icd9_code)
+    else:
+        raise ValueError(
+            f"Invalid code_type: {code_type}. Must be 'diagnosis' or 'procedure'"
+        )
 
     query = """
     SELECT DISTINCT CUI
@@ -100,12 +138,12 @@ def query_cui_for_icd9(conn: sqlite3.Connection, icd9_code: str) -> list:
         results = cursor.fetchall()
         cuis = [row[0] for row in results]
         logger.debug(
-            f"Formatted {icd9_code} → {formatted_code}, found {len(cuis)} CUIs"
+            f"Formatted {code_type} {icd9_code} → {formatted_code}, found {len(cuis)} CUIs"
         )
         return cuis
     except sqlite3.Error as e:
         logger.error(
-            f"Error querying database for ICD-9 code {icd9_code} (formatted: {formatted_code}): {e}"
+            f"Error querying database for ICD-9 {code_type} code {icd9_code} (formatted: {formatted_code}): {e}"
         )
         return []
 
@@ -132,21 +170,26 @@ def map_icd9_to_cui(icd9_code: str, cuis: list) -> str:
         return f"AMBIGUOUS_MULTIPLE:{';'.join(cuis)}"
 
 
-def process_diagnoses_file(input_file: str, output_file: str, umls_db_path: str):
+def process_icd9_file(
+    input_file: str, output_file: str, umls_db_path: str, code_type: str = "diagnosis"
+):
     """
-    Process the diagnoses CSV file and create a new file with CUI mappings.
+    Process the ICD-9 CSV file and create a new file with CUI mappings.
 
     Args:
         input_file: Path to input CSV file with ICD-9 codes
         output_file: Path to output CSV file with CUI mappings
         umls_db_path: Path to UMLS database
+        code_type: Either "diagnosis" or "procedure"
     """
-    logger.info(f"Starting processing of {input_file}")
+    logger.info(f"Starting processing of {code_type} file: {input_file}")
 
     # Read the input CSV
     try:
         df = pd.read_csv(input_file)
-        logger.info(f"Successfully loaded {len(df)} diagnoses from {input_file}")
+        logger.info(
+            f"Successfully loaded {len(df)} {code_type} codes from {input_file}"
+        )
     except Exception as e:
         logger.error(f"Error reading input file {input_file}: {e}")
         return
@@ -160,14 +203,20 @@ def process_diagnoses_file(input_file: str, output_file: str, umls_db_path: str)
     formatted_codes = []
 
     # Process each ICD-9 code
-    logger.info("Starting ICD-9 to CUI mapping process...")
+    logger.info(f"Starting ICD-9 {code_type} to CUI mapping process...")
     for idx, row in df.iterrows():
         icd9_code = str(row["ICD9_CODE"]).strip()
         long_title = row["LONG_TITLE"]
         count = row["n"]
 
-        # Format the code for display
-        formatted_code = format_icd9_code(icd9_code)
+        # Format the code for display based on type
+        if code_type == "diagnosis":
+            formatted_code = format_icd9_diagnosis_code(icd9_code)
+        elif code_type == "procedure":
+            formatted_code = format_icd9_procedure_code(icd9_code)
+        else:
+            raise ValueError(f"Invalid code_type: {code_type}")
+
         formatted_codes.append(formatted_code)
 
         logger.debug(
@@ -175,7 +224,7 @@ def process_diagnoses_file(input_file: str, output_file: str, umls_db_path: str)
         )
 
         # Query for CUIs
-        cuis = query_cui_for_icd9(conn, icd9_code)
+        cuis = query_cui_for_icd9(conn, icd9_code, code_type)
 
         # Map the result
         cui_mapping = map_icd9_to_cui(icd9_code, cuis)
@@ -207,46 +256,91 @@ def process_diagnoses_file(input_file: str, output_file: str, umls_db_path: str)
 
     # Print summary statistics
     status_counts = pd.Series(mapping_status).value_counts()
-    logger.info("=== Mapping Summary ===")
-    logger.info(f"Total diagnoses processed: {len(df)}")
+    logger.info(f"=== {code_type.title()} Mapping Summary ===")
+    logger.info(f"Total {code_type} codes processed: {len(df)}")
     for status, count in status_counts.items():
         percentage = (count / len(df)) * 100
         logger.info(f"{status}: {count} ({percentage:.1f}%)")
 
-    logger.info(f"Mapping process completed successfully!")
+    logger.info(f"{code_type.title()} mapping process completed successfully!")
 
 
 def main():
-    """Main function to run the ICD-9 to CUI mapping."""
+    """Main function to run the ICD-9 to CUI mapping for both diagnoses and procedures."""
 
     # Define file paths
     script_dir = Path(__file__).parent
-    input_file = script_dir / "filtered" / "top-diagnoses_limit100.csv"
-    output_file = (
-        script_dir / "filtered" / "top-diagnoses_limit100_with_cui_corrected.csv"
-    )
+
+    # Input files
+    diagnoses_input = script_dir / "filtered" / "top-diagnoses_limit100.csv"
+    procedures_input = script_dir / "filtered" / "top-procedures_limit100.csv"
+
+    # Output files (in w_cui_mapped folder)
+    output_dir = script_dir / "filtered" / "w_cui_mapped"
+    diagnoses_output = output_dir / "top-diagnoses_limit100_with_cui.csv"
+    procedures_output = output_dir / "top-procedures_limit100_with_cui.csv"
+
+    # UMLS database
     umls_db_path = script_dir.parent.parent / "db" / "umls.db"
 
-    # Verify input files exist
-    if not input_file.exists():
-        logger.error(f"Input file not found: {input_file}")
-        return 1
-
+    # Verify UMLS database exists
     if not umls_db_path.exists():
         logger.error(f"UMLS database not found: {umls_db_path}")
         return 1
 
-    logger.info(f"Input file: {input_file}")
-    logger.info(f"Output file: {output_file}")
-    logger.info(f"UMLS database: {umls_db_path}")
+    # Create output directory if it doesn't exist
+    output_dir.mkdir(exist_ok=True)
 
-    # Process the file
-    try:
-        process_diagnoses_file(str(input_file), str(output_file), str(umls_db_path))
-        return 0
-    except Exception as e:
-        logger.error(f"Error during processing: {e}")
-        return 1
+    # Process diagnoses
+    if diagnoses_input.exists():
+        logger.info("=" * 60)
+        logger.info("PROCESSING DIAGNOSES")
+        logger.info("=" * 60)
+        logger.info(f"Input file: {diagnoses_input}")
+        logger.info(f"Output file: {diagnoses_output}")
+        logger.info(f"UMLS database: {umls_db_path}")
+
+        try:
+            process_icd9_file(
+                str(diagnoses_input),
+                str(diagnoses_output),
+                str(umls_db_path),
+                "diagnosis",
+            )
+            logger.info("Diagnoses processing completed successfully!")
+        except Exception as e:
+            logger.error(f"Error during diagnoses processing: {e}")
+            return 1
+    else:
+        logger.warning(f"Diagnoses input file not found: {diagnoses_input}")
+
+    # Process procedures
+    if procedures_input.exists():
+        logger.info("=" * 60)
+        logger.info("PROCESSING PROCEDURES")
+        logger.info("=" * 60)
+        logger.info(f"Input file: {procedures_input}")
+        logger.info(f"Output file: {procedures_output}")
+        logger.info(f"UMLS database: {umls_db_path}")
+
+        try:
+            process_icd9_file(
+                str(procedures_input),
+                str(procedures_output),
+                str(umls_db_path),
+                "procedure",
+            )
+            logger.info("Procedures processing completed successfully!")
+        except Exception as e:
+            logger.error(f"Error during procedures processing: {e}")
+            return 1
+    else:
+        logger.warning(f"Procedures input file not found: {procedures_input}")
+
+    logger.info("=" * 60)
+    logger.info("ALL PROCESSING COMPLETED SUCCESSFULLY!")
+    logger.info("=" * 60)
+    return 0
 
 
 if __name__ == "__main__":
