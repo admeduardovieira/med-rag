@@ -50,6 +50,27 @@ def main(database_name):
             pk_marker = " (PRIMARY KEY)" if pk else ""
             not_null_marker = " NOT NULL" if not_null else ""
             logger.debug(f"    - {col_name}: {col_type}{not_null_marker}{pk_marker}")
+
+        # Fetch and log up to 3 sample rows from the table
+        if row_count > 0:
+            try:
+                cursor.execute(f"SELECT * FROM {table_name} LIMIT 3;")
+                sample_rows = cursor.fetchall()
+                column_names = [c[1] for c in columns]
+                logger.info("  Sample rows (up to 3):")
+                for idx, row in enumerate(sample_rows, start=1):
+                    # Build a name→value mapping for readability
+                    row_mapping = {
+                        column_names[i]: row[i]
+                        for i in range(min(len(column_names), len(row)))
+                    }
+                    logger.info(f"    Row {idx}: {row_mapping}")
+            except Exception as e:
+                logger.error(
+                    f"  Failed to fetch sample rows for table '{table_name}': {e}"
+                )
+        else:
+            logger.info("  Sample rows: (table is empty)")
     logger.warning("-" * 50)
     conn.commit()
     conn.close()

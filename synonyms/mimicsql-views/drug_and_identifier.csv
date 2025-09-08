@@ -1,0 +1,6679 @@
+DRUG,FORMULARY_DRUG_CD
+Tacrolimus,TACR1
+Warfarin,WARF5
+Heparin Sodium,HEPAPREMIX
+D5W,HEPBASE
+Furosemide,FURO20
+Warfarin,WARF0
+Warfarin,WARF2
+Tacrolimus,TACR5
+Mycophenolate Mofetil,MYCO500T
+Mycophenolate Mofetil,MYCO250
+Neutra-Phos,NEUT
+Nitroglycerin,NTG100PB
+Docusate Sodium,DOCU100
+Insulin,INSULIN
+Atropine Sulfate,ATRO1I
+Zolpidem Tartrate,AMBI5
+Midazolam HCl,MIDA2I
+Nitroglycerin SL,NTG3SL
+Lorazepam,LORA2I
+Magnesium Sulfate,MAGS1I
+Potassium Chloride,MICROK10
+Ketorolac,KETO15I
+Ketorolac,KETR30I
+Sucralfate,CARA1
+Vancomycin HCl,VANC1F
+Iso-Osmotic Dextrose,VANCOBASE
+Acetaminophen,ACET650R
+Acetaminophen,ACET325
+Oxycodone-Acetaminophen,PERC
+Metoclopramide,METO10I
+Morphine Sulfate,MORP2I
+Meperidine,MEPE50I
+Potassium Chloride,KCL20PM
+Nitroprusside Sodium,NITP50I
+SW,KCLBASE2
+D5W,D5W250
+D5W,NTGBASE
+Calcium Gluconate,CALG1I
+Metoclopramide,METO10
+Warfarin,WARF1
+Dolasetron Mesylate,DOLA12.5I
+Valganciclovir HCl,VALGA450
+Send 500mg Vial,AMPVL
+NEO*IV*Gentamicin,GENT10I
+NEO*IV*Ampicillin Sodium,NAMP500I
+Syringe (Neonatal) *D5W*,NEOSYRD5W
+SW,KCLBASE
+Labetalol HCl,LABE100I
+Potassium Chloride,KCL20P
+Potassium Chloride,KCL10PM
+NS,NS100
+Propofol (Generic),PROP500IG
+Pantoprazole Sodium,PANT40I
+Soln.,SOLN3
+Hydralazine HCl,HYDZ20I
+Propofol (Generic),PROP100IG
+Soln.,SOLN2
+Phenytoin Sodium,PHEN250I
+NS (Glass Bottle),NS250G
+*NF* Nicardipine HCl IV,NICA2.5I
+Levofloxacin,LEV500
+NS (Glass Bottle),NS100G
+Ampicillin Sodium,AMP500I
+Insulin,GLAR100I
+Benzonatate,BENZ100
+Dextromethorphan-Guaifenesin (Sugar Free),DITU4L
+Lantus,GLAR100I
+Primaquine Phosphate,PRIM263
+Clonazepam,CLON5
+Prednisone,PRED20
+Clindamycin,CLIN600PM
+D5W,CLINBASE
+Guaifenesin-Codeine Phosphate,GGAC5L
+Levothyroxine Sodium,LEVO25
+Heparin,HEPA5I
+Senna,SENN187
+Ranitidine,RANI150
+Fluconazole,FLUC200
+Acyclovir,ACYC200
+Vancomycin HCl,VANC500I
+Lamivudine,LAMI150
+Tenofovir Disoproxil Fum.,TENO300
+Didanosine Chewable Tab,DIDA100
+Artificial Tears,ARTTS
+NS,NS250
+Insulin,INNHI
+Clindamycin,CLIN150
+Loperamide HCl,LOPE2
+D5W,D5W150
+Morphine Sulfate,MORP50PCA
+1/2 NS,NS451000
+Mycophenolate Mofetil,MYCO500I
+D5 1/2NS,D545NS1000
+Hydromorphone,HYDR2I
+Pantoprazole,PANT40
+Diphenhydramine HCl,DIPH25
+Nystatin Oral Suspension,NYST5L
+Sulfameth/Trimethoprim SS,BACTSS
+Heparin Flush CVL  (100 units/ml),HEPA100SYR
+Anti-Thymocyte Globulin (Rabbit),THYM25I
+Syringe (IV Room),SYRG1
+Methylprednisolone Na Succ.,MPREDSYR
+Pamidronate,PAMI30I
+Metoprolol,METO50
+Amlodipine,AMLO5
+Furosemide,FURO40I
+NS,NS1000
+Metoprolol,METO5I
+Albuterol,ALBU17H
+Vial,VIAL
+Filgrastim,GCSF300I
+Prednisone,PRED50
+Tacrolimus,TACR0.5
+Bisacodyl,BISA10R
+Morphine Sulfate,MORP2-4
+Levofloxacin,LEVO500PM
+Metronidazole,METR500PM
+Dextrose 5%,LEVOBASE2
+Humulin-R Insulin,INHRIV
+Fentanyl Citrate,FENT2I
+Morphine Sulfate,MORP1-5
+Diphenhydramine HCl,DIPH50I
+Sarna Lotion,SARNL
+Propofol (Generic),PROP200IG
+Haloperidol,HALD5I
+Propofol (Diprivan),PROP500I
+Clonidine HCl,CATA1
+NS,METRBASE
+Fluocinolone 0.025% Cream,SNLR215C
+Piperacillin-Tazobactam Na,ZOSY4FPB
+Iso-Osmotic Dextrose,FRBD100
+Albuterol Neb Soln,ALBU3H
+Ipratropium Bromide Neb,IPRA2H
+Haloperidol,HALO1
+Metoprolol,METO100
+Atenolol,ATEN25
+Moexipril HCl,MOEX15
+Atorvastatin,ATOR20
+Aspirin EC,ASAEC325
+Captopril,CAPT25
+Calcium Gluconate,CAGLMEQ
+Normocarb,NORMOCARB
+Sterile Water,SW3000
+Potassium Chloride,KCL20I
+Epoetin Alfa,EPO4I
+Levofloxacin,LEV250
+HydrALAZINE HCl,HYDZ25
+Isosorbide Mononitrate (Extended Release),IMDU30
+Metoprolol,METO25
+HydrALAZINE HCl,HYDZ50
+Isosorbide Mononitrate (Extended Release),IMDU60
+Warfarin,WARF25
+Amiodarone HCl,AMIO150I
+D5W (EXCEL BAG),D5W250E
+Metolazone,METL25
+D5W,D5W100
+Furosemide,FURO100I
+Amiodarone HCl,AMID200
+Captopril,CAPT125
+Glycerin Supps,GLYCSUP
+Lisinopril,LISI5
+Pneumococcal Vac Polyvalent,PNEU25I
+NS (Mini Bag Plus),NS/MBP100I
+Levothyroxine Sodium,LEVO50
+Meropenem,MERO500I
+Cosyntropin,COSY25I
+Neostigmine,NEOSI
+Glycopyrrolate,GLYCO4I
+Phenylephrine HCl,PHEN10I
+Docusate Sodium (Liquid),DOCU100L
+Ranitidine,RANI150L
+Aspirin,ASA325
+Sodium Bicarbonate,NABC50S
+Milk of Magnesia,MOM30L
+Metformin,METF500
+Maalox/Benadryl/Lidocaine,MABELI120
+Ibuprofen,IBUP400
+LR,LR1000
+Morphine Sulfate,MORP0.5-4
+Aspirin EC,ASA81EC
+Aspirin,ASA81
+Sodium Chloride 0.9%  Flush,NACLFLUSH
+Insulin Human Regular,INHRIV
+Phenylephrine HCl,PHEN12SYR
+Propofol,PROP100IG
+Syringe,SYR60ML
+Hydromorphone,HYDR2
+NS,NS500
+BuPROPion (Sustained Release),BUPR150
+Hydromorphone,HYDM4
+Phenytoin Sodium,PHEN100I
+D5W,D5W500
+Metronidazole,METR500
+D5W,D5W50
+Enalaprilat,ENAL25I
+Phenytoin,PHENY100L
+Lansoprazole Oral Suspension,LANS30L
+Hydralazine HCl,HYDZ25
+Labetalol HCl,LABE100
+Hydralazine HCl,HYDZ50
+Mannitol,MANN100I
+Soln.,MANNBASE
+Sodium Chloride Nasal,SODI65S
+Norepinephrine,LEVO4I
+NEO*IV*Parenteral Nutrition,NTPN
+NEO*IV*Fat Emulsion,NEOFAT
+Syringe (Neonatal),NEOSYR
+D10W,D10W250I
+Sodium Chloride,NACL4I
+NEO*PO*Ferrous Sulfate Elixer,NEOFER
+Tetanus-Diphtheria Toxoids-Td,TDT5I
+Dexamethasone,DEXA4I
+Dexamethasone,DEXA4
+Ondansetron,ONDAN4I
+Phenytoin,DILA100
+Potassium Chl 20 mEq / 1000 mL D5 1/2 NS,KCL20/1000D51/2NS
+Potassium Chl 20 mEq / 1000 mL NS,KCL20/1000NS
+Dexamethasone,DEXA10I
+DiphenhydrAMINE,DIPH25L
+HYDROmorphone (Dilaudid),HYDR2I
+Levetiracetam,LEVE500
+Prochlorperazine,COMP10I
+Mannitol 20%,MANN100I
+Phenytoin Sodium,PHEN100IVPB
+Promethazine HCl,PROM25I
+Morphine Sulfate,MORP4I
+DiphenhydrAMINE,DIPH25
+Gentamicin,GENT80PM
+Isotonic Sodium Chloride,GENTBASE1
+Vancomycin,VANC1F
+OxycoDONE (Immediate Release) ,OXYC5
+traZODONE HCl,TRAZ50
+Mannitol 20%,MANN20PM
+Ondansetron,ONDA4ODT
+Ondansetron ODT,ONDA4ODT
+*NF* Temozolomide,TEMO20
+*NF* Temozolomide,TEMO100
+Potassium Chloride Replacement (Oncology),MICROK10
+Fish Oil (Omega 3),FISH1000
+Multivitamins,MVI
+Iso-Osmotic Dextrose,FRBD50
+Cefazolin,CEFA1F
+Phytonadione,PHYT10I
+Tirofiban,TRIF12.5I
+Diazepam,DIAZ5
+Atorvastatin,ATOR80
+Clopidogrel Bisulfate,CLOP75
+Atenolol,ATEN50
+Lorazepam,LORA5
+Dextrose 5%,LEVOBASE
+SW,SW100MLG
+Levofloxacin,LEVO250PM
+Potassium Chloride,KCL40I
+Eptifibatide,INTE75I
+Ceftazidime,CEFT1F
+Atorvastatin,ATOR40
+Acetylcysteine 20%,ACET20/4I
+Magnesium Oxide,MAGN400
+Furosemide,FURO40
+Calcium Carbonate,CAL1250
+Dofetilide,DOFE250
+Enalapril Maleate,ENAL10
+Metoprolol XL,TOPR50
+Phytonadione,PHYT5
+Spironolactone,SPIR25
+Digoxin,DIGO125
+Sertraline,SERT100
+Dextrose 50%,DEX50SY
+Nitroglycerin,NITR20SYR
+BuPROPion,BUPR75
+Clonazepam,CLON1
+Rosuvastatin Calcium,ROSU5
+traZODONE HCl,TRAZ100
+Escitalopram Oxalate,ESCI10
+Quetiapine Fumarate,QUET25
+Nortriptyline,NORT50
+Aluminum-Magnesium Hydrox.-Simethicone,MAAL148
+Thiamine HCl,THIA100
+Folic Acid,FOLI1
+Maalox/Diphenhydramine/Lidocaine,MABELI120
+Famotidine,FAMO20PM
+Iso-Osmotic Sodium Chloride,ISONACL
+Aspirin,ASA300R
+Olanzapine,OLAN2.5
+Calcium Carbonate,CALC500
+Acetaminophen,APAP500
+Vitamin D,ERGO400T
+Cefazolin,CEFA10I
+NS,HESPBASE
+Hespan,HESP500I
+Diovan,VALS80
+Oxazepam,OXAZ15
+Glipizide,GLIP5
+Diovan,VALS160
+Simvastatin,SIMV40
+D5W,D5W1000
+Calcitriol,CALC25
+Sodium Chloride ,NACL23.4I
+Chlorothiazide Sodium,CHL500I
+Heparin Flush CRRT (5000 Units/mL),HEPA5I
+Polysaccharide Iron Complex,NIFR150
+Sertraline HCl,SERT100
+Eucerin,EUCE120C
+SW,SW50
+0.9% Sodium Chloride,NS100CG
+0.9% Sodium Chloride,NS1000
+HydrALAzine,HYDZ20I
+Dextrose 5%,LEVOBASE3
+Levofloxacin,LEVO750PM
+Dexamethasone,DEXA2
+LeVETiracetam,LEVE500
+Bisacodyl,BISA5
+Calcium Gluconate,CALCG2/100NS
+Magnesium Sulfate,MAG2PM
+NiCARdipine IV,NICA2.5I
+0.9% Sodium Chloride,NS250
+5% Dextrose,D5W250
+Potassium Chloride,POTA20
+Nitroglycerin,NTG100PM
+Levothyroxine Sodium,LEVO112
+Albuterol 0.083% Neb Soln,ALBU3H
+Esmolol,ESMO100I
+Esmolol,ESMO2.5PM
+NS,ESMOBASE
+GlyBURIDE,GLYB5
+Midazolam,MIDA2I
+Heparin Sodium,HEPPREMIX
+AcetaZOLamide Sodium,ACE500I
+D5W,D5W25
+Fluticasone Propionate 110mcg,FLUT110HFA
+Albuterol-Ipratropium,COMB14.7H
+MetFORMIN (Glucophage),METF500
+Amiodarone,AMID200
+Amaryl,GLIM1
+Tamsulosin HCl,TAMS.4
+Pravastatin,PRAV20
+Fluticasone-Salmeterol (100/50),ADVA100/50H
+Phenobarbital Sodium,PHEN130I
+Pentobarbital Sodium,NEBU2500I
+Pentobarbital Sodium,PENT50S
+Lansoprazole,LANS30
+Lansoprazole,LANS30L
+Phenytoin (Suspension),PHENY100L
+Phenobarbital,PB60I
+Soln,SOLN
+NS,NS50
+Acyclovir,ACY500I
+Lorazepam,LORA20I
+Levothyroxine Sodium,LEVO125
+Enalapril Maleate,ENAL5
+Isosorbide Dinitrate,ISOS10
+Metoprolol XL,TOPR25
+D5W,LIDOBASE
+Lidocaine,LIDE4500I
+Lidocaine,LIDO100S
+Mexiletine HCl,MEXI150
+Glycopyrrolate,GLYC1I
+Epinephrine,EPI1I
+Levothyroxine Sodium,LEVO75
+Fexofenadine,FEXO60
+Vancomycin Oral Liquid,VANC250L
+D5W,LINEBASE
+Linezolid,LINE600I
+Multivitamin IV,MVI10I
+Amino Acids 4.25% W/ Dextrose 5%,CLIN1000I
+Desmopressin Acetate,DDAV4I
+Levothyroxine Sodium,LEVO200I
+Vasopressin,VASO20I
+Protamine Sulfate,PROT50I
+D5W,MORPD5W
+Morphine Sulfate,MORP100PM
+Propofol,PROP500IG
+Terazosin HCl,TERAZ5
+Ferrous Gluconate,FERRG
+Lisinopril,LISI20
+Metoprolol Tartrate,METO25
+HYDROmorphone (Dilaudid),HYD12.5PCA
+CefazoLIN,CEFA1F
+0.9% Sodium Chloride,NS500
+Fentanyl Citrate,FENT2.5I
+Midazolam,MIDA50I
+0.9% Sodium Chloride,NS100
+Soln,FENTSOLN50
+Etomidate,ETOM2I
+5% Dextrose,HEPBASE
+Ipratropium Bromide MDI,IPRAPF
+Chlorhexidine Gluconate 0.12% Oral Rinse,CHLO15L
+Albuterol Inhaler,PROAIR8.5H
+Succinylcholine,SUCC20I
+Pantoprazole,PANT40I
+CeftriaXONE,CEFX1F
+Naloxone,NALO4I
+Nicotine Patch,NICO7P
+Potassium Chloride (Powder),KCL20P
+Potassium Phosphate,KPHO45I
+Citalopram Hydrobromide,CITA20
+Finasteride,FINA5
+Minoxidil,MINO10
+Tolterodine,TOLT1
+Nicotine Patch,NICO21P
+Lactulose,LACT30L
+Lorazepam,LORA1
+Phenylephrine,PHEN12SYR
+Doxycycline Hyclate,DOXY100I
+Lacri-Lube Oint,DURA
+Valproic Acid,VAL250L
+Valproate Sodium,VAP500I
+Pentobarbital Sodium,NEBU1000I
+Hydrocortisone Na Succ.,HC100I
+Syringe,HYDRSYR
+Fludrocortisone Acetate,FLUD100
+Ceftriaxone,CEFX1F
+Salmeterol Xinafoate Diskus (50 mcg),SALM50D
+Fluticasone Propionate 110mcg,FLUT110H
+Sodium Bicarbonate,NABC50I
+Heparin Flush PICC (100 units/ml),HEPA100SYR
+HydrALAZINE HCl,HYDZ20I
+Atropine Sulfate,ATROP1I
+Atorvastatin,ATOR10
+Brimonidine Tartrate 0.15% Ophth.,ALPH0.15O
+Levothyroxine Sodium,LEVO100
+Fentanyl Citrate,FENT2.550
+Midazolam,MIDA100
+0.9% Sodium Chloride,MIDAZBASE
+0.45% Sodium Chloride,NS451000
+Dorzolamide 2%/Timolol 0.5% Ophth.,COSO10O
+Influenza Virus Vaccine,INFL0.5LF
+TraMADOL (Ultram),TRAM50
+Cephalexin,CEPH500
+Amiodarone,AMID100HT
+Phenylephrine,PHEN10I
+CefazoLIN,CEFA10I
+Acetaminophen,ACET650L
+Albumin 5% (25 g),ALBU5500
+Ciprofloxacin IV,CIPR200I
+Argatroban,ARGA250I
+Docusate Sodium,DOCU100L
+Dexmedetomidine HCl,DEXM200I
+Ascorbic Acid,ASCO500
+FoLIC Acid,FOLI1
+Zinc Sulfate,ZINC220
+Nicotine Patch,NICO14P
+Ciprofloxacin HCl,CIPR500
+Haloperidol,HALO05
+Ferrous Sulfate,FERR325
+Omeprazole,OMEP20
+Diltiazem,DILT30
+Sodium Bicarbonate,SODI650
+Viokase 8,VIOK
+Sulfameth/Trimethoprim DS,BACTDS
+Clindamycin,CLIN9000I
+Oxycodone Liquid,OXYCO5L
+Sulfameth/Trimethoprim,BACT10I
+Clotrimazole,CLOT10
+Famotidine,PEPC20
+Clopidogrel,CLOP75
+Tolterodine,TOLT2
+Digoxin,DIGO25
+Carvedilol,CARV625
+Doxazosin,DOXA1
+Timolol Maleate 0.25%,TIMO25ES
+Doxazosin,DOXA2
+Erythromycin,EMYC200L
+Senna,SENN5L
+AcetaZOLAMIDE Sodium,ACE500I
+ChlorproMAZINE,THOR25
+ChlorproMAZINE,THOR25I
+Guaifenesin,GUAI10
+Gentamicin Sulfate,GENT80I
+Fentanyl Citrate,FENT2.5250
+Lansoprazole Oral Disintegrating Tab,LANS30ST
+Cisatracurium Besylate,CISA200I
+Qvar,BECLINH
+Diltiazem Extended-Release,TIAZ180
+Potassium Chl 20 mEq / 1000 mL D5NS,KCL20/1000D5NS
+Propofol,PROP200IG
+Artificial Tears,REFRESH
+Dexamethasone,DEXA5
+Diltiazem,DILT60
+Solution,SOLU
+CefTRIAXone,CEFX1F
+Carvedilol,CARV125
+Simethicone,SIME80
+Diazepam,DIAZ10I
+Fleet Phospho-Soda,FPS45L
+DiphenhydrAMINE HCl,DIPH50I
+DiphenhydrAMINE HCl,DIPH25
+Prochlorperazine,PROC10
+D5NS,D5NS1000
+Hydromorphone,HYD12.5PCA
+Phenaseptic Throat Spray,CHLO180S
+Pangestyme-EC,PANCEC
+Vecuronium Bromide,VECU10I
+Lidocaine 1%/Epinephrine 1:100000,LIEPI20I
+Bupivacaine 0.25%,BUPI25I
+Oxycodone-Acetaminophen Elixir,ROXIOS
+Lidocaine 1%,LIDO1I
+Warfarin,WARF75
+Ampicillin Sodium,AMP2I
+Propoxyphene Nap.-Apap (N-100),DARV100
+Simvastatin,SIMV10
+Thiamine HCl,THIAM100I
+Temazepam,TEMA15
+MetRONIDAZOLE (FLagyl),METR500PM
+Ferrous Sulfate,FERR300L
+Ferrous Sulfate (Liquid),FERR300L
+Enoxaparin Sodium,ENOX80I
+Metformin,METF850
+Acetaminophen-Caff-Butalbital,FIOC
+Lisinopril,LISI10
+Sodium Chloride 3% (Hypertonic),HYPNSCL3
+Sodium Polystyrene Sulfonate,KAYE15L
+Sodium Chloride,NACL1
+Morphine Sulfate (Concentrated Oral Soln),MORPCONC
+Morphine Sulfate,MORP1-10
+Scopolamine Patch,SCOP15P
+Sertraline,SERT50
+Nephrocaps,NEPH1
+D5W (Excel),D5W500E
+Carmustine,CARM100I
+Glutamine,GLUT10
+Prevident Mint Gel 1.1%,PREV60TP
+Droperidol,DROP5I
+Ondansetron,ONDA4I
+Insulin,INRHI
+Sodium Phosphate,NAPH15I
+Daptomycin,DAPT500I
+NS Epidural Bag (0.9% NaCl),EPIBAG2
+Bupivacaine 0.5%,BUPI5I
+Magnesium Citrate,MAGCITL
+Oxycodone (Sustained Release),OXYC20
+Nitroglycerin Patch,NTG25P
+Atacand,CAND16
+Allopurinol,ALLO300
+Procainamide SR,PROC500SR
+Procainamide HCl,PROC250
+Chlorhexidine Gluconate,CHLO15L
+Dolasetron Mesylate,DOLA100I
+Aluminum Hydroxide Suspension,ALUM355L
+Dolasetron Mesylate,DOLAS100
+Etoposide,ETOP100I
+Cytarabine,CYTA100I
+Insulin Human Regular,INRHI
+Parenteral Nutrition (TPN),TPN
+Miconazole Powder 2%,MICO2P
+Vancomycin HCl,VANCO10I
+Melphalan HCl,MELP50I
+Ursodiol,URSO300
+Hydroxyzine HCl,HYDX25
+Cefepime,CEFE2I
+Fluconazole,FLU200PM
+NS,FLUCBASE
+Ambisome,AMBI50I
+Oxycodone,OXYC5
+Aztreonam,AZTR2I
+Alteplase (Catheter Clearance),ALTE1I
+Meropenem,MERO1I
+Midazolam HCl,MIDA5I
+HEPARIN,HEP1I
+Alprazolam,ALPR1
+Phenytoin,PHEN100I
+Multivitamins,MVI10I
+Levetiracetam,LEVE250T
+Nafcillin,NAFC2F
+HYDROmorphone (Dilaudid),HYDR2
+HYDROmorphone (Dilaudid),HYDM4
+Spironolactone,SPIR100
+CefePIME,CEFE1I
+Bag,BAG50I
+Albumin 25% (12.5 g),ALBU25
+"Albumin, Human",ALBU25100I
+AMP,AMP
+Octreotide Acetate,OCTR100I
+Midodrine,MIDO25
+Caspofungin,CANC50I
+Magnesium Sulfate Replacement (Oncology),MAGS1I
+*NF* Pentostatin,PENT10I
+Cyclophosphamide,CYCL1I
+Epinephrine 1:1000,EPI1I
+Bactrim Desensitization,BACTDES1
+Methylprednisolone Na Succ,METH40I
+Bactrim Desensitization,BACTDES2
+Bactrim Desensitization,BACTDES3
+Bactrim Desensitization,BACTDES4
+Bactrim Desensitization,BACTDES5
+Bactrim Desensitization,BACTDES6
+Ibuprofen,IBUP600
+Tipranavir,TIPR250
+Ritonavir,RITO100
+Lamivudine,LAMI100
+Zidovudine,ZIDO100
+Atovaquone Suspension,ATOV750S
+Pentamidine Inhalation,PENT300H
+Imipenem-Cilastatin,IMIP500I
+Morphine Sulfate,MORP500I
+Morphine Sulfate,MORP1000I
+Syringe (PCA),PCASYR
+Lidocaine Jelly 2% (Urojet),LID2J
+Oxybutynin,OXYB5
+NS,FLUCBASE2
+Fluconazole,FLUCO400PM
+Ceftazidime,CEFT2F
+Hydroxychloroquine Sulfate,HYDC200
+Ceftriaxone,CEFX2F
+Triamcinolone Acetonide 0.025% Cream,TRIAM.025/15C
+Heparin Flush Hickman (100 units/ml),HEPA100SYR
+Albuterol Inhaler,ALBU17H
+Prednisone,PRED5
+Doxycycline Hyclate,DOXY100C
+Ganciclovir,GANC500I
+Megestrol Acetate,MEGE20
+Ketoconazole 2% ,KET15C
+Bicitra,BICI30L
+mege,MEGE400L
+Guaifenesin-Dextromethorphan,GUAI10L
+Azithromycin,AZIT600
+HydrOXYzine HCl,HYDX25
+GlipiZIDE,GLIP5
+Oxazepam,OXAZ10
+Colchicine,COLC5
+Folic Acid,FOLI1I
+Famotidine (IV),FAMO20PM
+Clonidine HCl,CATA2
+Naloxone HCl,NALO4I
+Methadone HCl,METD5
+Nicotine,NICO14P
+Dapsone,DAPS100
+Methadone HCl,METD10
+Hydrochlorothiazide,HCTZ25
+Fluoxetine HCl,PROZ20
+Megestrol Acetate,MEGE40
+Clarithromycin,BIAX250
+Ethambutol HCl,ETHA400
+Rifabutin,MYCO150
+Aztreonam,AZTR1I
+Azithromycin,ZITHR250
+Ciprofloxacin Ophth Soln,CILO25ES
+Oxacillin,OXA10I
+Gentamicin,GENT60PM
+Naproxen,NAPR250
+Aluminum-Magnesium Hydroxide,MAAL30L
+Dicloxacillin,DICL500
+D5W (GLASS BOTTLE),D5W250G
+NEO*IV*AMPicillin Sodium,NAMP500I
+Stavudine,D4T15
+Emtricitabine,EMTR200
+Diltiazem,DILT500I
+HydrALAZINE HCl,HYDZ10
+Starter PN D10,STARTPND10
+Heparin Flush,HEPA100SYR
+Heparin (Preservative Free),HEPAR10I
+NEO*IV*Caffeine Citrate,CAFFCIT60I
+Syringe (Neonatal),NEOSYRSL
+NEO*IV*Fat Emulsion,NFAT4
+Sodium Acetate,NAAC100I
+NEO*PO*Caffeine Citrate,CAFCIT
+NEO*PO*Ferrous Sulfate Elixir,NEOFER
+NEO*PO*Vitamin E Drops,NEOVITE
+NEO*PO*MCT Oil,MCT4L
+Dexamethasone Ophthalmic Soln 0.1%,MAXI1ES
+NEO*NASAL*Phenylephrine 0.125%,NEONEOIH
+Prednisolone Acetate 0.12% Ophth. Susp.,PRED125ES
+Piperacillin-Tazobactam,ZOSY2000I
+Hyoscyamine,LEVS125
+Sertraline HCl,SERT50
+Metolazone,METL5
+Nitroglycerin Oint. 2%,NTG2O
+Mupirocin Cream 2%,BACT2C
+Furosemide,FURO80
+Prismasate (B32 K2),PRISMAB32K25000
+D10W,D10W1000
+Sevelamer,SEVE400
+Sevelamer,SEVE800
+Cefpodoxime Proxetil,CEFP100
+D10W,D10W250
+D12.5W,D12.5W250I
+Sodium Thiosulfate,NATH25I
+Cyanocobalamin,CYAN1I
+Potassium Chl 40 mEq / 1000 mL D5 1/2 NS,KCL40/1000D51/2NS
+DopAmine,DOPA200I
+Syringe (Neonatal) *D5W*,NEOSYRD5W50
+Syringe (Neonatal) *SW*,NEOSYRSW
+NEO*IV*Cefotaxime,NCEFXIV
+NEO*IV*Fentanyl,FENT5I
+Artificial Tear Ointment,ARTI3.5O
+NEO*IV*Fat Emulsion,NFAT6
+Carvedilol,CARV3125
+Diphenoxylate-Atropine,LOMO
+Mirapex,PRAM..5
+Diazepam,DIAZ2
+Olanzapine,OLAN5
+PrimiDONE,PRIM50
+Meperidine,MEPE25I
+Codeine Sulfate,CODE30
+CefePIME,CEFE2I
+Bag,BAG50
+0.9% Sodium Chloride (Mini Bag Plus),NS/MBP100I
+Ondansetron,ONDA4
+Polyethylene Glycol,GLYC17
+pramipexole,PRAM0.5
+Tamsulosin,TAMS.4
+Metoprolol Tartrate,METO5I
+Metoprolol Tartrate,METO50
+traZODONE,TRAZ50
+Heparin Flush (10 units/ml),HEPA10SYR
+PredniSONE,PRED20
+NEO*IM*Pneumococcal 7-Valent,PNEU.5I
+NEO*IM*Haemophilus B  Conj Vac,ACTHIBNEO
+POTassium Chloride,NEOKCL
+NEO*PO*Chlorothiazide,NEOCHL
+DTaP-HepB-IPV Combined,PEDIVAC0.5I
+Vi-Daylin Multivitamin Drops,NEOVIDAYLIN
+Furosemide (Elixir),FURO40L
+Phenazopyridine HCl,PHEN100
+Gabapentin,GABA400
+Timolol Maleate 0.5%,TIMO5ES
+Latanoprost 0.005% Ophth. Soln.,LATA5OS
+Gabapentin,GABA100
+Midazolam HCl,MIDA50I
+Gabapentin,GABA250L
+Midodrine HCl,MIDO5
+DopAmine,DOPA400D
+D5W,DOPABASE
+Fentanyl Patch,FENT50P
+Lidocaine 0.5%/Epinephrine,LIEP550I
+Ampicillin-Sulbactam,UNAS3I
+NEO*IM*Palivizumab,PALINEO
+1/2 NS,1/2NS250I
+NEO*IV*Hydrocortisone Sod Succinate,HYDR1I
+Dopamine HCl,DOPA200I
+NEO*Aquaphor,NEOAQUA
+Lidocaine 5% Patch,LIDO5T
+Balanced Salt Opth. Soln,BSS15ES
+Unasyn,UNAS3I
+Fentanyl Citrate,FENT50I
+Enoxaparin Sodium,LOVE40I
+Lidocaine 1%,LIDO120I
+Hydromorphone-HP,DILHP50I
+Ciprofloxacin,CIPR400PM
+D5W,CIPROBASE
+Acetazolamide Sodium,ACE500I
+Potassium Acetate,KASE40I
+D7.5W,D7.5W250I
+Sodium Acetate,NAAC20I
+NEO*PO*Mct Oil,MCT4L
+NEO*IM*DT  & Acellular Pertussis,DTAP
+NEO*SC*Polio Vaccine (Inactive),POLIOV
+NEO*PO*Acetaminophen Drops,ACET100D
+Starter PN D5,STARTNEOD5
+Beractant,BERA4I
+Vitamin A,VITA50000I
+Sodium Bicarbonate 4.2% (2.4mEq),NEUT1I
+Syringe (Neonatal) *NS*,NEOSYRNS
+NEO*IV*Indomethacin Sodium,NEOINDOM
+Indomethacin Sodium,INDO1I
+NEO*IV*Vancomycin,NVAN500I
+Mineral Oil,MINE30L
+Heparin Sodium (Preservative Free),HEPA10S
+Desitin,DESI30O
+NEO*IV*Cefazolin,CEFANEO
+Acetaminophen (Liquid),ACET100L
+NEO*IM*Hepatitis B Vaccine,HEPV10I
+Enoxaparin Sodium,ENOX100I
+Aluminum-Magnesium Hydroxide,MAAL148
+Prochlorperazine,PROC25R
+Pravastatin,PRAV10
+Nifedipine CR,ADAL90
+Nitroglycerin Patch,NTG5P
+Nadolol,NADO20
+Ibuprofen Suspension,IBU5S
+Mirtazapine,MIRT15
+Midodrine HCl,MIDO25
+Rilutek,RILU50
+Fentanyl Patch,FENT75P
+sevelamer CARBONATE,RENV800
+Nitroglycerin SL,NTG4SL
+Fluticasone Propionate NASAL,FLUT16N
+Doxercalciferol,DOXE2I
+Pantoprazole,PANT40IVPB
+MethylPREDNISolone Sodium Succ,METH40I
+Heparin Flush (1000 units/mL),HEP10I
+Sodium CITRATE 4%,SODCIT3SYR
+Epoetin Alfa,EPO3I
+Sodium CITRATE 4%,SODCIT$/500I
+Neomycin-Polymyxin-Bacitracin,NEOM30O
+Syringe,SYRG1
+Cinacalcet,CINA30
+Cepacol (Menthol),CEPACOL1
+Calcium Acetate,CALC667
+Levothyroxine Sodium,LEVO175
+NEO*PO*Poly-VI-solution,NEOPOLYVI
+Neo*Desitin Creamy,DESI2C
+Codeine Phosphate,CODE30I
+Nicotine,NICO21P
+DOPamine,DOPA400D
+Augmentin Suspension,AUGMSUSP
+Ciprofloxacin HCl,CIPR250
+Haloperidol,HALO5
+Oxymetazoline HCl,AFRIN3ML
+Pseudoephedrine HCl,PSEU30
+Morphine Sulfate,MORPIM
+Lanthanum,LANT250
+Vitamin B Complex w/C,VITBC1
+Alteplase,ALTE50I
+Allopurinol,ALLO100
+Metoprolol Succinate XL,TOPR50
+Metoprolol Succinate XL,TOPR100
+Aluminum-Magnesium Hydrox.-Simethicone,MAAL30L
+Sterile Water,SW1000
+Amphotericin B,AMP50I
+HydrALAzine,HYDZ25
+Labetalol,LABE200
+NiCARdipine,NICA30
+Valsartan,VALS160
+PredniSONE,PRED5
+Ergocalciferol (Vitamin D2),ERGO50
+PredniSONE,PRED10
+Labetalol,LABE100
+Morphine Sulfate IR,MORP15
+NIFEdipine CR,ADAL30
+DiphenhydrAMINE,DIPH50I
+Nicardipine,NICA30
+MethylPREDNISolone Sodium Succ,METH125I
+Cinacalcet HCl,CINA30
+Clonidine Patch 0.3 mg/24 hr,CLON3P
+Nitroglycerin Ointment  2%,NITRO1O
+Labetalol,LABE100I
+5% Dextrose,D5W150
+HYDROmorphone (Dilaudid),HYDR1SYR
+Tekturna,ALIS150
+NIFEdipine CR,ADAL90
+Gabapentin,GABA300
+PredniSONE,PRED1
+HydrALAzine,HYDZ50
+Clonidine Patch 0.1 mg/24 hr,CLON1P
+HydrALAzine,HYDZ10
+sevelamer HYDROCHLORIDE,SEVE400
+MetRONIDAZOLE (FLagyl),METR500
+Fosphenytoin Sodium,FOSP500I
+Bimatoprost,BIMA.03E
+CloniDINE,CATA1
+Vancomycin,VANC500I
+Clonidine TTS 3 Patch,CLON3P
+Aliskiren,ALIS150
+Vitamin D,ERGO50
+Heparin Flush (5000 Units/mL),HEPA5I
+NIFEdipine CR,ADAL60
+OxycodONE (Immediate Release) ,OXYC5
+AcetaZOLAMIDE,ACE250
+Sterile Water For Irrigation,SW1000BTL
+Neomycin Sulfate,NEOM500
+Albumin 5%,ALBU5250
+Piperacillin-Tazobactam Na,ZOSY2.25I
+ALBU,ALBU5250
+Alprazolam,ALPR25
+Fentanyl Patch,FENT25P
+Albumin 25% (12.5gm),ALBU25
+Ciprofloxacin,CIPR200PM
+traMADOL,TRAM50
+Isosorbide Dinitrate,ISOS20
+NiCARdipine,NICA20
+Epoetin Alfa,EPO10I
+Acetaminophen (Liquid),ACET650L
+Methadone,METH10I
+0.9% Sodium Chloride,NS50
+Albumin 5% (25g / 500mL),ALBU5500
+5% Dextrose,D5W1000
+Labetalol HCl,LABE200
+Nifedipine,NIFE10
+Nifedipine,NIFE20
+Miconazole Nitrate Vag Cream 2%,MICO745C
+NIFEdipine,NIFE10
+Calcitriol,CALC.5
+Prochlorperazine,PROC5
+Dexamethasone,DEXA15
+Opium Deodorized Tinc.,DTO.6ML
+Fat Emulsion 20%,INTR20/250I
+Baclofen,BACL10
+Oxcarbazepine,OXAC150
+Primidone,PRIM250
+Azathioprine,AZAT50
+Alprazolam,ALPR5
+Nortriptyline,NORT25
+Methylprednisolone Na Succ.,MPRED1I
+Primidone,PRIM50
+HYDROmorphone (Dilaudid),HYDRO4I
+Terazosin HCl,TERAZ1
+Morphine SR (MS Contin),MSCO30
+Tobramycin Fortified Ophth. Soln.,TOBRFES
+Vancomycin 25mg/mL Ophth Soln,VANCO25O
+PrednisoLONE Acetate 1% Ophth. Susp.,PRED1ES
+Oxycodone SR (OxyconTIN),OXYC40
+Oxycodone SR (OxyconTIN),OXYC10
+Oxycodone SR (OxyconTIN),OXYC20
+viok,VIOK
+Papain 2.5 % Solution,PAPAIN2
+Ciprofloxacin IV,CIPR400PM
+Fluticasone-Salmeterol Diskus (250/50) ,ADVA250IH
+Tiotropium Bromide,TIOT
+5% Dextrose,D5W100
+Diltiazem,DILT90
+Oxcarbazepine,OXCA600
+Methylprednisolone Na Succ.,MPRED5I
+Methadone HCl,METH40
+Prednisone,PRED10
+BuPROPion,BUPR100SR
+Verapamil HCl,VERA40
+Lidocaine Viscous 2%,LIDO20L
+Nicardipine,NICA20
+Foradil Aerolizer,FORM12H
+Acetylcysteine 20%,MUCOM20
+Hydralazine HCl,HYDZ10
+Nifedipine CR,ADAL60
+Clonidine TTS 1 Patch,CLON1P
+Clonidine Patch 0.2 mg/24 hr,CLON2P
+Quetiapine Fumarate,QUET100
+Cetylpyridinium Chl (Cepacol),CEPACOL1
+Methylprednisolone Na Succ.,METH125I
+Hydrocodone-Acetaminophen,VICODIN
+Bacitracin/Polymyxin B Sulfate Opht. Oint,POLYEO
+Oxycodone-Acetaminophen,ROXIOS
+Potassium Chl 40 mEq / 1000 mL D5NS,KCL40/1000D5NS
+Papain-Urea Spray,ACCUSPAY
+levoCarnitine,LCARN330
+Infliximab,INFL100I
+Mirtazapine,MIRT30
+Diprivan,PROP100IG
+Albumin 5% (12.5g / 250mL),ALBU5250
+OxycoDONE-Acetaminophen Elixir,ROXIOS
+Amiodarone,AMIO150I
+LeVETiracetam,LEVE250T
+Verapamil SR,VERA120SR
+Verapamil SR,VERA180SR
+Bismuth Subsalicylate,PEPT240L
+Ciprofloxacin 0.3% Ophth Soln,CILO25ES
+Atropine Sulfate Ophth 1%,ATRO1ES
+Promethazine,PROM25I
+LeVETiracetam,LEVE500I
+CeftriaXONE,CEFX2F
+Bumetanide,BUME.5I
+Erythromycin,ERYT250
+Alteplase,ALTE1I
+ERY,EMYC200L
+Dronabinol,DRON25
+1/4 NS,1/4NS1000
+Heparin Flush (10 units/ml),HEP1I
+Isosorbide Mononitrate,IMDU60
+Rocuronium,ROCU100I
+Tuberculin Protein,PPD
+Albumin 25% (12.5g / 50mL),ALBU25
+Levothyroxine Sodium,LEVO88
+Diphenhydramine HCl,DIPH25L
+Morphine SR (MS Contin),MSCO15
+Isosorbide Mononitrate,IMDU30
+Namenda,MEMA5
+Valsartan,VALS80
+Hydrocortisone,HC20
+Methylprednisolone Na Succ,MPRED5I
+NEO*IV*Acyclovir,ACY500N
+Pediatric Vitamins ADC,NEOTRIVIT
+Epoetin Alfa,EPOHD
+Insulin,HUM100I
+Vitamin A,VITAMA10000
+Donepezil,DONE5
+OxycoDONE Liquid,OXYCO5L
+Methylprednisolone Sodium Succ,METH40I
+Oxcarbazepine,OXAC300
+Dexamethasone,DEXAM20I
+Butalbital-Acet-Caffeine,FIOC
+Calcium Chloride,CALC100SI
+Isoniazid,ISON300
+Sulfameth/Trimethoprim Suspension,BACT20L
+Morphine ,MOR10L
+Fluticasone-Salmeterol (250/50) ,ADVA250IH
+Cyclopentolate 1%,CYCL1/2ES
+Cyclopentolate-Phenylephrine,CYCL2O
+Tacrolimus,TACRSUSP
+Methadone HCl,METH10SY
+Erythromycin 0.5% Ophth Oint,ERYT0.5EO
+Prednisolone Acetate 1% Ophth. Susp.,PRED1ES
+Levalbuterol HCl,LEVA0.63L
+Metoprolol XL,TOPR100
+Nitroglycerin Oint. 2%,NITRO1O
+Heparin Flush (100 units/ml),HEPA100SYR
+Albuterol MDI,ALBU17H
+Colchicine,COLC6
+Ascorbic Acid,ASCOR504L
+Artificial Tears,ACET325
+Prasugrel,PRAS10
+Morphine Sulfate,MORP5I
+Multivitamin 12,MVI10I
+Folic Acid,FOLI5I
+DopAmine,DOPA400PM
+*NF* Nitroglycerin Ointment,NITR02O
+Verapamil HCl,VERA80
+Amitriptyline HCl,AMIT25
+Insulin,HUMA75/25I
+Methimazole,METH5
+Unasyn,UNAS1.5I
+Trandolapril,TRAN4
+Digoxin,DIGO.5I
+Morphine Sulfate,MORP1-6
+Diltiazem Extended-Release,TIAZ240
+Orabase Dental Paste,TRIA1P
+Dakins 1/2 Strength,DAKINHS
+Ramipril,RAMI5
+Debrox 6.5%,GLYO65OT
+Glipizide,GLIP10
+Insulin,IN73HI
+Octreotide Acetate,OCTR0.1I
+Octreotide Acetate,OCTR50I
+Methylprednisolone Na Succ,MPRED1I
+Acetazolamide,ACE250
+Eptifibatide,INTEG20I
+Milrinone,MILR20PM
+D5W,MILRBASE
+Misoprostol,MISO100
+Meclizine,MECL125
+5% Dextrose,LEVOBASE
+Hydromorphone,HYDRO4I
+Bacitracin Ointment,BACI15O
+Azithromycin ,AZIT500I
+Metoprolol Succinate XL,TOPR25
+Felodipine,FELO2.5
+Clotrimazole Cream,CLOT130C
+Urea-C40,UREA20C
+Betamethasone Dipro 0.05% Cream,BETA0.05C
+Amoxicillin-Clavulanic Acid,AUGM500
+Nesiritide,NESI1.5I
+Glyburide,GLYB5
+Adenosine,ADEN6I
+Verapamil HCl,VERA120
+Pentoxifylline,PENT400
+Aspirin,ASAB325
+Olanzapine (Disintegrating Tablet),OLAN5DTB
+Thrombin,THRO5T
+ALBUM,ALBU5250
+NS,NS3000
+Fluconazole,FLUC100
+Octreotide Acetate,OCTR500S
+Ciprofloxacin IV,CIPR200PM
+Diltiazem Extended-Release,TIAZ300
+Loperamide HCl,LOPER2L
+levocarnitine,LCARN330
+5% Dextrose,CIPROBASE
+Ascorbic Acid (Liquid),ASCOR504L
+Sulfameth/Trimethoprim Suspension,BACTSS
+Methylprednisolone Na Succ,MPRED0
+Multivitamin-12,MVI10I
+Calcitonin Salmon,CALC400I
+Phenylephrine HCl,PHEN50I
+Meperidine,MEPE50L
+Chloral Hydrate (Syrup),CHLO500L
+Soln.,FENTSOLN
+Albumin 5% (12.5gm),ALBU5250
+Paroxetine HCl,PARO20
+Divalproex Sodium,DIVA500
+Divalproex Sodium,DIVA250
+Carbidopa-Levodopa (25-100),SINM25100
+Ramipril,RAMI125
+Alendronate Sodium,ALEN70
+Bupropion SR,BUPR150
+Diltiazem Extended-Release,TIAZ360
+Losartan Potassium,COZA25
+Carbamazepine,CARB200
+Mirapex,PRAM1
+Amlodipine Besylate,AMLO5
+Duloxetine,DULO20
+Insulin,HUMU100I
+Lidocaine Jelly 2%,LID2J
+Adefovir,ADEF10
+D5W (Glass Bottle),DEXT500B
+NEO*SC*Phytonadione,PHYT1I
+Meperidine,MEPE100I
+Captopril,CAPT50
+Acetaminophen (Rectal),ACET650R
+Lepirudin,LEPR50I
+Magnesium Oxide,MAGO140
+Phenobarbital,PHENO100
+Phenobarbital,PHEN130I
+Hurricaine Spray,HURRSPRAY
+Multivitamin Liquid,MULTNEO
+Aprotinin (Bovine),APRO100I
+Aminocaproic Acid,AMIN5
+Phenobarbital,PB30EL
+valproic,VAL250L
+Aluminum Hydroxide Suspension,ALUMI30L
+Betamethasone Dipro 0.05% Oint,BETA0.05O
+Calcium Carbonate (Tums),CALC500
+Oxymetazoline HCl,OXYM15
+Warfarin,WARF10
+Rifaximin,RIFA200
+CeftAZIDime,CEFT2F
+Isosorbide,IMDU60
+Quinine Sulfate,QUIN325
+Salmeterol,SALM65H
+Aspirin (Buffered),ASAB325
+Phenytoin,PHEN50
+Artificial Tears Preserv. Free,REFRESH
+Nystatin Cream,NYSTC
+NS (Syringe),NS10MLS
+Phenytoin,DILA30
+Acetaminophen w/Codeine,T3
+Morphine Sulfate,MORP2-10
+Morphine Sulfate,MORP1-8
+Morphine Sulfate,MORP2-5
+Bacitracin,BACI25/1L
+Morphine Sulfate (2-5mg),MORP2-5
+Tigecycline,TIGE50I
+Erythromycin,ERYT500I
+0.9% Sodium Chloride,NS150
+Bag,5000MLBAG
+Sulfameth/Trimethoprim DS,BACT20L
+5% Dextrose,D5W500
+Nicotine,NICO7P
+Sterile Water,KCLBASE2
+Prismasate (B22 K4),PRISMAB22K45000
+Piperacillin-Tazobactam,ZOSY2.25I
+Micafungin,MICA100I
+Metoprolol,TOPR25
+Hydromorphone,HYD50PCA
+Hydrocortisone,HC5
+Paroxetine,PARO20
+Promethazine HCl,PROM25
+Citrate Dextrose 3% (ACD-A) CRRT,ACD3/1000I
+Bag,BAG
+Miconazole Nitrate Vaginal,MONI7C
+Miconazole Nitrate Vaginal,MICO3SUPP
+Heparin Flush Port (10units/ml),HEPAR10I
+Enoxaparin Sodium,ENO3I
+Ezetimibe,EZET10
+GlyBURIDE,GLYB25
+Heparin Flush Midline (100 units/ml),HEPA100SYR
+Cephalexin,CEPH250
+Gemfibrozil,GEMF600
+Pioglitazone HCl,PIOG45
+Glipizide XL,GLUC10XL
+DiphenhydrAMINE HCl,DIPH25L
+Irbesartan,IRBE300
+Levothyroxine Sodium,LEVO200
+PNEUMOcoccal Vac Polyvalent,PNEU25I
+Lidocaine 0.5%,LIDO0550I
+Cyclobenzaprine HCl,CYCL10
+Olanzapine (Disintergrating Tablet),OLAN5DTB
+Risperidone,RISP05
+Glucagon,GLUC1I
+Propranolol,PROP10
+Tizanidine HCl,TIZA2
+D5LR,D5LR1000
+Cefepime,CEFE1I
+Psyllium Wafer,PSYL1W
+Albumin 5% (12.5 g),ALBU5250
+Fleet Enema,FLEETEN
+cycloSPORINE,CYCL0.05ES
+Acetaminophen w/Codeine Elixir,T3/12.5ML
+Fluticasone-Salmeterol Diskus (100/50),ADVA100/50H
+AMOXicillin Oral Susp.,AMOX125L
+AMOXicillin Oral Susp.,AMOX250L
+Golytely,GOLY60L
+Phenytoin,PHENY100
+Tacrolimus,TACR0
+Dorzolamide 2%/Timolol 0.5% Ophth.,COSO5ES
+Methylprednisolone Na Succ,METH125I
+Golytely,GOLY4L
+Enoxaparin Sodium,ENOX60I
+Morphine Sulfate,MORP2-6
+Hydroxyzine HCl,HYDR25I
+Vancomycin Oral Liquid,VANC125L
+Linezolid,LINE600
+zinc oxide,DESI30O
+Potassium Chl 20 mEq / 1000 mL D5LR,KCL20/1000D5LR
+Carbidopa-Levodopa CR (25-100),SINE25100
+Lactulose Enema,LACT1000R
+Beclomethasone Dipropionate,BECLINH
+Dexmedetomidine,DEXM200I
+Piperacillin-Tazobactam,ZOSY4.5I
+Multivitamins,MULT5L
+Acetami,ACET325
+Ribavirin,RIBA200
+Paroxetine HCl,PARO10
+Valsartan,VALS40
+Ampicillin,AMPI500
+Amoxicillin,AMOX500
+Clarithromycin,BIAX500
+L-Hyoscyamine,LEVS125
+Ampicillin Sodium,AMP1I
+Lidocaine Jelly 2%,LIDO2/5J
+Acetylcysteine (IV),ACET800I
+Propranolol HCl,PROP20
+Lamotrigine,LAMO100
+Readi-Cat 2 (Barium Sulfate 2% Suspension),BARI2/450L
+Paroxetine,PARO10
+Heparin (CRRT Machine Priming),HEPA5I
+Midazolam,MIDA5I
+Acetami,ACET650L
+Chlorothiazide,CHL500I
+Olanzapine,OLAN10
+Aminocaproic Acid,AMIC250L
+Megestrol ,MEGE400L
+Nimodipine,NIMO30
+Pulmicort,BUDE0.5
+Donepezil,DONE10
+Heparin Flush PICC (100 units/ml),HEPF100I
+GlipiZIDE XL,GLUC2.5XL
+Trandolapril,TRAN1
+Ampicillin-Sulbactam,UNAS1.5I
+MethylPREDNISolone Sodium Succ,MPRED5I
+Lidocaine 5% Ointment,LIDO5O
+Rifaximin,RIFA550
+Lidocaine 1%,LIDPF1I
+Nystatin Oral Susp.,NYST5L
+Fentanyl Citrate,FENT20I
+Methylprednisolone Na Succ.,METH40I
+Racepinephrine,RACE0.5H
+Valganciclovir HCl Suspension,VALC60L
+D5W (Glass Bottle),D5W250G
+Nitroglycerin,NITR50I
+Oxymetazoline,OXYM15
+Cyanocobalamin,CYAN500
+Prednisone,PRED25
+Stavudine,D4T20
+Sodium Citrate/Citric Acid,BICI30L
+Piperacillin-Tazobactam,ZOSY4FPB
+OLANZapine (Disintegrating Tablet),OLAN5DTB
+Thiamine,THIAM100I
+FoLIC Acid,FOLI1I
+Quetiapine Fumarate,QUET50
+Ranitidine (Liquid),RANI150L
+BuPROPion (Sustained Release),BUPR100SR
+Losartan Potassium,COZAA50
+Xopenex Neb,LEVA0.63L
+Nystatin,NYST5L
+Norepinephrine Bitartrate,LEVO4I
+NS        (Glass Bottle),NS250G
+OxycoDONE (Immediate Release) ,OXYCO5L
+Senna,SENN15L
+Haloperidol,HALO2
+Chloraseptic Throat Spray,CHLO180S
+Nitrofurantoin Monohyd (MacroBID),MACR100
+Quetiapine Fumarate,QUET12.5HT
+NS,NS100G
+Unasyn,UNAS15I
+NS,NS150
+Erythromycin Lactobionate,ERY1I
+Norepinephrine,NORE800SYR
+Glyburide,GLYB25
+Erythromycin,ERY1I
+Lansoprazole Oral Solution,LANS30L
+Nitrofurantoin (Macrodantin),NITR50
+Triamterene-Hydrochlorothiazide,DYAZ1
+Fluoxetine HCl,PROZ10
+Trisodium Citrate 0.4% Replacement Soln,CVVH3556I
+Lidocaine-Prilocaine,EMLA2.5
+Ketamine,KETA5I
+Tromethamine,THAM500I
+Soln,THAMBASE
+Drotrecogin Alfa (Xigris),DROT5I
+Alteplase,ALTE100I
+D5W,DOBUBASE
+DOBUTamine,DOBPREM
+Diltiazem Extended-Release,TIAZ120
+Tacrolimus Suspension,TACRSUSP
+Procainamide HCl,PROC500I
+Stavudine,STAV30
+Ethambutol HCl,ETHA100
+Amphotericin B Oral Suspension,AMPOBORAL
+Cyanocobalamin,CYAN100
+Levofloxacin,LEVO750
+Caphosol,CAPH15L
+Gelclair,GELCLAIR
+Lopinavir-Ritonavir,KALETRA
+Gentamicin,GENT120PM
+Isotonic Sodium Chloride,GENTBASE2
+Neostigmine,NEOS0.5I
+Lidocaine,LIDO450I
+Famotidine (IV),FAMO20I
+Normocarb Dialysis Soln,NORMOCARB
+CefePIME,CEFE1000I
+Cholestyramine,CHOL4G
+Tacrolimus Suspension,TACR0.5
+Lidocaine 1%,LIDO1/10I
+Doxacurium Chloride,DOXA5I
+Calcium Chloride,CALC100I
+Dexamethasone Sod Phosphate,DEXA100I
+Amprenavir,AMPR150
+Sirolimus,SIRO1L
+Stavudine,STAV40
+Atenolol,ATEN100
+Efavirenz,EFAV200
+Fosamprenavir,FOSA700
+Abacavir Sulfate,ABAC300
+Dexamethasone Sod Phosphate,DEXA4I
+Gentamicin,GENT100PM
+Papain-Urea,PAPA30O
+MoviPrep,MOVIKIT
+Accolate,ZAFI20
+Epinephrine,EPI400SYR
+Quinapril,QUIN20
+Sotalol HCl,SOTA80
+Venlafaxine,VENL75
+Venlafaxine XR,VENL75XR
+Mannitol,MANN25I
+Cisatracurium Besylate,CISA10I
+Cyanocobalamin,CYAN250
+Pyridoxine HCl,PYRI50
+Minoxidil,MINX25
+Verapamil SR,VERA240SR
+Hydrocortisone,HYDR10
+PredniSONE,PRED50
+Ondansetron ODT,ONDA8ODT
+DOXOrubicin,DOXO50I
+VinCRIStine,VINC2I
+Rituximab,RITU500I
+Syringe (Chemo),CHEMOSYR
+Potassium Chl 40 mEq / 1000 mL NS,KCL40/1000NS
+Docusate,DOCU100L
+Docusate,DOCU100
+Phenytoin Infatab,PHEN50
+Ibuprofen,IBUP200L
+Ipratropium ,IPRA2H
+Mebendazole,MEBE100
+Tobramycin Inhalation Soln,TOBR300H
+Nicardipine HCl IV,NICA2.5I
+Acetylcysteine,ACET800I
+Divalproex Sodium,DIVA125
+HYDROmorphone,HYDR2I
+Silver Sulfadiazine 1% Cream,SILV1C
+Albumin 5%,ALBU5500
+Dabigatran Etexilate,DABI75
+Multivitamins W/minerals,MVITH
+Diazepam,DIAZ10
+Venlafaxine,VENL75XR
+Dakins 1/4 Strength,DAKINQS
+Risperidone (Disintegrating Tablet),RISPM1
+GlipiZIDE XL,GLUC5XL
+Ciprofloxacin,CIPRO400I
+Famciclovir,FAMC500
+Metoclopramide,METO10L
+BusPIRone,BUSP5
+Ipratropium Bromide,IPRA2H
+Fentanyl Patch,FENT100P
+Nitroglycerin,NTG100I
+Travatan,TRAV004OS
+Albuterol,ALBU3H
+Salsalate,SALS500T
+5% Dextrose,D5W50
+Viagra,SILD50
+Cisplatin,CISP50I
+Sodium Polystyrene Sulfonate,KAYX30
+Chlorpromazine HCl,THOR25
+Morphine Sulfate (Oral Soln.),MOR10L
+ValGANCIclovir,VALGA450
+Sirolimus,SIRO1
+Nystatin Ointment,NYSTO
+Fluconazole,FLUC50
+Zafirlukast,ZAFI20
+Trandolapril,TRAN2
+Ipratropium Bromide,IPRAPF
+Oseltamivir,OSEL75
+Dobutamine,DOBPREM
+Lansoprazole Oral Suspension,LANS15L
+Milrinone Lactate,PRIM1I
+Dobutamine HCl,DOBU250I
+Tucks Hemorrhoidal Oint 1%,ANUS1O
+Fluconazole,FLUC150
+Heparin (Preserv. Free),HEP10UI
+Fosphenytoin Sodium,FOSP100I
+Heparin Sodium,HEPA5000I
+CycloSPORINE (Sandimmune),CSA100
+CycloSPORINE (Sandimmune),CSA25
+Hepatitis A Vaccine,HEPAV1I
+Mupirocin Cream 2%,BACT2/15C
+Hepatitis B Vaccine,HEPVACCR
+Influenza Virus Vaccine,INFV
+Oxycodone (Sustained Release),OXYC10
+NS,SALINE
+Modafinil,MODA100
+Venlafaxine,VENL375
+Moexipril HCl,MOEX7.5
+CycloSPORINE Modified (Neoral),NEOR100L
+CycloSPORINE Modified (Neoral),NEOR25
+Levetiracetam,LEVE500I
+Zonisamide,ZONI100
+Estrogens Conjugated,ESTR3
+Albuterol,COMB14.7H
+PHENObarbital,PHEN130I
+Probenecid,PROB500
+CycloSPORINE (Neoral) MODIFIED,NEOR25
+Metoprolol XL (Toprol XL),TOPR25
+Furosemide,FURO40L
+Midazolam HCl,MIDA5050
+Heparin ,HEP10I
+1/2 NS,NS45500
+Heparin Sodium,HEPA5I
+Doxazosin,DOXA4
+Rosiglitazone Maleate,ROSI2
+Ascorbic Acid,ASCO250
+Indomethacin,INDO25
+Syringe (Intrapleural),SYRPL
+Morphine Sulfate,MORP1-4
+Miralax,GLYC17
+Dicyclomine,DICY20
+Methotrexate,MTX25
+5% Dextrose,D5W25
+Duloxetine,DULO30
+Lithium Carbonate,LITH300C
+Entecavir,ENTE0.5
+Creon 10,CREO10
+Magnesium Sulfate,MAG4PM
+SW,SW100
+Nortriptyline,NORT10
+Vancomycin,VANC250L
+Fluoxetine,PROZ20
+Methadone (Dispersible Tablet),METH40
+CefTRIAXone,CEFX2F
+Nicotine Polacrilex,NICO2L
+Lansoprazole,LANS15
+MENINGOcoccal Conj Vaccine (Menactra),MENA0.5I
+Haemophilus B Conj. Vaccine,HAEM5I
+Ciprofloxacin,CIPR200I
+Sodium Citrate 4%,SODCIT3SYR
+Acetylcysteine 20%,ACETNEB
+Risperidone,RISP1
+Torsemide,TORS20
+CycloSPORINE Modified (Neoral),NEOR100
+Phytonadione,PHYT2L
+Aspirin,ASA600R
+CeftAZIDime,CEFT1F
+CeftazIDIME,CEFT1F
+Methylprednisolone Sodium Succ,METH125I
+Hydromorphone P.F.,HYDR2PF
+NS Epidural Bag ,EPIBAG
+HYDROmorphone,HYDR2
+CeftazIDIME,CEF2I
+Mesalamine,PENT250
+Estrogens Conjugated,ESTR625
+Sterile Diluent for Flolan,STER50I
+Epoprostenol Na,EPOP5I
+Amitriptyline HCl,AMIT50
+Hydrochlorothiazide,HCTZ50
+Povidone Iodine,BETA10T
+Enoxaparin Sodium,ENOX120I
+Patanol,OLOP.1ES
+Salagen,PILO5
+Fluoxetine,PROZ10
+Cyclobenzaprine,CYCL10
+Methadone,METD5
+Topiramate (Topamax),TOPI100
+PHENObarbital,PB60I
+Heparin Flush CVL  (100 units/ml),HEPF100I
+Naloxone HCl,NALO1I
+HydrOXYzine HCl,HYDR10L
+Hydrocortisone Cream 1%,HYDR1C
+Propranolol HCl,PROP10
+Lactulose,LACT1000R
+Phenazopyridine,PHEN100
+Clobetasol Propionate 0.05% Ointment,CLOB.05O30
+Phenytoin (Suspension),PHEN50
+LeVETiracetam,LEVE100L
+Fosphenytoin,FOSP100I
+Topiramate (Topamax),TOPI25
+Ethanol 70% Catheter DWELL,ETHAN70I
+Fluticasone Propionate Nasal,FLUT16N
+Prazosin HCl,PRAZ2
+Prazosin HCl,PRAZ1
+Heparin CRRT,HEPA30I
+Desonide 0.05% Cream,DESO15C
+Calcium Carbonate Suspension,CALC1250L
+Triamcinolone Acetonide 0.1% Ointment,TRIA0.1/80O
+Hydrocortisone Cream 2.5%,HYD2530C
+Tetracycline HCl,TETR250
+Bismuth Subsalicylate Chewable,PEPTOBIS
+Methadone,METH10SY
+Methadone Hcl,METH10I
+Methadone PCA,METH25PCA
+LeVETiracetam Solution,LEVE100L
+Thiamine,THIA100
+Amitriptyline HCl,AMIT10
+Lansoprazole Oral Solution,LANS30
+Potassium Phosphate,KPHO150I
+Caspofungin,CANC70I
+PENTObarbital Sodium,NEBU2500I
+Oxycodone (Sustained Release),OXYC40
+Miconazole 2% Cream,MICO2C
+Vioxx,ROFE25
+Atorvastatin study drug,ATORSTUDY
+Restasis,CYCL0.05ES
+Bumetanide,BUME25I
+Bumetanide,BUME1
+Olanzapine,OLAN5DTB
+Fluocinolone Acetonide 0.025% Cream,SNLR260C
+GlipiZIDE XL,GLUC10XL
+Hydrocortisone Cream 0.5%,HYDR0.5C
+Glucophage XR,METF500XR
+Kaopectate/Benadryl/Lido Visc.,KBL120L
+Epinephrine Inhalation,EPI15H
+Nabumetone,NABU500
+Loperamide,LOPE2
+Imitrex,SUMA25
+Tylenol w/Codeine Elixir,T3/12.5ML
+Acetaminophen w/Codeine,T3/12.5ML
+Hydrocortisone Acetate Ointment 1%,ANUSHCOINT
+Olanzapine,OLAN7.5
+Topiramate,TOPI25
+Lopinavir-Ritonavir (Oral Soln),KALE1L
+Emtricitabine-Tenofovir,TRUV200/300
+Leucovorin Calcium,LEUC25
+Fentanyl Citrate,FENT500I
+Lyrica,PREG25
+Pyrimethamine,DARA25
+Kaletra,KALE200/50
+Methylene Blue 1%,MBLU1I
+Octreotide Acetate,OCTR500I
+Heparin Flush,HEP1I
+AcetaZOLamide,ACE250
+Charcoal Aqueous (Activated),CHARC120L
+AcetaZOLamide,ACE500
+Atorvastatin Study Drug,ATORSTUDY
+Calcium Citrate,CALCIT950
+Acetylcysteine,ACET20/4I
+Amoxicillin,AMOX250
+Nystatin,NYST500T
+Fentanyl Citrate,FENT10I
+Tobramycin-Dexamethasone Ophth Oint,TBDX3.5O
+Voriconazole,VORI200
+Epoetin Alfa,EPO2I
+Caspofungin Acetate,CANC70I
+Caspofungin Acetate,CANC50I
+Voriconazole,VORI200I
+Intralipid 20%,LIPID250I
+Saliva Substitute,SPIT
+Epoetin Alfa,EPO40I
+Lidocaine 1%,LIDO1/50I
+Sterile Water,SW3000I
+Sodium Chloride 23.4%,SODI4I
+Acetylcysteine,MUCOM20
+Kaolin-Pectin,KAOP30
+Loperamide Hcl,LOPE2
+Butalbital-Aspirin-Caffeine,FIOR
+Amitriptyline,AMIT50
+Morphine Sulfate SR,MSCO15
+Amoxicillin-Clavulanic Acid,AUGM875
+Topiramate,TOPI200
+Calcium Carbonate,CALC1250L
+Avapro,IRBE150
+HydrOXYzine,HYDX25
+Acetaminophen IV,ACET1000I
+pilocarpine HCl,PILO5
+Cimetidine,CIME300
+Heparin Flush Port (10units/ml),HEP1I
+TRISODIUM CITRATE 4% REPLACEMENT FLUID (Dialysis),CVVH3556I
+Hydromorphone-hp,DILHP50I
+Ropinirole HCl,ROPI25
+Benztropine Mesylate,BENZ1I
+Hydrocerin,EUCE120C
+Leucovorin Calcium,LEUC5
+Hepatitis B Immune Globulin (Nabi-HB),HBIG5I
+Esmolol,ESMO25I
+Penicillin G Potassium,PENGK20I
+Sirolimus,SIRO2L
+NS (Irrigation Bottle),NS250B
+Vancomycin Enema,VANCPR
+NEO*IV*Clindamycin,NCLINDIV
+*NF* Mycophenolate Sodium,MYFO180
+Myfortic,MYFO180
+Muromonab-CD3,OKT35I
+Potassium Chloride Replacement (Oncology),KCL20P
+sodium bicar,NABC50S
+Mycophenolate Mofetil,MYCO200/1L
+Sirolimus,SIRO0.5L
+Calcium Replacement (Oncology),CALG1I
+Critic-Aid Skin Paste,CRIT6T
+Rosiglitazone Maleate,ROSI8
+Levothyroxine Sodium,LEVO200IV
+Syringe,SYRINGEIND
+Sodium Chloride 0.9%,NACL09I
+Topiramate,TOPI100
+Amiloride HCl,AMIL5
+Methylene Blue,METHB1I
+econazole,ECON1C
+Syringe (Neonatal) *D10W*,NEOSYRD10W
+Filgrastim,GCSF480I
+NEO*IV*Oxacillin,NOXAI
+Foscarnet Sodium,FOSC24I
+Soln.,FOSCARBASE
+Clobetasol Propionate 0.05% Cream,CLOB.05C30
+Capsaicin 0.025%,CAPS25C
+Hydrochloric Acid,HCL1MEQ
+Cisatracurium Besylate,CISA20I
+Xopenex,LEVA0.63L
+Mupirocin Nasal Ointment 2%,BACT2/1O
+NEO*PO*Ranitidine,NEORAN
+NEO*PO*Metoclopramide,NEOMET30L
+Travasol 4.25% W/ Dextrose 5%,D54.25T1LI
+Chlorpromazine HCl,THOR10
+Valganciclovir HCl Suspension,VALGA450
+Aspirin EC,ASA325
+Methylprednisolone Na Succ,METH2I
+Dopamine HCl,DOPA400I
+Quetiapine Fumarate,QUET200
+Trimethobenzamide HCl,TRIM250
+Nifedipine CR,ADAL30
+Cidofovir,CIDO75I
+Montelukast Sodium,MONT10
+Fondaparinux Sodium,FOND2.5I
+Morphine Sulfate (Oral Soln.),MORPCONC
+Mycophenolate Mofetil,MYCO1000L
+Fentanyl Citrate,FENT250I
+Lanthanum,LANT500
+Clonidine TTS 2 Patch,CLON2P
+LaMIVudine,LAMI10L
+RiTONAvir,RITO100
+Atazanavir,ATAZ100
+Raltegravir,RALT400
+Etravirine,ETRA100
+Albumin 25% (12.5gm),ALBU5250
+albumin,ALBU5250
+NEO*IV*Dexamethasone,NEODEX
+NEO*PO*Opium Tincture (Dilute),DTO0.4S
+Intralipid/Liposyn III (Plastic),LIPIDSTUDYP
+NEO*IV*Morphine Sulfate,NMORP
+Albuterol Sulfate-Ipratropium,COMB14.7H
+DOBUTamine,DOBU250I
+NEO*IV*Hydrocortisone (1mg/mL),HYDR1I
+NEO*PO*Dexamethasone,NEODEXA
+NEO*PO*Spironolactone,NEOSPIR4I
+Morphine (PF),ASTR5000I
+Pancuronium Bromide,PANC10I
+NEO*IV*Insulin (Dilute),INSNEO1
+Sterile Water,SW10I
+Dipyridamole-Aspirin,AGGRCAP
+Atazanavir,ATAZ150
+Oxycodone,OXYC10
+Miralax,MIRA17
+Methadone,METH50L
+Aripiprazole,ARIP10
+Furosemide,FURO100PB
+Mannitol 20 %,MANN100I
+5% Dextrose,MORPD5W
+NEO*IV*PHENObarbital,NPHEN10I
+Pancuronium Bromide (NICU),PANCNEO
+Tenofovir Disoproxil (Viread),TENO300
+Mycophenolate Mofetil,MYCO250L
+Vitamin E,VITE400
+Meclizine HCl,MECL125
+Clozapine,CLOZ100
+Desmopressin Acetate,DESM0.1
+Guaifenesin-CODEINE Phosphate,GGAC5L
+LaMIVudine,LAMI100
+Morphine Sulfate,MORP4-8
+Methylene Blue 1%,MBLU10I
+Ibuprofen,IBU5S
+Syringe (Neonatal),NEOSYR1ML
+Syringe (0.9% Sodium Chloride),SYRNS5ML
+Vancomycin Antibiotic Lock,VANC12.5I
+Sulfameth/Trimethoprim ,BACT20L
+Lexapro,ESCI10
+NIFEdipine,ADAL90
+Ritonavir (Oral Solution),RITO80L
+Glycerin (Ped),GLYC1R
+Divalproex Sod. Sprinkles,DIVA125SP
+Abciximab,REOPI
+Isosorbide Dinitrate,ISOS5
+Fondaparinux Sodium,FOND5I
+Albumin 5% (12.5g),ALBU5250
+Albumin 5% (,ALBU5250
+Syringe (Intrathecal),SYRIT
+Morphine Sulfate PF,DURA100I
+Albumin ,ALBU5250
+Gentamicin Sulfate Ophth.,GENT3EO
+NEO*PO*SODium Chloride,NACL234
+Penicillin G Potassium,PENGK3I
+CeftazIDIME,CEFT2F
+Atropine Sulfate 1% Ophth Ointment,ATR1EO
+*NF* Dornase Alfa Inh. Soln.,PULMOZYME
+Pyridoxine HCl,PYRI100I
+Fomepizole,FOM1GI
+fenofibrate,FENO145
+fenofibrate,FENO48
+Rifampin,RIFA300
+Hydromorphone P.F.,HYDR1AMP
+Rifampin,RIFA600I
+Niacin SR,NIAC250SR
+Doxorubicin,DOXO50I
+BuPROPion (Sustained Release),BUPR100
+Cyclophosphamide,CYCL100I
+Hydrocortisone Na Succinate,HYDRO100I
+Vincristine Sulfate,VINC2I
+Morphine Sulfate (2-6mg),MORP2-6
+Morphine PCA,MORP50PCA
+Leucovorin Calcium,LEUC100I
+Leucovorin Calcium,LEUC350I
+Methotrexate Sodium,METH1I
+5% Dextrose,D5W
+Leucovorin Calcium,LEU100I
+Prednisone,PRED1
+HYDROmorphone,HYD12.5PCA
+Sotalol,SOTA80
+Ascorbic Acid (Liquid),ASCO500
+Critic-Aid Skin Paste,CITR6T
+NEO*IM*Dt & Acellular Pertussis,DTAP
+NEO*IM*Haemophilus B Conjugate,HIBTITER
+BusPIRone,BUSP10
+Clorazepate Dipotassium,CLOR375
+Silver Nitrate Applicator,SILV1T
+Lidocaine 0.5%,LIDO550I
+Midazolam HCl,MIDA100
+Lamivudine,LAMI10L
+Bupropion HCl,BUPR75
+Bupropion SR,BUPR100SR
+HydrOXYzine HCl,HYDR25I
+HYDROmorphone,HYDM4
+Calcipotriene 0.005% Cream,CALC.005C
+Benztropine Mesylate,BENZ5
+Amino Acids 5%-Dextrose 15%,AA5D151000I
+Methadone,METD10
+*NF* Ertapenem Sodium,ERTA1I
+traZODONE,TRAZ100
+Alternagel-Benadryl-Lidocaine Visc.,ALBELI120
+Heparin Flush CVL  (100 units/ml),HEP1I
+Methotrexate Sodium,METH20I
+Pentamidine Isethionate,PENT300I
+Benzocaine 20% Spray,HURRSPRAY
+Methylphenidate HCl,RITA5
+Fluvoxamine Maleate,FLUV100
+Papain-Urea Ointment,PAPA30O
+Ranitidine HCl,RANI150
+Bisacodyl (Rectal),BISA10R
+Evista,RALO60
+Aluminum Hydroxide,ALUMI30L
+Morphine Sulfate (Immediate Release),MORP15
+BuPROPion,BUPR100
+Meperidine HCl,MEPE100AMP
+Provigil,MODA100
+Avonex Administration Pack,IFBETA30I
+Ticlopidine HCl,TIC250
+Comtan,ENTA200
+Silver Sulfadiazine 1% Cream,SSD400C
+Amaryl,GLIM4
+sodium bica,NABC50I
+D15W,D15W250I
+Metformin HCl,METF500XR
+Tocopheryl,VITE400
+Ondansetron HCl,ONDAN4I
+Entacapone,ENTA200
+Orange Oil,ORANGE
+*NF* Salmeterol-Fluticasone,ADVA500/50
+Beclomethasone Dipro. AQ (Nasal),BECONASEAQ
+Cefazolin,CEFA1I
+Morphine Sulfate,MORPH100
+Metoprolol XL (Toprol XL),TOPR100
+Kaopectate/Benadryl/Lido Visc.,KBL240L
+SODium Chloride,NACL234
+Lotrel,LOTR5/20
+Sulfamylon,MAFE8.5C
+Lithium Carbonate,LITH150
+Divalproex Sodium,DIVA125SP
+Tricor,FENO145
+Fentanyl PCA,FEN625PCA
+*NF* Gelclair,GELCLAIR
+Ifosfamide,IFEX1I
+Cytarabine,CYTA1I
+Mesna,MESNA1I
+Vioxx,ROFE12.5
+Morphine Sulfate IR,MORP30
+Bacitracin Ointment,BACIEO
+Cyclopentolate 1%,CYCL1O
+Alendronate Sodium,ALEN5
+Isosorbide Mononitrate,ISMO20
+Flurbiprofen 0.03%,FLUR3ES
+Epoetin Alfa,EPO20I
+Cyclophosphamide,CYCL25
+Cyclophosphamide,CYCL50
+Digoxin,DIGO125L
+Nicotine Lozenge,NICO2L
+Anzemet,DOLA12.5I
+Betaxolol Hcl  0.25%,BETA25ES
+Soma,CARI350
+Morphine Sulfate SR,MSCO30
+Sodium Phosphate,NAPH50I
+sodium Bicar,NABC50I
+Glyburide/Metformin (5mg-500mg),GLU5/500
+Psyllium,METAMOR
+Acyclovir Ointment 5%,ACY5O
+Caffeine-Sodium Benzoate,CAFF250I
+Terazosin,TERAZ1
+Metoprolol XL (Toprol XL),TOPR50
+Phentolamine Mesylate,PHEN5I
+Ceftriaxone,CEFR1I
+Metronidazole,METR250
+Olanzapine,OLAN10I
+Indomethacin,INDO50
+heparin,HEP1I
+Amoxicillin Oral Susp.,AMOX125L
+NEO*IV*Hydralazine,NHYDRA
+NEO*PO*Captopril,NEOCAP
+Phenylephrine 2.5 % Ophth Soln,PHEN25ES
+Tropicamide 1 %,TROP1ES
+Hydrocortisone Enema,HC100R
+D25W,D25W250I
+Amlodipine,AMLO25
+Ferric Gluconate,FERR62.5I
+Soln,ACETSOLN
+Lidocaine 2%,LIDPF2I
+NS,ESMOB100
+Esmolol,ESMO2PM
+Insulin,NOVOR100I
+Collagenase Ointment,COLL30O
+Sorbitol,SOR30L
+Divalproex Sodium ER,DEPA500ER
+Fluvoxamine Maleate,FLUV50
+Naloxone HCl,NALO2I
+Becaplermin Gel 0.01%,BECA15G
+Niacin,NIAC500SR
+Venlafaxine XR,VENL375XR
+Glucose Tab,GLUCTAB
+Potassium Chl 40 mEq / 1000 mL D5W,KCL40/1000D5W
+Nadolol,NADO40
+Glyburide/Metformin (2.5mg-500mg),GLU25/500
+Rosiglitazone Maleate,ROSI4
+Alteplase 1mg/1mL ( Clearance ie. Temp TLCL ),ALTE1I
+Syringe (0.9% Sodium Chloride),SYRINGENS
+Oseltamivir Phosphate,OSEL75
+NEO*IV*Phenobarbital,NPHEN10I
+Niacin SR,NIAC500SR
+Propranolol HCl,PROP40
+Methocarbamol,METC500
+Pyridoxine,PYRI50
+Phenobarbital Elixir,PB30EL
+Ethacrynate Sodium,ETHA50I
+Collagenase Ointment,STLTP
+Alteplase (Catheter Clearance),ALTE2I
+Benazepril,BENA10
+D5 1/4NS,D52NS1000
+Risperidone (Disintegrating Tablet),RISPM0.5
+Haloperidol,HALO2OS
+Triamcinolone Acetonide 0.1% Cream,TRIAM30C
+Pulmicort,BUDE0.25
+DopAmine,DOPA400I
+Pioglitazone HCl,PIOG15
+Aspirin,ASAEC325
+Clindamycin HCl,CLIN150
+Aspir,ASA325
+Aspiri,ASA81
+Aspirin Desensitization (Angioedema),ASPIDESEN
+Bisoprolol Fumarate,BISO5
+Nystatin,NYST100V
+*NF* Tacrolimus Suspension,TACRSUSP
+Remifentanil HCl,REMI1I
+Sulfasalazine,SULF500
+Multi,MULT5L
+Acebutolol HCl,ACEB200
+Lyrica,PREG75
+Benztropine Mesylate,BENZ1
+Valacyclovir,VALA500
+Heparin ,HEPA100SYR
+Heparin ,HEP1I
+sodium bic,NABC50S
+Efavirenz,EFAV600
+Tobramycin 0.3% Ophth Soln,TOBR3ES
+Lumigan,BIMA.03E
+Methazolamide,METZ50
+Acetaminophen (Childrens),ACET120R
+Tobramycin Sulfate,TOBR80I
+NEO*PO*Potassium Chloride,NEOKCL
+CycloSPORINE (Sandimmune),CSA100L
+Gemcitabine HCl,GEM1I
+Docusate Sodium (Liquid),DOCU100
+Megestrol Acetate,MEGE400L
+Heparin Flush Port (10 units/mL),HEP1I
+Meropenem Desensitization,MERODESEN
+Fentanyl PCA,FEN1250PCA
+Sulfasalazine,SULF500EC
+Roxanol,MORPCONC
+Atacand,CAND4
+Naloxone HCl,NALO3L
+Aprotinin (Bovine),APRO200I
+Triamcinolone 0.1% Ointment,TRIA0.1O
+Fluoxetine HCl,PROZ20L
+PredniSONE,PRED25
+CycloSPORINE (Sandimmune),CSA50I
+Heparin Lock Flush,HEP1I
+N-Acetylcysteine Study Drug,NACIND
+Midodrine,MIDO5
+Estrogens Conjugated,ESTR25I
+D5W (Glass Bottle),D5W100G
+Beractant,BERA8I
+Albuterol Sulfate,ALBU5H
+mega,MEGE400L
+Quinupristin/Dalfopristin,SYNE500I
+Paroxetine HCl,PARO30
+Ferrous Sulfate (Liquid),FERR325
+Bacitracin-Polymyxin Ointment,POLY30O
+Guaifenesin,GUAI600T
+Pilocarpine 0.5%,PILO5ES
+Levobunolol Hcl 0.25%,BETA25D
+Skelaxin,META800
+Chlorpheniramine-Hydrocodone,TUSS5L
+Bumetanide,BUME05
+Clozapine,CLOZ25
+Lidocaine,LID2PREMIX
+Dofetilide,DOFE125
+Phytonadione,PHYT10IVPB
+Torsemide,TORS20I
+MCT Oil,MCT4L
+Triamcinolone Acetonide 0.1% Cream,TRIA.1/80C
+Acyclovir,ACYC400
+Methylphenidate HCl,RITA10
+Enoxaparin Sodium,NEOENOX30I
+Iron Polysaccharides Complex,NIFR150
+Palivizumab,PALI100I
+Proparacaine HCl 0.5% Opth.,PROP05ES
+Potassium Chloride Replacement (Oncology),POTA20
+Fentanyl Patch,FENT12.5P
+Glipizide XL,GLUC5XL
+Intralipid/Liposyn III (Glass),LIPIDSTUDYG
+Nexium,ESOM20
+*NF* Capecitabine,CAPE500
+Cefpodoxime Proxetil,CEFP200
+Thiamine HCl,THIA100I
+Diazepam,DIAZ5I
+Lindane Shampoo,LIND1SH
+Cephalexin ,CEPH250S
+Citalopram,CITA20
+Palivizumab,PALINEO50I
+Neo*PO*Omeprazole,OMEPNEO
+Simethicone,SIME40L
+Dexamethasone Sod Phosphate,DEXA10I
+Chlordiazepoxide HCl,CHLO25
+OxycoDONE Liquid,OXYIR15
+LeVETiracetam Oral Solution,LEVE100L
+Amlodipine Besylate,AMLO25
+Potassium Chl,POTA20
+Potassium Chl,KCL20P
+Lithium Carbonate CR,LITH450SA
+Olanzapine (Disintergrating Tablet),OLAN10ODT
+Povidone Iodine 1/8 Strength,BETAEL
+Morphine Sulfate,MORP2-8
+NS,HEPA500ML
+NORepinephrine,NORE8/250
+5% Dextrose,NOREBASE
+Heparin (IABP),HEPA1000/500
+D17.5W,D17.5W250I
+Ampicillin-Sulbactam,UNASNEO
+Benicar,OLME10
+Abilify,ARIP15
+Aripiprazole,ARIP15
+Alendronate Sodium,FOSA10
+dival,DIVA250
+Chlorothiazide,CHLO500
+Aquaphor Ointment,AQUA400O
+Bumetanide,BUME2
+beclomethasone dipropionate,BECLINH
+Alteplase (Catheter Clearance),ALTE1/2I
+Heparin Flush ,HEP1I
+Aminocaproic Acid,AMIN500
+Citric Acid/Sodium Citrate,BICI30L
+Varicella-Zoster Imm Globulin,VZIG625I
+Aztreonam,AZTR1000FB
+PHENYLEPHrine,PHEN10I
+Phosphorus,PHOS250
+Orabase w/ Benzocaine Paste,ORBE5T
+Methadone,METH40
+Miconazole Nitrate (Combo Pack),MICO3SUPP
+Metoclopramide HCl,METO10
+Phytonadione,PHYT1L
+Meningococcal Vaccine,MENI1SYR
+Mesalamine (Rectal),MESA1000R
+Mesalamine DR,MESA400
+Alum Potassium,alum454
+Sirolimus,SIRO5L
+KCl,KCL20I
+Morphine Sulfate SR,MSCO100
+Haloperidol,HALO10
+Dextromethorphan Poly Complex,DEXT30L
+*NF* Basiliximab,SIMU20I
+sodium bicarb,NABC50I
+Methadone HCl,METH10L
+Creon 12,CREON12
+Methylene Blue,MBLU10I
+Sodium Polystyrene Sulfonate,KAYEX30R
+Guaifenesin,GGAC5L
+Nadolol,NADO80
+HEPARIN,HEPA100SYR
+Amikacin,AMIK500
+Venlafaxine,VENF25
+Humalog,HUM100I
+Lorazepam 2mg syringe,SEPLORA2I
+Dopamine Hcl,DOPA400I
+Imipramine HCl,IMIP25
+Hydroxyurea,HYDU500
+Propranolol HCl,PROP1I
+Mivacurium Chloride,MIVA20I
+Rocuronium,ROCU50I
+sodium,NABC50I
+Celecoxib,CELE200
+Sodium Fluoride (Dental Gel),PREV60TP
+Eptifibatide,INTEGR
+Rosuvastatin Calcium,ROSU20
+Ketamine Study Drug (*IND*),SEPKET10I
+Levothyroxine Sodium,LEVO150
+ValACYclovir,VALA500
+Morphine Sulfate,MORP4-6
+Oxycodone,PERC
+PHENYLEPHrine,PHEN12SYR
+DiCLOXacillin,DICL250
+Sildenafil Citrate,SILD25
+Ibutilide Fumarate,IBUT1I
+Buspirone,BUSP5
+GlipiZIDE,GLIP10
+5% Dextrose (EXCEL BAG),D5W500E
+Dicloxacillin,DICL250
+Terbinafine 1% Cream,TERB1C
+Famotidine (IV),FAMOT20I
+Kaolin,"KAOL60L,"
+Mucinex,GUAI600T
+Clindamycin,CLIN1S
+Heparin Sodium,HEPA10000/5I
+Verapamil HCl,VERA120SR
+valp,VAL250L
+Megestrol Acetate,MEGE40L
+Ketoconazole Shampoo,KETO2SH
+Ursodiol,URSO250
+Levobunolol,BETA25D
+Arimidex,ANAS1
+Oxycodone-Acetaminophen (5mg-325mg),PERC
+Lactated Ringers,LR1000
+Pilocarpine 1%,PILO1ES
+Fentanyl Patch,FENT12P
+Guaifenesin LA,GUAI600T
+Talc,ZEASP
+Talc (Sterile),TALC
+Talc,TALC
+Penicillin V Potassium,PENV500
+Terazosin HCl,TERAZ2
+Triamcinolone Acetonide 0.1% Ointment,TRIA0.1O
+Cipro,CIPR200PM
+Metoprolol,TOPR50
+Quinidine Gluconate,QUIG324
+*IND* Pexelizumab/Placebo,PEXEIND
+Mycophenolate Mofetil Suspension,MYCO200/1L
+Nafcillin Desensitization,NAFC1000I
+Meperidine PF,MEPE100AMP
+Albumin 5% (25 g),ALBU%500
+Aminophylline,AMPH200
+Aminophylline,AMIN100
+Fluocinonide 0.05% Ointment,LIDX15O
+Fluvastatin Sodium,FLUV20
+Medroxyprogesterone Acetate,MEDR10
+Estradiol,ESTR1
+Nicotine Polacrilex,NICO2
+NEO*IV*Fat Emulsion,NFAT5
+Hepatitis B Vaccine,HEPVAC
+Posaconazole Suspension,POSA200L
+Magnesium Sulfate Replacement (Oncology),MAG2PM
+Fleet Phospho-Soda,PHDOSA90L
+Basiliximab,SIMU20I
+D5W,DEXTRANBAG
+Dextran 40 10%,DEXT500D5W
+NEO*IM*Palivizumab,PALINEO50I
+Acyclovir,ACYC40L
+Doxepin HCl,DOXE10
+Anusol Ointment 1%,ANUS1O
+Hydrocortisone (Rectal) 2.5% Cream,ANUSHC
+Paroxetine HCl,PARO25CR
+Pentamidine-Inhalation,PENT300H
+Memantine,MEMA5
+Theophylline (Oral Solution),THEO100LQ
+Capt,CAPT125
+Repaglinide,REPA1
+Calcitonin Salmon,CALC2N
+Mevacor,LOVA20
+Bupivacaine 0.50%,BUPI5I
+Promethazine,PROM25
+CloniDINE,CATA2
+Flumazenil,FLUM500I
+Ipratropium Bromide MDI,FLUT110H
+Vancomycin Oral Liquid,VANC500L
+Chlorpromazine,THOR25
+Thioridazine HCl,THIO10
+Enoxaparin Sodium,ENOX150I
+Tricor,FENO160
+Bengay,BENGAY2O
+Bacitracin-Polymyxin Ointment,POLY15O
+Gemcitabine,GEM1I
+VinORELbine (Navelbine),NAVEL10
+Brinzolamide,BRIN1E
+Fluocinonide 0.05% Ointment,LIDX60O
+Oxacillin,OXAC1F
+Sodium Chloride 3% (Hypertonic),NACL3IRR
+1/2 NS,0.45NS3000I
+Mirapex,PRAM.25
+Insulin Glargine,GLAR100I
+Hydromorphone,DILA2I
+Sodium Bicarbonate 4.2% (2.4meq),NEUT1I
+Cefazolin,CEFA500I
+Bivalirudin,BIVA250I
+Ropinirole HCl,ROPI1
+Eplerenone,EPLE25
+Meclizine HCl,MECL25
+NEO*PO*Sodium Chloride,NACL234
+Quetiapine Fumarate,QUET25L
+Celebrex,CELE200
+Ziprasidone,ZIPR20I
+*NF* Pediatric Vitamins ADC,TRIVIT
+MetRONIDAZOLE (FLagyl),METR250
+Niacin,NIAC100
+Medium Chain Triglycerides,MCT4L
+Zofran,ONDAN4I
+SKELAXIN,META800
+Methylphenidate,RITA10
+Lactulose Enema,LACT500R
+Itraconazole,ITRA100
+Meningococcal Vaccine,MENI5I
+Lidocaine 5% Ointment,LIDO5O3.5
+Artificial Tear Ointment,REFRESH
+Chlorpheniramine Maleate,CHLO4
+Ergotamine-Caffeine,ERGT1
+Lidocaine 1%,LIDO15AM
+Naphazoline 0.1% Ophth,NAPH1O
+Triamcinolone 0.1% Cream,TRIAM30C
+CeftazIDIME,CEFT1V
+Bupropion HCl,BUPR100
+Travoprost,TRAV004OS
+Felodipine,FELOD5
+MENINGOcoccal Vaccine,MENI5I
+Viokase,VIOK
+Pregabalin,PREG75
+Morphine Sulfate (Concentrated Oral Soln),MORP20/120L
+Sumatriptan Succinate,SUMA25
+Opium Tincture,DTO.6ML
+Levetiracetam,LEVE100L
+Meperidine,MEPE100AMP
+Clotrimazole 1% Vaginal Crm,CLOT1VC
+Lidocaine 2%/Epinephrine,LIEP220I
+Torsemide,TORS100
+Pneumococcal Vac Polyvalent,PNEU5I
+Mirapex,PRAM125
+Dibucaine,DIBU
+Advair Diskus,ADVA500/50
+Albumin 25% (12.5 g),ALBU25100I
+Phenytoin (Suspension),DILA100
+Metoprolol,TOPR100
+Meperidine,MEPE50
+Glipizide XL,GLUC2.5XL
+HydrOXYzine,HYDR25I
+Doxazosin,DOXA8T
+Chlorothiazide,CHLO250
+Fluoxetine HCl,FLUO20L
+Perphenazine,PERP2
+Triamterene,TRIA50
+Triamterene,DYAZ1
+Dorzolamide 2% Ophth. Soln.,DORZ2S
+CARBOplatin,CARB450I
+Lamotrigine,LAMO25
+Iso-Osmotic Sodium Chloride,FLUCBASE3
+Salmeterol,SALM13IH
+dextrose,DEX50SY
+Metformin,METF500XR
+Sulfinpyrazone,SULF200
+Sulfinpyrazone,SULF100
+asa,ASA325
+asa,ASA81
+Cefotetan,CEFO1F
+Iso-Osmotic Sodium Chloride,FLUCBASE2
+bactrim,BACT20L
+Theophylline SR,THEO300
+Theophylline,THEO80L
+PHENObarbital,PHEN30
+PHENObarbital,PB15
+PHENObarbital,PB30EL
+bactrim,BACTDS
+Sulfameth/Trimethopri,BACTSS
+Adefovir Dipivoxil,ADEF10
+Aldesleukin,ALDE22I
+sodium bicar,NABC50I
+Losartan,COZAA50
+ChlorproPAMIDE,CHPR250
+Sulfameth/Trimethopri,BACT20L
+Pseudoephedrine HCl,PSEUD30L
+LaMOTrigine,LAMO100
+NS,FLUCBASE3
+Promethazine HCl,PROM25R
+LaMOTrigine,LAMO25
+MetFORMIN (Glucophage),METF850
+Heparin,HEP10I
+Dofetilide,DOFE500
+Dabigatran Etexilate,DABI150
+Eplerenone,EPLE50
+NEO*IV*Hydrocortisone (10mg/mL),HYDRNEO
+multiv,MULT5L
+Dexmedetomidine Hcl,DEXM200I
+MetFORMIN XR (Glucophage XR),METF500XR
+Pletal,CILOS100
+Bupropion (Sustained Release),BUPR150
+D20W,D20W250I
+Edrophonium Chloride,EDRO10I
+Lipid Emulsion 20%,LIPID250I
+Lidocaine 1% PF,LIDO1I
+NS (Syringe),NSSYR
+Paroxetine,PARO10L
+Olanzapine,OLAN0.5L
+Olanzapine,OLAN10ODT
+Glyburide,GLYB1.25
+*NF* Arginine HCl,ARGI10I
+Soln,SOLN300I
+*NF* Beclomethasone Dipropionate Inhalation,BECLINH
+Meropenem,NEOMERO
+guaif,GUAI600T
+Sterile Water,TPASW100I
+Fleet Phospho-Soda,FLEET
+NIFEdipine,NIFE20
+Famotidine (PO),PEPC20
+ACD-A for CRRT,ACDA500
+Scopolamine HBr,SCOP4I
+NEO*PO*Hydrocortisone Sod Succinate,HYDRNEO1L
+Theophylline ER (Uniphyl),THEO400TR
+Theophylline,THEO100
+Theophylline ,THEO200
+Humulin N,INNHI
+FoLIC Acid,FOLI5I
+NS,DEXTRANBAGNS
+Dextran 40 10%,DEXT500I
+Meperidine,MEPE500PCA
+Piroxicam,PIRO10
+Pulmozyme,PULMOZYME
+Sonata,ZALE10
+Potassium Iodide,KIODIL
+Verapamil,VERA120
+Verapamil,VERA80
+Methimazole,METH10
+*NF* Iopanoic Acid,IOPA500
+Iopanoic Acid,IOPA500
+BTL,BTL100
+Bottle,BTL500I
+Clindamycin,CLIN900PM
+Ethacrynic Acid,ETHA25
+Nitroglycerin Patch,NTG10P
+Alteplase (Catheter Clearance),ALTE1/5I
+Pramipexole Dihydrochloride,PRAM125
+Epinephrine HCl,EPIS10I
+diltiazem,TIAZ240
+Lovastatin,LOVA20
+Buspirone,BUSP10
+Lactulose,LACT500R
+Lansoprazole Oral Suspension,LANS30
+Dexamethasone Sod Phosphate,DEXAM20I
+lantus,GLAR100I
+Diltiazem,TIAZ120
+Oxycodone,OXYC20
+Bleomycin,BLEO15I
+Chlorthalidone,CHTH25
+Furosemide,FURO20I
+Vancomycin,VANCO10I
+Propranolol LA,PROPLA80
+Dantrolene Sodium,DANT20I
+Syringe (PD),SYRINGEPD
+Acetylcysteine,ACETNEB
+Analgesic Balm,ANAL15C
+Megestrol Acetate,MEGE800L
+CVVH Citrated,CVVH2000I
+Lidocaine 1%,LIEPI20I
+Vitamin B Complex,VITB1
+Isoproterenol HCl,ISOP1I
+Albumin 5,ALBU5500
+Albumin 5,ALBU5250
+Prilosec,OMEP20
+Tizanidine,TIZA2
+Phenytoin Sodium Extended,DILA100
+Anti-Thymocyte Globulin (Rabbit) Desensitization,ATGDESEN
+Risperidone,RISP3
+NS (IRRIGATION BOTTLE),NS1000IBTL
+Methylprednisolone,MPRED4
+Sodium Polystyrene Sulfonate,KAYX60
+D5W,DEXTROSE
+Penicillin G Potassium,PENI2F
+Syringe (NS),SYRNS5ML
+Alcohol 10%,ALCO10I
+Tamoxifen Citrate,TAMO10
+CeftriaXONE,CEFR1I
+Haloperidol Decanoate,HALD50I
+rocuro,ROCU50I
+NIFEdipine,ADAL30
+Lansoprazole,LANS15L
+Dantrolene Sodium,DANM25
+Glycerin,GLYC50L
+Paricalcitol,PARI5I
+Pancrease,PANCEC
+Flucytosine,FLUC500
+Acyclovir,ACYC800
+Nitrofurantoin Macrocrystal,NITR100
+ValGANCIclovir,VALC60L
+Dorzolamide 2% Ophth. Soln.,TRUS2S
+Fluconazole,FLUC200L
+Mycophenolate Mofetil Suspension,MYCO1000L
+Humalog Insulin,HUMU100I
+Theophylline SR,THEO200
+Potassium Chl 20 mEq / 1000 mL D5W,KCL20/1000D5W
+ValGANCIclovir Suspension,VALC60L
+alb,ALBU5250
+Morphine Sulfate ,MOR10L
+Ziprasidone,ZIPR40
+Ziprasidone Hydrochloride,ZIPR40
+Ziprasidone Hydrochloride,ZIPR60
+Heparin Dwell (1000 Units/mL),HEP10I
+Gastroview (Diatrizoate Meglumine & Sodium),GAST30L
+Ziprasidone Hydrochloride,GEOD20
+Cefotetan,CEFO2F
+Ziprasidone,GEOD20
+Heparin (Hemodialysis),HEP10I
+Heparin ,HEPA30I
+Naloxone,NALO3L
+Nelfinavir Mesylate,NELF625
+mege,MEGE800L
+Methyldopa,METP250
+Maalox/Lidocaine,MAALLIDO120L
+Divalproex Sodium,VAL250L
+Morphine Sulfate,MORP250I
+Gentamicin Sulfate,GENT20I
+Quinine Sulfate,QUIN260
+Magnesium Sulfate,EPSOM
+Didanosine EC,DIDA400
+Nevirapine,NEVI200
+Aspirin-Caffeine-Butalbital,FIOR
+Ferrous Gluconate,FERRG325
+Carvedilol,CARV31.25L
+sodium bicarb,NABC50S
+Heparin (Porcine),HEPA5I
+D5W,D5W3000
+NS (Excel),EXCELNS250
+Ranitidine,RANI150I
+Carbamide Peroxide,GLYO65OT
+Sulfamethoxazole/Trimethoprim,BACTNEO
+Amiodarone,AMIO40L
+Ketamine HCl,KETA200I
+Proplex T,FACT9
+sodium,NABC50S
+Metronidazole 0.75%,METR75G
+Clonidine TTS,CLON2P
+Albumin 5% (12.5 g),ALBU25
+Lamivudine-Zidovudine (Combivir),COMBTAB
+Hepatitis B Immune Globulin (Nabi-HB),HBIGUD5I
+HEPARIN,HEPF100I
+Acetazolamide,ACET125
+Cephalexin,CEPH250S
+Cefuroxime Sodium,CEFU75I
+Tetanus Toxoid Adsorbed,TTOX5I
+Mesalamine,MESA400
+Voriconazole,VORI50
+Psyllium,PSYL1W
+Furosemide,DEX50SY
+Mupirocin Cream 2%,BACT20
+Selegiline HCl,SELE5
+Ropinirole,ROPI1
+Morphine Su,MOR10L
+Ceftriaxone,CEFR250I
+Heparin Flush (100 units/ml),HEPF100I
+CycloSPORINE (Neoral) MODIFIED,NEOR100
+Risperidone,RISP025
+Sumatriptan Succinate,SUMA6V
+CycloSPORINE (Neoral) MODIFIED,NEOR100L
+Renagel,SEVE400
+Exelon,RIVA3
+Quetiapine extended-release,QUET200XR
+Metoprolol,METOSUSP
+Carbamazepine ER,CARB300ER
+HydrOXYzine HCl,HYDX10
+Theophylline (Slo-bid) Capsule,SLO300
+Valtrex,VALA500
+Rivastigmine,RIVA3
+Fluoxetine,PROZ20L
+Lanthanum,LANT750
+Dextrose 20% in Water (D20W),D20W500I
+loper,LOPE2
+Mitomycin,MITO20I
+Theophylline SR,THEO100
+Rivastigmine,RIVA15
+Theophylline SR,SLO300
+Phenylephrine  0.05% Nasal Spray,PHEN5N
+PrednisoLONE Oral Solution,NEOPRED2
+NEO*PO*Fluconazole,NEOFLUC10L
+Morphine SR (MS Contin),MSCO100
+Heparin Flush CVL  (100 units/ml) ,HEPF100I
+Thrombin,THRO1T
+HYDROmorphone P.F.,HYDR2PF
+Cyclosporine,CYCL0.05ES
+Lidocaine 1% (Buffered),LIDO1BUFF
+Daclizumab,DACL25I
+Potassium Acetate,KACE200I
+Rosuvastatin Calcium,ROSU10
+Carbidopa-Levodopa (25-250),SINE25250
+NEO*PO*Nystatin Suspension,NEONYST5L
+NEO*PO*Fluconazole,NEOFLUC
+Bethanechol,BETH25
+Aveeno Bath,AVEENOC
+Misoprostol,MISO200
+Hemabate,CARB250I
+Oxytocin,OXYT10I
+Methylergonovine Maleate,METE2I
+Methylergonovine Maleate,METH2
+MultiVitamins,MULT5L
+Acular,KETO.5ES
+NEO*IV*Penicillin G Potassium,NPENI
+Pyridostigmine Bromide,PYRI60
+Sod Citrate-Citric Acid,BICI30L
+triaz,TRIA25
+Nystatin-Triamcinolone,MYCO2C
+Theophylline (Oral Solution),THEO80LQ
+Erythromycin,ERYT2S
+Fluocinonide 0.05% Cream,LIDX15C
+Morphine Sulfate,MORP4-10
+0.83% Sodium Chloride,NICABAGSODCHL
+NiCARdipine IV,NICA40PM
+Syringe (Intraperitoneal),SYRIP10I
+Exelon,RIVA15
+Quinapril,QUIN10
+Imipramine HCl,IMIP50
+Nystatin-Triamcinolone,MYCOC
+Mexiletine,MEXI200
+Aspirin,ASPIDESEN
+Carbidopa-Levodopa (10-100),SINE10100
+Bupivacaine 0.25%-Epinephrine,BUPIWE25I
+NEO*PR*Acetaminophen,ACET40
+0.45 % Sodium Chloride,0.45NS3000I
+Latanoprost,LATA5OS
+Cimetidine,CIME400
+Megestrol,MEGE400L
+Lidocaine 1%,LIDO130I
+Carafate,CARA1
+Simvastatin,SIMVIND
+Nabumetone,NABU750
+Naphazoline-Antazoline,VASOAES
+Colestipol,COLE1
+Verapamil HCl,VERA5I
+Diprivan,PROP500I
+Insulin,INLHI
+NEO*PO*Digoxin Elixer,DIG5P
+NEO*PO*Spironolactone,NEOSPIR
+Epinephrine-Sodium Chloride,EPIS10I
+GlycoLax,GLYC17
+Doxorubicin HCl Liposomal,DOXO20I
+Heparin (Porcine),HEP10I
+Calcitriol,CALC1I
+Colesevelam,COLE625
+Zofran,ONDA8ODT
+Ondansetron,ZOFR4
+Verapamil,VERA40
+Floxin,OFLO0.3E
+Loperamide HCl,LOPE1/7.5L
+Benicar,OLME20
+Talc,TALC5
+Sulfameth/Trimethoprim,BACT20L
+poly,POLY15O
+Pred Forte,PRED1ES
+Hemorrhoidal Suppository,HEMOSUPP
+Acyclovir Sodium,ACYC1000I
+Piperacillin-Tazobactam Na,ZOSY3I
+Fentanyl,FENT2.550
+Digoxin Immune Fab,DXIG40I
+Desmopressin Acetate,DDAV400I
+Mumps Skin Test,MUMPS
+Candida Skin Test,CANDIDA
+Heparin CRRT,HEP10I
+Amantadine,AMAN100
+Loperamide HCl,LOPE2L
+Loperamide HCl,LOPE1L
+Cyanide Antidote,CYAN1KIT
+Albumin 5% (25 g),ALBU25100I
+Dronedarone,DRON400
+Betoptic S,BETA25ES
+Levobunolol 0.25%,BETA25D
+Sildenafil Citrate,SILD50
+Alphagan P,ALPH0.15O
+Promethazine HCl,PROM125
+Sulfamethoxazole-Trimethoprim,BACT10I
+Pregabalin,PREG5L
+Nifedipine,ADAL60
+ALPRAZolam,ALPR25
+Ibuprofen Suspension,IBUP200L
+Keppra,LEVE500
+Levobunolol 0.5%,LEVO5ES
+Pilocarpine 4%,PILO4ES
+Neomycin-Polymyxin-Bacitracin Ophth. Oint,NEOSEO
+Flecainide Acetate,FLEC50
+Pregabalin,PREG25
+Advair Diskus,ADVA250IH
+dilantin ,PHEN50
+dilantin,PHEN50
+dilantin,PHENY100L
+sodium bicarbonate,NABC50I
+Multivitamins,MVITH
+guai,GUAI10
+Guaifenesin ER,GUAI600T
+Claritin,LORA10
+VinCRIStine (Oncovin),VINC2I
+Raloxifene HCl,RALO60
+BuPROPion,BUPR150
+KCl,KCL40I
+Verapamil HCl,VERA240SR
+Lansoprazole,LANS30ST
+Delavirdine Mesylate,DELA100
+Charcoal-Sorbitol,CHAR50L
+Hydrocortisone,HC100I
+Sensipar,CINA30
+NS (Mini Bag Plus),NS/MBP50I
+Domeboro,DOMEPKT
+Phenazopyridine HCl,PHEN200
+Mexiletine HCl,MEXI200
+Procainamide SR,PROC750SR
+MethylPREDNISolone Sodium Succ,MPRED1I
+Lidocaine Jelly ,LIDO2/5J
+Procainamide HCl,PROC500
+Nicardipine HCl,NICA20
+Nicardipine HCl,NICA30
+Amaryl,GLIM2
+Cyclosporine Modified (Neoral),NEOR25
+Cyclosporine Modified (Neoral),NEOR100
+Zoledronic Acid,ZOLE4I
+Simulect,SIMU20I
+Quinapril,QUIN40
+BACTR,BACT20L
+BACTR,BACTDS
+Ergocalciferol,ERGO400T
+Levobunolol Hcl 0.5%,LEVO5ES
+Megestr,MEGE800L
+Cyclosporine Modified (Neoral),NEOR100L
+Chlordiazepoxide HCl,CHLOR5
+Dextrose 20% in Water (D20W),D20W1000I
+Sodium Polystyrene Sulfonate,KAYEX50R
+Femara,LETR2.5
+Trastuzumab,HER440I
+Alteplase,ALTE2I
+Irbesartan,IRBE150
+Vitamin A,VITA25
+Imipramine HCl,IMIP10
+Mupirocin Ointment 2%,BACT20
+Fluphenazine,FLUP25
+Fluphenazine,FLUP2.5I
+Propranolol HCl,PROPLA80
+Acyclovir,ACYC200L
+Sulfameth/Trimethoprim,BACTDS
+Glucovance (5mg-500mg),GLU5/500
+Albuterol,ALBU2
+Lacri-Lube Oint,LACR7O
+Thrombin,THRO10T
+Demeclocycline,DEME150
+Vancomycin,VANC1I
+Sulfadiazine,SULFA500
+Razadyne,GALA4
+Neomycin-Polymyxin-HC (Otic),CORTOTIC
+Dipyridamole,DIPY25
+Nelfinavir Mesylate,NELF250
+Rofecoxib,ROFE25
+Albumin ,ALBU25
+Ampicillin,AMPI250
+5% Dextrose (EXCEL BAG),D5W250E
+Bacitracin Ophthalmic oint,BACIEO
+Heparin CRRT,HEPF100I
+Lidocaine 2%,LIDO210AM
+Prochlorperazine Maleate,PROC10
+Carboplatin,CARB450I
+Famotidine (IV),PEPC20I
+Bacitracin  ,BACIEO
+Fluticasone-Salmeterol Diskus (500/50) ,ADVA500/50
+Benzoyl Peroxide Gel 10%,BENZ10O
+artif,ARTTS
+Bromocriptine Mesylate,BROM25
+Heparin,HEPA10MUI
+Hydrocortisone Na Succinate,HC500I
+Terazosin,TERAZ5
+Emtricitabine-Tenofovir (Truvada),TRUV200/300
+PredniSONE,PRED5L
+naltrexone,NALT50
+cilostazol,CILOS100
+Methadone HCl,METH10I
+Albuterol,ALBU5H
+Sodium Bicarbonate,NABC50IV
+Zofran,DOLA12.5I
+Drotrecogin Alfa (Xigris),DROT20I
+*NF* Famciclovir,FAMC500
+Boniva,IBAN3I
+Phenobarbital,PHEN30
+NEO*IV*CeftazIDIME,NCEFZIV
+Amoxicillin Oral Susp.,AMOX250L
+Morphine ,MSCO30
+Hydromorphone,HYD25PCA
+NS,NS25
+Galantamine Hydrobromide,GALA4
+Ranolazine,RANOL500
+Calcium Gluconate,CALGLUCNEO
+Liothyronine Sodium,LIOT25
+1/4 NS,1/4NS100
+Pramipexole Dihydrochloride,PRAM1
+Lithium Citrate (Syrup),LITHI300L
+Lidocaine 1% P.F.,LIDOPF130I
+Talc (Sterile),TALC5
+Geodon,GEOD20
+Carbidopa-Levodopa CR (50-200),SINC50200
+Doxepin HCl,DOXE25
+Olanzapine (Disintegrating Tablet),OLAN10ODT
+SulfaSALAzine,SULF500
+Sodium Chloride 0.45% Flush,NACL0.45FLUSH
+Methylphenidate,RITA5
+Methylprednisolone Acetate,MPRED80I
+HYDROmorphone,HYDRO4I
+Levoxyl,LEVOX125
+GlyBURIDE,GLYB1.25
+Testosterone 2.5mg Patch,TEST25P
+Effexor XR,VENL75XR
+HYDROmorphone,HYD50PCA
+Lorazepam,LORA2PB
+Paclitaxel,TAXO30I
+HYDROmorphone-HP,DILHP50I
+NS (Excel),EXCELNS500
+Monopril,FOSI20
+Acetaminophen (Childrens),APAP80R
+Monopril,FOSI10
+Alcohol Dehydrated,ETOH98I
+Ketoconazole,KETO200
+Tetanus Immune Globulin,TETA250I
+Cilostazol,CILL50
+Casodex,BICA50
+Kayexalate,KAYE15L
+Bupropion,BUPR75
+ChlorproMAZINE,THOR10
+Omeprazole,OMEP40
+Kaolin/Pectin,KAOP180L
+TOLVAPTAN,TOLV30
+Tolvaptan,TOLV30
+Anusol-HC Suppository,ANHC25R
+Terbutaline Sulfate,TERB1I
+Niacin,NICA500
+Niacin,NIAC500
+*NF* Niacin,NIAC500
+*NF* Niacin,NIAC500SR
+Niacin ,NIAC500SR
+Rocuronium Bromide,ROCU50I
+Isosorbide Mononitrate,ISMO10
+Clindamycin,CLIN75L
+Bactroban,BACT2C
+Diphenoxylate HCl/Atrop Sulf,LOMO
+Risperidone,RISP2
+Lidocaine 1% P.f.,LIDOPF130I
+Lidocaine 1% P.f.,LIDO1I
+Lithium Carbonate,LITHOBID
+Heparin,PRED5
+Hydrocortisone Sod Succinate,HYDRO100I
+Amantadine Syrup,AMANT50MG
+Risperidone Oral Solution,RIS1L
+Divalproex (DELayed Release),DIVA250
+Divalproex (DELayed Release),DIVA500
+Rifampin,RIFANEO60L
+GLARGINE,GLAR100I
+NEO*PO*Morphine,NEOMOR5
+Pyridostigmine Bromide,PYRI10I
+charcoal,CHAR50L
+Medium Chain Triglycerides,MCT30
+NEO*IV*Metoclopramide,NEOMETO
+NEO*IV*Metoclopramide,NEOMET30L
+Sumatriptan Succinate,SUMA50
+Isoproterenol,ISOP1I
+Epinephrine Inhalation,EPI30H
+Chloral Hydrate,CHLO500L
+Tolnaftate 1% Cream,TOL1C
+Lactic Acid 12% Lotion,LACT12T
+Moxifloxacin,MOXI400
+Prochlorperazine Edisylate,PROC5L
+Vancomycin Enema,VANC250PR
+Nitazoxanide,NITA500
+Ropinirole,ROPI25
+Docusate ,DOCU100L
+Docusate ,DOCU100
+Risperidone,RIS1L
+Fosinopril,FOSI20
+Fosinopril,FOSI10
+Metoprolol Tartrate,METOSUSP10L
+Metoprolol Tartrate,METOSUSP
+Morphine Sulfate,MORP15I
+Valproic Acid,VALP250
+Risperidone,RISP1L
+Carisoprodol,CARI350
+Methylprednisolone ACETATE,MPRED40I
+Albumin 5% (25 g),ALBU5250
+Lithium Carbonate CR (Eskalith),LITH450SA
+Hydromorphone PCA,HYD12.5PCA
+Bortezomib,BORT3.5I
+Chloramphenicol Na Succ,CHO1I
+Prochlorperazine,PROC5L
+Mesalamine Enema,MESA4R
+sodium,SODI65S
+Gabapentin (Liquid),GABA250L
+Hyoscyamine SO4 (Time Release),HYOS.375
+hyosc,HYOS.375
+Fluconazole,FLUC100L
+NEO*IV*Ceftazidime,NCEFZIV
+Pyridoxine HCl,PYRI25
+NEO*PO*Ergocalciferol,NEOERGO20L
+Theophylline (Slo-bid) Capsule,SLOBID
+Ziprasidone,GEOD80
+Divalproex (EXTended Release),DEPA500ER
+EPINEPHrine,EPI1I
+Desmopressin Nasal,DDAV1N
+Methylprednisolone,METH8
+NEO*IV*Furosemide,NFURON
+Patient Specific Narc Drip,PSND
+Nystatin,NYSTC
+Docusate Sodium-Casanthranol,PERI
+DDAVP,DESM0.1
+Tobramycin-Dexamethasone Ophth Susp,TBDX2.5O
+Glyburide/Metformin (1.25mg-250mg),GLU125/250
+Soln.,PANCSOLN
+modafinil,MODA100
+Levocarnitine,LCARN330
+Acarbose,ACAR50
+Lidocaine 0.5%,LIEP550I
+Milrinone,PRIM1I
+Vitamin E,VITE100
+Viokase-8,VIOK
+HydrOXYzine,HYDX10
+Lidocaine,LIDO1/10I
+Metronidazole,METR500I
+Collagenase,STLTP
+Mupirocin Ointment 2%,BACT2022G
+Acetazolamide,ACE500
+Sulfameth/Trimethoprim SS,BACT20L
+Perphenazine,PERP5I
+Propylthiouracil,PROP50
+Nystatin (Topical),NYSTO
+Benzoyl Peroxide,BENZ2.5G
+Acetic Acid 0.25% Irrig. Soln,ACET25T
+DOPamine,DOPA400I
+Citrate Dextrose 3% (ACD-A) CRRT,ACDA500
+VinBLAStine (Velban),VINB10I
+Memantine HCl,MEMA5
+Morphine Sulfate (1-5mg),MORP1-5
+Oxycodone,OXYCO5L
+Colchicine,COLC1I
+Celebrex,CELE100
+Fluocinonide 0.05% Cream,LIDX60C
+Syringe (NS),NS60SYR
+Ketamine,KETA10050
+Povidone Iodine 1/2 Strength,BETAH1
+Erythromycin Base,ERYT250
+Insulin,INSULINCARB
+Metoclopramide HCl,METO10L
+Idarubicin HCl,IDAR10I
+Vancomycin ,VANC500I
+Risperidone Long Acting Injection,RISP25I
+Leuprolide Acetate,LEUP22.5I
+Metoclopramide HCl,METO10I
+Aromasin,EXEM25
+Dicyclomine,DICL10
+Diphenhydramine Hcl,DIPH25
+Morphine Sulfate (2-4mg),MORP2-4
+Hydrocortisone Oint 2.5%,HYDR25O
+Penicillin V Potassium,PENV250
+Lithium Carbonate SR,LITHOBID
+Mobic,MELO7.5
+Oxacillin Desensitization,OXACDESEN
+Epinephrin,EPI1I
+Lithium,LITHI300L
+Hepatitis B Immune Globulin (Bayhep B),BAYHEP.5I
+Zinc,ZINC220
+Azopt,BRIN1E
+Methotrexate Sodium,MTX50I
+multi,MULT5L
+cortisporin,CORTOTIC
+Azathioprine Sodium,AZA100I
+Mycophenolate Mofetil Suspension,MYCO500T
+ValGANCIclovir Suspension,VALGA450
+Hydromorphone HCl,HYDR2
+MetronidAZOLE Topical 1 % Gel,METR1G
+Chlorothiazide Sodium,CHL500PB
+Cyclosporine (Sandimmune),CSA50I
+Haloperidol,HALO2L
+NEO*IV*Chlorothiazide,NEOCHLORO
+Prochlorperazine Maleate,PROC5
+Flumazenil,FLUM1I
+Miacalcin,CALC2N
+Pyridoxine HCl,PYRI100
+Milk Of Magnesia,MOM30L
+Miconazole Nitrate 2% Vaginal Cream,MONI7C
+Bacitracin,BACICAP
+Polymyxin B Sulfate,POLYCAP
+Busulfan,BUSU60I
+Tobramycin,TOBR80I
+Amphotericin B Oral Solution,AMPOBORAL
+Metolazone,METL10
+Insulin NPH Human Recomb,INNHI
+Cyclosporine (Sandimmune),CSA100
+DEX,DEX50SY
+Hydrocortisone Val. Cream 0.2%,HYDR2/15C
+Rofecoxib,ROFE12.5
+Aspirin EC,ASA81
+Thiamine,THIA100I
+Paroxetine,PARO30
+Viracept,NELF625
+Sulfameth,BACT20L
+Phenylephrine 2.5 %,PHEN25ES
+Raloxifene,RALO60
+Iso-Osmotic Sodium Chloride,FLUCBASE
+Mesalamine (Rectal),MESA5S
+Heparin,HEPA30I
+Pneumococcal 23-Val P-Sac Vac,PNEU5I
+Mercaptopurine,MERC50
+Estrogens Conjugated,CONJ625V
+Loperamide,LOPER2L
+Lithium Carbonate,LITHI300L
+Alemtuzumab,ALEM10I
+*NF* Interferon Alfacon-1,INTE15I
+Fludarabine Phosphate,FLUD50I
+Propafenone HCl,PROP150
+Sulfame,BACT20L
+Sulfame,BACTSS
+Lithium ,LITHI300L
+Guaifenesin,GUAI10L
+MethylPREDNISolone Sodium Succ,MPREDDESEN
+potass,KCL20P
+Propranolol,PROP40
+Prevacid,LANS30
+Cromolyn Sodium,CROM800H
+Ephedrine Sulfate (Pressors),EPHE50I
+Bag,IVIGBAG
+Gammagard S/D,GAMM10I
+prevacid,LANS30
+*nf,CILOS100
+levo,LEVO150
+Povidone Iodine 1/4 Strength,BETAQL
+Lescol XL,FLUV20
+Protopic,TACR0.1O
+bact,BACT20L
+Morphine Sulfate IR,MOR10L
+cilo,CILOS100
+dibucaine,DIBU
+Dipyridamole,DIPY50
+*NF* Micafungin,MICA50I
+Dextroamphetamine,DEXE5
+Triamcinolone Acetonide 0.025% Cream,TRIAM.025/45C
+Azacitidine,AZAC100I
+Gemtuzumab Ozogamicin,GEMT5I
+Decitabine,DECI50I
+Urocit-K 10,UROC10
+Zelnorm,TEGA6
+Diphenhydramine HCl,DIPH125L
+Peppermint Oil,PEPP1
+Glimepiride,GLIM2
+Rifampin,RIFA150
+Lidocaine 2%,LIDO220I
+depak,VAL250L
+valproi,VAL250L
+Diclofenac Sodium,DICL25
+Ampicillin,AMP2I
+*NF* Alemtuzumab,ALEM10I
+NEO*IV*Amphotericin B,NAMP50N
+Piperacillin-Tazobactam,NEOZOSYN
+Nafcillin,NAFC1F
+Nafcillin,NAFC1I
+Amoxicillin,AUGM500
+Hydromorphone HCl,HYDR10I
+Epinephrine 1:1000,EPI30I
+Clonidine T,CLON2P
+Clonidine TTS 1 Patch,CLON2P
+econ,ECON1C
+Tobramycin Sulfate,TOBR12I
+Valproic Acid,VALP250L
+mul,MULT5L
+Bismuth Subsalicylate,PEPTOBIS
+MORPHINE,MOR10L
+tr,TRIA25
+Iron Dextran (Test Dose),IRON25I
+Iron Dextran Complex,IRON100I
+Octreotide Acetate,OCTR1000I
+Methad,METH1L
+tria,TRI125
+Imodium A-D,LOPE2L
+*nf,TRIA25
+Diphenoxylate-Atropine,LOMO10ML
+Procainamide HCl,PROC100I
+Procainamide HCl,DILT500I
+Imodium A-D,LOPE1/7.5L
+BACTRIM,BACT20L
+bismuth subsalicy,PEPT240L
+Ketorolac Tromethamine,KETO.5ES
+Lithium Carbonate,LITH450SA
+Megestrol Acetate,MEGE200L
+SulfaSALAzine_,SULF500
+multivit,MULT5L
+Heparin,COSO5ES
+Glyburide Prestab,GLYN3
+*NF* Irbesartan,IRBE150
+Perphenazine,PERP8
+Desipramine HCl,DESI50
+Humalog,HUMU100I
+HUMALOG INSULIN,HUMU100I
+Irinotecan HCl,CAMP200I
+Atropine Sulfate,ATRO4I
+Neutra-phos,NEUT
+Atorvastatin Study Med,ATORSTUDY
+Albendazole,ALBE200
+*NF* Allopurinol Sodium,ALLO500I
+Anzemet,DOLA100I
+Methadone HCl,METH25PCA
+Glyburide,GLYN3
+Repaglinide,REPA0.5
+Calcipotriene 0.005% Oint,TOCA5O
+Hepsera,ADEF10
+Amylase-Lipase-Protease,VIOK
+Amylase-Lipase-Protease,PANCEC
+Santyl,STLTP
+Vitamin D,ERGO8L
+Theophylline (Time Release),THEO400TR
+Alum Ammonium,alum454
+Flonase,FLUT16N
+Cephalexin Suspension,CEPH50L
+Heparin Flush (10 units/ml),HEP10UI
+Methylprednisolone Acetate,MPRED40I
+Lamivudine-Zidovudine,COMBTAB
+Proprano,PROP10
+Aspirin,ASA81EC
+Methadone,METH10L
+~<IND> Rituximab,RITU100IND
+Vancomycin Intrathecal,VANCOIT
+PFNS (Syringe),PFNS2MLSYR
+Pseudoephedrine,PSEU30
+Duragesic,FENT25P
+Duragesic,FENT100P
+Acetaminophen (Liquid),ACET325
+Defibrotide (IND),DEFI80I
+NS  W/  0.1% Albumin,NS0.1ALB250I
+Morphine Sulfate (Syringe),MORP2I
+Peppermint ,PEPP1
+Fluocinolone Acetonide 0.025% Cream,SNLR215C
+Lindane Lotion,LIND1S
+Nicardipine HCl,NICA2.5I
+Chlorpromazine,THOR25I
+Mexiletine,MEXI150
+PRILOSEC,OMEP20
+Ivermectin,INVE3
+Permethrin,PERM5C
+CARMOL 40,UREA10L
+Fentanyl Citrate,FENT100T
+~ <IND> Defibrotide,DEFI80I
+Pramipexole,PRAM125
+Darunavir,DARU600
+*NF* Budesonide,BUDE3
+Atazanavir,ATAZ200
+Defibrotide <IND>,DEFI80I
+Dexamethasone Sod Phos Ophth,DEXA1ES
+Morphine Sulfate (4-8mg),MORP4-8
+Carbamide Peroxide 6.5%,GLYO65OT
+Candida Albicans,CANDIDA
+Clonidine TTS 1 Patch,CLON3P
+Calcium Gluconate,MAGS1I
+Tamiflu,OSEL75
+Sargramostim,SARG500I
+*NF* Benzoyl Peroxide 5% Wash,BENZLIQ
+Guaifenesin-Dextromethorphan,DITU4L
+polysporin,POLYEO
+Cladribine,CLAD100I
+*nf,MOXI400
+Nicoderm CQ,NICO21P
+*NF* Moxifloxacin,MOXI400PM
+Fluphenazine,FLUP10
+Carbamazepine,CARB200L
+Kaolin-Pectin/Benadryl/Lido Visc.,KBL120L
+Budesonide,BUDE3
+Betamethasone Sodium Phos/Acet,BETA30I
+Bicalutamide,BICA50
+Moxifloxacin HCl,MOXI400
+Sargramostim,SARG250I
+Phenobarbital-Belladonna Alk,DONN162
+Nitroglycerin Patch,NTG15P
+Pioglitazone HCl,PIOG30
+Amylase/Lipase/Protease,VIOK
+Zofran,ONDA4ODT
+Insulin,INUHI
+LEXIPRO,ESCI10
+*NF* Levalbuterol Soln,LEVA0.63L
+Propafenone HCl,PROP225
+Zofran,ZOFR4
+Imipramine,IMIP25
+Itraconazole,ITRA10L
+Albumin 5% (25 g),ALBU25
+sodium bica,NABC50S
+Methylprednisolone,MPRED2
+Hepa,HEP10I
+Hepa,HEPA5I
+Hepar,HEPA30I
+Neo*Nasal*Sodium Chloride 0.9%,NEONS
+Heparin Flush (10 units/ml),HEPA100SYR
+LaMIVudine,LAMI150
+robit,GGAC5L
+Norepinephrine Bitartrate,ACET20/4I
+Rosuvastatin,ROSU20
+Malarone,MALA250/100
+Calcium Gluconate,CALG500
+ValGANCIclovir ,VALGA450
+Mycophenolate,MYCO500T
+Procardia XL,NIFXL60
+Cefazolin,CEFA5ML
+Verapamil,VERA180SR
+Montelukast Sodium,MONT5
+Micafungin,MICA50I
+Ethanol 70% Catheter DWELL (Tunneled Access Line),ETHAN70I
+Simvastatin or placebo,SIMVIND
+PER,PERIC15L
+Dilti,TIAZ180
+Anusol Suppository,ANUSOL
+NS,NS2000
+Heparin Flush Hickman (100 units/ml),HEPF100I
+Oxandrolone,OXAN25
+Terbutaline Sulfate,TERB5
+Pioglitazone,PIOG45
+Isosorbide Dinitrate SA,ISOS40SA
+Amitriptyline,AMIT25
+K-Lor,MICROK10
+potas,KCL20P
+Alteplase Recombinant,ALTE20I
+Amitriptyline HCl,AMIT100
+Bupropion (Sustained Release),BUPR100SR
+Vitamin D,VITD1000
+Penicillin G Potassium,PENGK5I
+ALPRAZolam,ALPR1
+Avapro,IRBE300
+bismuth subsalicy,PEPTOBIS
+Chlorpromazine HCl,THOR25I
+Methylnaltrexone,METH12I
+Pletal,CILL50
+hydromorphone,HYD12.5PCA
+Pyridoxine Hcl,PYRI100
+Cyanocobalamin,CYAN1000
+calcium,CALC500
+Chlordiazepoxide HCl,CHLO10
+Methylphenidate SR,METH20SR
+Disopyramide CR,DISO100CR
+Papaverine HCl,PAPA30I
+Betamethasone Sodium Phos/Acet,BETA12S
+Clindamycin,NCLINDIV
+Tasmar,TOLC100
+Desmoteplase Study Drug (*IND*),DESMOIND
+D12W,D12W250I
+Hydromorphone HCl,HYDM4
+ASPIR,ASA325
+ASPIR,ASA81
+NEO*PR*Acetaminophen,ACETSP
+ACD-A 3% Flush,ACDA2.5I
+Methenamine Mandelate,MEMA1
+D5W W 0.2% Albumin,D550.2ALB
+*NF* Nifedipine XL,NIFXL30
+Ketamine,KETA200I
+Propranolol LA,PROP120
+Cholecalciferol (Vitamin D3),ERGO400T
+Morphine Sulfate,MOR10L
+Critic-Aid Clear AF,CRIT6T
+WelChol,COLE625
+CefazoLIN,CEFA1I
+quiniDINE Gluconate E.R.,QUIG324
+Tranylcypromine Sulfate,TRAN10
+Fentanyl PCA,FEN2500PCA
+Divalproex Sodium ER,DIVA250ER
+Cilostazol,CILOS100
+Insulin Human NPH,INNHI
+Syringe (SW),SYRINGESW
+mult,MULT5L
+Folic ,FOLI5I
+Saquinavir (Fortovase),FORT200
+Saquinavir (Invirase) Cap,SAQUIN200
+Ritonavir/Lopinavir,KALETRA
+Donnatol,DONN162
+Carbamazepine,TEGR200
+NEO*PO*Midazolam,NEOMID2.5
+NEO*PO*Lorazepam Oral Concentrate,NEOLORAZL
+Metoclopramide,METO10PB
+Ritonavir/Lopinavir,KALE1L
+Digoxin,DIGO25L
+Insulin Regular Human (U-500),INSU500I
+TB Syringe,TBSYR
+Kaletra,KALETRA
+Nystatin-Triamcinolone Ointment,MYC30O
+Cefuroxime,CEFU250
+DiphenhydrAMINE HCl,DIPH125L
+Pulmicort,BUDE200H
+Nasonex,CROM40N
+Naproxen,NAPR375
+Silver Sulfadiazine,SILV1C
+DiCYCLOmine,DICL10
+Pyrazinamide,PYRA500
+Ceftazidime,CEFT1V
+NS (Intrathecal Bag),NS100IT
+Quinapril,QUIN5
+Medroxyprogesterone Acetate,MEDR25
+POTASSIUM CHLORIDE,MICROK10
+Lansoprazole ,LANS15L
+Aztreonam,AZTR2FB
+sodium bic,NABC50I
+Atropine Sulfate Ophth 1%,ATRO1/15ES
+Tropicamide 1 %,TROP5ES
+Lacri-Lube,DURA
+Epinephrine HCl,EPI1I
+Tobramycin,TOBR300H
+Torsemide,TORS5
+Insulin Aspart *NF* (for Insulin PUMP),NOVO100P
+Bethanechol,BETH5
+Diazepam,DIAZE5I
+OxycoDONE (Immediate Release) ,OXYIR15
+multivitamin,MULT5L
+Testosterone 5mg Patch,TEST5P
+Metronidazole Gel 0.75%-vaginal,METRVAG70G
+Divalproex Sodium,DIVA250ER
+Ceftazidime,CEF2I
+CeftazIDIME,CEFT2I
+Hydrocortisone Oint 1%,HYDR1O
+micon,MICO2C
+Vecuronium Bromide,VECU20I
+Betamethasone Acet & Sod Phos,BETA30I
+Mirtazapine,MIRT15SOL
+Trimethobenzamide HCl,TRIM200R
+Trimethobenzamide HCl,TRIM100
+Cortisporin Otic Susp,CORTOTIC
+cilos,CILOS100
+thera,MULT5L
+PlasmaLyte,PLAS1000I
+Vancomycin Enema,VANCOPR
+Vancomycin,VANCOPR
+Pneumococcal 7-Valent,PREV.5I
+Morphine Sulfate SR,MSCO60
+Gentamicin Sulf. Ophth. Soln,GENT3ES
+Leflunomide,LEFL10
+Disopyramide Phosphate,DISO100
+Disopyramide Phosphate,DISO150
+Trimethoprim,TRMP100
+NEO*IV*Hydrocortisone,HYDRNEO
+Neo*PO*Azithromycin,AZIT100L
+NEO*PO*Hydrocortisone Sod Succinate,HYDRNEO10L
+Ceftriaxone Sodium,CEFR1I
+NEO*IV*Levothyroxine,NEOLEVO
+Dextrose 5%,D5W250
+Pramoxine,PRAM1L
+hyo,LEVS125
+Risperidone,RISPM0.5
+Cocaine HCl,COCA4T
+Aspirin Desensitization (Angioedema),ASA81
+Aspirin Desensitization (Angioedema),ASA325
+Physostigmine Salicylate,PHYS2I
+Aztreonam,AZTR1000I
+Danazol,DANA200
+NEO*PO*Potassium Phosphate,NEOPHOS2
+NEO*PO*Calcium Carbonate Suspension,NEOCACARB
+Sodium Phosphate,NAPHOS3PO
+Oxacillin,OXA2I
+Pilocarpine 2%,PILO2ES
+Trisodium Citrate 4% Replacement Soln,CVVH3556I
+HYDROmorphone (Dilaudid),HYDR20/100NS
+Dipivefrin HCl 0.1% ,DIPI1ES
+Humulin 70/30,IN73HI
+Acetazolamide,ACE500I
+Blistex Lip Ointment,BLISTEX
+Repaglinide,REPA2
+Ranitidine HCl,RANI150L
+sevelamer HYDROCHLORIDE,SEVE800
+Lidocaine 4%,LIDO45I
+Amoxicillin-Clavulanate Susp.,AUGMSUSP
+Multiv,MULT5L
+Tricor,FENO54
+GELCLAIR,GELCLAIR
+Magnesium Sulfate,MAGMEQ
+Penicillin G K Desensitization,PENDESEN
+Quinine Sulfate,QUIN324
+Thalidomide,THAL50
+METOCLOPRAMIDE,METO10
+Dextromethorphan Poly Complex,DEXT5L
+Diclofenac Sodium DR,DICL25
+Dronabinol,DRON10
+Adderall XR,ADDE20XR
+Pancrelipase 5000,PANC5000
+Cabergoline,CABE0.5
+Toprol XL,TOPR100
+Methadon,METH10L
+Dapsone,DAPS25
+Didanosine EC,DIDA200EC
+Flecainide Acetate,FLEC100
+OLANZapine,OLAN5
+*NF* Esomeprazole,ESOM20
+Clindamycin,CLIN300PM
+OLANZapine,OLAN2.5
+Astelin,AZEL137N
+acetylc,ACET20/4I
+Akwa Tears,ARTI3.5O
+Famvir,FAMC500
+Triazolam,TRIA25
+acetylc,MUCOM20
+Sodium Polystyrene Sulfonate,KAYE15P
+MAGNESIUM OXIDE,MAGN400
+NEO*IV*CefazoLIN,CEFANEO
+NEO*PR*Acetaminophen,ACET120R
+nifed,ADAL60
+*NF* Fenofibrate,FENO48
+Clopidogrel,CLOP300
+Betamethasone Valerate 0.1% Cream,BETAVAL0.1/15C
+Diltiazem,DILT125I
+Propoxyphene HCl,DARV65
+Fluocinolone Acetonide 0.01% Solution,SNLR160T
+Pramosone,PRAM1C
+PleTAL,CILL50
+Pancrease MT 16,PANC16
+Cortrosyn,CORTIND
+Hydrocortisone Study Drug (*IND*),HYDRIND
+Apraclonidine 0.5%,APRA5OS
+H,HEP1I
+Streptomycin Sulfate,STRE1I
+Cyclosporine,CSA50I
+simvastatin or placebo,SIMVIND
+Venlafaxine,VENL375XR
+Peppermi,PEPP1
+Fluticasone-Salmeterol,ADVA500/50
+Famotidine,FAMO20I
+Hydrocodone-Acetaminophen (5mg-500mg,VICODIN
+Pramipexole,PRAM..5
+Pramipexole,PRAM1
+Pramipexole,PRAM.25
+aspirin,ASA325
+aspirin,ASA81
+PrednisoLONE Acetate 0.12% Ophth. Susp.,PRED125ES
+Flutamide,FLUT1C
+*NF* Fenoldopam Mesylate,FELO20I
+Nefazodone HCl,NEFA100
+Aspirin Desensitization (Angioedema),ASA81EC
+Diltiazem,TIAZ240
+Mann,MANN25I
+Dexamethasone,DEXA60L
+Tacrolimus,TACR0.1O
+heparin,HEP10I
+Alum-Mag Hydroxide-Simethicone,MAALX30L
+ASPIRIN,ASA81
+Progesterone,PROG100
+Flovent 110mcg,FLUT110H
+Methadone,METH1L
+Methadon,METH1L
+Pramipexole Dihydrochloride,PRAM.25
+Carteolol 1% Ophth Soln,CART1ES
+Albumin,ALBU5250
+Artificial Tears Preserv. Free,ARTTS
+Selenium Sulfide,SEL25T
+Tacrolimus Suspension,TACR1
+Alteplase Recombinant,ALTE50I
+NEO*PO*Ca Glubionate 23mg Ca/ml,NEOCAL
+Nitrofurantoin (Macrodantin),NITR100
+Isosorbide Dinitrate,ISOS5SL
+Nystatin Powder,NYST100P
+xal,LATA5OS
+Phenylephrine  0.5% Nasal Spray,PHEN5N
+Fluconazole,FLUC200SM
+Mycophenolate Mofetil,MYCO500SM
+PredniSONE,PRED5SM
+Pantoprazole,PANT40SM
+Sulfameth/Trimethoprim SS,BACTSSSM
+Tacrolimus,TACR1SM
+Interferon Alfacon-1,INTE15I
+Transplant Self Medication Program,TSMP
+ganciclovir 500 mgor placebo  cap,GANCIND
+maribavir 100 mg or placebo tab,MARIIND
+acyclovir 400 mg or placebo,ACYCIND
+oxymeta,OXYM15
+Tacroli,TACR1SM
+morph,MOR10L
+Pantoprazole Sodium,PANT40
+Muro 128,MURO5O
+ofloxacin,OFLO0.3ES
+CefTAZidime,CEFT1V
+Prazosin HCl,PRAZ5
+Liothyronine Sodium,LIOT50
+Derma-Smoothe/FS Scalp Oil,FLUO0.01
+Entocort EC,BUDE3
+Levalbuterol Neb,LEVA0.63L
+Cetirizine-Pseudoephedrine,CETI10
+acet,ACET650L
+acet,ACET325
+Clindamycin Solution,CLIN300L
+fluoc,FLUO0.01
+nutra,UREA10L
+Piperacillin,PIPE3I
+Scopolamine 0.25% Ophth Soln,SCOP.25ES
+Zaroxolyn,METL5
+D5W,MORP250D5W
+Morphine Sulfate,MORP250PM
+Neoral,NEOR100L
+Dexamethasone,DEXA1L
+*NF* Nafcillin Sodium,NAFC2F
+Advair Diskus,ADVA100/50H
+Amoxicillin-Clavulanic Acid,AUGMSUSP
+cyclo,NEOR100
+Pamidronate,PAMI90I
+Clobetasol Propionate 0.05% Cream,CLOB.05O30
+*NF* Guaifenesin LA,GUAI600T
+Nalbuphine HCl,NALB10I
+Bumetanide,SYRG1
+NS Syringe (Intrapleural),NS50SYRPL
+Alteplase,ALTE20I
+Neo*IV*MetronidAZOLE,nmetroni
+Hydromorphone,HYDR3R
+vitamin,VITBC1
+Ascorbic Acid (Liquid),ASCO500L
+Amoxicillin-Clavulanic Acid,AUGM250
+Doripenem *NF*,DORI500I
+Fluconazole,FLUC200SYR
+Valproic Acid,DIVA250
+diltia,TIAZ120
+Quinidine Gluconate E.R.,QUIG324
+Multi,MVI
+Cidofovir 0.25% Oral Soln,CIDO0.25S
+Ascorbic Acid,ASCO250I
+HYDROmorphone-HP,HYDR500I
+Fondaparinux,FOND2.5I
+Colistin,COLI150I
+Multivitamin IV (Without Vit. K),MVINK10I
+bactri,BACT20L
+bactri,BACTSS
+percocet,PERC
+Sulindac,SULI200
+Cytarabine Liposome,CYTA50I
+Morphine Sulfate,MORP2000I
+Augmentin Suspension,AUGM875
+DiphenhydrAMINE,DIPH125L
+*NF* Quinine Sulfate,QUIN260
+Adderall,ADDE5
+Entecavir,ENTE1
+Fenofibrate,FENO145
+Gleevec,IMAT400
+Amoxicillin-Clavulanate Susp,NEOAUGM50S
+VALTREX,VALA500
+Indinavir Sulfate,INDI400
+Mexiletine HCl,MEXI250
+Carbamazepine,CARB100T
+Travatan Z,TRAV004OS
+diltiaz,TIAZ240
+rosuvastatin,ROSU5
+Tizanidine HCl,TIZA4
+Digoxin Elixer,DIG5P
+Sulfacetamide-Prednisolone Ophth. Oint.,SULF10EO
+Sulfacetamide 10% Ophth Soln.,BLEP10ES
+Simvastatin 40 mg or Placebo,SIMVIND
+Lopinavir-Ritonavir,KALE200/50
+pramipexole,PRAM1
+Oseltamivir,OSEL30
+*NF* Fenoldopam Mesylate,FENO10I
+Tolcapone,TOLC100
+Piroxicam,PIRO20
+Albumin 5% (12.5g / 250mL),ALBU5500
+Sinemet,SINM25100
+Actonel,RISE35
+Nitrofurantoin,NITR100
+Methocarbamol,METC750
+Oxycodone Liquid,OXYC5
+Insulin Lispro 75/25,HUMA75/25I
+LaMIVudine-Zidovudine (Combivir),COMBTAB
+Nortriptyline,NORT10L
+Ferrous Gluconate,FERR300L
+NEO*PO*Zidovudine Syrup,ZDVLIQ
+Insulin Human 70/30,IN73HI
+Megestrol Oral Soln,MEGE800L
+Propranolol LA,PROP60
+Moexipril,MOEX15
+Ketamine HCl,KETA100SYR
+Hydrocortisone Acetate Suppository,ANHC25R
+Thyroid,THYR60
+Thyroid,THYR120
+Calcitonin Salmon Nasal,CALC2N
+Gentamicin ,GENTFORT
+Dermagran Ointment,DERMON
+Gentamic,GENTFORT
+Gentamicin Sulf. Ophth. Soln,GENTFORT
+Gentamicin,GENTFORT
+Acyclovir,ACY5O
+Ketamine HCl,KETA5I
+Guaifenesin,GUAI600
+Divalproex (EXTended Release),DIVA250ER
+Nateglinide,NATE60
+Methadone HCl,METH50L
+triazolam,TRIA25
+Tacrolimus,TACR0.5SM
+Cyclosporine (Sandimmune),CSA100L
+ValGANCIclovir,VALG450SM
+Verapamil HCl,VERA180SR
+Disopyramide CR,DISO150CR
+Cyclosporine (Sandimmune),CSA25
+ValGANCIclovir,VALG50L
+Trimethobenzamide HCl,TRIM100I
+Minocycline HCl,MINO50
+Multiple Vitamins Liq.,MULT5L
+Testosterone 2.5,TEST25P
+Testosterone ,TEST25P
+Risperidone Oral Solution,RISP05
+Phenelzine Sulfate,PHEN15
+Clindamycin Suspension,CLIN75L
+Bupropion HCl,BUPR150
+Furosemide,FURO10L
+*NF* Triazolam,TRIA25
+Lidocaine 1%,LIDOPF130I
+Zyrtec,CETI10
+Isosorbide Dinitrate,ISOS2.5SL
+Albuterol 0.083% Neb Soln,ALBU5H
+Acamprosate,ACAM333
+Desmoteplase or Placebo,DESMIND2
+Ketamine,KETA100SYR
+Albuterol 0.5%,ALBU5H
+Doxercalciferol,DOX2.5
+CefTAZidime,CEFT2I
+Colistimethate Sodium,COLI150I
+HYDROmorphone,HYD25PCA
+Afrin,OXYM15
+Sulfa,BACT20L
+Piperacillin Sodium,PIPE3I
+Albuterol Sulfate,ALBU3H
+SODIUM,NABC50I
+NEO*PO*Levothyroxine Suspension,NEOLEVO5
+NEO*PO*Levothyroxine Suspension,LEVO25
+methylphenidate SR ,METH20SR
+Doxercalciferol,DOXE0.5
+Neoral,NEOR100
+Neoral,NEOR25
+Avonex,IFBETA30I
+NEO*IV*Ceftriaxone,NCEFTI
+Ampicillin,AMPI250L
+Ofloxacin (Ophth),OFLO0.3ES
+Reminyl,GALA4
+Multivitamin,MULT5L
+Zosyn Desensitization,ZOSYNDESEN
+Colestipol HCl,COLE1
+Moxifloxacin,MOXI0.5ES
+Vigamox,MOXI0.5ES
+Doxepin HCl,DOXE50
+Amoxicillin-Clavulanic Acid,AUGM500L
+Hexavitamin,MVI
+Abacavir,ABAC20S
+Alprostadil,ALPRNEO
+Epin,EPI1I
+Donnatol,BELL5L
+Januvia,SITA100
+Famvir,FAMC250
+Varicella Virus Vaccine,VARI1I
+Betaxolol Ophth Susp  0.25%,BETA25ES
+NEO*PO*Ergocalciferol,ERGONEO
+Spiriva with HandiHaler,TIOT
+Nitrofurantoin,NITR25
+Nitrofurantoin,NITR50
+Lidocaine 2%/Epinephrine,LIDEPF220I
+Levothyroxine Sodium,LEVO100I
+Carbamazepine Suspension,CARB200L
+valpro,VAL250L
+Minocycline HCl,MINO100
+Morphine ,MORPCONC
+valproate,VAL250L
+insulin,GLAR100I
+LANTUS,GLAR100I
+Fluorouracil,5FU500I
+Dakins 1/2 Strength,DAKINHS480L
+Dakins,DAKINQS
+Provigil,MODA200
+Zidovudine,RETR200I
+Methylprednisolone Sodium Succ,MPRED1I
+CefTRIAXone,CEFR250I
+Valproic Acid,DIVA125
+Valproic Acid,VAP500I
+Sodium Chloride,SODI4I
+Halcion,TRIA25
+Glycopyrrolate,GLYC1
+Tropicamide 0.5%,TROP5ES
+Fluphenazine,FLUP1
+Minocycline HCl,MINO100I
+Carbamazepine Suspension,CARB200
+NEO*PO*Ursodiol,NEOURS
+Glucagon,GLUC1000I
+*NF* Diazoxide Suspension,DIAZ50L
+Norepinephrine Bitartrate,NORE1600SYR
+Miconazole Nitrate Vaginal,MICODP
+Acthar H.P.,ACGEL80I
+Syringe (NS),SYRINGE60NS
+Fat Emulsion 10%,INTR10/250I
+Corticotropin Gel,ACGEL80I
+MULTI,MULT5L
+VIOKAS,VIOK
+Octreotide Acetate,OCTR20I
+Namenda,MEMA10
+Propranolol HCl,PROP80
+valgan,VALGA450
+Haloperidol  ,HALD5I
+Wellbutrin XL,BUPR150XL
+SulfaSALAzine DR,SULF500EC
+Zelnorm,TEGA2
+Paroxetine HCl,PARO12.5CR
+Propantheline Bromide,PROP15
+Heparin lock,HEP1I
+Epinephrine 1:1000,EPIPEN0.3I
+Mobic,MOLI5
+Vancomycin Desensitization,VANCODESEN
+0.9% Sodium Chloride,GENTBASE1
+Paroxetine HCl,PARO10L
+NEO*PO*Lorazepam Oral Concentrate,LORA5L
+guai,GUAI600T
+Singulair,MONT10
+Lidocaine 2%,LIEP220I
+NS Epidural Bag,EPIBAGH10
+Mitoxantrone HCl,MITX20I
+Fluconazole,NEOFLUCIV
+CVVH Citrated,CVVH3556I
+Megestrol,MEGE800L
+Multivitamins ,MVITH
+Hyoscyamine,HYOS.375
+NEO*PO*Lorazepam Oral Concentrate,LORA2I
+*NF* Rocuronium Bromide,ROCU50I
+Zemuron,ROCU50I
+Clonidine HCl,CLON1P
+Syringe (Neonatal) *D7.5W*,NEOSYRD7.5W
+Ritonavir,RITO80L
+Zidovudine,ZIDO10L
+Estrogens Conjugated,ESTR125
+Darunavir,DARU400
+DAUNOrubicin Citrate Liposomal,DAU50I
+CISplatin,CISP50I
+Nexium,NEWMED
+Bactrim SS,BACTSS
+Aspirin EC,ASAB325
+Procardia XL,NIFXL30
+Hydroxyzine HCl,HYDX50
+Methylprednisolone,MPRED16
+Ondansetron Hcl,ONDAN4I
+Diphenhydramine Liquid,DIPH2.5L
+Nitrofurantoin Suspension,NITR30L
+Tucks Pads,TUCKSPADS
+Sulfazine EC,SULF500EC
+Clofarabine,CLOF20I
+*NF* Collagenase Oint,STLTP
+Morphine Sulfate ,MORPCONC
+Neomycin-Polymyxin-Bacitracin,NEOSEO
+Acetamin,ACET650L
+Acetamin,ACET325
+Codeine,CODE30
+Dilantin Infatabs,PHEN50
+Calcium Acetate/Al Sulfate,DOMEPKT
+Abacavir Sulfate,ABAC20S
+Zebeta,BISO5
+multivi,MULT5L
+Celecoxib,CELE100
+Metamucil Smooth Texture,METAMOR
+albuterol,ALBU17H
+Procainamide HCl,PROC500SR
+Aspir,ASA81
+Paromomycin Sulfate,PARO250
+ACCUZYME,PAPA30O
+Aspi,ASA325
+Aspi,ASA81
+triazol,TRIA25
+Lidocaine ,LIDO2/5J
+Amoxicillin,AUGM250
+Tricor,FENO48
+Morphine Sulfate,MORP10R
+Acetaminophen ,ACET650R
+Acetaminophen ,ACET650L
+Accuzyme,PAPA30O
+D30W,D30W250I
+Lac-Hydrin,LACT12T
+Elmiron,PENT100C
+MethylPHENIDATE (Ritalin),RITA5
+Prilosec,OMEP40
+Dopamine,DOPA200I
+Guaifenesin,GUAISF120L
+CGT003-03 E2F Decoy,DECOYIND
+Neomycin/Polymyxin B Sulfate,NEOS1IRR
+URSO Forte,URSO250
+Voltaren,DICL1ES
+Fluconazole,FLUC400L
+valgan,VALG50L
+*NF* Miralax,MIRA17
+lidocaine,LIDO20L
+lacosamide,LACO50
+lacosamide,LACO200
+Ranitidine (Liquid),RANI150
+heparin,HEPA100SYR
+NEO*IV*Phenobarbital,PB30EL
+Metronidazole,METR1G
+PHENObarbital,PHEN65I
+nif,ADAL60
+Sildenafil,SILD20
+Iodine Strong (Lugols),LUGOL
+PHENObarbital,PHENO100
+Anastrozole,ANAS1
+Valganciclovir HCl,VALC60L
+Voltaren-XR,DICL50
+Penicillin G Potassium,PENI1F
+GU,GUAI10
+Alteplase 1mg/Flush Volume ( Dialysis/Pheresis Catheters ),ALTE1I
+Amantadine Syrup,AMAN100L
+Hydroxyzine HCl,HYDX10
+Mult5l,MULT5L
+Bupivacaine 0.1%,BUPI0.1EPD
+HYDROmorphone,HYDR20/100NS
+0.9% Sodium Chloride,NS100H
+Blue CADD Cassette,CADDNS250B
+Oxycodone,ROXIOS
+sodium bi,NABC50I
+Triethanolamine Solution,TRIE6L
+DILT,DILT60SR
+DOCEtaxel (TaxoTERE),TAXO80I
+Irinotecan,CAMP200I
+Linezolid,LINE20L
+Oxaliplatin,OXAL100I
+Glutamine,GLUT5
+Cyclosporine Modified (Neoral),NEOR0
+NORepinephrine,LEVO4I
+NEO*IV*PHENObarbital,PB30EL
+PHENObarbital Elixir,PB30EL
+Oxycodone-Acetaminophen,CARA1
+Atropine Sulfate 1%,ATRO1/15ES
+Terlipressin Study Drug (*IND*),TERLIND
+Fluocinolone 0.01% Solution,SNLR160T
+Diltiazem,DILT60SR
+Dexamethasone,DEXA5L
+Inamrinone Lactate,AMRI100I
+INO-1001 Study Drug  *IND*,INOIND
+aspi,ASA325
+aspi,ASAEC325
+Ipratropium Bromide MDI,IPRA2H
+EpiPen,EPI1I
+Thioridazine HCl,THIO100
+AcetaZOLAMIDE,ACE500I
+Ipratropium Bromide HFA,IPRAPF
+Valacyclovir HCl,VALA500
+Enalaprilat,FURO40I
+eryth,EMYC200L
+NEO*IV*Fat Emulsion,NFAT8
+Sulfacetamide 10% Ophth. Oint.,BLEP10EO
+Sulfameth/Trimethoprim,BACTSS
+lamotrigine,LAMO100BN
+levetiracetam,LEVE500BN
+Zonisamide,ZONI25
+Zonisamide,ZON100
+progesterone micronized,PROG100
+CVVH,CVVH
+Desipramine HCl,DESI100
+Hydromorphone Hcl,HYDM4
+Hydromorphone Hcl,HYDR2
+Papain,PAPAIN2
+Clindamycin 1% Solution,CLIN1S
+LaMICtal,LAMO100BN
+Zonegran,ZON100
+LeVETiracetam,LEVE500BN
+LaMOTrigine,LAMO100BN
+Arimidex,*NF* ANAS1
+Tiagabine HCl,TIAG4
+Lidocaine 2%,LIDO210I
+Dobutamine Hcl,DOBU250I
+Methenamine Hippurate,METH1
+L-Hyoscyamine SL,LEVS125
+Thiamine Study Drug (*IND*),THIA200IND
+*NF* Imatinib Mesylate,IMAT400
+Gatifloxacin,GATI0.3O
+Amylase-Lipase-Protease,CREO10
+Heparin Flush,HEP10I
+Normocarb Dialysate,NORMOCARB2
+Lacosamide,LACO200I
+Lacosamide,LACO200
+Glycerin (Ped),GLYCPED12
+Loratadine,LORA10
+Benzoyl Peroxide,BENZLIQ
+Lansoprazole,WARF5
+Levalbuterol (Xopenex),LEVA0.63L
+Levetiracetam Solution,LEVE100L
+Promethazine,PROM25R
+Tegaserod Hydrogen Maleate,TEGA6
+*NF* Levetiracetam,LEVE500I
+Ranexa,RANOL500
+NEO*PO*Furosemide (10mg/1ml),NEOFUR
+Bismuth Subsalicylate,PEPTO30
+NEO*IV*Zidovudine,NEOZDV
+Cidofovir 1% Topical Paste,CIDO1P
+Acetic Acid 0.125% Irrig. Soln,ACET.125T
+PACLItaxel,TAXO30I
+Hydrocortisone Oint 0.5%,HYDR0.5O
+Budesonide,BUDE0.25
+Pyridostigmine Bromide,PYRI60L
+gua,GUAI600T
+Adenosine,ADEN90I
+*NF* Pramipexole,PRAM125
+*NF* Entacapone,ENTA200
+Kaopectate (bismuth subsalicy),KAOP228L
+Famotidine,FAMOT20I
+Imodium A-D *NF*,LOPE1/7.5L
+Vitamin E,LIQUIDE
+Methylprednisolone Na Succ.,MPRED0
+Magnesium Sulfate,MAGSUL20I
+Sterile Water,MGBASE500I
+Quinidine Sulfate,QUIN200
+Tacrolimus,TACR5SM
+Ropinirole HCl,ROPI5
+Sulfasalazine EC,SULF500EC
+tacroli,TACR1
+pramipexole,PRAM125
+entacapone,ENTA200
+ther,MULT5L
+NIFEdipine,ADAL60
+Aminocaproic Acid ,AMIC250L
+Didanosine EC,DIDA125
+Erythromycin Ethylsuccinate Suspension,EMYC200L
+Risperidone (Disintergrating Tablet),RISPM0.5
+Pergolide Mesylate,PERM1
+omeprazole,OMEP20
+tobramycin in 0.225 % NaCl,TOBR300H
+acetylcysteine,ACET20/4I
+Pergolide Mesylate,PERM5T
+Pergolide Mesylate,PERG25
+Albuterol Sulfate (Extended Release),ALBU4R
+Amitriptyline,AMIT10
+lidoca,LIDO5O
+*nfFloxin,OFLO0.3ES
+Milrinone,MILR10I
+Pramipexole,PRAM0.5
+Candesartan,CAND16
+Isosorbide Dinitrate,ISOS40SA
+Albumin 5% ,ALBU5250
+Docusate Sodiu,DOCU100L
+Docusate Sodiu,DOCU100
+Clindamycin Phosphate,CLIN600I
+Abacavir Oral Solution,ABAC20S
+Abacavir Oral Solution,ABAC300
+NEO*IV*Epoetin Alfa,NEOEPO10I0
+NEO*PO*Folic Acid,NEOFOL
+NEO*PO*Cephalexin Suspension,NEOCEPH
+Digoxin Elixir,DIG5P
+mucin,GUAI600T
+Lidoderm,LIDODERM
+*NF* Valsartan,VALS80
+Asparaginase,ASPAR1I
+diltiaz,TIAZ180
+DAUNOrubicin,DAUNO20I
+Provera,MEDR25
+anusol,ANUSHC
+Tucks,TUCKSPADS
+Desipramine HCl,DESI10
+Risperidone,RISPM1
+Bag,VIABAG
+Acetaminophen IV,ACET1000PB
+Mycophenolate Mofetil Suspension,MYCO250L
+Niaspan,NIAC500SR
+Metoclopramide Hcl,METO10
+Cosopt,COSO5ES
+Sulfameth/Trimet,BACT20L
+Amicar,AMIN5
+Phytonadione,PHYT4L
+Nitroglycerin SR,NTG25
+Lorazepam,LORA2L
+Carbatrol,CARB200ER
+Papaverine HCl,PAPA150
+Naloxo,NALO3L
+Triamcinolone Acetonide 0.1% Cream,TRIA0.1/80O
+Diovan HCT,VALS80
+Carbamazepine XR,CARB100XR
+Carbamazepine Suspension,CARB100T
+ARTIFI,ARTTS
+Clomipramine HCl,CLOM50
+Phenobarbital,PHEN60
+Phenobarbital,PB15
+Gentamicin Sulfate,GENT01C
+Gentamicin Sulfate,GENT3EO
+Paxil CR,PARO25CR
+Dolasetron Mesylate I.V.,DOLA12.5I
+NEO*IM*Penicillin G Benzathine,PGBNEO6I
+Neomycin/Polymyxin/Dexameth Ophth Susp.,MAXISES
+Albumin 5% ,ALBU%500
+NEO*IV*Piperacillin-Tazobactam,NEOZOSYN
+Fenofibrate Micronized,FENO160
+Ampicillin Desensitization,AMPIDESEN
+Aspirin EC,ASA300R
+Aspirin (Rectal),ASA300R
+Heparin Flush CVL  (100 units/ml),HEP10I
+diValpro,DIVA250
+diValpro,DIVA500
+diValpro,VAL250L
+Chloroprocaine 2% MPF,CHLO20I
+Pulmicort Turbuhaler,BUDE200H
+Sunol-cH36 Study Drug (*IND*),SUNOLIND
+Beclomethasone Dipro. (Oral),BECL16.8H
+Hepari,HEP1I
+Clopidogrel Desensitization,CLOP2.5L
+Clopidogrel Desensitization,CLOP5L
+Clopidogrel Desensitization,CLO025L
+Clopidogrel Desensitization,CLOP75
+Multivit,MULT5L
+Demeclocycline,DEME300
+Gentamicin,GENT20I
+Heparin Flush ,HEP10I
+Fioricet,FIOC
+Trifluoperazine HCl,TRIF1
+Clopidogrel Desensitization,CLOP7.5L
+Clopidogrel Desensitization,CLOP15L
+Clopidogrel Desensitization,CLOP05L
+Clopidogrel Desensitization,CLOP01L
+Clopidogrel Desensitization,CLOP.25L
+Clopidogrel Desensitization,CLOP0.5L
+Clopidogrel Desensitization,CLOP1L
+Penicillin V Potassium,PCN250S
+Cetacaine,CETA56T
+Disulfiram,DISU250
+Gentamicin,GENT01C
+Neomycin-Polymyxin-Dexameth Ophth. Oint,MAXIEO
+*NF* Tacrolimus Suspension,TACR1
+Fentanyl Citrate,INSULIN
+Albumin 5% (12.5 g),ALBU5500
+Dipyridamole,DIPY75
+tucks,ANUS1O
+Dostinex,CABE0.5
+Megestrol ,MEGE800L
+Syringe (Neonatal)  *D12.5W*,NEOSYRD12.5W
+Imitrex,SUMA50
+Morphine Sulfate,MORP2IV
+Epoprostenol Na,EPOP1.5I
+Lidocaine 1% P,LIDPF1I
+Dexamethasone,DEXA75
+Regular Insulin,RHIIND
+Morphine Sulfate,MORP10V
+Azacitidine (Subcut),AZAC100I
+Megestrol ,MEGE40L
+Diprosone,BETA0.05C
+Pantoprazole,LORA5
+Yodoxin,IODO210
+Lotrel,BENA10
+Betaxolol HCl  0.25%,BETA25ES
+Cefuroxime Sodium,CEFU750F
+Mitoxantrone,MITX20I
+Minocycline,MINO50
+budesonide,BUDE0.5
+Sodium Citrate,CITR30L
+Molindone HCl,MOLI5
+charc,CHAR50L
+Dextromethorphan Poly Complex,DELSYM
+HEPARIN,HEPA5I
+Methotrexate Sodium P.F.,METH1000I
+*NF,GUAI600T
+Aripiprazole,ARIP1L
+Cyproheptadine HCl,CYPR4
+Gua,GUAI600T
+DimenhyDRINATE,DRAM50
+Aripiprazole,ARIP5
+Genta,GENT3ES
+*NF* Rasburicase,RASB1.5I
+Albuterol-Ipratropium,ALBU17H
+gent,GENT3ES
+Procarbazine HCl,PROC50
+ChlorproPAMIDE,CHPR100
+Metronidazole Gel 0.75%-Vaginal,METRVAG70G
+Heparin Sodium,HEPA10MUI
+sod,NABC50I
+Flunisolide,FLUN1H
+Lidocain,LIDO0550I
+Albuterol Neb Soln,ALBU17H
+Ipratropium Bromide Neb,IPRAPF
+Propofol (Diprivan),PROP200I
+Morphine Sulfate,MORPCONC
+Captopril,BUME2
+Ziprasidone,ZIPR60
+CGT003-03 E2F decoy,DECOYIND
+Riboflavin,RIBO50
+Lorazepam,LORA1L
+Aspirin ,ASAB325
+HYDROmorphone (Dilaudid),HYD25PCA
+VALPR,VAL250L
+Glycerin 50%,GLYC50L
+Acetaminophe,ACET650L
+Acetaminophe,ACET325
+Mesala,MESA4R
+Doxycycline Hyclate,DOXY50
+Amicar,AMIN500
+Methylprednisolone Sodium Succ,MPRED0
+Foscarnet,FOSC12000I
+Azathioprine,AZAT50L
+Sirolimus,SIRO1.5L
+Zonalon,DOXE5C
+Emtricitabine Oral Solution,EMTR10L
+fluocin,SNLR115C
+MetFORMIN,METF500XR
+Clobetasol Propionate 0.05% Soln,CLOB0.05S
+ASA,ASA81
+ASA,ASA325
+Praziquantel,PRAZ600
+Copaxone,GLAT20I
+Valproate Sodium,VAL250L
+Interferon Alfa 2A,ROFE3I
+Desipramine HCl,DESI25
+insulin,IN73HI
+Megestro,MEGE800L
+Glatiramer,GLAT20I
+Aspirin ,ASAEC325
+Cromolyn,CROM4O
+Donepezil 5 mg or Placebo,DONEIND
+Bupropion HCl,BUPR100SR
+NEO*IV*Morphine Sulfate,NEOMOR5
+mycophenolate mofetil,MYCO250IND
+mycophenolate mofetil,MYCOIND
+Doxycycline Hyclate (Bulk),DOXY100I
+Docetaxel,TAXO80I
+Humulin,IN73HI
+Desipramine,DESI25
+nifer,NIFR150
+iron,NIFR150
+Scot-Tussin Expectorant,GUAISF120L
+Morphine Sulfate (Syringe),MORP4I
+dil,PHEN50
+Multivitamins W/minerals,MULT5L
+Tetanus-DiphTox-Acellular Pertuss (Adacel),TDAP0.5I
+Fluocinolone 0.01% Cream,SNLR115C
+donepezil 5 mg or placebo,DONEIND
+Naphazoline-Pheniramine Ophth. Solution,NAPH15O
+dilan,PHEN50
+Ciprofloxacin in D5W,CIPR200PM
+Tenofovir Disoproxil (Viread),TENO300L
+*NF* Tacrolimus 0.1% Ointment,TACR0.1O
+Mupirocin 2% Cream,BACT2/15C
+Naltrexone,NALT50
+Leflunomide,LEFL20
+Donepezil,DONEIND
+Remifentanil,REMI1I
+Mucinex,GUAI10
+sodium bicarbonate,NABC50S
+Calcium ,CALG1I
+Calcium Chloride,CALC13.6I
+Torsemide,TORS10
+Zonisamide,ZONI10L
+Imatinib Mesylate,IMAT100
+propo,PROP500IG
+Colazal,BALS750
+Heparin Flush CVL  (100 units/ml) ,HEPA100SYR
+Alteplase,ALTE2IV
+cil,CILOS100
+TISSEEL/FS VH SD,GLUE2IND
+TISSEEL/FS VH SD,GLUEIND
+Aspirin ,ASA81
+Bacitracin ,BACIEO
+Aluminum-Magnesium Hydroxide,MAAL30BTL
+Maxair,PIRB0.2H
+Dopamine,ASA325
+Furosemide,BACTDS
+Glucovance (1.25mg-250mg),GLU125/250
+NEO*PO*Acetazolamide (20mg/1ml),NEOACET2
+Aranesp,DARB60SY
+Candesartan,CAND4
+Bag,BAG1000I
+Bag,BAG100
+Beclomethasone Dipro. (Nasal),BECO67H
+GUAIFENISIN,GUAI600
+Ethyl Chloride,ETHYT
+Ganciclovir,GANC250C
+Ganciclovir,GANC500
+Hepar,HEP10I
+PROCARDIA XL,NIFXL30
+Divalproex ,DIVA125
+Bacitracin,BACI15O
+MultiVi,MULT5L
+Lidocaine,LIDO120I
+Diltiazem,TIAZ180
+Docusa,DOCU100L
+Imipramine,IMIP10
+Yellow CADD Cassette,CADDNS250
+Bupivacaine 0.05%,BUPI0.05EPD
+cepacol,CEPACOL1
+NEO*IVChlorothiazide,NEOCHLORO
+iso,ISMO10
+Fentanyl Citrate,METO5I
+Phenytoin,PHEN250I
+Uniphyl,THEO400TR
+NEO*PO*Chloral Hydrate,NEOCHLO
+Bupivacaine 0.1%,BUP01ED
+Mesna,MESN1I
+Enoxaparin Sodium,LOVE30AMP
+Naltrexone HCl,NALT50
+Benztropine Mesylate,BENZ2
+Tocopheryl,VITE1000
+NS Epidural Bag,EPIBAGH20
+Sulfameth/Trimethoprim DS,BACTSS
+DEXT,DEX50SY
+Trifluoperazine HCl,TRIF2
+Tolvaptan,TOLV15
+Spironolactone,FURO100I
+MethylPHENIDATE (Ritalin),RITA10
+Fenofibrate Nanocrystallized,FENO48
+Truvada,TRUV200/300
+*NF* Caspofungin Acetate,CANC70I
+*NF* Caspofungin Acetate,CANC50I
+Fosfomycin Tromethamine,FOSF3
+Fentanyl ,FENT75P
+Calciu,CALG1I
+Fluocinolone Acetonide 0.01% Cream,SNLR115C
+SW,MAGGBASE
+Magnesium Sulfate,MAG20/500
+Methadone,METH25PCA
+AndroGel,TEST2.5
+Theophylline ,SLO300
+MULTIVITAMIN LIQUID,MULT5L
+PILOCARPINE,PILO5
+Xopenex HFA,LEVA0.63L
+Trihexyphenidyl HCl,TRIH2
+Aminophylline,AMPH500I
+Aldara,IMIQ5C
+Tacrolimus,TACR0.03O
+albuterol sulfate,PROAIR8.5H
+*NF* Imiglucerase,IMIG400I
+OxycoDONE ,OXYC5
+OxycoDONE ,OXYCO5L
+Camphor-Menthol,SARNL
+Cefepime,CEFE1000I
+Entecavir Oral Solution,ENTE0.05L
+Indapamide,LOZ25
+Chlorpromazine HCl,THOR100
+Metoclopramide Hcl,METO10I
+Disopyramide Phosphate,DISO100CR
+HEParin (Porcine) in NS (PF),HEPA1000/500
+Megestrol Oral Soln,MEGE400L
+Lescol,FLUV20
+Bactrim,BACTDS
+Tenofovir Disoproxil Fumarate,TENO300
+Oxycodone-Acetaminophen Elixir,PERC
+BuPROPion,BUPR150XL
+sarna,SARNL
+Emtriva,EMTR200
+Bactroban,BACT2/15C
+Bactroban,BACT2022G
+NEO*IV*Erythromycin,NERYIV
+Neo*IV*Hyaluronidase (Ovine),HYAL200I
+Epidural Bag,EPIDBAG250
+Isoniazid,ISON100
+Orap,PIMO2
+Oxycodone HCl,OXYCO5L
+ChlorproMAZINE,THOR100
+Neo*PO*Vitamin E TPGS 26.7 Unit/ml,NEOVITE26.7L
+Glipizide,GLUC5XL
+TOBRAM,TOBR300H
+Vivelle-Dot,ESTR0.05T
+album,ALBU5250
+ValGANCIclovir ,VALG50L
+Interferon Alfa-2B,INTE10I
+Epsom Salt,EPSOM
+<IND> Drotrecogin Alfa Study Drug,DROTIND
+Leuprolide Acetate,LEUP75I
+saliva substitution combo no.2,CAPH15L
+Cytarabine,CYTA2I
+Protamine Sulfate,PROT250I
+Sodium Fluoride 1.1% (Dental Gel),PREV60TP
+sodiu,NABC50I
+Nitroglycerin,NITR02O
+Mechlorethamine HCl,MECH10I
+IDArubicin,IDAR10I
+Factor IX Complex,FACT9
+CeftriaXONE,CEFR250I
+Menthol-Cetylpyridinium Cl,CEPACOL1
+Maxalt,RIZA10
+Epinephrine ,EPI1I
+Sudafed,PSEU30
+Gammagard Liquid,GAMML10I
+EpiPen,EPIPEN0.3I
+guaifen,GUAI600T
+Nefazodone HCl,NEFA150
+Mul,MULT5L
+Critic-Aid,CRIT6T
+Heparin Lock Flush,HEPA100SYR
+Imodium,LOPE2
+Sulfameth/Trimetho,BACT20L
+Thiamine HCl,PROP500IG
+Liothyronine Sodium,LIOT10I
+Tacrolimus,TACR1IND
+Liposyn II  20%,LIPO20200
+Liothyronine,LIOT10I
+Diltiazem,DILT90SR
+Haloperidol,HALO50I
+Hydroxypropyl Meth. 2.5% Ophth,HYDR2.5ES
+Magnesium Sulfate,MAGN50I
+Kao,"KAOL60L,"
+Kaolin-Pectin,"KAOL60L,"
+Oxytocin,OXYT20/1000
+0.9% Sodium Chloride,NS1000OXYT
+Wellbutrin SR,BUPR150
+NEO*IV*Insulin (Dilute),INSNEO
+DiCLOXacillin,DICL500
+Clobetasol Propionate,CLOB05C
+diltiazem,TIAZ180
+bactr,BACT20L
+Magnesium Sulfate ,MAGS1I
+Zovirax,ACY5O
+Potassium Chloride,NEOSI
+HYDROmorphone PCA,HYD50PCA
+Sertraline,SERT25
+Aspirin Childrens,ASA81
+Dexamethasone Oral Soln (0.1mg/1mL),DEXA60L
+Clindamycin Hcl,CLIN150
+Florinef,FLUD100
+Miconazole Powder 2%,MICO2C
+Dacarbazine,DACA200I
+D5W W/ 0.1% Albumin,D5W0.1ALB250
+Vinblastine Sulfate,VINB10I
+Sulfamet,BACTSS
+Doc,DOCU100
+Doc,DOCU100L
+Fosphenytoin,FOSP500I
+Sulfameth/Trimet,BACTDS
+Sulfamet,BACT20L
+D5W 0.1% Albumin,D5250.1ALB
+Prochlorperazine (Rectal),PROC25R
+Heparin Flu,HEP1I
+Penicillin G Benzathine,PCNGB600I
+Metformin XR,METF500XR
+Potassium Bicarbonate Eff,KBIC25
+Medroxyprogesterone Acetate,MEDR150I
+Silver Nitrate,SILV1T
+Trifluoperazine HCl,TRIF5
+Insulin Regular Pork (Iletin II),INRPI
+NEO*PO*Hydralazine,NEOHYDP
+Carrington Dermal Wound,DERMGEL
+Keppra,LEVE100L
+Anagrelide,ANAG500
+*NF* Glycopyrrolate,GLYC1
+Chlorpromazine,THOR10
+Fentora,FENT100T
+Rhinocort,RHINOC
+Altace,RAMI5
+NEO*IV*Epoetin Alfa,NEOEOP4I
+Epoetin Alfa,NEOEOP4I
+Propofol (Generic),PROP500I
+Clindamycin Phosphate,CLIN900I
+Pantoprazole,LANS30ST
+Mitomycin,MITO5I
+Hepar,HEP1I
+Divalproex Sodium,DIVA1750L
+Milrinone Lactate,MILR10I
+Tretinoin (Chemotherapy),TRET10C
+Leuprolide Acetate,LEUP3.75I
+Mannitol 20 %,MANN20PM
+Sodium Chloride,ICPKIT
+Epinephrine,EPIS10I
+Tacrolimus,TACR5BN
+Tacrolimus,TACR1BN
+Fluorometholone 0.1% Ophth Susp.,FMLSUSP
+CefazoLIN Desensitization,CEFA1000I
+Rimantadine,RIMA100
+Actiq,FENT400L
+Phenytoin chewtabs,PHEN50
+Pancrelipase 4500,PANCEC
+Carbidopa-Levodopa,SINM25100
+Modafinil,MODA200
+Prograf Suspension,TACR5BN
+Prograf Suspension,TACRSUSPBN
+Chlorpropamide,CHPR100
+linezolid,LINE600
+bismu,PEPT240L
+Agrylin,ANAG500
+Palivizumab,PALINEO
+Ipratropium ,IPRAPF
+Chlorpromazine HCl,THOR50
+Insulin Human Regular,INNHI
+Povidone Iodine 10% Ointment,POVI30O
+Hydroxyzine HCl,HYDR10L
+Zocor,SIMV40
+Methyldopa,METH500
+Penicillamine,PENI250
+Lidocaine ,LIDO0550I
+Phenylephrine,PHEN50I
+SODIUM BICAR,NABC50I
+TRAVATAN Z,TRAV004OS
+Tetanus,TTOX5I
+diltia,DILT120SR
+LESCOL,FLUV20
+Vivelle,ESTR0.05T
+Pantoprazole,INSULIN
+*NF* Risedronate Sodium,RISE35
+hyo,HYOS.375
+Methylene ,MBLU10I
+Morphine ,MORP50PCA
+*NF* Temozolomide,TEMO5
+lovastatin,LOVA20
+Percocet,ROXIOS
+Percocet,PERC
+OLANZapine,OLAN0.25L
+CGT003-03 E2F Decoy ,DECOYIND
+*NF* Digoxin (Lanoxicaps),DIGO100C
+Belatacept Study Drug (*IND*),BELAIND
+nifedipine,ADAL30
+Lanoxicaps,DIGO200C
+Oxycodone-Acetaminophen Elixir,PERCBULKL
+Belladonna & Opium,B&OSUPP
+Salsalate,SALS750
+Ramipril,RAMI2.5
+Morphine Sulfate,DURA100I
+Daunorubicin HCl,DAUNO20I
+Megestrol ,MEGE40
+Bupivacaine 0.75%,BUPI75I
+Forteo,TERI750I
+Leuprolide Acetate (3 Month),LEUP22.5I
+Perphenazine,PERP8L
+Clarithromycin,CLAR250L
+RHINOCORT NASAL INHALER,RHINOC
+Kaolin/Pectin,KAOP30
+Glipizide,GLUC10XL
+Sodium Bicarbonate,NEUT1I
+Indigotindisulfonate Sodium,INDIGO
+Methotrexate Sodium P.F.,METH250I
+Enbrel,ENBR25I
+Rhinocort Aqua,RHINOC
+Norethindrone-Estradiol,NE1/35T
+Nicotine Lozenge,NICO4L
+AndroGel,TEST5G
+Risedronate,RISE35
+Fluoxetine,FLUO20L
+Estraderm,ESTR1P
+Hydromorphone-HP,HYDR500I
+Fosinopril Sodium,FOSI20
+Phenytoi,PHEN50
+CONCERTA,METH36
+hyosc,LEVS125
+Hyoscyamine ,LEVS125
+Lubiprostone,LUBI24
+Liotrix-1,THYR1
+AMOXicillin,AMOX500
+Ceftriaxone Desensitization,CEFTR1000I
+Chlorambucil,CHLO2
+Lidocaine Ointment 5%,LIDO5O
+Omeprazole,OMEP20S
+sodium bicarbo,NABC50S
+DOPamine,DOPA200I
+Amantadine,AMANT50MG
+Budesonide,BUDE0.5
+Pindolol,PIND5
+Pralidoxime Chloride,PRAL1I
+Calcium Chloride,CACL1000I
+Osmoglyn,GLYC50L
+*NF* Paroxetine CR,PARO25CR
+Erythromycin Ethylsuccinate,EMYC200L
+Carbidopa-Levodopa (25-100),PARC25/100
+Ferrous,FERR300L
+LevoFLOXacin,LEV250
+Cyclosporine (Sandimmune),NEOR100
+Sulindac,SULI150
+Viagra,SILD25
+Phenobarbital,PENT50S
+Aspiri,ASA325
+levo,LEVO75
+levo,LEVO100
+Ditropan XL,OXYB10XL
+Levoth,LEVO75
+Levoth,LEVO100
+Mult,MULT5L
+Tylenol PM Extra Strength,APAP500
+Campral,ACAM333
+*NF* Pregabalin,PREG25
+dival,DIVA125SP
+dival,DIVA1750L
+Carbamazepine XR,CARB200XR
+Chloroprocaine 2%,CHLORO2
+levocar,LCARN330
+Fentanyl Citrate,F2B1ED
+Naloxone,NALO2I
+Liothyronine Sodium,CYTO5T
+Adderall,ADDE20XR
+*NF* Enfuvirtide,ENFU90I
+AMICAR,AMIN500
+prednis,PRED20
+Enfuvirtide,ENFU90I
+*NF* Urea,UREA20C
+Paromomycin,PARO250
+cilos,CILL50
+urea,UREA20C
+sodi,NABC50S
+Melphalan,MELP2
+Sulfacetamide-Prednisolone Ophth. Susp.,BLEP2ES
+*NF* Ivermectin,INVE3
+Lidocaine,LIDO0550I
+Heparin Flush,HEPF100I
+Sodium Citrate,SODCIT3SYR
+CefTAZidime,CEF2I
+M,MULT5L
+Diltiazem ,DILT60SR
+CycloSPORINE Modified (Neoral),NEOR0
+Mupirocin,BACT2/15C
+Beclomethasone ,BECONASEAQ
+Urea,UREA20C
+Posaconazole,POSA200L
+Nafcillin,NAFC2I
+Fuzeon,ENFU90I
+Carbamazepine Chewable Tabs,CARB100T
+Erythromycin,ERYT25L
+albut,ALBU5H
+Methylprednisolone Sodium Succ,MPRED5I
+insul,INNHI
+Tegretol XR,CARB100CR
+Heparin,FURO40I
+NEO*IV*Epoetin Alfa,NEOEPO
+NEO*SC*Epoetin Alfa,NEOEPO3I
+Clobetasol Propionate 0.05% Gel,CLOB.05G30
+Insulin - Sliding Scale,INSULIN
+Heparin,LANS30L
+PENTASA,PENT250
+imiquimod,IMIQ5C
+Terconazole 0.4% Vag. Cream,TERC.4C
+"Meningococcal Vac A,C,Y,W-135",MENI5I
+haemo,HAEM5I
+Vitamin A,VITA150
+Triamcinolone 0.1% Cream,TRIA.1/80C
+sulfa,BACT20L
+guaife,GUAI600T
+Epinephri,EPIPEN0.3I
+Amino Acids 3.5%,AMIN35
+CefazoLIN,CEFA5ML
+Syringe,SYRINGE5
+Didanosine EC,DIDA250
+Famciclovir,FAMC250
+Aptivus,TIPR250
+Arava,LEFL10
+Naloxone,NALO2L
+bis,PEPT240L
+Cipro HC,CILO25ES
+Magnesium Sulfate (Latex Free),MAG2PMLF
+hydroxyzine,HYDX25
+Ofloxacin,OFLO0.3E
+Triamcinolone Diacetate,TRDI40I
+Triamcinolone Acetonide,KENA40I
+Insulin ,HUMU100I
+Theophylline SR,THEOP125
+Hydromorphone PCA,HYD50PCA
+Aminocaproic Acid 25% Oral Rinse,AMIC250L
+oxymetazoline,OXYM15
+Pneumococcal 7-Valent,PNEU5I
+Aminocaproic ,AMIC250L
+Aminocaproic,AMIC250L
+Indinavir Sulfate,INDI200
+Nevirapine,NEVI50L
+Bupivacaine,BUPI5I
+CLARITIN,LORA10
+Lopinavir-Ritonavir,KALE1L
+Thiothixene,THIX5
+Peridex,CHLO15L
+aspir,ASA325
+*NF* Cefotaxime,CETX2I
+HYDROmorphone PCA,HYD12.5PCA
+*NF* Lidocaine Patch 5%,LIDODERM
+Ciprofloxacin Hcl,CIPR500
+Glucovance (2.5mg-500mg),GLU25/500
+hepar,HEPA30I
+hepar,HEPF100I
+hepar,HEPA100SYR
+Ondansetron,ONDA2SYR
+Midrin,MIDRIN
+Thiotepa,THIO15I
+NEO*PO*Propranolol,NEOPROP4
+MetronidAZOLE Oral Suspension,METR1000L
+Cozaar,COZA25
+Methotrexate Sodium,MTX25
+CeftAZIDime,CEFT1V
+ClomiPRAMINE,CLOM25
+Mebaral,MEPH100
+Heparin Flush (1000 units/ml),HEP10I
+UNIP,THEO400TR
+Fondaparinux Sodium,FOND7.5
+Cefazolin Desensitization,CEFA1000I
+Lidocaine Viscous 2%,MABELI120
+Epinephrine HCl,EPINEO
+Ethanol 70% Catheter Lock,ETHAN70I
+Lidocaine ,LIDO20L
+Sodium Chloride,NACLFLUSH
+Ondansetron HCl,ZOFR4
+*NF* Valacyclovir,VALA500
+Stanozolol (Bulk),STAN2
+albuter,ALBU5H
+Bupivacain,BUPI5I
+clo,CLOM25
+clomi,CLOM25
+PARCOPA,PARC25/100
+*NF* Fenofibrate,FENO54
+Vitamin A,VITA5I
+*NF* Cefixime Suspension,CEFI100L
+Quetiapine extended-release,QUET300XR
+Darunavir,DARU300
+Norvir,RITO100
+Diclofenac Sodium,DICL1ES
+MedroxyPROGESTERone Acetate,MEDR25
+Amoxapine,AMOX50
+Tegretol XR,CARB200XR
+Olanzapine (Disintegrating Tablet),OLAN2.5
+Doxil,DOXO20I
+*NF* Amoxapine,AMOX50
+Procainamide HCl,PROC375
+Neo-Synephrine,PHEN25N
+Neo-Synephrine,PHEN1N
+Desmopressi,DDAV1N
+*NF* Cefotetan,CEFOT2I
+Insulin,HUMU500I
+Humulin-R Insulin (U-500),HUMU500I
+Chlorpromazine,THOR50
+Fluphenazine,FLUP25I
+Fluphenazine,FLUP125I
+Clindamycin Phosphate,CLIN1S
+Hydrocortisone,ANUSHCOINT
+D5W,DEXT500B
+Dimenhydrinate,DRAM50
+ProAir HFA,PROAIR8.5H
+ProAir HFA,ALBU17H
+BENICAR HCT,OLME10
+Betaxolol,BETA10
+Nystatin-Triamcinolone Cream,MYCO2C
+Oxycodone,OXYC40
+Dilantin,PHENY100
+Thiothixene,THIX10
+Bupivacaine 0.1%,BUPI5I
+hep,HEP1I
+ALBUMIN,ALBU5250
+Albumin 5% (2.5gm),ALBU2.5I
+Lansoprazole Oral Suspension,PANT40
+Fenofibrate Micronized,FENO54
+MultiVitamin,MULT5L
+Ephedrine Sulfate,EPHE50I
+arti,REFRESH
+PROPOF,PROP500I
+K-Dur,MICROK10
+Sirolimus,SIRO0
+Zymar,GATI0.3O
+Vitamin E,VITE1000
+Sanctura,TROS20
+Aveeno Colloidal,AVEENOC
+Terbinafine 1% Spray,TERB1SP
+Theophylline (Oral Solution),THEO80L
+Theophylline SR (Theo-Dur),THEO100
+Prismasate (Ca 3.5),PRISMACA5000
+Methyl Salicylate-Menthol Ointment,BENGAY2O
+Pramipexole Dihydrochloride,PRAM..5
+MEGACE,MEGE400L
+Lotensin,BENA20
+calc,CAL1250
+Sincalide,SINC5I
+Acetaminophen (Childrens),ACET100L
+ChlorproMAZINE,THOR50
+Mycophenolate Mofetil Suspension,MYCO250
+Darvocet-N 100,DARV100
+Heparin ,HEPA5I
+Ciprofloxacin,CIPR250
+LANSOPR,LANS30L
+Magnesium Sulfate (OB),MAG20/500
+ocean,SODI65S
+Nitroglycerin,NTG25
+Revatio,DAPI0.5ES
+Revatio (sildenafil),DAPI0.5ES
+PRILOSEC,OMEP40
+AcetaZOLamide,ACE500I
+Parecoxib/Placebo,PAREIND2
+Parecoxib/Placebo Study Med,PAREIND2
+Valdecoxib/placebo,VALDIND
+viread,TENO300
+Activated Charcoal-Sorbitol,CHAR120L
+Ascorbic Acid,ASCO500L
+SODIUM BICARB,NABC50S
+Nicotine Lozenge,NICO2
+Nicotine,NICO2
+Quinidine Sulfate,QUIN300
+Tol,TOL1C
+Phenytoin Sodium (IV),PHEN100I
+Heparin,ATRO1I
+Triamcinolone Acetonide(Inhal),AZMA20H
+Abilify,ARIP10
+Clorazepate Dipotassium,CLORA7.5
+Hyoscy,HYOS.375
+*NF* Tobramycin Soln,TOBR300H
+Concerta,METH20SR
+methylph,METH20SR
+Finasteride,FINA1
+micon,MICO2P
+Altace,RAMI2.5
+RiTONAvir,RITO80L
+levsin,LEVS125
+Triamcinolone Acetonide 0.025% Ointment,TRIAM.025/15O
+Lacri-Lube Oint,ARTI3.5O
+Epoetin Alfa,ALUMI30L
+AcetaZOLAMIDE,ACE500
+gatifloxacin,GATI0.3O
+moxifloxacin,MOXI0.5ES
+insulin dum,INSULIN
+Triamcinolone Acetonide,TRCL1T
+SUMAtriptan succinate,SUMA50
+PrimiDONE,PRIM250
+Theophylline ,THEO100
+MULT,MULT5L
+triampt,MAXZ1
+Maxide 75/50,MAXZ1
+Pioglitazone,PIOG15
+PAPIN,PAPAIN2
+CeftAZIDime,CEF2I
+NEO*PO*Acetazolamide (10mg/1ml),NEOACET
+Cortisporin,CORTOTIC
+Questran,CHOL4G
+Candesartan Cilexetil,CAND16
+Normocarb Dialysate,NORMOCARB
+Cymbalta,DULO20
+*NF* Diltiazem SR,DILT120SR
+ZOFRAN PO,ZOFR4
+Peppermint Spirit,PEPP1
+Lithium ,LITH450SA
+Ear Wax Drops,GLYO65OT
+beconase,BECONASEAQ
+Ampicillin Sodium/Sulbactam,UNAS15I
+*NF* Ofloxacin 0.3% Ophth Soln,OFLO0.3ES
+Ocuflox,OFLO0.3ES
+Factor IX Complex,PROFVIAL
+timolol,TIMO5ES
+pota,MICROK10
+pota,KCL20P
+Loperamide Oral Solution,NEOLOPE2L
+Allopurinol Sodium,ALLO500I
+Amoxicillin,AMOX250L
+Xeloda,CAPE500
+*NF* Diltiazem SR,DILT90SR
+Neomycin-Polymyxin-Gramicidin,NEOSES
+Betamethasone Valerate 0.1% Ointment,BETAVAL.1/15O
+Requip,ROPI1
+Divalproex Sodium ER,VAL250L
+Miconazole Nitrate (Dual-pak),MICODP
+NEO*PO*Prednisolone Syrup,NEOPREDL1
+Prednisolone Oral Solution,NEOPRED2
+Moexipril,MOEX7.5
+Budesonide (Nasal),RHINOC
+Morphine Infusion ? Comfort Care Guidelines,MORP100PM
+Atropine Sulfate,ATRO20I
+BACTRIM,BACTDS
+Mycophenolate ,MYFO180
+Cepacol,CEPACOL1
+ranolazine,RANOL500
+Benicar HCT,OLME10
+Lidocaine ,LIEP550I
+Lidocaine ,ALBELI120
+Anidulafungin,ANID100I
+NEO*IV*Tobramycin Sulfate,TOBR20I
+*NF* Famciclovir,FAMC250
+ZYRtec,CETI10
+*NF* Rocuronium,ROCU100I
+Dextromethorphan Polistirex,DELSYM
+Benazepril HCl,BENA10
+Dextromethorphan Polistirex,DEXT5L
+Sodium Citrate/Citric Acid,BICINEO
+Candesartan Cilexetil,CAND4
+Orabase-B,ORBE5T
+Bupivacaine 0.50%,BUPIWE5I
+Ketamine (For Intubation),KETA5I
+Fentanyl,FENT100P
+Clobetasol Propionate,CLOB005O
+Dovonex,TOCA5O
+Octagam,OCTA10I
+Docusate Sodium,PERI
+Niacin,NIAC250SR
+glucop,METF500XR
+Nystatin Cream,NYSTO
+Calcitri,CALC25
+Aminocaproic Acid,AMIN5L
+Lidocaine 1% ,LIDPF1I
+glucoph,METF500XR
+Nevirapine Suspension,NEVI50L
+Triamcinolone 0.1% Ointment,TRIA.1/80C
+RiTONAvir,RITO100T
+Sevelamer,SEVE403
+Aripiprazole,ARIP25HT
+Aprepitant,APRE80
+Chlorhexidine Gluconate,PERI12L
+SulfaSALAzine EC,SULF500EC
+Flovent,FLUT220H
+Fluphenazine Decanoate,FLUP125I
+letrozole,LETR2.5
+Aprepitant,APRE125
+Fosinopril Sodium,FOSI10
+artifi,ARTTS
+Vitamin B-6,PYRI100
+OxycoDONE-Acetaminophen Elixir,PERC
+Colestid,COLEPWD
+Fluphenazine,FLUP5L
+Colestid,COLE1
+Demeclocycline HCl,DEME300
+Humulin R,INRHI
+NEO*PO*AcetaZOLAMIDE (20mg/1ml),NEOACET2
+Acetaminophen,ACET100L
+PACLItaxel (TaxOL),PACL300I
+Fosaprepitant,FOSA150I
+Promethazine HCl,PROM480L
+Lorazepam,LORA4L
+*NF* Dolasetron Mesylate,DOLA12.5I
+lans,LANS30ST
+Aspirin ,ASA81EC
+Lidocaine 2% P.f.,LIDO210I
+Epoetin Alfa,EPO2INESRD
+Epoetin Alfa,EPO3INESRD
+HUMALOG,HUMU100I
+Carn,LCARN330
+Clobetasol,CLOB.05C30
+Imodium,LOPE1/7.5L
+CefazoLIN,CEF1000I
+MedroxyPROGESTERone Acetate,MEDR10
+Heparin Flush CRRT (5000 Units/mL),HEPF100I
+Phenytoin Sodium Extended,PHEN50
+Hyaluronidase,HYAL150I
+Divalproex,DIVA125SP
+Didanosine Chewable Tab,DDI25
+Heparin Flush CRRT (5000 Units/mL),HEPA100SYR
+Colchicine,COLC0.3HT
+OLANZapine,OLAN10I
+Docusat,DOCU100L
+Docusat,DOCU100
+< IND> Zoniporide Study Drug,ZONIIND
+Tyvaso,TREP1.74
+Niaspan,NIAC250SR
+Pegasys,PEGI180I
+Dakins 1/4 Strength,DAKINHS
+Potassium Phosphate,MAGS1I
+Morphine Sulfate (PF),MORP25I
+NS Epidural Bag,EPIBAG
+METHYLEN,MBLU10I
+Didanosine,DDI25
+Didanosine,DIDA100
+Insulin Human Regular,INSULIN
+Methylprednisolone,MPRED40I
+*NF* Cefoxitin Sodium,MEFOX1I
+Nifedipine,NIFXL90
+valpr,VAL250L
+Potassium Chloride (Powder),MICROK10
+Esmolol in Saline (Iso-osm),ESMO2PM
+Amphotericin B Lipo. (Ambisome),AMBI50I
+Posaconazole,POSA40L
+Potassium,KCL20P
+Paxil Cr,PARO25CR
+ACETAM,ACET650L
+ACETAM,ACET325
+Lidocaine 2%/Epinephrine P.F.,LIDEPF220I
+Carbidop,SINE25100
+*NF* Warfarin,WARF5I
+NEO*IV*Digoxin,PEDDIG0.1
+CloniDINE,CLON5I
+CloniDINE,CLON1I
+Morphine,MORP5I
+Magnesium ,MAG2PM
+Magnesium,MAG2PM
+urea,UREA40C
+Ceftaroline,CEFT600I
+Neurontin,GABA250L
+Perphenazine,PERP4
+Thiamine Study Drug (*IND*),THIAIND2
+Sodium Citrate Dihydrate,SODCIT3SYR
+Methadone HCl,METHCONC
+Carnitor,LCARN330
+Etanercept,ENTA50I
+Hepari,HEP10I
+Dig,DIGO125
+prednisoLONE,PREDN5L
+Sterile Water,SW50BASE
+Ribavirin Aerosol,RIBAV6I
+Vancomycin Intraventricular,VANCOINV
+Acetylcysteine ,ACETNEB
+prednisolone acetate,ECON1C
+Econopred Plus,ECON1C
+Lactinex,LACT1
+VITAMIN K1,PHYT10I
+diltia,TIAZ240
+Nephrocaps,MULT5L
+Gentamicin,GENT120FD
+Pyridostigmine Bromide,PYRI60SYR
+*NF* Tacrolimus Suspension,TACR5
+Levothyroxine Sodium,LEVO300
+Lidocaine 1%/Epinephrine,LIEPI20I
+Insulin Human Regular,HUMU100I
+Hep,HEP10I
+glyco,GLYC1I
+Buprenorphine-Naloxone (8mg-2mg),BUPNAL82
+Cetirizine,CETI10
+HumaLOG,HUMU100I
+Propranolol Oral Solution,PROP20L
+nifed,NIFE10
+Captopril,CAPT1
+Choline Magnesium Trisalicylate,CHOL500
+Thymoglobulin (IND),THYM25IND
+Verapamil,VERA5I
+Nifedi,ADAL90
+Fentanyl Citrate,FEN625PCA
+*NF* Ciprofloxacin 0.3% Ophth Oint,CIPR0.3EO
+cilo,CILL50
+Haloperidol,HALOPB
+Neo*PO*Gentian Violet 0.25 %,GENT0.25
+Methylpre,MPRED0
+Ondansetron,ONDA40I
+sodium Bicarb,NABC50S
+Refresh Liquigel,REFRESH
+Tobramycin 0.3% Ophth Ointment,TOBR3EO
+Levocarnitine,LCARN250
+Clonidine HCl,CLON1I
+Baclofen Intrathecal,BACL2000I
+Profilnine SD,PROFVIAL
+Tocopheryl,VITE100
+Charcoal,CHAR50L
+Fleet ,FPS45L
+*NF* Diltiazem SR,DILT60SR
+Albumin 25%,ALBU25100I
+Megace Oral,MEGE400L
+Thiopental Sodium,THIO500K
+MVI,MVI
+Polyethylene Glycol 3350,MIRA17
+Rocaltrol,CALC25
+Ativan,LORA5
+Insulin Lispro (Human),HUMU100I
+Ribavirin,RIBAV6I
+doxycy,DOXY100C
+LaMI,LAMI100
+Lipitor,ATOR10
+Procardia XL,ADAL30
+Warf,WARF2
+Miconazole 2% Cream,MONI7C
+Metoprolol Succinate XL,METO50
+Antihemophilic Factor,ANTI250I
+Zemplar,PARI5I
+Antihemophilic Factor,ANTI500I
+Antihemophilic Factor (Recombinant),ANTI500I
+Antihemophilic Factor (Recombinant),ANTI250I
+Sirolimus,SIRO8L
+Potassium Chloride,POTA10PM
+ritonavir,RITO100
+Diazoxide,DIAZ50L
+Bupropion,BUPR100
+Tuberculin Protein,TUBE5I
+Choline Magnesium Trisalicylate,CHOL750
+Basis,BASIS
+Paxil CR,PARO12.5CR
+dila,PHEN50
+Oxycodone-Acetaminophen,OXYC20
+Vitamin K1,PHYT10I
+Insulin,RHIIND
+Promethazine HCl,SYRG1
+Cromolyn,CROM200
+Sevelamer HCl,SEVE800
+as,ASA81
+as,ASA325
+Gastrocrom,CROM200
+Clotrimazole,CLOT10T
+BuPROPion ,BUPR100
+5 Syringes (NS),SEND5SYR
+Fentanyl Citrate,F4B1ED
+Bupivacaine 0.1%,BUPI0.1CADD
+sodium bi,NABC50S
+Salivart,SPIT
+Thiothixene,THIX1
+albuterol,ALBU4R
+Ciprofloxacin,CILO25ES
+Thiothixene,THIX2
+Artificial Saliva,SPIT
+Polyvinyl Alcohol,REFRESH
+Carbamazepine ER,CARB200ER
+Phenytoin ,PHEN50
+Bacitracin,BACIEO
+Nitroglycerin ,NTG5P
+Nitroglycerin ,NTG25P
+Nystatin Ointment,MICO2P
+Albuterol Sulfate/Ipratropium,COMB14.7H
+acetylcys,ACET20/4I
+Amino Acids 4.25%-Dextrose 5%,CLIN1000I
+Loxapine Succinate,LOXA5
+Loxapine Succinate,LOXA10
+Calcipotriene,CALC.005C
+Lansop,LANS30
+Acular LS,KETO.5ES
+Aprotinin,APRO200I
+Revia,NALT50
+Hepar,HEPA100SYR
+*nf*,GUAI600
+Lidoca,LIDO45I
+Baclofen,BACL2000I
+Ranitidine Hcl,RANI150
+Atacand HCT,CAND4
+artificial,ARTTS
+Albumin 5% (2.5gm),ALBU5250
+Indomethacin,INDO25L
+PrismaSol  (B32 K0),PRISMASOLK32
+Ziprasidone Hydrochloride,GEOD80
+Montelukast,MONT10
+dilt,TIAZ180
+Prismasate (K 2),PRISMAK5000
+Pilocarpine HCl,PILO5
+diltia,TIAZ180
+Albuterol ,ALBU17H
+LIDODERM PATCHES,LIDO5T
+Ropinirole Hydrochloride,ROPI2
+*NF* Lidocaine 5% Patch,LIDO5T
+*NF* Guaifenesin LA,GUAI600
+Epoetin Alfa,EPO4INESRD
+Epoetin Alfa,EPO10INESRD
+Povidone Iodine 10% Ointment,BETA10O
+Fluconazole Suspension,FLUC200L
+Ropinirole HCl,ROPI2
+Lamictal,LAMO100
+Vivelle,ESTR0.025T
+Hydrocortiso,HYDRO100I
+D5W,D5W
+Magnesium Sulfate in D5W,MAGS1I
+Bacitracin,BACI5I
+Thiamine,THIA50
+Tilarginine or Placebo *IND*,TILAIND
+Lithium Citrate (Syrup),LITHI150L
+NEO*IM*Hepatitis B Vaccine,ACTHIBNEO
+Heparin Flush Hickman (100 units/ml),HEPA10SYR
+Albumin 5% (25g / 500mL),ALBU5250
+Amitiza,LUBI24
+L-Hyoscyamine,HYOS.125
+dilt,TIAZ300
+LevoFLOXacin,LEV500
+Heparin Flus,HEP1I
+MICONAZOL,MICO2P
+LANS,LANS30L
+Porfimer Sodium,PORF75I
+Hectorol,DOX2.5
+sodi,NACLFLUSH
+Desmopressin ,DDAV1ND
+Clonidine ,CLON3P
+Cefotetan Disodium,CEFOT2I
+Phenytoin Sodium Extended,PHENY100L
+*NF* Zaleplon,ZALE10
+Pyridoxine,PYRI25
+albumi,ALBU5250
+ZYPREX,OLAN5DTB
+Hydromorphone,HYDR12.5LF
+kaol,"KAOL60L,"
+kaolin,"KAOL60L,"
+Calcium gluco,CALG1I
+Cytomegalovirus Immune Glob,CYTO2500I
+rocuronium,ROCU100I
+Ranitidine Hcl,RANI150L
+Dipentum,OLSA250
+Alprostadil,ALPR500I
+B Complex Vitamins,VITB1
+Diltiazem,TIAZ300
+Mycophenolate Mofetil,MYCO250IND
+Xylocaine,LIDO1I
+Pyridostigmine Bromide,PYRI180
+Docu,DOCU100L
+Sirolimus,SIRO0.5
+Primidone,MYSO250
+Dexamethasone,MAXI1ES
+Methotrexate Sodium P.F.,MTX50I
+Nifedipine,ADAL30
+Ampicillin Sodium,AMPI500
+Ampicil,AMPI500
+Timolol,TIMO5ES
+Liniments,ANAL15C
+Tacrolimus,TACR0.5BN
+Mycophenolate Mofetil,MYCO250BN
+Cardura,DOXA1
+Gleevec,IMAT100
+Dakins 1/8 Strength,DAKINES
+AcetaZOLamide S.R.,ACE500
+zz ,RHIIND
+Cymbalta,DULO30
+Dakins Full Strength,DAKINSF
+Thyroid,THYR180
+SODIUM BICARB,NABC50I
+lansoprazole,LANS30ST
+Levobunolol HCl 0.5%,LEVO5ES
+Valganciclovir Hcl,VALGA450
+Anagrelide HCl,ANAG500
+Mycophenolate Mofetil Hcl,MYCO500I
+Activated,CHAR50L
+CHOLINE,CHOL750
+Pilocarpine 4%,PILO1O
+AMPicillin,AMPI500
+ATROVENT,IPRAPF
+CeleBREX,CELE100
+Gentamicin,GENT80I
+Thyroid,THYR30
+Sulfameth/Trimethoprim ,BACTSSSM
+Nystatin Oral Suspension,NYST60LSM
+Theophylline,THEO200
+Sulfameth/Trimethoprim ,BACTSS
+Quinidine Gluconate,QUIN800I
+Etodolac,ETOD200
+Albuterol ,ALBU5H
+Riluzole,RILU50
+Pyridostigmine Bromide Syrup,PYRI60L
+Deferoxamine Mesylate,DEFE500I
+cortis,CORTOTIC
+Temodar,TEMO100
+Oxandrin,OXAN25
+*NF* Sildenafil Citrate,SILD50
+Lithium Carbonate SR (Lithobid),LITHOBID
+Fosamprenavir Calcium,FOSA700
+HydrALAZINE,HYDZ20I
+Mycophenolate ,MYCO250
+Niaspan,NIAC500
+Niaspan,NIAC100
+*NF* Cyclosporine,CYCL0.05ES
+Brimonidine,ALPH0.15O
+Dextros,DEX50SY
+Lidoderm,LIDO5T
+Peginterferon Alfa-2a,PEGI180I
+Albumin 5% (2.5 g),ALBU2.5I
+Chloroquine,CHLQ500
+LevoFLOXacin,LEVO750PM
+Dextromethorphan-Guaifenesin (Sugar Free),GUAI10L
+cellcept,MYCO250IND
+Lidocaine 2% P.f.,LIDPF2I
+Morphine Sulfate,MORP20R
+cortrosyn,CORTIND
+Desferal,DEFE500IND
+dila,PHENY100L
+sodium b,NABC50I
+guaiFENesin,GUAI600T
+Esomeprazole Magnesium,ESOM20
+dil,PHENY100L
+Cefotetan,CEFOT2I
+Trimethoprim,TRMP200
+Ranitidine,ZAN15L
+Clonidine TTS,CLON3P
+Cetuximab,CETU100I
+Viokase 16,VIOK
+phenytoi,DILA100
+Dilantin Extended,DILA100
+Morphine Sulfate (PF),ASTR5I
+lansopr,LANS30L
+Niacin,NIAC50
+guaiFENesin,GUAI10
+NexIUM,ESOM20
+Botulinum Toxin Type B,BOTOX
+SulfADIAzine,SULFA500
+Glimepiride,GLIM1
+Ceftriaxone Sodium,CEFR2I
+Glipizide,GLUC2.5XL
+Clomipramine HCl,CLOM25
+OxycodONE ,OXYCO5L
+Oxcarbazepine,OXCA60L
+Galantamine,GALA4
+Oxymetazoline (Half Strength),OXYM0.25
+Cyanocobalamin,CYAN50
+Enalaprilat,ENAL25IVPB
+phen,PHEN50
+Multivitam,MULT5L
+Betamethasone Dipro 0.05% Oint,BETA0.05C
+Maxair Autohaler,PIRB0.2H
+Ear Wax Removal Drops,GLYO65OT
+Insulin Regular Human,INRHI
+TISSEEL/ FS VH SD,GLUE2IND
+TISSEEL/ FS VH SD,GLUEIND
+Albuterol ,ALBU3H
+Ipratropium Bromide ,IPRAPF
+Rivaroxaban,RIVAR15
+Homat,HOMA5ES
+Ofloxacin,OFLO0.3ES
+Olanzapine (Disintergrating Tablet),OLAN5
+Morphine Sulfate (0.5-4mg),MORP0.5-4
+Lidocaine jel,LIDO2/5J
+Fentanyl Citrate,PROP200IG
+Cortroysn,CORTIND
+Sulfameth/Tri,BACT20L
+Sulfameth/T,BACT20L
+neutr,NEUT
+Sulfameth/Trimet,BACTSS
+keto,KETO15I
+Hep B-DPAT-Polio Vaccine,PEDIVAC0.5I
+Oxacillin,OXAC1I
+Glatiramer Acetate,GLAT20I
+Kaolin-Pectin/Benadryl/Lido Visc.,KBL240L
+Letrozole,LETR2.5
+Phenylephrine HCl 1%,PHEN1N
+aminoc,AMIC250L
+Carboprost Tromethamine,CARB250I
+Gentamicin,NYST5L
+Propranolol,PROP1I
+SODIUM BICA,NABC50I
+corti,CORTOTIC
+Neomycin-Polymyxin-,CORTOTIC
+Ciprofloxacin HCl,CIPR750
+Pentamidine ,PENT300H
+Pemoline,PEMO375
+*NF* Imatinib Mesylate,IMAT100
+Meperidine HCl,MEPE50I
+Metoprolol,FURO40I
+NiCARdipine,NICA2.5I
+Lidocaine,LIDO1I
+Cefuroxime Sodium,CEF750I
+Famotidine,FAMO20SM
+Nystatin Oral,NYST60LSM
+ValGANCI,VALG50L
+Glimepiride,GLIM4
+Guanfacine,GUAN1
+Febuxostat,FEBU40
+VALP,VAL250L
+Vancomycin Desensitization,VANC.0125L
+Vancomycin Desensitization,VANC.125L
+Vancomycin Desensitization,VANC1.25L
+Vancomycin Desensitization,VANC12.5L
+Vancomycin Desensitization,VANCOD125L
+eryth,ERYT0.5EO
+Vancomycin Desensitization,VANC.000125L
+Vancomycin Desensitization,VANC.00125L
+Charcoal,CHARC120L
+Heparin,WARF2
+OxycoDONE,OXYC5
+OxycoDONE,OXYCO5L
+Peg-Intron,PEGINTE150I
+Methylprednisolone ,METH125I
+Loperamide,NEOLOPE2L
+Heparin CRRT,HEPA5I
+Heparin Flush Midline (100 units/ml),HEPF100I
+Trifluridine 1% Ophth Soln.,TRIF1O
+Aspirin 81 mg /placebo,ASPI81INDP
+asp,ASA81
+asp,ASA325
+Carbatrol,CARB300ER
+Aspirin 325 mg or placebo,ASPI325INDP
+CefTAZidime Desensitization,CEFT1000DES
+aspi,ASA81
+Syringe (Intraventricular),SYRIVT
+Gentamicin Intraventricular,GENT20IVT
+Acetic Acid Otic,DOME
+NEO*PO*Phenobarbital,NEOPHEN
+NEO*PO* Leucovorin (10mg/ml-10ml ),NEOLEUCL
+Heparin CRRT,HEPA100SYR
+triazolam,TRI125
+Xalatan,LATA5OS
+Isosorbide ,IMDU60
+ESTROGEN PATCH,ESTR1P
+Prednisolone Acetate,PRED1ES
+Tretinoin,TRET10C
+Tolvaptan / Placebo,TOLVIND
+Tolvaptan/Placebo,TOLVIND
+Hep,HEP1I
+albute,ALBU5H
+TRIAZOLAM,TRIA25
+Bag,BAG250I
+Fleet,FPS45L
+Zofran ODT,ONDA4ODT
+Metipranolol,METI.3O
+Aggrastat,TRIF12.5I
+Dimen,DRAM50
+Olopatadine HCl,OLOP.1ES
+Divalproex (DELayed Release),DIVA125
+Rituximab,RITU100I
+dilan,PHENY100L
+Benazepril HCl,BENA20
+Senna,SENOKOTS
+Ketamine (For Intubation),KETA500I
+Orthopedic Solution,BACI25/1L
+valium,DIAZ5
+Acidophilus,LACT1
+Sulfameth/Trimetho,BACTSS
+glimepiride,GLIM4
+glimepiride,GLIM2
+Indomethacin,INDO50R
+Imiquimod,IMIQ5C
+Tiazac,TIAZ180
+tri,TRIA25
+*NF* Levocarnitine,LEVO1000I
+albu,ALBU5250
+Didanos,DIDA100
+Alteplase 1mg/5mL ( Clearance ie. Indwelling port ),ALTE1/5I
+Ibuprofen Suspension,IBUP400
+Urocit-K 5,UROC10
+ASA81,ASA81
+Isosorbide ER,IMDU30
+Multivi,MULT5L
+depak,DIVA125SP
+Hepari,HEPA10MUI
+dival,DIVA500
+~<IND> Ketamine/Placebo Study Drug,KETAIND
+*NF* Sumatriptan,SUMA25
+Aspirin Desensitization (Angioedema),ASAEC325
+Homatropine HBr,HOMA2ES
+Diltiazem ,DILT90SR
+Oxycodone ,OXYC5
+Morphine,MOR10L
+Cromolyn Sodium,CROM200
+Cromolyn Sodium,CROM40N
+epinephrine,EPI1I
+Aripiprazole,ARIP2
+Amphetamine-Dextroamphetamine,ADDE5XR
+Zyflo,ZILE600CR
+cromol,CROM200
+Glycerin,GLYCSUP
+prevac,LANS30ST
+Adderall XR,ADDE5XR
+dilt,TIAZ120
+*NF* Rofecoxib,ROFE25
+Isosorbide ER,IMDU60
+Micro-K,MICROK10
+Lumigan,LUGOL
+Felbatol,FELB400
+HYOS,HYOS.375
+GenTeal,GENTEALO
+Sodium Chloride 3% Inhalation Soln,SODI3N
+Polyvinyl Alcohol-Povidone,REFRESH
+Fosinopril,FOSI40
+TISSEEL vs. FS VH SD,GLUEIND
+TISSEEL vs. FS VH SD,GLUE2IND
+Entecavir Oral Solution,ENTE0.5
+Bleph-10 Ophth. Soln.,BLEP10ES
+*NF* Timentin,TIME31I
+Potassium Chloride,MAGS1I
+Amikacin Inhalation,AMIKINH
+Morphine Sulfate (1-10mg),MORP1-10
+Vinorelbine,NAVEL10
+Milrinone,MILR5I
+sevelamer ,RENV800
+Trizivir,TRIZTAB
+Etidronate Disodium,ETID200
+Levonorgestrel,LEVO0.75
+Bacitracin Ophthalmic Oint,BACIEO
+*NF* Caspofungin Acetate,canc70i
+*NF* Caspofungin Acetate,canc50i
+Bupivacaine ,BUPI5I
+Bupivacaine 0.50%-Epinephrine,BUPIWE5I
+Iron Dextran,IRON100I
+m,MULT5L
+NEO*PO*Bicitra,NEOBIC
+Aspirin (Buffered),ASA325
+Iso-Osmotic Dextrose,DUPLEX50
+CefazoLIN,CEFA2D
+Mycophenolate Sodium,MYFO180
+LANSOP,LANS30L
+valproic acid,VAL250L
+budesonide,BUDE0.25
+scopolamine base,SCOP15P
+Flovent,FLUT110H
+Megestrol Oral Suspension,MEGE400L
+Potassium Chloride ,MICROK10
+Potassium Chloride ,KCL20P
+Amoxicillin Trihydrate,AMOX500
+TIMOP,TIMO5ES
+Prednisone,PRED5L
+Prazosin,PRAZ1
+Mebaral,MEPH50
+charco,CHAR50L
+Tolazamide,TOLA250
+Propofol (Generic),ACET650L
+Trazodone HCl,TRAZ50
+Amiod,AMID200
+metoLAZOne,METL25
+permethrin,PERM5C
+Olmesartan,OLME20
+Nystatin ,NYST5L
+Penicillin G Benzathine,PCNGB240I
+Belladonna-Opium,B&OSUPP
+Sulfameth/Trim,BACT20L
+Azmacort,AZMA20H
+Protopic,TACR0.03O
+Tacrolimus Study Med (*IND*),TACR1IND
+*NF* Sodium Chloride 5% (Hypertonic),MURO5O
+Sodium Chloride (Hypertonic),MURO5O
+lidoc,LIDO5O
+Divalproex (DELayed Release),VAL250L
+Multivitamin,MVITH
+Hydrocodone-Acetaminophen (5mg-500mg),VICODIN
+Fenofibrate,FENO48
+Risperidone Oral Solution,RISP1L
+Castor Oil,CAS30L
+Heparin Flush ,HEPA100SYR
+Fulvestrant,FULV125I
+Divalproex (DELayed Release),VALP250L
+Ketamine ,KETA200I
+ClomiPRAMINE,CLOM50
+Dobutamine HCl,ENO3I
+Methylene,MBLU1I
+Methylene,MBLU10I
+Dornase Alfa,PULMOZYME
+HydrALAZINe,HYDZ20I
+Heparin,AMID200
+Interferon Alfacon-1,INTE9I
+Prednisolone,PREDN5L
+Divalproex Sodium,DEPA500ER
+Aminocapr,AMIN5
+Aminocaproic Acid 25 % Oral Rinse,AMIC250L
+Acetylcystein,ACET20/4I
+*NF* Glimepiride,GLIM2
+Aminocaproic Acid Oral Rinse,AMIC250L
+AMINOCAPROIC,AMIN5L
+AMINOCAPROIC,AMIC250L
+D5W (Glass Bottle),CYCLOBASE
+flonas,FLUT16N
+galantamine,GALA4
+Isosorbide Mononitrate ,IMDU30
+Influenza A (H1N1) Vaccine,H1H1VAC5I
+prednisolone,PRED1ES
+prednisol,PRED1ES
+Adderall,ADDE5XR
+1,LIDPF1I
+Tacrolimus (Self Med),TACR1SM
+levo,LEVO50
+Lidocaine,LIDPF1I
+Mycophenolate Mofetil Suspension,MYCO500SM
+ValGANCIclovir Suspension,VALG450SM
+Albumin 5% ,ALBU5500
+Neo*PO*Carbamazepine 20mg/mL,NEOCARB200L
+Ibup,IBUP400
+Hyoscyami,LEVS125
+Miconazole ,MONI7C
+Phenyto,PHEN50
+Vitamin C,ASCO500
+Serevent Diskus,SALM50D
+Estratest H.S.,ETHSTAB
+Risedronate Sodium,RISE35
+Nicotinic Acid SR,NIAC500SR
+aspirin,ASA81EC
+Anusol-HC,ANUSHC
+Lotensin,BENA5
+Sodium Bicarbonate 4% (2.4meq),NEUT1I
+Diclofenac Sodium,DICL75
+REYATAZ,ATAZ100
+Flucytosine,FLUC250
+triaz,TRI125
+Mebaral,MEPH32
+Alum Potassium,ALUM454
+Pramoxine HCl,ANUS1O
+Proplex,FACT9
+Factor 9 Complex,FACT9
+Heparin,HEPA100SYR
+diltiazem,TIAZ120
+Morphin,MOR10L
+Tegaserod Hydrogen Maleate,TEGA2
+rivastigmine,RIVA15
+rivastigmine,RIVA3
+insuli,INNHI
+Prozac,PROZ20
+potas,MICROK10
+Insulin ,INNHI
+Sulfamet,BACTDS
+Indomethacin XR,INDO75XR
+Daunorubicin Citrate Liposomal,DAU50I
+Insulin,NOVONPH100I
+Excedrin Migraine,EXCMIGTAB
+Betamethasone Valerate 0.1% Cream,BETAVAL.1/45C
+Insulin,NOVO100I
+Isosorbide ,ISMO10
+Isradipine,ISRA25
+ticagrelor,TICA90
+Cyproheptadine,CYPR4
+Solifenacin,SOLI5
+Cyproheptadine,CYPR2L
+Refresh P.M.,REFRESH
+Risperidone Long Acting Injection,RISP50I
+HYDROmorphone,H1B1ED
+Insulin Aspart *NF*,NOVO100I
+CILOSTAZOL,CILL50
+Heparin Sodium (Preservative Free),HEPA10SYRN
+Heparin ,HEPA10MUI
+darbepoetin alfa in polysorbat,DARB200I
+Methotrexate Sodium,MTX1000I
+GlyBURIDE,GLYN3
+Phenoxybenzamine HCl,PHEN10
+Divalproex ,DIVA125SP
+levsin,HYOS.375
+Levsin,HYOS.375
+Simvastatin or Placebo,SIMVIND
+Procainamide,PROC250
+megest,MEGE200L
+Zarontin,ETHO250
+Zarontin,ETHO50L
+Miconazole Nitrate (Combo Pack),MONI7C
+Phenyleprhine Ophth Soln 10%,PHEN10ES
+Tacrolimus Suspension,TACR5
+Sulfameth/Trime,BACT20L
+bact,BACTDS
+Pilocarpine 6%,PILO6ES
+Sulfameth/Trimeth,BACT20L
+Catapres,CATA1
+Monopril,FOSI40
+Ear Drops Earwax Aid,GLYO65OT
+Sodium CITRATE 4%,SODCITABL
+Sodium Chloride (23.4%) Kit,ICPKIT
+PACLItaxel (TaxOL),TAXO30I
+gabapentin,GABA100
+Isosorbide ,ISOS20
+gabapentin,GABA250L
+Metoprolol ,TOPR100
+Multivitamin,MVI10I
+CeftriaXONE,CEFT500I
+flomax,TAMS.4
+Procainamide,PROC100I
+CeleBREX,CELE200
+Biaxin,BIAX250
+Albuterol MDI,PROAIR8.5H
+Olanzapi,OLAN5DTB
+potas,POTA20
+Vancomycin,VANC250PR
+regular insulin,RHIIND
+Labet,LABE100I
+Hepatitis B Immu Glob (HepaGam B),HPGB5PB
+Methylprednisolone,METH40I
+Balsalazide,BALS750
+Disopyramide Phosphate,DISO150CR
+LIDOCAI,LIDO5O3.5
+synt,LEVO25
+Phenytoin Sodium Extended,DILA30
+Cyclosporine,NEOR100L
+Meperidine (PF),MEPE50I
+Desipramine,DESI10
+Verapamil,VERA120SR
+Magnesium Sulfate,MAG2SYR
+Neut,NEUT
+SulfaSALAzine,SULF500EC
+Tucks,ANUS1O
+levothy,LEVO112
+LaMOTrigine,LAMO100BRAND
+Digo,DIGO25
+Dexamethasone Intensol,DEXA1L
+Tobramycin Sulfate,TOBR1200I
+SImvastatin,SIMVIND
+Morphine Sulfa,MORPCONC
+pramipexole,PRAM.25
+VESIcare,SOLI5
+Famoti,PEPC20
+Amoxicillin,AUGMSUSP
+Etanercept,ENBR25I
+Venlafaxine ,VENL375
+Fenofibrate Micronized,FENO145
+Prochlorperazine,PROC10I
+Guaifenesin-CODEINE Phosphate,GUAIC120L
+Cortroysin,CORTIND
+PHENObarbital,NPHEN10I
+Cocaine HCl,COCA10T
+Strattera,ATOM40
+Strattera,ATOM60
+Insulin Reg Human (NovoLIN R),NOVOR100I
+Tretinoin,TRET40L
+Ace,ACET325
+Ace,ACET650L
+Meges,MEGE400L
+Isosorbide Dinitrate SA,ISOS40ER
+olmesartan,OLME20
+Zyflo CR,ZILE600CR
+Famo,PEPC20
+Hepa,HEP1I
+Loxapine Succinate,LOXA25
+Sitagliptin,SITA100
+Loperamide,LOPE1/7.5L
+char,CHAR120L
+quiniDINE Sulfate,QUIN200
+Mupirocin Nasal Ointment 2%,BACT2/15C
+Betamethasone Dipro 0.05% Cream,BETA0.05O
+Co-syntropin,CORTIND
+Quetiapine,QUET25
+Calcium Chloride Oral Soln,CACHL30L
+NEO*PO*AcetaZOLamide (20mg/1ml),NEOACET2
+Lorazepam,LORA5L
+Lidocaine,LIDO4S
+"Bottle, Glass",BTL750I
+quiniDINE Sulfate,QUIN300
+*NF* Beclomethasone Dipro 80 mcg Inh,BECLINH
+nap,NAPH15O
+Benazepril,BENA20
+potassiu,KCL20P
+potassium,POTA20
+JANUVIA,SITA100
+Aspirin ,ASPIDESEN
+DOCEtaxel (TaxoTERE),TAXO160I
+Fluorouracil,FLUO2500I
+300 mcg Vial,VIAL300
+Enoxaparin,ENO3I
+lanso,LANS30ST
+Mucinex DM,GUAI600T
+Epinephrine ,EPIPEN0.3I
+Epine,EPIPEN0.3I
+Hydrocortisone Na Succ,HC100I
+Belladonna Alk-Phenobarbital,DONN162
+Tylenol-Codeine #3,T3
+Imatinib ,IMAT400L
+Cyclosporine Modified,NEOR100L
+Imatinib Oral Suspension,IMAT400L
+Levalbuterol Tartrate,LEVA0.63L
+Ureacin-20,UREA20C
+nystat,NYST5L
+Dasatinib,DASA70
+Ziprasidone HCl,GEOD80
+Trihexyphenidyl HCl,TRIH5
+Fentanyl,FENT2.5250
+Ammonium Lactate,LACT12T
+Dexrazoxane,DEXR500I
+rizatriptan,RIZA10
+*NF* Pramipexole,PRAM.25
+Zyflo CR,ZILE600
+Morphine Concentrate,MORPCONC
+1,LIDOPF130I
+1,LIDEPF220I
+Dexamethasone Oral Soln (0.1mg/1mL),DEXA0.1L
+Propranolol HCl,PROP60
+Cytomegalovirus Immune Glob,CYTO2.5I
+Citalopram ,CITA20
+Lamotrig,LAMO100
+Mycophenolate Mofetil,MYCO750L
+sod,NABC50S
+Fentanyl,FENT50P
+Robitussin Chest Congestion,GUAI10
+Paroxetine,PARO25CR
+panto,PANT40
+PleTAL,CILOS100
+Fentanyl PCA,FENT2.550
+Meperidine PCA,MEPE500PCA
+Morphine Sulfat,MOR10L
+Terconazole 80mg Vag. Supp,TERC80V
+Insulin Human Regular (Dilute),INSNEO1
+Gamunex,GAMU5I
+PrimiDONE,PRIM
+Isosorbide Monon,IMDU30
+Belladonna & Opium (16.2/30mg),B&OSUPP
+Valproate Sodium,VALP250L
+Fosamax,ALEN70
+traz,TRAZ50
+*NF* Potassium Chloride,NEOKCL1.3L
+Fluticasone,FLUT110HFA
+simvastatin or placebo ,SIMVIND
+Budesonide (Bulk),BUDE0.5
+Docusate Sodi,DOCU100
+Docusate Sodi,DOCU100L
+Mycophenolate Mofetil (Self Med),MYCO500SM
+Gaviscon Extra Strength,GAVITAB
+Tylenol,ACET325
+Sulfameth/Trimethoprim Suspension,BACTDS
+simvastatin,SIMVIND
+Scopolamine Base,SCOP15P
+synth,LEVO100
+Levoxyl,LEV100
+Levoxyl,LEVO100
+Dextrose 5%,D5W100
+Divalproex Sod. Sprinkles,DIVA500
+Albumin 5% (25g / 500mL),ALBU25
+Lotensin,BENA10
+HYDROmorphone (Dilaudid),HYD50PCA
+MetFORMIN,METF500
+Mechlorethamine,MECH10I
+Mycophenolate ,MYCO1000L
+Mycophenolate ,MYCO500T
+Provera,MEDR10
+nephro,NEPH1
+MEMAntine,MEMA5
+Humalog Mix 75-25,HUMA75/25I
+Paliperidone ER,PALI3
+Isosorbide,IMDU30
+Doxycycline Monohydrate,DOXY100C
+Varicella Zoster Immune Glob,VARI125I
+candesartan,CAND16
+NEO*IV*Penicillin G Potassium,NEOPENG2I
+Tacrolimus (Self Med),TACR0.5SM
+Pantoprazole (Self Med),PANT40SM
+Fluconazole (Self Med),FLUC200SM
+Sulfameth/Trimeth SS (Self Med),BACTSSSM
+ValGANCIclovir (Self Med),VALG450SM
+PredniSONE (Self Med),PRED5SM
+Aricept,DONE5
+POTassium Chloride,NEOKCL1.3L
+Polyethylene Glycol 3350,GLYC17
+sodium Bica,NABC50I
+Phenylephrine 1% Nasal Spray,PHEN1N
+Epinephrine,EPIPEN0.3I
+Buprenorphine HCl,BUPR3I
+Morphine Sulfate,MORPITPACU
+Amantadine,AMAN100L
+tolt,TOLT1
+bactrim,BACTSS
+Vitamin B Complex,VITBC1
+Sertraline,ZOLO50
+Dextrose 5%,D5W50
+Octreotide Acetate,OCTR30I
+Oseltamivir,OSEL12L
+Mesalamine Desensitization,MESADESEN1
+Mesalamine Desensitization,MESADESEN2
+Mesalamine Desensitization,MESADESEN3
+Mesalamine Desensitization,MESADESEN4
+Mesalamine Desensitization,MESADESEN5
+Mesalamine Desensitization,MESADESEN6
+Mesalamine Desensitization,MESADESEN7
+Mesalamine Desensitization,MESADESEN8
+Mesalamine Desensitization,MESADESEN9
+Mesalamine Desensitization,MESADESEN10
+Mesalamine Desensitization,MESADESEN11
+Mesalamine Desensitization,MESADESEN12
+Mesalamine Desensitization,MESADESEN13
+Phenytoin (Suspension),PHEN100I
+Sulfameth/Trimethoprim Suspension,BACTSSSM
+0.9% Sodium Chloride,NS25
+Finasteride,FINA1L
+Deferoxamine (DFO) *IND*,DEFE2000I
+Ranitidine ,RANI150
+Heparin flush,HEP1I
+Zinc Oxide,DESI30O
+Zyflo,ZILE600
+Artificial Tear,ARTI3.5O
+Procainamide,PROC500I
+Pulmicort Flexhaler,BUDE200H
+Lacosamide,LACO50
+Meloxicam,MELO7.5
+Metoprolo,TOPR100
+Metoprolo,METO50
+Pilocarpine HCl,PILO4G
+Paliperidone ER,PALI6
+Lidocaine 1% PF,LIDPF1I
+Simvastatin or Placebo (*IND*),SIMVIND
+Neo-Synephrine,PHEN5N
+LevoFLOXacin,LEVO500PM
+MEMAntine,MEMA10
+Entecavir,ENTE0.05L
+1,FENT2I
+Levalbuterol HCl (Bulk),LEVA0.63L
+cilostaz,CILOS100
+potassium ch,POTA20
+Micardis HCT,TELM20
+Pramoxine-Menthol-Petrolatum,PRAM1L
+Mult,MVI
+citrate,SODCIT3SYR
+atropine,ATRO1/15ES
+Microgestin 1/20 (21),NORESTFE
+Morphine Sulfate (Concentrated Oral Soln),MORP20/30L
+Neomycin-Polymyxin-HC Otic Susp,CORTOTIC
+*NF* Sunitinib,SUNI50
+char,CHARC120L
+Evoxac,CEVI30
+Isosorbide Dinitrate ER,ISOS40ER
+Hexavitamin,MULT5L
+Carbamazepine Chewable Tabs,CARB200L
+mu,MULT5L
+Sunitinib,SUNI50
+fentaNYL,FENT75P
+Pyridoxine,PYRI100I
+Uro-Mag,MAGO140
+Heparin Flush CVL  (100 units/ml),HEPA5I
+Mexiletine,MEXI250
+OxycoDONE Liquid,OXYC5
+Acetaminophen (Liquid),APAP500
+Pramoxine-Mineral Oil-Zinc,ANUS1O
+Fenofibrate Nanocrystallized,FENO145
+Ephedrine,EPHE50I
+Trimethobenzamide,TRIM100I
+Tetanus-Diphtheria Tox (DECAVAC),DT.5I
+Ziprasidone Mesylate,ZIPR20I
+0.9% Sodium Chloride (EXCEL BAG),EXCELNS1000
+Thioridazine HCl,THIO25
+divalproex,DIVA500
+Cefepime Desensitization,CEFDES
+Calcitonin Salmon,CALC400S
+Syringe,SYR
+Calcitrate,CALC500
+OLANZapine (Disintegrating Tablet),OLAN10ODT
+Thioridazine,THIO25
+Nephramine 2.7%,NEPH2.71000I
+sodium,ICPKIT
+Acetaminophen w/Codeine Elixir,T3
+ATRIPLA,ATRA50I
+Ciprofloxacin,CIPR500
+NS (Irrigation Bottle),NS1000IBTL
+Heparin Lock Flush,HEPAR10I
+Lidocaine,LID2J
+250 mL Bottle,BTL250
+Acetic Acid 0.04% Soln,ACET0.04IR
+Timolol Maleate 0.5% GFS,TIMO5ES
+Metronidazole cream 1%,METR1G
+Fluvastatin,FLUV20
+Triamcinolone Acetonide 0.025% Ointment,TRIAM.025/45O
+Factor 9 Complex,PROFVIAL
+White Petrolatum-Mineral Oil,ARTI3.5O
+MetRONIDAZOLE (FLagyl),METR50L
+Oxaliplatin,OXAL50I
+Bevacizumab,BEVA400I
+Morphine Sulfate For Inhalation,DURA100I
+Morphine Sulfate For Inhalation,MORPIM
+Lidocaine ,LIDPF1I
+Colestipol,COLEPWD
+Ipratropium Brom,IPRA2H
+Avelox,MOXI400
+Diltiaz,DILT500I
+cilostazol,CILL50
+quiniDINE Gluconate,QUIN800I
+Remeron SolTab,MIRT15SOL
+Lidocaine,LIDO15AM
+Haloperidol Decanoate,HALD100I
+Anamorelin HCl vs placebo,ANAMSTUDY
+Fluticasone,FLUT16N
+Isosorbi,ISOS20
+Hepatitis B Immun Globulin (HepaGam B),HPGB5I
+Megestro,MEGE400L
+LevoFLOXacin,LEVO250PM
+Clonidine,CLON2P
+lidocain,LIDO2/5J
+Heparin Flush Port ,HEP1I
+anastrozole,ANAS1
+Cilostaz,CILOS100
+hepar,HEP1I
+Ribavirin *NF*,RIBA1I
+Ergocalciferol,ERGO8000LNEO
+Trimethoprim Oral Soln,TRIM10L
+Atrovent HFA,IPRAPF
+CarafATE,CARA1
+6 Syringes (NS),SEND6SYR
+Warfarin,WARF5I
+Terbinafine,LAMI250
+Heparin Flush (10 units/mL),HEP1I
+Epinephrine HCl,EPI400SYR
+Sirolimus,SIRO1SM
+CycloSPORINE (Neoral) MODIFIED,NEOR0
+CycloSPORINE (Sandimmune),CYCL0
+Ethosuximide,ETHO50L
+Ethosuximide,ETHO250
+Capoten,CAPT25
+Bacitracin-Polymyxin ,POLYEO
+Citalopram,CITA2L
+moxifloxacin,MOXI400
+Nystatin Oral Susp (Self Med),NYST60LSM
+Testosterone 4 mg Patch,TEST4P
+Clindamycin,CLIN300L
+Amoxicillin,AMOX500L
+ValGANCIclovir ,VALG450SM
+valganciclovir,VALG50L
+Naloxone,NALO6L
+"Meningococ Vac A,C,Y,W135 (PF)",MENA0.5I
+Propra,PROPLA80
+Bag,BAG3000mL
+CeftriaXONE Desensitization,CEFTR1000I
+Valproic Acid,DIVA125SP
+Amoxicillin-Clavulanate Susp.,AUGM875L
+Ketamine ,KETA5I
+ValGANCIclovi,VALG50L
+Propranolol,PROP60
+Morphine,MORP15
+Tetanus-DiphTox-Acellular Pertuss (Adacel),ADACEL
+Hepatitis B Vaccine,HEPA0.5I
+Carbamazepine (Extended-Release),CARB200XR
+Syringe (Sterile Water),SWSYR20
+*NF* Iron Sucrose,VENO100I
+0.9% Sodium Chloride,NICABAGNS
+CeftriaXONE,CEFR2I
+dilt,TIAZ240
+Syringe,SYR1ML
+Romiplostim,ROMI250I
+Ultram,TRAM50
+Azathioprine,AZAT25HT
+Lacosamide *NF*,LACO200I
+Vimpat,LACO200
+HYDROmorphone,H2B1ED
+Emtricitabine,EMTR10L
+PENTobarbital sodium,NEBU1000I
+Risperidone Long Acting Injection,RISP37.5
+Acetylcysteine (IV),ACET6I
+Alemtuzumab,ALEM30I
+Polymyxin B Sulfate,POLYB1MUL
+Aspirin ,ASA325
+Aspirin Desensitization (AERD),ASA81
+Aspirin Desensitization (AERD),ASA325
+asp,ASPIDESEN
+Asp,ASPIDESEN
+Aminocaproic,AMIC5L
+Bacitracin,BACI100000L
+Azathioprine,AZAT75
+benazepril,BENA5
+Ketorolac Tromethamine,KETO15I
+Omeprazole,LANS30ST
+Amoxicillin-Clavulanate Susp.,AUGM500L
+Isordil,ISOS10
+Isosorbide Mononi,IMDU30
+Acebutolol,ACEB200
+Aspirin 325mg/ placebo,ASPI325INDP
+Aspirin 81 mg/ Placebo,ASPI81INDP
+Propranolol,PROP1PB
+Azathioprine,AZAT37.5HT
+MedroxyPROGESTERone Acetate,MEDR150I
+DOXOrubicin,DOXO50SYR
+cyanoc,CYAN500
+Ropivacaine 0.2%,ROPI0.2CADDB
+Dexameth,DEXA15
+Dexamet,DEXA2
+Dexameth,DEXA2
+Tretinoin 0.025% Cream,TRET.025C
+Docusate Sod,DOCU100
+Docusate Sod,DOCU100L
+Dexametha,DEXA15
+EPINEPHrine,EPI400SYR
+Lithium Carbonate,LITHI60L
+Hydrocortisone Acetate 10%  Foam,CORTFOAM
+0.9% Sodium Chloride (EXCEL BAG),EXCELNS250
+Efavirenz,EFAV20L
+Buprenorphine,BUPR2
+Isosorbide Mono,IMDU60
+Potassium ,MICROK10
+Clotrimazole 1% Vaginal Cream,CLOT1VC
+aspir,ASA81
+insulin ,IN73HI
+Cephalexin Desensitization,CEPHDESEN50L
+Verapa,VERA120SR
+Phosphorus,NEUT
+Fosaprepitant,FOSA150IV
+Dexa,DEXA4
+Cephalexin Desensitization,CEPHDESEN1/10L
+Cephalexin Desensitization,CEPHDESEN1L
+Lorazepam 2mg syringe ,SEPLORA2I
+Detrol LA,TOLT2
+Epineph,EPIPEN0.3I
+Nystat,NYST5L
+Imipenem-Cilastatin *NF*,IMIP500I
+ValGANCIclov,VALG50L
+nia,NIAC500SR
+carbamide peroxide,GLYO65OT
+Niacin sr,NIAC500SR
+Niaci,NIAC500SR
+Tretinoin Suspension,TRET40L
+Zanamivir (*IND*),ZENA200I
+Niac,NIAC500SR
+Cephalexin,CEPH500L
+Symbicort,SYMB80/4.5IH
+Ampicillin,AMPI500L
+Vitamin E,VITEDR
+Dexamethason,DEXA2
+Dexa,DEXA2
+Phenytoin Infatab,DILA100
+Heparin Flush (100 units/mL),HEPA100SYR
+Fulvestrant (Faslodex),FULV250IND
+Dex,DEXA2
+Dexam,DEXA2
+Dex,DEXA15
+imd,IMDU30
+Albumin ,ALBU5500
+Fluphenazine,FLUP5
+QUEtiapine,QUET25
+Asp,ASA81
+benazepril,BENA10
+Morphine S,MOR10L
+Sulfameth,BACTSS
+rocuronium,ROCU50I
+Ny,NYST5L
+Hydroxyurea,HYDR500L
+Cocaine 4% Soln,COCA4T
+Phenytoin ,DILA100
+23.4% Sodium Chloride,ICPKIT
+Gentamicin 0.1% Cream,GENT01C
+DAUNOrubicin,DAUN20SYR
+Temsirolimus,TEMS25I
+*NF* Bicalutamide,BICA50
+Sodium Bicarbo,NABC50I
+irbesartan,IRBE150
+fentaNYL citrate (PF),FENT2I
+Coenzyme Q10 Study Drug,COENIND
+Tetracaine HCl,TETRA5ES
+VinCRIStine (Oncovin),VINC2SYR
+Vancomycin Enema,VANC500PR
+ammonium lactate,LACT12T
+Chloroquine,CHLOR250
+Simvastin or Placebo,SIMVIND
+Verapa,VERA240SR
+Lacosamide,LACO50L
+Lacosamide,LACO100L
+VALACYCLOVIR,VALA500
+Prop,PROPLA80
+Betamethasone Dipro 0.05% Augmented Gel,BETAAUG0.05G
+Mirapex,PRAM0.5
+HumaLOG Mix 75-25,HUMA75/25I
+Leuprolide Acetate,LEUP45I
+Volumen (Barium Sulfate 0.1% Suspension),VOLU450L
+Bisaco,BISA10R
+Bisaco,BISA5
+levalbuterol HCl,LEVA0.63L
+Niaspan Extended-Release,NIAC500SR
+gala,GALA4
+Bupivacaine 0.25%,BUPIV0.25BAG
+PHENYLEPHrine,PHEN50I
+Dexam,DEXA15
+Dasatinib,DASA100
+Oxycodone-Acetaminophen (5mg-325mg),ROXIOS
+irbesartan,IRBE300
+cinacalcet,CINA30
+Tenecteplase,TENEIND
+Quetiapine Fumarate,QUET6.25QT
+JanUVIA,SITA100
+CISplatin,CISP50IV
+Mannitol,MANN25IV
+Magnesium Sulfate,MAGMEQV
+ValGANCIc,VALG50L
+Tacrolimus Suspension,TACR1SM
+MetRONIDAZOLE (FLagyl),METR500I
+5% Dextrose,D5W3000
+Tretinoin (ATRA-All Transretinoic Acid),TRET10C
+Pangestyme EC,PANCEC
+Isosorb,IMDU30
+Vancomycin,VANC5I
+0.9% Sodium Chloride,NS3000
+Methotrexate,METH1000I
+*NF* Ceftaroline,CEFT600I
+Piperacillin-Tazobactam,ZOSY3I
+Epinephrine 1:1000,EPIS10I
+*NF* Erlotinib,ERLO150
+ve,TRET10C
+dornase alfa,PULMOZYME
+Lidocaine 1.5%/Epinephrine P.F.,LIDEPF1.530I
+Erythromycin,ERYT250L
+ond,ONDA8ODT
+ZOFRAN ODT,ONDA8ODT
+bisacody,BISA5
+bisacodyl,BISA5
+GlipiZ,GLUC5XL
+Aminocaproic Acid,AMIC5L
+Tacrolimus Suspension,TACRSUSPBN
+MethylPREDNISolone Sod Succ ,METH40IVPB
+ZyPREXA Zydis,OLAN5DTB
+Potassium Chloride (Powder),POTA20
+Promethazine,PROM480L
+Methotrexate,METH1I
+Tretinoin (ATRA-All Transretinoic Acid),TRETL
+Tretinoin (ATRA-All Transretinoic Acid),TRET50L
+Amoxicillin,AMOX875L
+Sodium Phosphate,FLEETEN
+Arava,LEFL20
+Cromolyn Sodium (Nasal Inhalation),CROM40N
+Ciprofloxacin HCl,CIPR50L
+Valproic Acid,DIVA500
+Prazosin,PRAZ5
+Rythmol SR,PROP225
+CADD Cassette,CADDNS250
+Arsenic Trioxide *NF*,ARSE10I
+Neutra,NEUT
+Clofarabine  *IND*,INDCLOF20I
+Rasburicase,RASB1.5I
+glipiZIDE,GLIP5
+Dornase alfa,DORN2.5PL
+Syringe (Sterile Water),SW30SYR
+sevelamer CARBONATE,SEVE400
+0.45% Sodium Chloride,NS45500
+Isosorbide Mononitra,IMDU30
+bisoprolol fumarate,BISO5
+Venlafax,VENL75XR
+GammaGARD Liquid,GAMML10I
+Biscolax,BISA10R
+Valium,DIAZ10I
+Testosterone Cypionate,DEPO200I
+Calcium Gluconate Replacement (Critical Care and Oncology),CALG1I
+Aspirin 325 mg or Placebo,ASPI325INDP
+Aspirin 81 mg or Placebo,ASPI81INDP
+Aspirin 81mg or placbo,ASPI81INDP
+HYDROmorphone,DILA2I
+demeclocycline,DEME150
+Lumigan,LATA5OS
+cabergoline,CABE0.5
+OLANZapine,OLAN10
+Erlotinib (Tarceva),ERLO150
+Feraheme,FERU510I
+Mycophenolate Mofetil Suspension,MYCO750L
+Peridex,PERI12L
+Tacrolimus,TACRSUSPBN
+Tacrolimus (Prograf Brand) Suspension,TACRSUSPBN
+diclofenac sodium,DICL1ES
+Coenzyme Q10 Study drug,COENIND
+Proprano,PROP60
+Maxalt-MLT,RIZA10
+Treprostinil Sodium,TREP20I
+Lorazepam 2 mg syringe ,SEPLORA2I
+Latuda,LURA40
+Coal Tar 3% Shampoo,COAL3S
+Imatinib Mesylate,IMAT400
+Bupivacaine 0.2%,BUPI0.2EPD
+Dexamethasone ,DEXA0.5L
+fenofibrate micronized,FENO48
+Bacitracin-Polymyxin Ointment,POLYEO
+Colchicine,COLO06S
+Cangrelor Study Drug (*IND*),CANGIND
+Clopidogrel 150 mg or placebo,CLOPIND
+0.9% Sodium Chloride P.F. (Syringe),NSSYR10
+Cytarabine,CYTA2000SYR
+Hydrocortisone,HC100IC
+Albumin 25% (12.5g / 50mL),ALBU25100I
+Razadyne ER,GALA4
+Erythromycin,ERYT0.5EO
+Niaci,NIAC50
+Caspofungin *NF*,CANC70I
+*NF* Erlotinib,ERLO25
+Dexamethaso,DEXA0.5L
+fenofibrate nanocrystallized,FENO48
+famciclovir,FAMC250
+BenGay,BENGAY2O
+Sucralfate Enema,CARA1
+Sucralfate Enema,SUCR2R
+glatiramer,GLAT20I
+Atgam,ATGAM
+famciclovir,FAMC500
+Neoral *Study Medication*,NEOR100IND
+Neoral,NEOR25IND
+Neoral,NEOR100IND
+Neoral Study Med (*IND*),NEOR100IND
+ICPKIT,ICPKIT
+Levalbuterol,LEVA0.63L
+Lidocaine Viscous 2%,LIDOVISC
+MYCOPHENOLATE MOFETIL 250MG OR PLACEBO CAPSULES,MYCOIND
+MYCOPHENOLATE MOFETIL 250MG OR PLACEBO CAPS,MYCOIND
+FTY720 1.25MG OR PLACEBO CAPS,FTY7201.25IND
+FTY720 2.5MG OR PLACEBO CAPS,FTY7202.5IND
+MYCOPHENOLATE MOFETIL 250MG OR PLACEBO CAPSULE,MYCOIND
+neoral,NEOR25IND
+neoral,NEOR100IND
+Neoral capules,NEOR100IND
+LaMOTrigine,LAMO5
+Neoral capules,NEOR25IND
+FTY720 2.5MG OR PLACEBO CAPSULE,FTY7202.5IND
+FTY720 1.25MG OR PLACEBO CAPSULE,FTY7201.25IND
+Neoral* Study Medication*,NEOR25IND
+Neoral* Study Medication*,NEOR100IND
+Neoral Study Med (*IND*),NEOR25IND
+Neoral *Study Medication*,NEOR25IND
+MYCOPHENOLATE MOFETIL 250MG OR PLACEBO CAPS ,MYCOIND
+FTY720 2.5MG OR PLACEBO,FTY7202.5IND
+fluocinolone,SNLR260O
+dorzolamide,DORZ2S
+Gentamicin 0.3% Ophth. Ointment,GENT3EO
+Ondanset,ONDA8ODT
+Albumin 25% (12.5g / 50mL),ALBU5500
+Tegretol,TEGR200
+Influenza Virus Vaccine *Latex Free*,INFL0.5LF
+Isosorbide ,IMDU30
+metroNIDAZOLE Desensitization,METRODESN
+Ketamine,KETA500I
+Tretinoin 0.05% Cream,TRET.05C
+Diltia,DILT25I
+Aspirin 81 mg  or placebo,ASPI81INDP
+Betamethasone Dipro 0.05% Lot.,BETA0.05L
+zz,CORTIND
+balsalazide,BALS750
+LeVETiracetam Oral Solution,LEVE500
+Hydroxyurea,HYDR1000L
+Micardis,TELM20
+Nysta,NYST5L
+Lidocaine ,LID2J
+LeVETiracetam Solution,LEVE500
+LeVETiracetam Solution,LEVE250T
+Hep,HEPA100SYR
+Gamunex/GammaKED,GAMU5I
+Triamcinolone Acetonide,TRIA10I
+Rufinamide,RUFI200
+Phenyt,DILA100
+Olanzapine,OLAN0.25L
+candesartan,CAND4
+Mepe,MEPE50I
+Docus,DOCU100
+Docus,DOCU100L
+praziquantel,PRAZ600
+cet,CETI10
+potass,POTA20
+GammaGARD Liquid,GAMML30I
+Bottle,IVIGBTL
+Phenytoin ,PHENY100L
+Guaifenesin-CODEINE Phosphate,GGAC10L
+Testosterone Propionate,TEST2.5
+sodium chlor,ICPKIT
+Amoxicillin-Clavulanic Acid,AUGM875L
+Dextrose 5%,D5W1000
+zafirlukast,ZAFI20
+AccoLATE,ZAFI20
+cephalexin,CEPH500L
+Ascorbate Sodium,ASCO1000I
+darbepoetin alfa in polysorbat,DARB60SY
+Insulin Aspart,NOVO100I
+Dorzolamide,DORZ2S
+Pancreaze,PANC5000
+Phenylephrine 2.5 % Ophth Soln,PHEN2.5O
+LaMOTrigine,LAMO25BRAND
+LaMICtal,LAMO25BRAND
+sodium chlor,SODI65S
+Influenza A (H1N1) Vac 09 (PF),H1N1VACC
+Varicella Virus,VARI1I
+Artificial Tear Ointment,ARTTS
+Lithium ,LITHOBID
+mycophenolate sodium,MYFO180
+artificial,ARTI3.5O
+pred,PREDN5L
+Lithium Oral Solution,LITHI60L
+BuPR,BUPR150
+predn,PREDN5L
+AMOXicillin Oral Susp.,AMOX500L
+finasteride,FINA5
+ValGANCIclo,VALG50L
+GlyBURI,GLYB1.25
+Albumin,ALBU25IVPB
+Agrylin (anagrelide) 0.5mg CAP,ANAG500
+exemestane,EXEM25
+Sodium Chloride 0.9 % or No Intervention,NS500IND
+carbidopa-levodopa,PARC25/100
+diltiaz,TIAZ120
+Famc,FAMC500
+Sulfameth/Trimethoprim ,BACTDS
+Ropivacaine 0.2%,ROPI0.2/100I
+0.9% Sodium Chloride (EXCEL BAG),EXCELNS500
+Acetylcysteine ,ACET20/4I
+Influenza A (H1N1) Vaccine,H1N1VACC
+temazepam,TEMA15
+anagrelide,ANAG500
+Cefpodo,CEFP100
+albendazole,ALBE200
+Linezolid Suspension,LINE20L
+carisoprodol,CARI350
+Morphine ,MORP5I
+Val,VALG50L
+Chloroprocaine 3% MPF,CHLORO30
+Fluphenazine DECANOATE,FLUP125I
+LeVETiracetam Oral Solution,LEVE1000L
+valproic acid (as sodium salt),VAL250L
+fish oil,FISH1000
+Docusate So,DOCU100L
+EPINEPHrine,EPIS10I
+emtri,EMTR10L
+Efavirenz,EFAV30L
+Pemetrexed,PEME500I
+Docusate S,DOCU100
+Novolin R,NOVOR100I
+Lidocaine 0.5% Mpf,LIDO550I
+Nelarabine (NF),NAVA250I
+Botox,BOTOX
+AmLactin,LACT12T
+neut,NEUT
+Carbamazepine,CARB200ER
+Carbamazepine,CARB100XR
+Cosyntropin,CORTIND
+Carbamazepine,CARB300ER
+Carbamazepine ER,CARB100XR
+Dornase alfa *NF*,DORN2.5PL
+Docusate S,DOCU100L
+NS,CIMBASE
+Ketamine,KETA100/50NS
+Progesterone Micronized,PROG100
+colesevelam,COLE625
+sevela,SEVE800
+celecoxib,CELE200
+fenofibrate nanocrystallized,FENO145
+Lactulose Enema,LACT250R
+Albumin,ALBU25
+Vimpat,LACO50
+Ascorbic Acid,ASCO500I
+Benadryl Allergy,DIPH25L
+Phenytoin Infatab,PHENY100L
+ZyrTEC,CETI10
+"meningococcal vac A,C,Y,W-135",MENI5I
+MENINGO,MENI5I
+Menomune - A/C/Y/W-135,MENI5I
+riluzole,RILU50
+formoterol fumarate,FORM12H
+Tacro,TACR0.5
+tacro,TACR0.5
+Benicar HCT,OLME20
+Tropicamide 0.5% Ophth Soln,TROP5ES
+Nys,NYST5L
+ValGANCIclovir Oral Solution,VALG50L
+Droperidol,DROP5PB
+Nicoti,NIAC250SR
+Mupirocin Calcium,BACT2/15C
+methadone,METH10L
+Valganc,VALG50L
+bimatoprost,BIMA.03E
+Emt,EMTR10L
+Phyto,PHYT10I
+Aranesp (polysorbate),DARB60SY
+Carbamazep,CARB200XR
+epi,EPIPEN0.3I
+Dexamethasone,DEXA0.5L
+Rivaroxaban,RIVA10
+xalatan,LATA5OS
+LanTUS,GLAR100I
+Dextran 40 10% in NS,DEXT500I
+brinzolamide,BRIN1E
+BENDAmustine,BEND100I
+Liposomal Cytarabine (Depocyt),CYTA50I
+Prograf,TACR1BN
+Prograf,TACR0.5BN
+Plan B,LEVO.75
+fosfomycin tromethamine,FOSF3
+Insulin,NOVO100P
+Erythro,EMYC200L
+Methotrexate Sodium P.F.,MTX200I
+Asparaginase (Erwinia chrysan),ASPAE10000I
+Asparaginase,ASPARSYR
+neutra,NEUT
+bupropion,BUPR150
+Dextrose 5%,D5W150
+Ascorbic Acid,ASCO1000I
+*NF* Levalbuterol Neb,LEVA0.63L
+mucinex,GUAI600T
+MBL-HCV1 study med (*IND*),MBLHCV1IND
+Heparin Flush (1000 units/mL),HEPA5I
+Isosorbide din,ISOS20
+Diltia,TIAZ180
+Terbutaline Sulfate,TERB25
+Fat Emulsion 20%,INTR20/500I
+Wellbutrin,BUPR100SR
+Torsemide ,TORS20I
+Isosorbide Dinitrate,ISOS40ER
+Isosorbide Mononitr,IMDU30
+tuck,ANUS1O
+Aminophylline,AMPH250I
+HYDROmorphone (Dilaudid),HYDR3R
+Ciprofloxacin,CIPR50L
+Dexame,DEXA2
+Dexame,DEXA5
+Melphalan,MELP50I
+acet,ACET100L
+nifedipine,ADAL90
+Gentamicin 0.3% Ophth. Soln,GENT3ES
+Polyvinyl Alcohol,ARTTS
+Nifed,ADAL90
+Ketamin,KETA5I
+Zithromax Z-Pak,ZITHR250
+Nyst,NYST5L
+Estraderm,ESTR5P
+Efavirenz Oral Soln,EFAV20L
+Rituximab Desensitization,RITU500DESEN
+fluconazole,FLUC100
+Estradiol,ESTR5P
+*NF* Estraderm,ESTR5P
+Estradiol,ESTR1P
+*NF* Estradiol Transdermal Patch,ESTR0.05T
+RisPERDal,RISP05
+Critic-Aid Clear,CRIT6T
+Tranexamic Acid,TRAN100I
+Imatinib Oral Suspension,IMAT200L
+Aminocaproi,AMIC250L
+Uloric,FEBU40
+Imatinib Mesylate,IMAT400L
+Imatinib,IMAT200L
+Parcopa,PARC25/100
+Oxaliplatin Desensitization,OXALDESEN
+Flunisolide Inhaler,FLUN1H
+metoCLOPramide,METO10I
+Mephobarbital,MEPH50
+FoLIC,FOLI1
+Hydroxyurea Suspension,HYDR1000L
+lamiVUDine,LAMI10L
+Verapamil,VERA240SR
+Syringe (0.9% Sodium Chloride),NS20SYR
+Naloxone,NALO4ILF
+Albumin 5%,ALBU5500NF
+Hydroxyurea Suspension,HYDR500L
+prednisol,PREDN5L
+HYDROmorphone Infusion ? Comfort Care Guidelines,HYDR20/100NS
+ritonavir,RITO100T
+Syringe (Sterile Water),SW5SYR
+Aluminum,MAAL30L
+Ondanse,ONDA8ODT
+Opium Tincture,DTOBULK
+mupirocin,BACT2/15C
+Tirofiban,TIRO12.5/250
+Tacroli,TACR0.5
+metipranolol,METI.3O
+octreotide acetate,OCTR20I
+Divalproex (DELayed Release),DIVA125SP
+Felbamate,FELB400
+EPINEPHrine Auto Injector,EPIPEN0.3I
+olan,OLAN5DTB
+Lidocaine Viscous,LIDOVISC
+Lorazepam 2mg syringa,SEPLORA2I
+Tacr,TACRSUSP
+Mycophenolate Mofetil Suspension,MYCO1500L
+Peramivir,PERA200I
+Saliva Substitution Combo No.5,CAPH15L
+Dexameth,DEXA5
+Mycostatin,NYSTC
+Hepatitis B Immu Glob (HepaGam B),HEGB1I
+"Lidocaine 2%/Epi 1:100,000",LIEP220I
+MENINGOcoccal Poly Vaccine (Menomune),MENI5I
+sodium citrate,SODCIT3SYR
+MetFORMIN XR (Glucophage XR),METF750XR
+Phenytoin Sodium (IV),DILA100
+Maalox,MAAL30L
+Maalox,MAALLIDO120L
+Octreotide ,OCTR50I
+Lidocaine 4% MPF,LIDO45I
+Sulfame,BACTSSSM
+Sulfameth/Trimethopr,BACT20L
+rasagiline,RASA0.5
+Albuterol ,PROAIR8.5H
+Dexamethaso,DEXA2
+multivitamin,MVI
+Divalproex,DIVA500
+Midazolam,MIDA5050
+Zetia,EZET10
+Lorazepam 2 mg syringe,SEPLORA2I
+Memantine,MEMA10
+carbidopa,CARB25
+Quetiapine extended-release,QUET50XR
+Mepivacaine 1%,MEPI1I
+alora,ESTR5P
+Lidocaine,LIDO220I
+EMLA,EMLA2.5
+Dexameth,DEXA4I
+Dexam,DEXA4I
+De,DEXA4I
+Dexamet,DEXA4I
+Aminocaproic,AMIN5
+Isosorbide mono,IMDU60
+Amiodarone Oral Suspension,AMIO40L
+betamethasone,BETAVAL.1/45C
+Sulfamylon,MAFE5
+Hydroxychloroquine,HYDC200
+5% Dextrose,D5W500G
+Nicotine Polacrilex,NICO4L
+Loraze,LORA2I
+Loraze,LORA5
+Amoxicillin-Clavulanate Desensitization,AUGM1.25L
+Amoxicillin-Clavulanate Desensitization,AUGM0.125L
+Amoxicillin-Clavulanate Desensitization,AUGM0.0125L
+Amoxicillin-Clavulanate Desensitization,AUGM250L
+Amoxicillin-Clavulanate Desensitization,AUGM100L
+Amoxicillin-Clavulanate Desensitization,AUGM50L
+Amoxicill,AUGM0.0125L
+Amoxicillin-Clavulanate Desensitization,AUGM200L
+Amoxicillin-Clavulanate Desensitization,AUGM250
+Levothyroxine,LEVO125
+Dexameth,DEXA10I
+Fluconazole Desensitization,FLUCDESEN
+Concerta,METH36
+Nicot,NIAC500SR
+Caspofungin Desensitization,CASP70DESEN
+OLANZapine,OLAN10ODT
+Hydromorphone (Rectal),HYDR3R
+Clarithromycin,CLAR500SYR
+Amoxicillin,AMOX1000L
+Nicot,NIAC100
+senna,SENN5L
+Insulin Pump (Self Administering Medication),NOVO100P
+Levoleucovorin,LEVO50I
+Riboflavin (Vitamin B-2),RIBO50
+levothyroxine,LEVO100
+PACLItaxel (TaxOL),PACL300NO
+5% Dextrose (Non DEPH),NDEPHBAG100
+Travoprost (Benzalkonium),TRAV004OS
+Mycophenolate ,MYCO500SM
+Albuterol Sulfate,PROAIR8.5H
+Levocarnitine,LEVO1000I
+Selenious Acid,SELE40I
+QUALAQUIN,QUIN324
+Morphine Sulfate (Concentrated Oral Soln),MOR10L
+Renacidin,RENA500IR
+*NF* Renacidin Soln,RENA500IR
+Pyridostigmine ,PYRI60L
+Coumadin,WARF5I
+ibuprofen,IBUP400
+Fenofibrate Micronized,FENO48
+Nia,NIAC500SR
+dex,DEXA2
+Lactaid,ARTI3.5O
+ValGANCIclov,VALG450SM
+Albumin 25% ,ALBU25
+lactul,LACT30L
+Lidocaine Jelly 2%,LIDO20L
+potass,MICROK10
+FemARA,LETR2.5
+*NF* Sorafenib,SORA200
+raloxifene,RALO60
+Afrin Sinus,OXYM15
+L-Carnitine,LCARN250
+L-Carnitine,LCARN330
+Dexamethasone,DEXA1ES
+Flucytosine,FLUC60L
+FLUC60L,FLUC60L
+sorafenib,SORA200
+Sodium Chloride,MURO5O
+insulin,INNHI
+Iloperidone,ILOPDOSEPACK
+Iloperidone,ILOP6
+Iloperidone,ILOP2
+BuPRO,BUPR150
+Sodium Chloride ,NACLFLUSH
+Fluorescein,FLUO500I
+edrophonium chloride,EDRO10I
+Morphine,MORPCONC
+Metoprolol ,METO50
+Albumin 25%,ALBU25
+Bevacizumab (Avastin),BEVA400I
+sotalol,SOTA80
+Mycophenolate Mofetil,MYCO1500L
+Morphine Sul,MOR10L
+"Lidocaine 1%/Epinephrine 1:100,000",LIDO/EPI30
+Fentanyl,FENT12P
+celecoxib,CELE100
+Morphine Sulfate,MORP15
+dexame,DEXA2
+Divalproex ,DIVA1750L
+Calcium,CALC100SI
+Nimodipine,SYRINGEPD
+travoprost,TRAV004OS
+Oxymorphone HCl,OXYM1I
+Crinone,PROG8G
+Lidocaine Jelly 2% (Urojet),TRIZTAB
+Coenzyme Q10 study drug,COENIND
+Travatan Z,LATA5OS
+Phenytoin Sodium (IV),PHEN250I
+Alternagel,ALUMI30L
+Dexame,DEXA10I
+Imatinib,IMAT400
+Imatinib,IMAT100
+cevimeline,CEVI30
+albuter,ALBU17H
+glimepiride,GLIM1
+PredniSONE,PRED0
+imdu,IMDU30
+Reopro,REOPI
+Olanza,OLAN5DTB
+Venlafa,VENF25
+Ond,ONDA8ODT
+MetRONIDAZOLE,METR500
+baclofen,BACL2000I
+risedronate,RISE35
+ValGANCIcl,VALG50L
+Azelastine,AZEL137N
+Sirolimus,SIRO3L
+Tacrolimus (Self Med),TACR5SM
+Multivitamins w/Minerals,MVITH
+Multivitamin,MVI
+1,BUPI25I
+dabigatran etexilate,DABI75
+Epi,EPIS10I
+carafate,CARA1
+OLANZapine,OLAN5DTB
+Dextran 40 10% in D5W,DEXT500D5W
+Sirolimus,SIRO6L
+Oselt,OSEL30
+Dextromethorphan-Guaifenesin ,DITU4L
+Metoprolol ,METO25
+Valproic Acid (as Sodium salt),VAL250L
+Tretinoin Suspension,TRET10C
+Tretinoin ,TRET10C
+Guai,GUAI10
+Vesicare,SOLI5
+Tretinoin Suspension,TRETL
+Tretinoin Suspension,TRET50L
+Lovenox,ENOX100I
+Neutra-Phos,PHOS250
+K-DUR,POTA20
+K-DUR,KCL20P
+Telavancin *NF*,TELA250I
+Apidra,GLUL100I
+triamterene-hydrochlorothiazid,DYAZ1
+Asacol,MESA400
+Sirolimus,SIRO7L
+Pravastatin,PRAV10L
+Quetiapine Oral Suspension,QUET25L
+baclofen,BACL10
+Calan SR,VERA240SR
+primiDONE,PRIM
+ERYTHROMYCIN,ERYT250
+Belladonna Alkaloids-Opium,B&OSUPP
+Heparin Flush ,HEPA10SYR
+PENTObarbital Sodium,NEBU1000I
+Phytonadione,PHYT3L
+MetFORMIN,METF850
+Dakins,DAKINHS480L
+morphine,MOR10L
+morphine,MORPCONC
+fenofibrate micronized,FENO145
+1,LIDO120I
+tacrolimus,TACR0.1O
+multi,MVI
+Epinephrine Auto Injector,EPIPEN0.3I
+balsa,BALS750
+Xylocaine,LIDO45I
+Ritonavir (Oral Solution),RITO100
+Nitroglycerin SR,NTG65
+Aripiprazole,ARIP9.75I
+wellb,BUPR150
+clonazePAM,CLON5
+metyrapone,METYR250
+cortosyn,CORTIND
+Exjade,DEFE500
+*NF* Abatacept,ABAT250I
+Phos,PHOS250
+phosp,PHOS250
+CycloSPORINE ,NEOR100
+CycloSPORINE ,NEOR25
+Iloprost,ILOP10INH
+Phospha 250 Neutral,PHOS250
+Syringe (LR),LR5SYR
+BuPROP,BUPR100SR
+Isosorbide Mononitr,IMDU60
+Isosorbide Mononitra,IMDU60
+Amoxicillin-Clavulanate Susp.,AUGM250L
+hydrochlorothiazide,HCTZ25
+Docusa,DOCU100
+albumin,ALBU5500
+Artificial ,ARTI3.5O
+ketorolac,KETO.5ES
+Clarithromycin,CLAR250SYR
+Lidocaine,LIDO2000I
+sevelamer HYDROCHLORIDE,RENV800
+pilocarpine HCl,PILO4G
+nys,NYST5L
+morphine,DURA100I
+Exemestane,EXEM25
+Citracal + D,CALCITVITD
+Flecainide,FLEC50
+Butalbital-Acetaminophen-Caff,FIOC
+Secretin,SECR16I
+Aminocap,AMIC250L
+metaxalone,META800
+Loraz,LORA1
+tobramycin,TOBRFES
+Potassium Chloride Oral Sol,KCL20P
+Insulin,INSU100SYR
+bicalutamide,BICA50
+Miconazole,MICO2C
+Combivent,COMB14.7H
+atomoxetine,ATOM40
+Levoxyl,LEVO112
+nyst,NYST5L
+Levothyroxine Sodium,LEV100
+Humira,ADAL40I
+Lasix,FURO40
+Zovirax,ACYC200
+DILT,TIAZ120
+Avandia,ROSI2
+Levothy,LEVO112
+Xanax,ALPR25
+Estradiol Transdermal Patch,ESTR5P
+VICOdin,VICODIN
+Dextrose 5%,D5W500
+ropinirole,ROPI1
+dabigatran etexilate,DABI150
+colestipol,COLE1
+Butalbital-Acetaminophen-Caff,FIOR
+Clonidine Patch,CLON2P
+Allopurinol,ALLO20S
+Sanctura XR,TROS20
+Sotalol AF,SOTA80
+Defibrotide (*IND*),DEFI80IND
+Botulinum Toxin Type A,BOTOX
+Ergotamine-Caffeine,ERGT1R
+Heparin Flush (10 Units/mL),HEPA10SYR
+nifed,ADAL30
+maa,MABELI120
+Acetaminop,ACET650R
+Acetaminop,ACET325
+isos,IMDU30
+isos,IMDU60
+Olopatadine,OLOP.1ES
+Acetylcystei,ACET20/4I
+Aztreonam  Desensitization ,AZTR1000ID
+Lorazepam,SEPLORA2I
+Aspirin Desensitization,ASPIDESEN
+Aspirin Desens,ASPIDESEN
+Carbamazepine ,CARB100T
+zydis,OLAN5DTB
+Soriatane CK,ACI25
+Olanzapi,OLAN10ODT
+Pregabalin Oral Solution,PREG5L
+Epoprostenol,EPOP5I
+Methylprednisolone ACETATE,MPRED80I
+Vitamin B-1,THIA100
+leflunomide,LEFL10
+Epinephrine Base,EPIS10I
+methaDONE,METH10L
+CombiPatch,COMBPTCH
+Cyclophosphamide,CYCL250L
+etanercept,ENBR25I
+Dexamethason,DEXA15
+Propoxyphene,DARV65
+aceta,ACET100L
+Epi,EPI1I
+LaMICtal,LAMO100XR
+lamoTRIgine,LAMO100XR
+Multiple Vitamins Liq.,MVI
+norethindrone (contraceptive),NORE.35
+2,H1B1ED
+demeclocycline,DEME300
+Cortroyson,CORTIND
+sitaGLIPtin,SITA100
+hydrocor,HC100I
+leflunomide,LEFL20
+fluconazole,FLUC200SYR
+Mesalamine ,MESA4R
+Isosorbide M,IMDU30
+Cyclophosphamide,CYCLOP10L
+Phyton,PHYT10I
+HydrOXYzine,HYDR10L
+Oseltam,OSEL30
+Westcort,HYDR2/15C
+ce,CETI10
+Azathioprine,AZA100I
+Multivita,MULT5L
+Influenza Virus,INFV
+Influenza Virus,INFL0.5LF
+Fenofibric Acid,FENO145
+HYDROmorphone ,HYD12.5PCA
+*NF* Dasatinib,DASA100
+artif,ARTI3.5O
+Neurontin,GABA300
+Amerge,NARA2.5
+Dexamet,DEXA15
+Granisetron HCl,GRAN1I
+Granisetron HCl,KYTR1
+Emtricitabine Oral Solution,EMTR200
+Cyclophosphamide,CYCL1IV
+Vancomycin ,VANC250PR
+Menomune,MENI5I
+Calcium Carbonate Suspension,CAL1250
+Epin,EPIPEN0.3I
+Prandin,REPA2
+clobazam,CLOB5
+Amphetamine-Dextroamphetamine,ADDE5
+*NF* Epirubicin,EPIR50I
+Carbamazepine,CARB200XR
+Carbidopa-Levodopa,PARC25/100
+Exelon,RIVA2L
+Losartan,COZA25
+HumuLIN 70/30,IN73HI
+HumuLIN R,INRHI
+Heparin Flush (5000 Units/mL),HEP10I
+Amphetamine Salt Combo,ADDE5
+sevelame,SEVE400
+Tenecteplase Study Med (*IND*),TENEIND
+Magnesium Sulfate Replacement (Critical Care and Oncology),MAGS1I
+pramoxine,PRAM1L
+Dex,DEXA10I
+Clofarabine or Placebo (*IND*),CLOFPLACIND
+felbamate,FELB400
+Risperidone (Disintegrating Tablet),RISP1L
+Aminocaproic ,AMIN5L
+Anamorelin HCl,ANAMSTUDY
+tol,TOLT2
+Glucagon Emergency,GLUC1I
+atorvastatin,ATOR80
+Lorazepam 2mg Syringe,SEPLORA2I
+atorvastatin,ATOR40
+Pyrimethamine Desensitization,PYRI1/100L
+Pyrimethamine Desensitization,PYRI50/25L
+Pyrimethamine Desensitization,DARA25
+Pyrimethamine Desensitization,PYRI10/100L
+Dexamethas,DEXA4
+Dexamethaso,DEXA5
+nabumetone,NABU500
+Aspirin 81 mg or placebo ,ASPI81INDP
+Aspirin 325mg or placebo,ASPI325INDP
+mucine,GUAI600T
+sodium chloride,ICPKIT
+Balsa,BALS750
+Aspirin 81 mg /Placebo,ASPI81INDP
+asp,ASA300R
+Syringe (Intrathecal),SYRIT10
+leucovorin calcium,LEUC5
+pyrimethamine,DARA25
+HumaLOG Insulin,HUMU100I
+dextr,DEX50SY
+Dexametha,DEXA4
+eucerin,EUCE120C
+Kytril,KYTR1
+insulin pump,INSUPUMP
+insulin,INSUPUMP
+Cotrosyn,CORTIND
+Prevacid,LANS30ST
+glycopyrrolate,GLYC1
+Phenytoi,DILA100
+Rabies Vaccine,RABVAC
+Rabies Immune Globulin,RABI2I
+Rabies Immune Globulin,RABI10I
+Epi,EPIPEN0.3I
+Ibup,IBUP600
+Insulin Lispro Desensitization Protocol,HUMU100I
+MENINGOcoccal Conj Vaccine (Menomune),MENI5I
+Privigen,PRIV5I
+Betamethasone Valerate 0.1% Ointment,BETAVAL.1/45O
+Propecia,FINA1
+Silibinin (*IND*),MILKTH350I
+Epinephrine Topical Soln,EPI1N
+Cimetidine HCl,CIME150I
+Sodium Citrate,BICI30L
+Norepinephrine,NORE1600SYR
+Fexofe,FEXO60
+Fulvestrant,FULV250I
+Alemtuzumab,ALEM30SYR
+Epinephrin,EPIPEN0.3I
+Dexamethas,DEXA5
+Dexamethas,DEXA15
+Dexametha,DEXA2
+HumuLIN N,INNHI
+Potassium Citrate,UROC10
+Phos,NEUT
+Tacroli,TACRSUSP
+Tacroli,TACR1
+Tacro,TACR1
+prednis,PREDN5L
+Cortef,HC5
+Oseltamivir,OSEL6L
+Meperi,MEPE50I
+Predni,PREDN5L
+Cortef,HC20
+Nystatin oral ,NYST5L
+Emtricitabine-Tenofovir (Truvada),EMTR10L
+Fentanyl,FENT2I
+Estradiol,ESTR0.05T
+reva,SILD20
+rev,SILD20
+AMOXicillin Oral Susp.,AMOX250
+sulfa,BACTDS
+Pyrid,PYRI180
+brimonidine,ALPH0.15O
+Divalproex,DIVA1750L
+miacal,CALC2N
+Epoetin Alfa,EPO20INESRD
+Cosyntropin ,CORTIND
+Sodium Chloride,NS10I
+fidaxomicin,FIDA200
+*NF* Deferasirox,DEFE500
+guaiFENesin AC,GGAC5L
+codeine-guaifenesin,GGAC5L
+adder,ADDE5XR
+PrevACID 24Hr,LANS15
+Maraviroc,MARA150
+BuPROP,BUPR150
+degarelix,DEGA120I
+Fluorouracil,FLUO2500IVP
+Cefuroxime Axetil,CEFU250
+Pradaxa,DABI150
+Sodium Chloride ,SODI3N
+Venlafaxi,VENL375XR
+phenylephrine HCl,PHEN10I
+anakinra,ANAK100I
+cortroysn,CORTIND
+Cortroysn ,CORTIND
+Insulin,NOVO70/30
+anakINRA,ANAK100I
+guanFACINE,GUAN1
+Valproic acid (Depakene brand),VAL250L
+Bortezomib,BORT3.5SC
+Gaviscon,GAVITAB
+Valproic,VAL250L
+Brilinta,TICA90
+LaMICtal XR,LAMO100XR
+Nicoti,NIAC500SR
+Depakote,DIVA500
+Depakote,DIVA250
+PARoxetine HCl,PARO10L
+Atomoxetine,ATOM40
+timolo,TIMO25ES
+FLUoxetine,PROZ20
+cisatracurium,CISA10I
+pravastatin,PRAV20
+*NF* Pegaspargase,PEGA75I
+PARoxetine HCl,PARO20
+*NF* Sunitinib,SUNI25
+leva,LEVA0.63L
+Rizatriptan,RIZA10
+Triamcinolone Acetonide Inj,KENA40I
+Nefazodon,NEFA150
+panc,PANC5000
+dorzolamide-timolol,COSO10O
+BuPROPio,BUPR150
+Nexium 40mg capsules,ESOM20
+Raltegravir 400mg tablet,RALT400IND
+Darunavir 600mg tablet,DARU600IND
+Etravirine 100mg tablet,ETRA100IND
+Hydroxypropyl Methylcellulose,NATTTS
+Mesalami,PENT250
+liothyronine,LIOT10I
+Maraviroc,MARA300
+Lidocaine,LIDEPF1.530I
+Misoprostol,MISO25
+Guaifene,GUAI600T
+sodium ch,ICPKIT
+Lidocaine Topical,LIDO4S
+Ritonavir (Oral Solution),RITO100T
+bisopro,BISO5
+Isordil Titradose,ISOS20
+Levonorgestrel,LEVO1.5
+bisopr,BISO5
+bisop,BISO5
+Haloperidol Lactate,HALO2L
+fluocinolone acetonide oil,FLUO0.01
+olopatadine,OLOP.1ES
+bisoprolol,BISO5
+anu,ANHC25R
+Ola,OLAN5DTB
+Pacerone,AMID200
+Tacrolimus ,TACR1SM
+Tacrolimus ,TACRSUSP
+Acetaminophen ,ACET100L
+naratriptan,NARA2.5
+ValGANCIclovir Suspension,VALG50L
+Sulfameth/Trimethoprim SS,BACTDS
+Risperidone (Disintegrating Tablet),RISP2
+Risperidone (Disintegrating Tablet),RISP1
+*NF* Butorphanol Tart. Nasal,BUTO1N
+Vera,VERA240SR
+Paroxetine Mesylate,PARO10
+Tretinoin (ATRA-All Transretinoic Acid),TRET40L
+Formoterol Fumarate,FORM12H
+Ipratropium,IPRA2H
+Isosorbide,ISOS10
