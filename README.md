@@ -16,18 +16,15 @@ This study focuses on three primary tasks:
 
 The following Large Language Models (LLMs) were benchmarked:
 
-- **DeepSeek-V3:** An open-source, locally deployable model.
-- **Llama3.3-70B:** Another open-source, locally deployable model.
-- **GPT-4o:** A proprietary, API-based model, used as a baseline.
-
-## Key Findings & Contributions
-
-- **Performance:** DeepSeek-V3 achieved 62.9% SQL execution accuracy in the NL2SQL task, compared to GPT-4o's 68.8%.
-- **Cost-Effectiveness:** DeepSeek-V3 demonstrated a 65% reduction in deployment costs compared to API-based models like GPT-4o.
-- **Error Analysis:** The study identified schema mismatches and lexical inconsistencies as common reasons for NL2SQL failures.
-- **Local AI for Healthcare:** The findings suggest that cost-efficient, locally deployable models like DeepSeek-V3 can be viable for responsible AI integration in healthcare, particularly in contexts like the Croatian healthcare system, which faces workforce shortages and demographic challenges.
-- **Data Sovereignty:** Local models help maintain data sovereignty and clinical fidelity, which are crucial in healthcare.
-- **Limitations:** The study acknowledges that the reliance on synthetic data for RAG-QA limits generalizability to real-world patient data.
+- **DeepSeek-V3**
+- **DeepSeek-V3.1** 
+- **Llama3.3-70B**
+- **BioMistral-7B**
+- **Mixtral-8x22b-instruct**
+- **QWEN2.5-32B-instruct**
+- **GPT-4o**
+- **GPT-5**
+- **GPT-OSS-20B**
 
 ## Setup and Installation
 
