@@ -15,15 +15,14 @@ from logging_setup import get_logger
 logger = get_logger(__name__)
 
 
-class CorrectedSQLErrorClassifier:
-    """Corrected SQL error classifier using proper data sources"""
-
+class SQLErrorClassifier:
     def __init__(self):
+        # u grubo
         self.error_categories = {
             "SCHEMA_MISMATCH": "Schema-related errors (table/column names, syntax)",
             "INCORRECT_AGGREGATION": "Wrong aggregation functions or usage",
             "JOIN_ERRORS": "Wrong number or type of joins",
-            "JOIN_CONDITION_MISINTERPRETATION": "Wrong join keys or conditions",
+            "JOIN_MISINTERPRETATION": "Wrong join keys or conditions",
             "STRING_MISMATCH": "String literal or case sensitivity issues",
         }
 
@@ -43,7 +42,6 @@ class CorrectedSQLErrorClassifier:
     ) -> Dict:
         """Parse log file to extract SQL queries for failed cases only"""
 
-        # Create a lookup set for failed cases
         failed_lookups = set()
         for _, row in failed_queries_df.iterrows():
             failed_lookups.add((row["observation_id"], row["model"]))
@@ -55,8 +53,7 @@ class CorrectedSQLErrorClassifier:
         with open(log_file, "r", encoding="utf-8", errors="ignore") as f:
             content = f.read()
 
-        # Split by case separators
-        case_blocks = content.split("******************************")
+        case_blocks = content.split("*" * 30)
 
         for block in case_blocks:
             if not block.strip():
@@ -83,7 +80,6 @@ class CorrectedSQLErrorClassifier:
                     model_name = line.split("[")[1].split("]")[0]
                     predicted_sql = line.split("]:")[1].strip()
 
-                    # Only store if this is a failed case
                     if (case_id, model_name) in failed_lookups:
                         models_data[model_name] = {
                             "predicted_sql": predicted_sql,
@@ -93,7 +89,7 @@ class CorrectedSQLErrorClassifier:
 
                 i += 1
 
-            # Only store cases that have failed queries
+            # Only false queries
             if case_id and models_data:
                 cases[case_id] = {
                     "question": question,
@@ -117,18 +113,16 @@ class CorrectedSQLErrorClassifier:
             explanations.append("Empty or missing SQL query")
             return error_categories, explanations
 
-        # Convert to uppercase for comparison
         pred_sql_upper = predicted_sql.upper()
         true_sql_upper = true_sql.upper()
 
-        # 1. Schema mismatch: Check table usage
+        #  Schema mismatch: Check table usage
         pred_tables = set(re.findall(r'\bFROM\s+(["\w]+)', pred_sql_upper))
         pred_tables.update(re.findall(r'\bJOIN\s+(["\w]+)', pred_sql_upper))
 
         true_tables = set(re.findall(r'\bFROM\s+(["\w]+)', true_sql_upper))
         true_tables.update(re.findall(r'\bJOIN\s+(["\w]+)', true_sql_upper))
 
-        # Clean table names (remove quotes)
         pred_tables = {t.replace('"', "") for t in pred_tables}
         true_tables = {t.replace('"', "") for t in true_tables}
 
@@ -138,7 +132,7 @@ class CorrectedSQLErrorClassifier:
                 f"Table mismatch: predicted {pred_tables}, expected {true_tables}"
             )
 
-        # 2. Join errors: Check join count
+        # Join errors: Check join count
         pred_join_count = len(re.findall(r"\bJOIN\b", pred_sql_upper))
         true_join_count = len(re.findall(r"\bJOIN\b", true_sql_upper))
 
@@ -148,7 +142,7 @@ class CorrectedSQLErrorClassifier:
                 f"Join count mismatch: predicted {pred_join_count}, expected {true_join_count}"
             )
 
-        # 3. Join condition errors: Check join keys
+        # Join condition errors: Check join keys
         if pred_join_count > 0 and true_join_count > 0:
             pred_join_conds = re.findall(
                 r"ON\s+([^(\s]+\s*=\s*[^(\s]+)", pred_sql_upper
@@ -158,7 +152,7 @@ class CorrectedSQLErrorClassifier:
             )
 
             if pred_join_conds != true_join_conds:
-                error_categories.append("JOIN_CONDITION_MISINTERPRETATION")
+                error_categories.append("JOIN_MISINTERPRETATION")
                 explanations.append(
                     f"Join condition mismatch: predicted {pred_join_conds}, expected {true_join_conds}"
                 )
@@ -172,7 +166,7 @@ class CorrectedSQLErrorClassifier:
                 elif "HADM_ID" in pred_join_str and "SUBJECT_ID" in true_join_str:
                     explanations.append("Used HADM_ID join instead of SUBJECT_ID")
 
-        # 4. Aggregation errors
+        # Aggregation errors
         pred_aggs = set(
             re.findall(r"\b(COUNT|SUM|AVG|MIN|MAX)\s*\([^)]*\)", pred_sql_upper)
         )
@@ -186,7 +180,6 @@ class CorrectedSQLErrorClassifier:
                 f"Aggregation mismatch: predicted {pred_aggs}, expected {true_aggs}"
             )
 
-            # Check for COUNT DISTINCT issues
             if (
                 "COUNT(DISTINCT" in true_sql_upper
                 and "COUNT(DISTINCT" not in pred_sql_upper
@@ -198,7 +191,6 @@ class CorrectedSQLErrorClassifier:
             ):
                 explanations.append("Unnecessary COUNT DISTINCT")
 
-        # 5. String literal differences
         pred_strings = set(re.findall(r"'([^']*)'", predicted_sql))
         true_strings = set(re.findall(r"'([^']*)'", true_sql))
 
@@ -208,20 +200,17 @@ class CorrectedSQLErrorClassifier:
                 f"String literal mismatch: predicted {pred_strings}, expected {true_strings}"
             )
 
-            # Check for case sensitivity issues
             pred_strings_lower = {s.lower() for s in pred_strings}
             true_strings_lower = {s.lower() for s in true_strings}
 
             if pred_strings_lower == true_strings_lower:
                 explanations.append("Case sensitivity issue in string literals")
 
-        # 6. CAST operation issues
         if "CAST(" in true_sql_upper and "CAST(" not in pred_sql_upper:
-            if "JOIN_CONDITION_MISINTERPRETATION" not in error_categories:
-                error_categories.append("JOIN_CONDITION_MISINTERPRETATION")
+            if "JOIN_MISINTERPRETATION" not in error_categories:
+                error_categories.append("JOIN_MISINTERPRETATION")
             explanations.append("Missing CAST operation (likely for lab.HADM_ID)")
 
-        # If no specific errors detected, classify as general schema issue
         if not error_categories:
             error_categories.append("SCHEMA_MISMATCH")
             explanations.append("Query failed but no specific error pattern detected")
@@ -229,17 +218,12 @@ class CorrectedSQLErrorClassifier:
         return error_categories, explanations
 
     def generate_report(self, excel_file: str, log_file: str) -> Dict:
-        """Generate comprehensive error classification report"""
-
-        # Step 1: Load failed queries from Excel
         failed_queries_df = self.load_failed_queries_from_excel(excel_file)
 
-        # Step 2: Parse log file for SQL queries of failed cases
         failed_cases = self.parse_log_file_for_failed_queries(
             log_file, failed_queries_df
         )
 
-        # Step 3: Classify errors
         results = {
             "total_queries": len(pd.read_excel(excel_file)),
             "failed_queries": len(failed_queries_df),
@@ -363,10 +347,8 @@ class CorrectedSQLErrorClassifier:
 def main():
     """Main function"""
 
-    excel_file = (
-        "output/questions_v2_100/nl2sql_9models_direct/results_questions_v2_100.xlsx"
-    )
-    log_file = "output/questions_v2_100/nl2sql_9models_direct/output_batch_size=5&n=1000&exclude=none&take=2.log"
+    excel_file = "output/results_questions_v2_100.xlsx"
+    log_file = "output/questions_v2_100/nl2sql_9models_direct/output_batch_size=5&n=1000&exclude=none&take=1.log"
     output_file = "sql_error_classification_CORRECTED_report.csv"
 
     if not os.path.exists(excel_file):
@@ -377,7 +359,7 @@ def main():
         logger.error(f"Log file not found: {log_file}")
         return
 
-    classifier = CorrectedSQLErrorClassifier()
+    classifier = SQLErrorClassifier()
 
     logger.info("Generating CORRECTED SQL error classification report...")
     results = classifier.generate_report(excel_file, log_file)

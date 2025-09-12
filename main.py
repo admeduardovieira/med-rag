@@ -132,6 +132,7 @@ async def main(
     exclude_prompts={},
     continue_from=None,
     models_filter=None,
+    dataset="test",
 ):
 
     print = logger(f"output/output_{experiment_name}.log")
@@ -149,7 +150,7 @@ async def main(
     # 1000 test cases
     for batch_id, batch in tqdm(
         batch_iterator(
-            (sn(**x) for x in get_data("test", continue_from)),
+            (sn(**x) for x in get_data(dataset, continue_from)),
             batch_size=batch_size,
         ),
         total=batch_limit if batch_limit > 0 else 1000 // batch_size,
@@ -205,11 +206,22 @@ take = 2
 continue_from = None
 # continue_from = "879e430064f5011919b19ba70a193bc9"
 
-# models_filter = ["deepseek-r1"]
-models_filter = ["gpt-5", "gpt-oss-20b", "deepseek-v3.1"]
+dataset = "test"
+
+
+models_filter = [
+    "deepseek-v3.1",
+    "gpt-5",
+    "gpt-oss-20b",
+    "deepseek-v3",
+    "llama3.3-70b",
+    "gpt-4o",
+    "qwen2p5-vl-32b-instruct",
+    "mixtral-8x22b-instruct",
+]
 
 exclude_info = "-".join(exclude_prompts) if len(exclude_prompts) else "none"
-experiment_name = f"batch_size={batch_size}&n={batch_size * batch_limit}&exclude={exclude_info}&take={take}"
+experiment_name = f"batch_size={batch_size}&n={batch_size * batch_limit}&exclude={exclude_info}&take={take}&dataset={dataset}"
 
 asyncio.run(
     main(
@@ -219,5 +231,6 @@ asyncio.run(
         exclude_prompts,
         continue_from,
         models_filter,
+        dataset,
     )
 )

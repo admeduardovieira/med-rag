@@ -11,9 +11,7 @@ input_folder = "dataset/synthetic_patients_v2_100"
 index_folder = "qdrant_db"
 
 models = [
-    "llama3.3-70b",
-    "deepseek-v3",
-    "gpt-4o",
+    "bio-mistral-7b",
 ]
 
 top_k = 3
@@ -28,6 +26,16 @@ questions = [
     "What is the attending physician's name?",
     "What is the patient's age?",
     "What is included in the patient's treatment plan?",
+    "What is the patient's marital status?",
+    "What is the patient's occupation?",
+    "Who are the patient's emergency contacts and their contact information?",
+    "What is the patient's family medical history?",
+    "What are the patient's social habits including smoking, alcohol use, and exercise?",
+    "What are the patient's vital signs?",
+    "What is the patient's BMI and general physical appearance?",
+    "What does the physical examination reveal?",
+    "What is the patient's assessment or diagnosis?",
+    "What is the patient's follow-up plan?",
 ]
 
 schema = {

@@ -15,8 +15,8 @@ verbose = False
 experiment_variation = "questions_v2_100"
 
 input_schema = {
-    "patient_id": pl.Int8,
-    "question_id": pl.Int8,
+    "patient_id": pl.Int32,
+    "question_id": pl.Int32,
     "question": pl.Utf8,
     "label": pl.Utf8,
     "predict": pl.Utf8,
@@ -26,8 +26,8 @@ input_schema = {
 }
 
 output_schema = {
-    "patient_id": pl.Int8,
-    "question_id": pl.Int8,
+    "patient_id": pl.Int32,
+    "question_id": pl.Int32,
     "model": pl.Utf8,
     "score_bleu": pl.Float32,
     "score_rouge_l": pl.Float32,
@@ -39,10 +39,42 @@ input_csv_file = os.path.join(output_path, "output.csv")
 csv_file = os.path.join(output_path, "analysis.csv")
 
 try:
-    input_df = pl.read_csv(input_csv_file, schema=input_schema)
+    input_df = pl.read_csv(
+        input_csv_file,
+        schema=input_schema,
+        infer_schema_length=100000,
+        ignore_errors=True,
+    )
     df = pl.read_csv(csv_file, schema=output_schema)
 except FileNotFoundError:
     df = pl.DataFrame([], schema=output_schema)
+except Exception as e:
+    print(f"Error reading CSV: {e}")
+    print("Trying to read without strict schema...")
+    try:
+        input_df = pl.read_csv(
+            input_csv_file, infer_schema_length=100000, ignore_errors=True
+        )
+        print("CSV columns:", input_df.columns)
+        print("Data types:")
+        print(input_df.dtypes)
+        print("First few rows:")
+        print(input_df.head())
+
+        # Convert string columns to appropriate types
+        input_df = input_df.with_columns(
+            [
+                pl.col("patient_id").cast(pl.Int32),
+                pl.col("question_id").cast(pl.Int32),
+                pl.col("tokens_in").cast(pl.Int32),
+                pl.col("tokens_out").cast(pl.Int32),
+            ]
+        )
+        print("After conversion:")
+        print(input_df.head())
+    except Exception as e2:
+        print(f"Still failed: {e2}")
+        raise
 
 existing_pairs = set(
     zip(df["patient_id"].to_list(), df["question_id"].to_list(), df["model"].to_list())

@@ -55,15 +55,18 @@ print(f"Including LLMs: {args.llms}")
 included_llms = args.llms.split()
 
 if args.task != "main":
-    # Special-case: for questions_v2_100, only read the single requested log file
+    # Special-case: for questions_v2_100, read all matching log files from nl2sql_9models_direct
     if args.task == "questions_v2_100":
-        specific_log = os.path.join(
-            "output",
-            "questions_v2_100",
-            "nl2sql_9models_direct",
-            "output_batch_size=5&n=1000&exclude=none&take=2.log",
-        )
-        log_files = [specific_log] if os.path.isfile(specific_log) else []
+        task_dir = os.path.join("output", "questions_v2_100", "nl2sql_9models_direct")
+        if os.path.exists(task_dir):
+            log_files = [
+                os.path.join(task_dir, f)
+                for f in os.listdir(task_dir)
+                if f.endswith(".log")
+                and "output_batch_size=5&n=1000&exclude=none&take=" in f
+            ]
+        else:
+            log_files = []
     else:
         log_files = [
             os.path.join("output", args.task, f)

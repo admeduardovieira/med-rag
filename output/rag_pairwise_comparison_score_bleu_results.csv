@@ -1,0 +1,10 @@
+,deepseek-v3,deepseek-v3.1,llama3.3-70b,qwen2p5-vl-32b-instruct,mixtral-8x22b-instruct,bio-mistral-7b,gpt-4o,gpt-5,gpt-oss-20b
+deepseek-v3,0,-1,1,1,1,1,0,1,1
+deepseek-v3.1,1,0,1,1,1,1,1,1,1
+llama3.3-70b,-1,-1,0,1,1,1,-1,1,1
+qwen2p5-vl-32b-instruct,-1,-1,-1,0,-1,0,-1,-1,1
+mixtral-8x22b-instruct,-1,-1,-1,1,0,1,-1,0,1
+bio-mistral-7b,-1,-1,-1,0,-1,0,-1,-1,1
+gpt-4o,0,-1,1,1,1,1,0,1,1
+gpt-5,-1,-1,-1,1,0,1,-1,0,1
+gpt-oss-20b,-1,-1,-1,-1,-1,-1,-1,-1,0

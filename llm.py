@@ -144,7 +144,7 @@ models = {
         ),
     ),
     "bio-mistral-7b": sn(
-        model="fireworks_ai/accounts/lukablaskovic2000-738cce/deployedModels/bio-mistral-7b-fonfo94u",
+        model="fireworks_ai/accounts/lukablaskovic2000-738cce/deployedModels/bio-mistral-7b-yvistc6t",
         meta=sn(
             price_in=0.5,
             price_out=0.5,
