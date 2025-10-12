@@ -142,11 +142,14 @@ def create_confusion_matrix_heatmap(results_matrix, filename):
     bounds = [-1.5, -0.5, 0.5, 1.5]  # Boundaries for discrete values
     norm = mcolors.BoundaryNorm(bounds, cmap.N)
 
+    # Create custom annotations with proper minus sign (U+2212)
+    annot_labels = results_matrix.astype(str).replace("-1", "−1")
+
     # Create the heatmap
     sns.heatmap(
         results_matrix,
-        annot=True,
-        fmt="d",
+        annot=annot_labels,
+        fmt="",
         cmap=cmap,
         norm=norm,
         square=True,

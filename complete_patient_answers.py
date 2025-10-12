@@ -16,7 +16,7 @@ from logging_setup import setup_logging, get_logger
 setup_logging()
 logger = get_logger(__name__)
 
-# Questions from experiment.py (all 20 questions)
+# Questions from experiment.py
 ALL_QUESTIONS = [
     "What is the patient's chief complaint?",
     "Who referred the patient for admission?",

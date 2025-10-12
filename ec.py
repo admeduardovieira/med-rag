@@ -1,5 +1,5 @@
 """
-Corrected SQL Error Classification Tool
+SQL Error Classification Tool
 
 This tool uses the Excel results file to identify failed queries,
 then maps them back to the log file to get actual SQL queries for classification.

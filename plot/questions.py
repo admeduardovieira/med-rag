@@ -115,7 +115,6 @@ for idx, (metric_name, metric_key, filename) in enumerate(
     metric_means = [float(means.loc[metric_key, model].iloc[0]) for model in models]
     metric_stds = [float(std_devs.loc[metric_key, model].iloc[0]) for model in models]
 
-    # Create horizontal bars (bars go left-to-right, models stacked vertically)
     y_positions = range(len(models))
     bars = ax.barh(
         y_positions,
@@ -131,7 +130,6 @@ for idx, (metric_name, metric_key, filename) in enumerate(
     for j, bar in enumerate(bars):
         bar.set_hatch(hatches[j % len(hatches)])
 
-    # Add error bars (horizontal bars need xerr instead of yerr)
     ax.errorbar(
         metric_means,
         y_positions,

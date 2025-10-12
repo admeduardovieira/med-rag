@@ -6,7 +6,6 @@ from scipy import stats
 from itertools import combinations
 import os
 
-# Define the same visual style as other plots
 MODEL_ORDER = [
     "deepseek-v3",
     "deepseek-v3.1",
@@ -38,7 +37,6 @@ METRIC_DISPLAY_NAMES = {
     "score_bert": "BERT Score",
 }
 
-# New title mapping for cleaner titles
 METRIC_TITLE_NAMES = {
     "score_bleu": "BLEU",
     "score_rouge_l": "ROUGE-L",
@@ -47,7 +45,6 @@ METRIC_TITLE_NAMES = {
 
 
 def load_rag_data():
-    """Load RAG evaluation data from the analysis CSV file"""
     try:
         df = pd.read_csv("output/questions_v2_100/analysis.csv")
         print(f"Loaded {len(df)} RAG evaluation records")
@@ -158,11 +155,14 @@ def create_confusion_matrix_heatmap(results_matrix, metric, ax=None):
     bounds = [-1.5, -0.5, 0.5, 1.5]  # Boundaries for discrete values
     norm = mcolors.BoundaryNorm(bounds, cmap.N)
 
+    # Create custom annotations with proper minus sign (U+2212)
+    annot_labels = results_matrix.astype(str).replace("-1", "−1")
+
     # Create the heatmap
     sns.heatmap(
         results_matrix,
-        annot=True,
-        fmt="d",
+        annot=annot_labels,
+        fmt="",
         cmap=cmap,
         norm=norm,
         square=True,
