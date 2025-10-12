@@ -1,8 +1,8 @@
-# Enhancing Healthcare Efficiency with Local AI: Leveraging DeepSeek for Medical Data Processing
+# Robust Clinical Querying with Local LLMs: Lexical Challenges in NL2SQL and Retrieval-Augmented QA on EHRs
 
 ## Abstract
 
-The digitization of healthcare records and the emergence of large language models (LLMs) offer new avenues for automating clinical and administrative workflows. However, real-world adoption remains constrained by concerns around data privacy, cost, and computational infrastructure. This study benchmarks the performance of open-source, locally deployable LLMs, DeepSeek-V3 and Llama3.3-70B, alongside a proprietary, API-based model, GPT-4o, across three tasks: (1) natural language to SQL query generation (NL2SQL), (2) question answering using retrieval-augmented generation (RAG-QA) over synthetic patient records, and (3) multi-label classification of erroneous SQL outputs into predefined error categories (SQL-EC). The NL2SQL task was evaluated using SQL execution accuracy on the MIMIC-III and MIMICSQL datasets; the question answering task employed BLEU, ROUGE-L, and BERTScore metrics; the classification task involved assigning one or more error classes to each faulty SQL query based on expert annotation. DeepSeek-V3 attained 62.9% SQL execution accuracy compared to GPT-4o's 68.8%, with a 65% reduction in deployment costs. Error analysis identified schema mismatches and lexical inconsistencies as prevalent failure modes. While reliance on synthetic data limits generalizability, findings indicate that cost-efficient, locally deployable models like DeepSeek-V3 can facilitate responsible AI integration within healthcare settings. In the Croatian healthcare system, marked by workforce shortages and demographic strain, such models hold potential to support digital transformation efforts while preserving data sovereignty and clinical fidelity.
+Electronic health records (EHRs) are typically stored in relational databases, making them difficult to query for nontechnical users, especially under privacy constraints. We evaluate two practical clinical NLP workflows, natural language to SQL (NL2SQL) for EHR querying and retrieval-augmented generation for clinical question answering (RAG-QA), with a focus on privacy-preserving deployment. We benchmark nine large language models, spanning open-weight options (DeepSeek V3/V3.1, Llama-3.3-70B, Qwen2.5-32B, Mixtral-8 × 22B, BioMistral-7B, and GPT-OSS-20B) and proprietary APIs (GPT-4o and GPT-5). The models were chosen to represent a diverse cross-section spanning sparse MoE, dense general-purpose, domain-adapted, and proprietary LLMs. On MIMICSQL (27,000 generations; nine models × three runs), the best NL2SQL execution accuracy (EX) is 66.1% (GPT-4o), followed by 64.6% (GPT-5). Among open-weight models, DeepSeek V3.1 reaches 59.8% EX, while DeepSeek V3 reaches 58.8%, with Llama-3.3-70B at 54.5% and BioMistral-7B achieving only 11.8%, underscoring a persistent gap relative to general-domain benchmarks. We introduce SQL-EC, a deterministic SQL error-classification framework with adjudication, revealing string mismatches as the dominant failure (86.3%), followed by query-join misinterpretations (49.7%), while incorrect aggregation-function usage accounts for only 6.7%. This highlights lexical/ontology grounding as the key bottleneck for NL2SQL in the biomedical domain. For RAG-QA, evaluated on 100 synthetic patient records across 20 questions (54,000 reference–generation pairs; three runs), BLEU and ROUGE-L fluctuate more strongly across models, whereas BERTScore remains high on most, with DeepSeek V3.1 and GPT-4o among the top performers; pairwise t-tests confirm that significant differences were observed among the LLMs. Cost–performance analysis based on measured token usage shows per-query costs ranging from USD 0.000285 (GPT-OSS-20B) to USD 0.005918 (GPT-4o); DeepSeek V3.1 offers the best open-weight cost–accuracy trade-off, and GPT-5 provides a balanced API alternative. Overall, the privacy-conscious RAG-QA attains strong semantic fidelity, whereas the clinical NL2SQL remains brittle under lexical variation. SQL-EC pinpoints actionable failure modes, motivating ontology-aware normalization and schema-linked prompting for robust clinical querying.
 
 ## Key Tasks
 
@@ -17,7 +17,7 @@ This study focuses on three primary tasks:
 The following Large Language Models (LLMs) were benchmarked:
 
 - **DeepSeek-V3**
-- **DeepSeek-V3.1** 
+- **DeepSeek-V3.1**
 - **Llama3.3-70B**
 - **BioMistral-7B**
 - **Mixtral-8x22b-instruct**
@@ -25,20 +25,6 @@ The following Large Language Models (LLMs) were benchmarked:
 - **GPT-4o**
 - **GPT-5**
 - **GPT-OSS-20B**
-
-## Setup and Installation
-
-1.  **Clone & Navigate:** `git clone https://github.com/fipu-lab/med-rag.git && cd ai_medicine_deepseek` (or your project root).
-2.  **Environment & Dependencies:** Create a Python virtual environment (e.g., `python3 -m venv venv && source venv/bin/activate`) and install packages: `pip install -r requirements.txt`.
-3.  **Environment Variables:** Create a `.env` file for API keys, database URLs, etc. (see example in previous versions or comments in scripts).
-4.  **Datasets & DBs:** Download datasets (potentially using `python download.py`). Set up databases (e.g., MIMIC-SQL) and Qdrant for RAG-QA (e.g., via Docker `docker run -p 6333:6333 qdrant/qdrant`) as needed. Ensure paths and credentials are correct.
-
-**Typical Workflow:**
-
-1.  Setup environment & dependencies.
-2.  Prepare data (`etl.py` or `make data_prepare`).
-3.  Run experiments (`main.py` or `make` targets for specific tasks).
-4.  Generate plots (`plot_*.py` scripts or `make plots`).
 
 ## Acknowledgements
 
