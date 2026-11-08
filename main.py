@@ -62,24 +62,30 @@ def get_data(source="test", continue_from=None, filter_case=None):
             yield line
 
 
-def query(sql, timeout=10):
-
-    conn = sqlite3.connect(db_path)
-    timer = threading.Timer(timeout, lambda: conn.interrupt())
-    cursor = conn.cursor()
+def query(sql, timeout=10, log_fn=None):
+    conn = None
+    timer = None
     try:
+        conn = sqlite3.connect(db_path)
+        timer = threading.Timer(timeout, lambda: conn.interrupt())
+        cursor = conn.cursor()
         timer.start()
         cursor.execute(sql)
         results = cursor.fetchall()
         return results
     except sqlite3.OperationalError as e:
-        log("Error: ", e)
+        if log_fn:
+            log_fn("Error: ", e)
         return None
     except Exception as e:
-        log("Error: ", e)
+        if log_fn:
+            log_fn("Error: ", e)
         return None
     finally:
-        timer.cancel()
+        if timer:
+            timer.cancel()
+        if conn:
+            conn.close()
 
 
 async def gather_tasks(tasks: dict):
@@ -177,12 +183,12 @@ async def main(
             log("QUESTION:", llm.normalize(batch_result.case.question_refine))
             log()
             log("TRUE:", llm.normalize(batch_result.case.sql))
-            truth = query(batch_result.case.sql)
+            truth = query(batch_result.case.sql, log_fn=log)
             log()
 
             for model, response in batch_result.output.items():
                 log(f"LLM [{model}]:", response.sql)
-                data = query(response.sql)
+                data = query(response.sql, log_fn=log)
                 log(f"MODEL:", response.meta.model)
                 usage = {
                     "in": response.meta.usage.prompt_tokens,
@@ -223,14 +229,15 @@ models_filter = [
 exclude_info = "-".join(exclude_prompts) if len(exclude_prompts) else "none"
 experiment_name = f"batch_size={batch_size}&n={batch_size * batch_limit}&exclude={exclude_info}&take={take}&dataset={dataset}"
 
-asyncio.run(
-    main(
-        experiment_name,
-        batch_size,
-        batch_limit,
-        exclude_prompts,
-        continue_from,
-        models_filter,
-        dataset,
+if __name__ == "__main__":
+    asyncio.run(
+        main(
+            experiment_name,
+            batch_size,
+            batch_limit,
+            exclude_prompts,
+            continue_from,
+            models_filter,
+            dataset,
+        )
     )
-)
