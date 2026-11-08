@@ -175,7 +175,14 @@ def parse_file(filename):
     return parsed_data
 
 
-prompts = parse_file("prompts/system.md")
+try:
+    prompts = parse_file("prompts/system.md")
+except FileNotFoundError:
+    logger.warning("prompts/system.md not found; using empty system prompts")
+    prompts = {}
+except Exception:
+    logger.warning("Failed to load prompts/system.md: %s", type(Exception).__name__)
+    prompts = {}
 
 
 def get_models(include_large=False, models_filter=None):
@@ -311,7 +318,7 @@ async def ai_query(
             response = await acompletion(**params)
             break
         except Exception as e:
-            logger.error("Model %s request failed: %s", model, str(e))
+            logger.error("Model %s request failed: %s", model, type(e).__name__)
             await asyncio.sleep((1.5 + retry_idx) ** 2 + random.uniform(0.5, 3))
 
     if response and len(response.choices):
