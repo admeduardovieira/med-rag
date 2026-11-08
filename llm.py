@@ -180,8 +180,8 @@ try:
 except FileNotFoundError:
     logger.warning("prompts/system.md not found; using empty system prompts")
     prompts = {}
-except Exception:
-    logger.warning("Failed to load prompts/system.md: %s", type(Exception).__name__)
+except Exception as e:
+    logger.warning("Failed to load prompts/system.md: %s", type(e).__name__)
     prompts = {}
 
 
